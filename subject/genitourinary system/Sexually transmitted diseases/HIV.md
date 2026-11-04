@@ -1,0 +1,194 @@
+* Cause
+  - Human immunodeficiency virus (HIV)
+  - Single-stranded RNA virus
+* Transmission
+  - Requires contact with body fluids from a person with detectable HIV viral load
+    - Blood
+    - Semen
+    - Anogenital fluids
+  - Virus enters HIV-negative person through
+    - Mucous membranes
+      - Rectum
+      - Vagina
+      - Tip of penis
+    - Open wounds
+    - Direct injection
+  - Vertical transmission
+    - During pregnancy
+    - During breastfeeding
+    - Risk when pregnant person has detectable viral load
+* Pathogenesis
+  - Untreated HIV infection
+    - Causes chronic immune deficiency
+    - May progress to acquired immunodeficiency syndrome (AIDS)
+    - Progression
+      - 2–20 years
+      - Average: 10 years after infection
+  - CD4+ T-cell decline
+    - Progressive immune deficiency
+    - Increased risk of opportunistic infections
+  - Antiretroviral therapy (ART)
+    - Combination ART
+    - Lifelong treatment
+    - Start as soon as possible after diagnosis
+    - Start regardless of CD4+ T-cell count
+  - Undetectable = Untransmittable (U=U)
+    - Consistent daily ART as prescribed
+    - Achieve and maintain undetectable viral load
+    - Cannot sexually transmit HIV to an HIV-negative partner
+    - Near-normal life expectancy
+* Clinical features
+  - Acute HIV infection
+    - Symptomatic in approximately 70% of patients
+    - Seroconversion illness
+      - Usually occurs approximately 2 weeks after exposure
+    - Symptoms
+      - Fever
+      - Rash
+      - Lymphadenopathy
+      - Pharyngitis
+      - Myalgia
+      - Diarrhoea
+  - Asymptomatic infection
+    - May persist for several years after infection
+  - Immune deficiency
+    - Symptoms related to declining CD4+ T-cell count
+    - Oral thrush
+    - Diarrhoea
+    - Weight loss
+    - Skin infections
+    - Herpes zoster
+* Complications
+  - AIDS
+    - Opportunistic infections
+      - Pneumocystis jirovecii pneumonia (PJP)
+      - Oesophageal candidiasis
+      - Cerebral toxoplasmosis
+    - Malignancies
+      - Kaposi sarcoma
+  - Non-infectious comorbidities
+    - Cardiovascular disease
+    - Chronic kidney disease
+    - Osteoporosis
+    - Non-AIDS malignancies
+* Diagnosis
+  - Use ASHM Decision Making Tool for HIV diagnosis
+  - Reactive HIV self-test
+    - Requires confirmatory testing
+  - Additional resource
+    - Could It Be HIV? – HIV Clinical Indicator Testing Tool 2021
+* Prevention
+  - Post-exposure prophylaxis (PEP)
+    - Offered within 72 hours of potential HIV exposure
+    - Refer to National HIV PEP Guidelines and Policy
+  - Pre-exposure prophylaxis (PrEP)
+    - For HIV-negative people at risk of HIV
+    - Highly effective biomedical prevention
+    - Refer to ASHM Decision Making in PrEP Tool
+* Management
+  - Antiretroviral therapy (ART)
+    - Start at diagnosis or as soon as possible afterwards
+    - Regardless of CD4+ T-cell count
+    - Combination ART
+    - Lifelong treatment
+    - Refer to Antiretroviral Guidelines for treatment options
+    - HIV s100 prescribers
+      - Refer to local list of HIV s100 prescribers
+  - Immediate management
+    - Explain U=U
+      - Consistent daily ART as prescribed
+      - Achieve and maintain undetectable viral load
+      - No sexual transmission to HIV-negative partner
+      - Near-normal life expectancy
+    - Discuss available support
+      - Peer navigation
+      - Information and support services
+    - Consider urgent referral to counsellor or psychologist
+    - Avoid overemphasis on technical treatment discussions initially
+    - Discuss disclosure to sexual contacts
+    - Provide support for contact tracing
+    - If potential exposure occurred within the last 72 hours
+      - Offer PEP to the exposed contact
+      - Example: condomless sex
+    - Consider comprehensive STI testing
+      - Syphilis
+      - Chlamydia
+      - Gonorrhoea
+    - If not tested at first presentation
+      - Complete STI testing
+      - Consider repeat testing after window period
+    - Provide patient factsheet
+    - Notify state or territory health department
+* Special treatment situations
+  - Patient unwell
+    - Consider urgent referral to hospital or specialist centre
+  - Complex presentations
+    - Manage in collaboration with an HIV specialist
+  - Hepatitis B or hepatitis C co-infection
+    - May require modification of ART choice
+    - Seek specialist advice
+  - Pregnancy
+    - ART should be commenced
+    - Seek specialist advice
+  - Allergy to treatment
+    - Check HLA-B*57:01 before using abacavir
+  - HIV primary illness
+    - Urgent commencement of ART
+  - CD4+ count <200 cells/μL
+    - High risk of opportunistic infections
+    - Requires urgent treatment
+    - May require chemoprophylaxis
+      - Cotrimoxazole
+      - Fluconazole
+    - Seek specialist advice
+* Contact tracing
+  - Notifiable condition
+  - Importance
+    - Prevent reinfection
+    - Reduce transmission
+  - Responsibility
+    - Diagnosing doctor must initiate contact tracing discussion
+    - Document the discussion
+  - Contacts to trace
+    - Start with recent sexual partners
+    - Start with needle-sharing partners
+    - Trace back to
+      - Onset of risk behaviour
+      - Last known negative HIV test result, if known
+  - Post-exposure prophylaxis (PEP)
+    - Offer within 72 hours of potential HIV exposure
+    - Refer to National HIV PEP Guidelines and Policy
+  - Pre-exposure prophylaxis (PrEP)
+    - Important prevention option for HIV-negative people
+    - Provides highly effective biomedical prevention
+    - Refer to National PrEP Guidelines
+  - Guidelines
+    - Australasian Contact Tracing Guidelines – HIV
+* Follow-up
+  - Initial follow-up
+    - Within a few days after diagnosis
+    - Assess psychosocial wellbeing
+    - Review baseline investigations
+    - Assess response to ART if commenced
+  - Long-term follow-up
+    - Regular reviews by a practitioner experienced in HIV care
+    - Possible care settings
+      - Specialist HIV clinic
+      - Sexual health service
+      - s100 GP prescriber
+    - Continue routine primary care with GP
+  - Stable on ART
+    - Follow-up every 3–6 months
+  - Monitoring
+    - Immune status
+    - Response to ART
+    - Psychosocial support
+* Auditable outcomes
+  - 100% of patients have contact tracing performed
+  - 100% of patients are offered treatment at diagnosis
+* Resources
+  - Post-Exposure Prophylaxis for HIV: Australian National Guidelines
+  - Decision Making in PrEP
+  - ASHM National PrEP Guidelines
+  - Could It Be HIV? – HIV Clinical Indicator Testing Tool 2021
+  - Antiretroviral Guidelines

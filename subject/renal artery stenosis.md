@@ -1,0 +1,22 @@
+- sites
+	- renal
+	- mesenteric
+	- carotid
+	- femoral arteries.
+- origin
+	- fibromuscular origin
+- epidemiology
+	- young women
+- examination
+	- low-pitched bruits of kidney artery stenosis are best heard by placing the diaphragm of the stethoscope firmly in the epigastric area.
+- investigations
+	- IOC
+		- doppler USG
+	- decreased
+		- potassium
+	- increased 
+		- renin
+	- angiography
+		- 'beaded' appearance fibromuscular hyperplasia
+
+![[Pasted image 20260513123945.png]]

@@ -1,0 +1,235 @@
+# Gonorrhoea
+* Cause
+  - Neisseria gonorrhoeae
+  - Gram-negative intracellular diplococcus bacterium
+* Epidemiology
+  - Most commonly diagnosed in
+    - Men who have sex with men (MSM)
+    - Young heterosexual Aboriginal and Torres Strait Islander people living in remote and very remote areas
+    - Travellers returning from overseas high-prevalence areas
+  - Increasing prevalence in the general population, especially women of reproductive age
+  - Previous infection does not provide immunity against reinfection
+  - Reduced susceptibility to first-line treatment is emerging in urban Australia
+    - Closely monitored due to antimicrobial resistance
+  - Asymptomatic infection
+    - Anal and pharyngeal infection: asymptomatic in most people
+    - Vaginal infection: approximately 80% asymptomatic
+    - Penile urethral infection: symptomatic in 85–90%
+* Transmission
+  - Sexual contact
+  - Infection can involve multiple anatomical sites
+    - Genital tract
+    - Anorectum
+    - Pharynx
+    - Eyes
+* Clinical presentation
+  - Penile urethral infection
+    - Urethral discharge
+    - Dysuria
+  - Vaginal/cervical infection
+    - Vaginal discharge
+    - Dyspareunia due to cervicitis
+  - Anorectal infection
+    - Discharge
+    - Irritation
+    - Painful defecation
+    - Disturbed bowel function
+  - Ocular infection
+    - Purulent conjunctivitis
+    - Potentially sight-threatening
+  - Asymptomatic infection
+    - Common in anal and pharyngeal infection
+    - Approximately 80% of vaginal infections
+* Complications
+  - Epididymo-orchitis
+    - Uncommon
+    - Painful, red, swollen testicle(s)
+  - Prostatitis
+    - Very rare
+  - Pelvic inflammatory disease (PID)
+    - Dyspareunia
+    - Intermenstrual bleeding
+    - Postcoital bleeding
+    - Vaginal discharge
+  - Bartholin gland abscess
+  - Disseminated gonococcal infection
+    - Rare
+    - Macular rash, sometimes with necrotic pustules
+    - Septic arthritis
+    - Rarely meningitis or endocarditis
+  - See STI Atlas for clinical images
+* Diagnosis
+  - Gonococcal culture
+    - ALWAYS collect before administering antibiotics
+    - Required to determine antimicrobial susceptibility
+    - Contributes to antimicrobial resistance surveillance
+    - Collect from all infected sites
+    - Do not delay treatment while waiting for culture results
+  - Nucleic acid amplification test (NAAT)
+    - Highly sensitive
+    - Allows patient self-collection
+    - Can be used in non-clinical and non-urban settings
+    - Most commonly used gonorrhoea test in Australia
+    - Not validated for non-genital sites according to the source
+    - Rare false-positive results may occur
+  - Gonococcal culture
+    - Highly specific
+    - Allows antibiotic susceptibility testing
+    - Less sensitive than NAAT
+    - Accuracy depends on strict incubation and transport conditions
+    - Send to laboratory within 24 hours
+    - Specifically request gonococcal culture, not general culture
+  - Specimen selection
+    - First-pass urine (FPU)
+      - NAAT
+      - For people without a vagina
+      - Use if endocervical or self-collected vaginal swab cannot be obtained
+      - Less sensitive than self-collected vaginal swab
+      - In MSM, also collect anal and pharyngeal NAAT swabs, even if asymptomatic
+    - Penile urethral swab
+      - Culture
+      - Required if discharge or other local symptoms are present
+      - Collect before administering antibiotics
+      - In MSM, also collect anal and pharyngeal NAAT swabs, even if asymptomatic
+    - Clinician-collected endocervical swab
+      - NAAT ± culture
+      - Best test if patient is examined
+      - Asymptomatic patients: NAAT is sufficient
+      - Vaginal symptoms: collect an additional swab for gonococcal culture
+    - Self-collected vaginal swab
+      - NAAT ± culture
+      - Best test if patient is not examined
+      - Asymptomatic patients: NAAT is sufficient
+      - Vaginal symptoms: collect an additional swab for gonococcal culture
+    - Anorectal swab
+      - NAAT ± culture
+      - Collect for all MSM
+      - Collect for any patient with anorectal symptoms
+      - Asymptomatic patients: self-collected or clinician-collected NAAT is sufficient
+      - Anorectal symptoms: collect an additional swab for gonococcal culture
+    - Pharyngeal swab
+      - NAAT ± culture
+      - Collect for all MSM
+      - Also collect for people with multiple sexual partners
+* Management
+  - Important principle
+    - Collect gonococcal culture from all infected sites before antibiotics
+    - Do not delay treatment while waiting for culture results
+  - Uncomplicated genital and anorectal infection
+    - Ceftriaxone 500 mg IMI stat, diluted in 2 mL of 1% lignocaine
+    - PLUS azithromycin 1 g PO stat
+  - Uncomplicated pharyngeal infection
+    - Ceftriaxone 500 mg IMI stat, diluted in 2 mL of 1% lignocaine
+    - PLUS azithromycin 2 g PO stat
+    - Azithromycin may be given as 1 g followed by 1 g 6 hours later to reduce gastrointestinal adverse effects
+  - Adult gonococcal conjunctivitis
+    - Ceftriaxone 1 g IMI stat, diluted in 2 mL of 1% lignocaine
+    - PLUS azithromycin 1 g PO stat
+  - Alternative treatment
+    - Generally not recommended due to high levels of antimicrobial resistance
+    - Exceptions may include some remote Australian locations and severe allergic reactions
+    - Seek local specialist advice
+* Treatment advice
+  - Reduced susceptibility to ceftriaxone and azithromycin is emerging in urban Australia
+  - Pharyngeal infection
+    - Most likely site of treatment failure
+    - Possible reasons
+      - Sharing of antimicrobial resistance genetic material between bacteria
+      - Reduced drug penetration into pharyngeal mucosa
+  - Dual antibiotic treatment
+    - Recommended to reduce development of widespread antimicrobial resistance
+    - Ceftriaxone monotherapy should not be used outside specialist centres monitoring culture-based susceptibility
+  - Ciprofloxacin
+    - 500 mg PO stat
+    - Only use if susceptibility is confirmed by NAAT or culture
+    - Confirmation should not delay treatment
+  - Intrauterine device (IUD)
+    - Leave in place
+    - Treat as recommended
+    - Seek specialist advice if needed
+  - Immediate management
+    - Avoid sexual contact
+      - For 7 days after treatment commences
+      - Or until treatment course is completed and symptoms resolve
+      - Whichever is later
+    - Avoid sex with partners from the previous 2 months until they have been tested and treated if necessary
+    - Recommend partner notification
+    - Provide patient factsheet
+    - Notify state or territory health department
+    - Consider testing for other STIs if not performed initially
+    - Consider HIV PrEP for anyone diagnosed with gonorrhoea
+* Special treatment situations
+  - Complicated presentations
+    - Seek specialist advice before treatment
+  - Rectal co-infection with chlamydia
+    - Treat both gonorrhoea and chlamydia
+    - Ceftriaxone 500 mg IMI stat, diluted in 2 mL of 1% lignocaine
+    - PLUS doxycycline
+      - Asymptomatic: 100 mg PO BD for 7 days
+      - Symptomatic: 100 mg PO BD for 21 days
+      - Refer to anorectal syndromes
+  - Pregnancy
+    - Use the same principal treatment regimen
+  - Allergy to principal treatment
+    - Seek specialist advice
+  - Regional/remote areas with known penicillin-susceptible gonorrhoea
+    - Confirm susceptibility with the local public health unit
+    - Amoxicillin 3 g PO stat
+    - PLUS probenecid 1 g PO stat
+    - PLUS azithromycin 1 g PO stat if chlamydia has not been excluded
+    - If infection was likely acquired outside local or other remote locations, use the principal treatment regimen
+* Contact tracing
+  - High priority in all patients with confirmed gonorrhoea
+  - Importance
+    - Prevent reinfection
+    - Reduce transmission
+  - Trace all sexual partners from at least the previous 2 months
+  - Diagnosing doctor
+    - Responsible for initiating contact tracing discussion
+    - Must document the discussion
+  - Sexual contacts
+    - Offer testing of all exposed anatomical sites
+    - Consider presumptive treatment if
+      - Sexual contact occurred within the previous 2 weeks
+      - Individual circumstances make later treatment unlikely
+  - Refer to Australasian Contact Tracing Manual – Gonorrhoea
+* Follow-up
+  - Review after 1 week
+    - Confirm treatment adherence
+    - Assess symptom resolution
+    - Confirm contact tracing has been completed
+    - Offer additional contact tracing support if needed
+  - Sexual health education
+    - Condom use
+    - Contraception
+    - HIV PrEP/PEP
+    - Safe injecting practices
+    - Consent
+    - CST
+    - HAV vaccination
+    - HBV vaccination
+    - HPV vaccination
+* Test of cure
+  - Perform NAAT for each infected site
+    - Pharyngeal
+    - Anal
+    - Cervical
+  - Timing: 2 weeks after completion of treatment
+  - Particularly important if
+    - No gonococcal culture was collected before treatment
+    - Culture indicated antimicrobial resistance
+    - Patient received a non-standard treatment regimen
+  - If test of cure is positive, seek specialist advice
+* Retesting
+  - Reinfection is common
+  - Retest at 3 months to detect reinfection
+  - Consider testing for other STIs
+    - Syphilis
+    - HIV
+    - If not performed at initial presentation
+    - Repeat after the relevant window period
+  - If retesting is positive, seek specialist advice
+* Auditable outcomes
+  - 100% of patients diagnosed with gonorrhoea receive an appropriate antibiotic regimen
+  - 100% are advised to avoid sexual contact for 7 days after treatment
+  - 100% are recalled for repeat testing after 3 months

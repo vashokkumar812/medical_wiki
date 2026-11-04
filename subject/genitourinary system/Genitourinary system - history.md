@@ -1,0 +1,418 @@
+# history
+* Major symptoms
+	- Change in urine volume
+		- "Have you noticed any change in the amount of urine you pass?"
+			- Polyuria
+				- "Are you passing unusually large amounts of urine?"
+				- "Are you also feeling excessively thirsty?"
+				- Diabetes mellitus
+				- Diabetes insipidus
+				- Excessive fluid intake
+				- Diuretic use
+				- Hypercalcaemia
+			- Nocturia
+				- "How many times do you wake up at night to pass urine?"
+				- BPH
+				- Overactive bladder
+				- Diabetes mellitus
+				- CKD
+				- Heart failure
+			- Oliguria
+				- "Have you noticed a significant reduction in the amount of urine you pass?"
+				- Dehydration
+				- Acute kidney injury
+				- Urinary tract obstruction
+				- Severe sepsis or shock
+			- Anuria
+				- "Have you stopped passing urine altogether?"
+				- Severe acute kidney injury
+				- Complete urinary tract obstruction
+				- Bilateral ureteric obstruction
+				- Severe renal hypoperfusion
+
+	- Change in urinary stream
+		- "Have you noticed any change in the strength or flow of your urine?"
+			- Weak or reduced urinary stream
+				- BPH
+				- Urethral stricture
+				- Prostate cancer
+				- Bladder outlet obstruction
+			- Hesitancy
+				- "Do you have difficulty starting to pass urine?"
+				- BPH
+				- Urethral stricture
+				- Bladder outlet obstruction
+			- Intermittent stream
+				- "Does your urine flow stop and start while passing urine?"
+				- BPH
+				- Urethral stricture
+				- Bladder outlet obstruction
+			- Terminal dribbling
+				- "Does urine continue to dribble towards the end of urination?"
+				- BPH
+				- Bladder outlet obstruction
+			- Post-micturition dribbling
+				- "Do you notice a few drops of urine leaking after you have finished passing urine?"
+				- Incomplete urethral emptying
+				- Pelvic floor dysfunction
+			- Strangury
+				- "Do you experience painful straining while passing small amounts of urine?"
+				- Cystitis
+				- Bladder stone
+				- Bladder tumour
+			- Double voiding
+				- "Do you need to pass urine again shortly after finishing because you feel your bladder has not emptied completely?"
+				- BPH
+				- Bladder outlet obstruction
+				- Detrusor underactivity
+				- Neurogenic bladder
+			- Urinary retention
+				- "Have you ever been unable to pass urine despite feeling that your bladder is full?"
+				- Acute painful retention
+					- BPH
+					- Urethral stricture
+					- Prostate cancer
+					- Urethral or bladder stone
+				- Chronic painless retention
+					- BPH
+					- Neurogenic bladder
+					- Detrusor underactivity
+					- Diabetic autonomic neuropathy
+				- Retention with neurological symptoms
+					- Cauda equina syndrome
+					- Spinal cord compression
+					- Multiple sclerosis
+
+	- Urinary incontinence
+		- "Do you ever leak urine without intending to?"
+		- "When does the leakage usually occur?"
+			- Stress incontinence
+				- Leakage on coughing, sneezing, laughing, lifting or exercise
+				- Pelvic floor weakness
+				- Previous childbirth
+				- Previous pelvic surgery
+			- Urge incontinence
+				- Sudden compelling urge followed by involuntary leakage
+				- Overactive bladder
+				- UTI
+				- Neurological disease
+			- Overflow incontinence
+				- Continuous dribbling or frequent small-volume leakage
+				- Sensation of incomplete bladder emptying
+				- BPH
+				- Urethral stricture
+				- Neurogenic bladder
+			- Functional incontinence
+				- Unable to reach the toilet due to impaired mobility or cognition
+			- Continuous urinary leakage
+				- Vesicovaginal fistula
+				- Ectopic ureter
+			- Mixed incontinence
+				- Features of both stress and urge incontinence
+
+	- Dysuria (painful micturition)
+		- "Do you experience any pain, burning or discomfort while passing urine?"
+		- "Is the pain present at the beginning, throughout or towards the end of urination?"
+			- Dysuria with frequency and urgency
+				- Cystitis
+				- Urethritis
+			- Dysuria with fever and loin pain
+				- Pyelonephritis
+			- Dysuria with urethral discharge
+				- Gonorrhoea
+				- Chlamydia
+				- Non-gonococcal urethritis
+			- Dysuria with genital ulcers or blisters
+				- Genital herpes
+				- Other genital infections
+			- Dysuria with weak stream or hesitancy
+				- BPH
+				- Urethral stricture
+				- Prostatitis
+			- Dysuria with pelvic or perineal pain
+				- Prostatitis
+				- Cystitis
+				- Pelvic inflammatory disease
+
+	- Frequency and urgency
+		- "Do you need to pass urine more often than usual?"
+		- "Do you experience a sudden urge to pass urine that is difficult to defer?"
+			- Frequency with dysuria
+				- UTI
+				- Urethritis
+			- Frequency with urgency but no dysuria
+				- Overactive bladder
+				- Bladder irritation
+				- Bladder tumour
+			- Frequency with polyuria and excessive thirst
+				- Diabetes mellitus
+				- Diabetes insipidus
+			- Frequency with nocturia and weak stream
+				- BPH
+				- Bladder outlet obstruction
+			- Frequency with pelvic or bladder pain
+				- Interstitial cystitis / bladder pain syndrome
+				- Cystitis
+
+	- Fever and loin pain
+		- "Have you experienced fever, chills or rigors?"
+		- "Have you experienced pain in either side of your back, just below the ribs?"
+			- Fever with loin pain and urinary symptoms
+				- Acute pyelonephritis
+			- Fever with rigors and systemic illness
+				- Urosepsis
+			- Fever with colicky loin pain
+				- Infected obstructing ureteric calculus
+			- Fever with perineal pain and difficulty passing urine
+				- Acute bacterial prostatitis
+			- Loin pain without fever
+				- Renal or ureteric calculus
+				- Hydronephrosis
+				- Renal mass
+				- Musculoskeletal pain
+
+	- Renal colic
+		- "Have you experienced severe pain in your side or back that comes in waves?"
+		- "Does the pain travel towards your groin or genital area?"
+		- "Is it associated with nausea, vomiting or blood in your urine?"
+			- Sudden severe colicky loin-to-groin pain
+				- Ureteric calculus
+				- Renal calculus
+			- Colicky pain with haematuria
+				- Urolithiasis
+			- Colicky pain with fever or rigors
+				- Infected obstructed urinary tract
+				- Urological emergency
+			- Persistent dull loin pain
+				- Hydronephrosis
+				- Pyelonephritis
+				- Renal mass
+
+	- Urethral discharge
+		- "Have you noticed any discharge or fluid coming from the opening of your penis?"
+		- "What is its colour and consistency?"
+		- "Is it associated with pain or burning while passing urine?"
+			- Purulent discharge
+				- Gonorrhoea
+			- Mucoid or scanty discharge
+				- Chlamydia
+				- Non-gonococcal urethritis
+			- Discharge with dysuria
+				- Urethritis
+			- Discharge with genital ulcers
+				- Consider concurrent STI
+
+	- Symptoms suggestive of chronic kidney disease / uraemia
+		- "Have you noticed any persistent tiredness or loss of appetite?"
+		- "Have you experienced nausea, vomiting or an unusual metallic taste?"
+		- "Have you noticed any itching, swelling or unusual bruising?"
+		- "Have you experienced any changes in your sleep?"
+			- Urinary symptoms
+				- Oliguria
+					- Advanced CKD
+				- Nocturia
+					- Early CKD
+				- Polyuria
+					- Impaired urinary concentrating ability in early CKD
+			- Gastrointestinal symptoms
+				- Anorexia
+					- Uraemia
+				- Nausea and vomiting
+					- Uraemia
+				- Metallic taste
+					- Uraemia
+				- Persistent hiccups
+					- Advanced uraemia
+			- General symptoms
+				- Fatigue
+					- Anaemia of CKD
+					- Uraemia
+				- Weakness
+					- Anaemia
+					- Uraemia
+				- Insomnia
+					- CKD-associated sleep disturbance
+			- Skin and bleeding symptoms
+				- Pruritus
+					- CKD-associated pruritus
+				- Easy bruising
+					- Uraemic platelet dysfunction
+				- Bleeding tendency
+					- Uraemic platelet dysfunction
+			- Fluid overload symptoms
+				- Peripheral oedema
+					- CKD
+					- Nephrotic syndrome
+				- Facial or periorbital swelling
+					- Renal disease
+				- Breathlessness
+					- Pulmonary oedema due to fluid overload
+			- Neurological symptoms
+				- Poor concentration
+					- Uraemia
+				- Confusion
+					- Advanced uraemia
+				- Peripheral neuropathy
+					- Uraemic neuropathy
+				- Restless legs
+					- CKD-associated restless legs syndrome
+
+* Gynaecological history
+
+	- Menstrual history
+		- "At what age did your periods start?"
+		- "Are your periods regular?"
+		- "When was the first day of your last menstrual period?"
+		- "How many days does your period usually last?"
+		- "How heavy is your menstrual bleeding?"
+		- "Do you experience painful periods?"
+			- Irregular periods
+				- Pregnancy
+				- PCOS
+				- Thyroid dysfunction
+				- Hyperprolactinaemia
+				- Perimenopause
+			- Heavy menstrual bleeding (menorrhagia)
+				- Fibroids
+				- Adenomyosis
+				- Endometrial pathology
+				- Coagulopathy
+			- Painful periods (dysmenorrhoea)
+				- Primary dysmenorrhoea
+				- Endometriosis
+				- Adenomyosis
+				- Pelvic inflammatory disease
+			- Amenorrhoea
+				- Pregnancy
+				- PCOS
+				- Hypothalamic or pituitary dysfunction
+				- Premature ovarian insufficiency
+
+	- Vaginal discharge
+		- "Have you noticed any unusual vaginal discharge?"
+		- "Has there been any change in its colour, smell or amount?"
+		- "Is it associated with itching, irritation, pelvic pain or painful urination?"
+			- Thin grey-white discharge with fishy odour
+				- Bacterial vaginosis
+			- Thick white curd-like discharge with itching
+				- Vulvovaginal candidiasis
+			- Yellow-green or frothy discharge
+				- Trichomoniasis
+			- Mucopurulent discharge
+				- Cervicitis
+				- Chlamydia
+				- Gonorrhoea
+			- Vaginal discharge with pelvic pain and fever
+				- Pelvic inflammatory disease
+
+	- Pregnancy history
+		- "Have you ever been pregnant?"
+		- "How many times have you been pregnant?"
+		- "How many children do you have?"
+		- "Were there any complications during pregnancy, delivery or after childbirth?"
+			- Previous miscarriage
+			- Previous ectopic pregnancy
+			- Previous termination of pregnancy
+			- Previous postpartum haemorrhage
+			- Previous complicated delivery
+			- Previous caesarean section
+			- Previous instrumental delivery
+			- Previous childbirth-related pelvic floor injury
+
+* Sexual and reproductive history
+
+	- Erectile dysfunction
+		- "Do you have difficulty getting or maintaining an erection?"
+		- "When did the problem start?"
+		- "Is it affecting your sexual relationship?"
+			- Sudden onset
+				- Psychological factors
+				- Performance anxiety
+				- Relationship difficulties
+				- Depression
+			- Gradual onset
+				- Diabetes mellitus
+				- Vascular disease
+				- Hypertension
+				- Hypogonadism
+				- Medication-related
+				- Neurological disease
+			- Erectile dysfunction with reduced libido
+				- Hypogonadism
+				- Depression
+				- Hyperprolactinaemia
+
+	- Loss of libido
+		- "Have you noticed any reduction in your interest in sexual activity?"
+			- Reduced libido with erectile dysfunction
+				- Hypogonadism
+				- Depression
+				- Medication-related
+			- Reduced libido with fatigue or weight change
+				- Hypothyroidism
+				- Hyperprolactinaemia
+				- Hypogonadism
+				- Depression
+
+	- Infertility
+		- "Have you or your partner had difficulty conceiving despite regular unprotected intercourse?"
+		- "How long have you been trying to conceive?"
+			- Male factors
+				- Erectile or ejaculatory dysfunction
+				- Low sperm count
+				- Impaired sperm motility or morphology
+				- Varicocele
+				- Previous testicular infection or injury
+				- Previous testicular surgery
+				- Previous chemotherapy or radiotherapy
+			- Female factors
+				- Ovulatory dysfunction (e.g. PCOS)
+				- Tubal disease (e.g. previous PID)
+				- Endometriosis
+				- Uterine abnormalities
+				- Premature ovarian insufficiency
+
+	- Urethral or vaginal discharge
+		- "Have you noticed any unusual discharge from your genital area?"
+		- "When did it start?"
+		- "What is its colour, consistency and smell?"
+		- "Is it associated with itching, pain or burning during urination?"
+			- Male urethral discharge
+				- Purulent discharge
+					- Gonorrhoea
+				- Mucoid discharge
+					- Chlamydia
+					- Non-gonococcal urethritis
+			- Vaginal discharge
+				- Thin grey-white discharge
+					- Bacterial vaginosis
+				- Thick white curd-like discharge
+					- Vulvovaginal candidiasis
+				- Frothy yellow-green discharge
+					- Trichomoniasis
+				- Mucopurulent discharge
+					- Cervicitis
+					- Gonorrhoea
+					- Chlamydia
+
+	- Genital rash, blisters or ulcers
+		- "Have you noticed any rash, blisters, sores or ulcers around your genital area?"
+		- "Are they painful or itchy?"
+		- "Have you noticed any similar lesions elsewhere?"
+			- Painful grouped blisters or ulcers
+				- Genital herpes
+			- Painless genital ulcer
+				- Primary syphilis
+			- Multiple painful ulcers
+				- Genital herpes
+				- Chancroid
+			- Itchy genital rash
+				- Candidiasis
+				- Scabies
+				- Contact dermatitis
+			- Genital warts
+				- Human papillomavirus infection
+			- Genital rash with vesicles or pustules
+				- Genital herpes
+				- Folliculitis
+				- Mpox (depending on exposure and clinical features)

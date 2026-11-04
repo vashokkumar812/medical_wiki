@@ -1,0 +1,99 @@
+- **Delirium Tremens (DTs)**
+  - Severe, life-threatening alcohol withdrawal syndrome
+  - Usually occurs after abrupt cessation/reduction of heavy alcohol intake
+
+- **Risk Factors**
+  - Previous DTs
+  - Previous alcohol withdrawal seizures
+  - Heavy prolonged alcohol use
+  - Multiple withdrawal episodes
+  - Concurrent medical illness
+  - Older age
+
+- **Time Course**
+  - 6–24 hours
+    - Tremor
+    - Anxiety
+    - Nausea
+    - Insomnia
+  - 12–48 hours
+    - Withdrawal seizures
+  - 48–72 hours (classically)
+    - Delirium tremens
+
+- **Clinical Features**
+  - Delirium
+    - Confusion
+    - Disorientation
+    - Fluctuating consciousness
+    - Inattention
+  - Autonomic hyperactivity
+    - Tachycardia
+    - Hypertension
+    - Fever
+    - Diaphoresis
+  - Neuropsychiatric features
+    - Agitation
+    - Severe anxiety
+    - Restlessness
+  - Hallucinations
+    - Visual (most common)
+    - Auditory
+    - Tactile
+  - Coarse tremor
+
+- **Initial Investigation
+  - **Bedside blood glucose level (BGL)**
+
+- **Most Appropriate Investigations**
+  - Blood glucose
+  - FBC
+  - UEC
+  - LFTs
+  - Magnesium
+  - Phosphate
+  - ECG
+  - Blood alcohol level (if required)
+  - Investigate precipitating illness
+    - Infection
+    - Trauma
+    - Pancreatitis
+
+- **Initial Management**
+  - **ABC approach**
+    - Airway
+    - Breathing
+    - Circulation
+	  - Continuous monitoring
+	  - IV access
+	  - Check BGL
+
+- **Most Appropriate Treatment**
+  - **Benzodiazepines (first-line)**
+    - Diazepam
+      - Preferred in most patients
+    - Lorazepam
+      - Consider if severe liver disease
+  - Thiamine
+    - Give before glucose
+  - IV fluids
+  - Correct electrolyte abnormalities
+    - Magnesium
+    - Potassium
+    - Phosphate
+
+- **Complications**
+  - Arrhythmias
+  - Aspiration pneumonia
+  - Severe dehydration
+  - Rhabdomyolysis
+  - Cardiovascular collapse
+  - Death
+
+- **AMC Exam Triggers**
+  - Alcohol cessation + confusion + agitation + visual hallucinations + autonomic hyperactivity = **Delirium Tremens**
+  - Seizures occur before DTs
+  - **Initial Ix → BGL**
+  - **Initial Rx → ABC + benzodiazepine**
+  - **Most appropriate definitive Rx → Diazepam**
+  - **Thiamine before glucose**

@@ -1,0 +1,132 @@
+- Neonatal history
+  - Initial information gathering
+    - Review maternal and neonatal medical records, if available.
+    - Obtain relevant information from clinical staff.
+    - Interview the parents systematically.
+    - Ask about problems during pregnancy and delivery, even if there is no presenting complaint.
+  - Introduction and consent
+    - Introduce yourself to the parents.
+    - Congratulate them on the birth of their baby.
+    - Explain the purpose and steps of the neonatal assessment.
+    - Obtain consent wherever possible.
+    - Allow sufficient time and ensure privacy.
+    - Address parental concerns respectfully and sensitively.
+
+- Maternal health
+  - Medical and surgical history
+    - Ask about current and previous medical conditions.
+    - Ask about previous surgeries.
+    - Identify chronic illnesses that may affect the newborn.
+    - If the mother has an acute or chronic illness, use SIC:
+      - Symptoms
+        - Severity, frequency and triggers.
+        - Treatments received.
+      - Investigations.
+      - Complications.
+    - Assess whether maternal illness affects:
+      - The newborn's health.
+      - The mother's ability to care for the baby.
+
+  - Maternal health, lifestyle and psychosocial background
+    - Use HeLP:
+      - Health status.
+      - Lifestyle.
+      - Psychosocial background.
+    - Assess:
+      - Substance use.
+      - Nutritional status.
+      - Immunisation status.
+      - Maternal mental health.
+      - Psychosocial circumstances affecting newborn care.
+
+  - Parental knowledge and coping
+    - Use CARE:
+      - Coping with parenthood.
+        - Understanding the baby's nutritional needs.
+        - Awareness of sudden infant death syndrome (SIDS) risk factors.
+
+- Neonatal history
+  - Parental coping and support (CARE)
+    - Access to healthcare practitioners and social support.
+    - Relationships and conflicts within the family.
+    - Effects of maternal illness on the child's health.
+
+  - Other family history
+    - Ask about serious or potentially inherited illnesses in family members.
+    - Pay particular attention to affected siblings.
+
+  - Pregnancy, labour and delivery history
+    - Antenatal screening
+      - Maternal serology.
+      - Ultrasound findings.
+      - Amniocentesis, if performed.
+    - Pregnancy complications
+      - Pre-eclampsia: hypertension and proteinuria.
+      - Rhesus or ABO incompatibility.
+      - Other maternal complications and interventions.
+    - Maternal infections
+      - Urinary tract infections.
+      - Group B Streptococcus colonisation.
+    - Fetal wellbeing
+      - Fetal blood-flow patterns.
+      - Biophysical profile.
+      - Cardiotocography (CTG).
+    - Labour and delivery
+      - Vaginal bleeding.
+      - Amniotic fluid: amount and appearance.
+      - Mode of delivery: vaginal or caesarean section.
+      - Birth-related complications and operations.
+
+  - Neonatal condition at birth
+    - Apgar score at 5 minutes.
+    - Resuscitation required.
+    - Medical support and treatments received.
+    - Birth measurements
+      - Weight.
+      - Length.
+      - Head circumference.
+    - Immunisation and prophylaxis
+      - Hepatitis B immunisation, as indicated by the local schedule.
+      - Vitamin K prophylaxis.
+
+  - Current feeding and growth
+    - Feeding method: breastfeeding or bottle-feeding.
+    - Feeding frequency and amount.
+    - Sucking ability and feeding difficulties.
+    - Weight gain.
+
+  - Meconium and vomiting
+    - Bilious vomiting
+      - Requires immediate further investigation.
+    - Meconium passage
+      - Normally passed within the first 48 hours in healthy term newborns.
+      - Composition:
+        - Desquamated epithelial cells.
+        - Mucus and bile.
+        - Lanugo.
+        - Vernix caseosa.
+      - Meconium passed in utero
+        - May indicate fetal distress or hypoxia.
+
+  - Features suggesting severe neonatal illness
+    - Difficult feeding or reduced feeding ability.
+    - Weak sucking.
+    - Lethargy.
+    - Convulsions.
+    - Fast or difficult breathing.
+    - Abnormal behaviour.
+
+  - Placenta and umbilical cord
+    - Placental examination
+      - Size.
+      - Membranes.
+      - Vessels.
+      - Infarcts.
+      - Clots.
+    - Umbilical cord
+      - Normal anatomy: two arteries and one vein.
+      - Single umbilical artery
+        - Associated with increased risk of congenital anomalies.
+        - Renal anomalies are particularly important.
+    - Obtain relevant findings from maternal and neonatal records or clinical staff.
+

@@ -1,0 +1,337 @@
+- definition
+	- inflammatory arthritis due to monosodium urate crystal deposition caused by hyperuricaemia
+- urate balance
+	- imbalance between
+		- urate production
+		- urate excretion
+	- excretion mainly through
+		- kidneys
+		- gastrointestinal tract
+	- influenced by
+		- genetics
+		- medications
+- places of urate deposition
+	- joints
+		- acute gouty arthritis
+	- soft tissue
+		- tophi
+		- tenosynovitis
+	- urinary tract
+		- urate stones
+- stages of gout
+	- stage 1
+		- asymptomatic hyperuricaemia
+			- 10× more common than gout
+			- elevated serum uric acid
+				- \>0.42 mmol/L in men
+				- \>0.36 mmol/L in women
+			- no clinical manifestations
+			- treatment generally not recommended
+	- stage 2
+		- acute gouty arthritis
+	- stage 3
+		- intercritical gout
+			- intervals between attacks
+	- stage 4
+		- chronic tophaceous gout
+		- chronic gouty arthritis
+
+- precipitating factors
+	- foods
+		- organ meats
+			- liver
+			- brain
+			- kidneys
+			- sweetbread
+		- tinned fish
+			- sardines
+			- anchovies
+			- herrings
+		- shellfish
+		- game meats
+	- alcohol excess
+		- binge drinking
+	- surgery
+	- starvation
+	- dehydration
+	- acute illness
+	- obesity
+	- drugs
+		- frusemide
+		- thiazide diuretics
+		- loop diuretics
+			- also impair urate lowering therapy
+		- aspirin
+		- cytotoxic drugs
+	- chronic kidney disease
+	- myeloproliferative disorders
+	- lymphoproliferative disorders
+		- leukaemia
+	- sugary soft drinks
+	- fructose-containing fruit juices
+	- tumour lysis
+	- hypothyroidism
+
+- drugs lowering serum urate
+	- losartan
+
+- epidemiology
+	- men
+		- 4th decade onwards
+	- women
+		- 6th decade onwards
+
+
+- associated comorbidities
+	- hypertension
+	- diabetes mellitus
+	- ischaemic heart disease
+	- chronic kidney disease
+	- obesity
+
+- prognosis
+	- untreated attack
+		- resolves within ~7 days
+	- recurrent attacks common
+	- progressive disease if untreated
+- diagnosis
+	- clinical features
+		- acute attacks
+			- monoarthritis - 90%
+
+				- painful swollen joint
+					- sudden onset
+					- often early morning
+					- red shiny skin
+					- tender
+	
+				- joints involved
+					- most common
+						- 1st MTP joint
+							- podagra
+					- others
+						- toes
+						- midfoot
+						- ankles
+						- knees
+						- lower limbs
+
+		- polyarthritis
+			- more common in elderly men
+			- may involve
+				- DIP joints
+				- PIP joints
+			- may mimic rheumatoid arthritis
+
+		- tophi
+			- ears
+			- elbows
+				- olecranon bursa
+			- fingers
+			- big toes
+			- Achilles tendon
+			- may take years to develop
+
+		- bursitis
+			- patellar bursitis
+
+		- cellulitis-like presentation
+			- poor response to antibiotics
+
+- variants
+	- nodular gout
+		- postmenopausal women
+		- renal impairment
+		- diuretic use
+		- painful tophaceous deposits around osteoarthritic finger joints
+			- especially DIP joints
+
+- investigations
+	- synovial fluid aspirate
+		- monosodium urate crystals on compensated polarised microscopy
+		- ==definitive diagnostic test==
+	- serum uric acid
+		- elevated
+		- may be normal during acute attack
+	- X-ray
+		- punched-out erosions at joint margins
+- treatment
+	- serum urate targets
+		- no tophi
+			- <0.36 mmol/L
+		- tophaceous gout
+			- <0.30 mmol/L
+		- despite target
+			- flares may continue for 12–18 months
+			- attacks become less frequent over time
+	- acute flare management
+		- start treatment immediately
+		- first-line
+			- NSAIDs
+				- avoid aspirin
+				- use full dose
+				- continue until symptoms settle + 1 week
+			- colchicine
+				- dose
+					- 1.2 mg stat
+					- then 0.6 mg after 6 hours
+					- then 0.6 mg OD or BD for 2–3 days
+				- not useful
+					- if started after 24 hours of attack
+				- Australia
+					- usually uses 0.5 mg tablet
+				- lower dose needed in
+					- renal impairment
+					- CYP3A4 inhibitor use
+					- P-glycoprotein inhibitor use
+				- adverse effects
+					- gastrointestinal upset less common with low-dose regimens
+		- second-line
+			- corticosteroids
+			- oral prednisolone x 10 days
+				- gradual taper
+			- intra-articular steroid injection
+				- effective for monoarthritis
+			- local corticosteroid injection
+				- maximum 2 sites
+			- intramuscular tetracosactrin
+				- difficult cases
+		- acute treatment notes
+			- treat early
+			- avoid long-term colchicine use
+			- avoid colchicine with macrolides
+				- clarithromycin
+			- caution with kidney impairment
+			- monitor renal function and electrolytes
+	- allopurinol
+		- xanthine oxidase inhibitor
+		- first-line urate-lowering therapy
+		- important concepts
+			- do not stop during acute flare
+				- stopping raises uric acid
+				- risk of non-restarting therapy
+				- may precipitate another flare
+			- can be started during acute flare
+				- if combined with acute gout treatment
+				- does not prolong flare
+		- indications
+			- >1 acute attack/year
+			- tophi
+			- chronic gouty arthritis
+			- uric acid nephropathy
+			- uric acid stones
+			- hyperuricaemia
+		- starting dose
+			- usually 50–100 mg/day
+			- severe CKD
+				- start 50 mg/day or lower
+		- titration
+			- increase every 2–5 weeks based on urate levels
+			- slower titration in CKD
+		- monitoring
+			- check serum urate after dose escalation
+			- once stable
+				- monitor every 6–12 months
+		- adverse effects
+			- rash
+			- allopurinol hypersensitivity syndrome
+				- rare, severe
+				- risk factors for AHS
+					- high starting dose
+					- renal impairment
+					- HLA-B*5801 allele
+						- increased prevalence in Asian populations
+						- test high-risk individuals
+							- especially Asians with CKD
+						- avoid allopurinol if positive
+		- interactions
+			- azathioprine
+			- 6-mercaptopurine
+				- potentially lethal
+			- amoxicillin
+				- increased rash risk
+	- prophylaxis during urate-lowering therapy
+		- purpose
+			- prevent flares during initiation
+		- flare risk without prophylaxis
+			- up to 64%
+		- first-line prophylaxis
+			- colchicine
+				- 0.5–1 mg/day
+			- NSAIDs
+				- naproxen 250 mg BD
+				- indomethacin 25 mg BD
+		- alternatives
+			- low-dose prednisolone
+		- duration
+			- minimum 6 months
+			- or 3 months after target reached if no tophi
+			- or 6 months after target reached if tophi present
+	- febuxostat
+		- xanthine oxidase inhibitor
+		- alternative to allopurinol
+		- indications
+			- allopurinol intolerance
+			- allopurinol rash
+			- AHS history
+			- HLA-B*5801 positivity
+			- contraindication to allopurinol
+		- dosing
+			- titatre dose every week
+	- probenecid
+		- uricosuric agent
+		- blocks renal tubular urate reabsorption
+		- useful in uric acid hyperexcretion
+		- aspirin antagonises effect
+	- severe CKD management
+		- allopurinol
+			- very low starting dose
+				- ~1.5 mg per mL eGFR
+			- gradual titration
+				- 25–50 mg/month
+		- alternative
+			- low-dose febuxostat
+		- rheumatology referral recommended
+	- lifestyle and prevention
+		- diet evidence
+			- low-purine diet has limited evidence for major serum urate reduction
+	- patient education
+		- explain that flares may initially worsen after starting therapy
+	- treatment schemadelines support routine treatment
+
+#### Calcium pyrophosphate crystal disorder (pseudogout)
+
+### Info
+- Characterised by calcium pyrophosphate crystal deposition in joints
+- X-ray finding of articular cartilage calcification is termed chondrocalcinosis
+- Commonly affects elderly patients
+- Often superimposed on an osteoarthritic joint
+- Acute attack clinically resembles gout
+- May involve tendons, especially the Achilles tendon
+- Can present with fever, mimicking septic arthritis
+
+### Diagnosis
+- Synovial fluid analysis:
+  - calcium pyrophosphate crystals identified on phase-contrast microscopy
+- X-ray:
+  - calcification of articular cartilage (chondrocalcinosis)
+- Commonly affected joints (in descending order):
+  - knee
+  - 2nd and 3rd MCP joints
+  - wrist
+  - shoulder
+  - ankle
+  - elbow
+
+### Treatment
+- Joint aspiration and intra-articular depot glucocorticosteroid injection
+  - only after excluding joint infection
+- Analgesia:
+  - paracetamol preferred, especially in the elderly
+- Use NSAIDs cautiously in elderly patients
+- Colchicine may be used
+
+#### Drug treatment during acute attack
+- indomethacin 50 mg orally three times daily (if tolerated) until symptoms abate
+- and/or colchicine 0.5 mg orally three times daily until attack subsides
+- and paracetamol 500–1000 mg orally up to four times daily, if required

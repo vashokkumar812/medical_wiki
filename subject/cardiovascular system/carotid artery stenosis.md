@@ -1,0 +1,136 @@
+
+
+- Symptomatic CAS
+	- criteria
+		- Neurological ischaemic event within previous 6 months
+		- ICA stenosis >50%
+		- Alternative causes excluded
+	- features
+		- Natural history
+			- Often preceded by
+				- Single TIA
+				- Multiple TIAs
+			- Unheralded stroke relatively uncommon
+
+		- Vascular Territory Syndromes
+			- Anterior circulation (Carotid territory)
+				- Vessels
+					- Internal carotid artery
+					- ACA
+					- MCA
+					- Retinal artery
+				- Symptoms/signs
+					- Contralateral hemiparesis
+						- Face
+						- Upper limb
+						- Lower limb
+					- Contralateral hemisensory loss
+					- Dysphasia
+						- Dominant hemisphere
+					- Ipsilateral monocular vision loss
+						- Amaurosis fugax
+						- Permanent vision loss
+			- Posterior circulation ( wont happen)
+				- Vessels
+					- Vertebral artery
+					- Basilar artery
+					- Cerebellar arteries
+					- PCA
+				- Symptoms/signs
+					- Homonymous hemianopia
+					- Limb ataxia
+					- Gait ataxia
+					- Vertigo
+					- Nausea/vomiting
+					- Cranial nerve III–XII palsies
+
+	- Symptomatic CAS Management
+		- If Acute TIA / Stroke / Amaurosis fugax
+			- Urgent referral
+				- Emergency department
+				- Vascular surgery
+		- Definitive treatment
+			- Gold standard
+				- Carotid endarterectomy (CEA)
+				- only if carotide stenosis >= 50% within 2 weeks
+				- Timing of CEA
+					- Highest recurrent stroke risk
+						- First 2 weeks
+					- Elevated risk persists
+						- Up to 6 weeks
+					- Complications
+						- Perioperative stroke
+						- Cranial nerve injury
+							- CN XII (Hypoglossal)
+							- CN IX (Glossopharyngeal)
+							- CN X (Vagus)
+							- Usually transientm, sometimes permanent
+					- Follow-up
+						- CDUS
+							- 4–6 weeks
+							- 6 months
+						- Purpose
+							- Detect restenosis
+						- Normal early scans
+							- Low risk of late restenosis
+					- if anesthesia risk, previous neck surgery/radiotherapy
+						- do carotid artery stenting ( high stroke risk)
+			- BMT
+				- continue perioperative
+				- do not cease
+- Asymptomatic CAS
+	- criteria
+		- Haemodynamically significant stenosis
+		- No neurological ischaemia within previous 6 months
+		- Carotid bruit
+		- Incidental imaging finding
+		- Investigation of contralateral carotid disease
+	- treatment
+		- Best Medical Therapy (BMT)
+			- Aspirin + Statin therapy
+			- Cardiovascular risk reduction
+				- Smoking cessation
+				- BP control
+				- Dyslipidaemia treatment
+				- Diabetes screening
+
+		- Referral Criteria for Asymptomatic CAS
+			- ICA stenosis >80%
+				- Non-urgent vascular surgery referral
+				- lead to
+					- Continued BMT + surveillance
+					- Individualised surgery
+				- Most likely to benefit
+					- Younger patients
+					- Few comorbidities
+					- Longer life expectancy
+			- ICA stenosis <80%
+				- Usually no referral
+				- Annual CDUS surveillance
+			- Elderly patients
+				- Less benefit from surgery
+					- Smaller lifetime stroke reduction
+					- Higher procedural risk
+				- Consider stopping surveillance
+					- Advanced age
+					- Significant comorbidity
+
+- Chronic carotid occlusion
+	- Complete chronic ICA occlusion
+	- No acute neurological symptoms
+	- treatment
+		- Best medical therapy
+		- Treat systemic atherosclerotic risk factors
+		- Surgery not beneficial
+		- Usually no vascular referral required
+- External carotid artery stenosis
+	- Usually benign
+	- Not a major stroke risk factor
+
+- Investigations
+	- First-line
+		- Carotid duplex ultrasonography (CDUS)
+	- Second-line
+		- CT angiography (CTA)
+			- Confirms anatomy
+			- Surgical planning

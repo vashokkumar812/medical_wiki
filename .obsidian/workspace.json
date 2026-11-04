@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "a8f1660ae8088ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "28d7c1277741da5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc142bead3b35d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subject/women's health/cervix/cervical insufficiency.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "cervical insufficiency"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b69c1beae8bc1f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4cf154a1f1bd699",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe162dc17adac3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf073b3ae5a346dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "schiz",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c24d3773a5ac2f0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 498.5078125
+  },
+  "right": {
+    "id": "fe7cf1f1f6cac5fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "da2da519f6679150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9663eff4126cd4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "subject/women's health/cervix/cervical insufficiency.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e7662c1ce7aa8104",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "subject/women's health/cervix/cervical insufficiency.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "813e6c3c07fb73b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
+            }
+          },
+          {
+            "id": "f9ae9cf1ecd0dfae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "0a3d02e793a70237",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "subject/women's health/cervix/cervical insufficiency.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.8203125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "efc142bead3b35d5",
+  "lastOpenFiles": [
+    "subject/women's health/cervix.md",
+    "subject/women's health/cervix/cervical insufficiency.md",
+    "subject/women's health/cervix",
+    "subject/cardiovascular system/aorta.md",
+    "subject/cardiovascular system/cvd assessment.md",
+    "subject/CVA.md",
+    "subject/contraception.md",
+    "subject/childhood psych.md",
+    "subject/chest pain.md",
+    "subject/mental health/schizophrenia.md",
+    "subject/child health/lymphadenitis.md",
+    "subject/child health/Neck mass.md",
+    "subject/women's health/atopic eruption of preganncy.md",
+    "amc clinicals/child health/Neonatal.md",
+    "subject/Gastrointestinal system/liver.md",
+    "subject/respiratory system/pneumoconiosis/sarcoidosis.md",
+    "subject/respiratory system/allergic disorders of respiratory tract.md",
+    "subject/pneumonoconiosis.md",
+    "subject/respiratory system/pneumoconiosis",
+    "subject/cardiovascular system/dyslipidaemia.md",
+    "images/Pasted image 20261104130546.png",
+    "amc clinicals/questions/medicine.md",
+    "amc clinicals/questions/Psychiatry.md",
+    "subject/mental health/depression.md",
+    "amc clinicals/questions",
+    "subject/dermoid cyst.md",
+    "subject/developmental milestones of children.md",
+    "subject/dermatitis.md",
+    "subject/dementia.md",
+    "subject/delirum tremens.md",
+    "images/cervical-screening-quick-reference-guide_page-0001.jpg",
+    "images/cervical-screening-quick-reference-guide_page-0002.jpg",
+    "subject/opthal",
+    "Differential diagnosis",
+    "images/Pasted image 20261022184004.png",
+    "subject/rheumatology",
+    "subject/neurology",
+    "subject/others",
+    "subject/cardiovascular system",
+    "subject/orthopaedics",
+    "images/Pasted image 20260615095438.png",
+    "images/Pasted image 20260617021309.png",
+    "images/Pasted image 20260617015356.png",
+    "images/Pasted image 20260617013943.png",
+    "images/Pasted image 20260617013725.png",
+    "images/Pasted image 20260616004809.png",
+    "child health/Untitled 1.canvas",
+    "Untitled.canvas",
+    "subject/Adult medicine and surgery/neurology/Untitled.canvas"
+  ]
+}

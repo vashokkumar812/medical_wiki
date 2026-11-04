@@ -1,0 +1,445 @@
+- Definition
+	- Heart failure (HF)
+		- Clinical syndrome caused by structural and/or functional cardiac abnormality
+		- Results in inadequate cardiac output and/or elevated filling pressures
+
+- Classification
+	- HFrEF
+		- Symptoms/signs of HF
+		- LVEF ≤40%
+	- HFmrEF
+		- LVEF 41–49%
+		- Additional evidence required
+			- Raised filling pressures
+			- Diastolic dysfunction
+	- HFpEF
+		- Symptoms/signs of HF
+		- LVEF ≥50%
+		- Plus objective evidence of
+			- Structural heart disease
+				- LV hypertrophy
+				- Left atrial enlargement
+			- And/or diastolic dysfunction with raised filling pressures
+				- Echo
+				- Cardiac catheterisation
+				- Elevated BNP/NT-proBNP
+				- Exercise testing
+
+- Aetiology
+	- Ischaemic heart disease (commonest cause)
+		- MI
+		- Chronic ischaemia
+		- Microvascular disease
+		- Hibernating myocardium
+	- Hypertension
+	- Valvular heart disease
+		- Aortic stenosis
+		- Aortic regurgitation
+		- Mitral regurgitation
+		- Rheumatic heart disease
+	- Cardiomyopathies
+		- Dilated cardiomyopathy
+		- Hypertrophic cardiomyopathy
+		- ARVC
+		- Peripartum cardiomyopathy
+	- Myocarditis
+		- Viral
+		- Autoimmune
+	- Infiltrative disease
+		- Amyloidosis
+		- Sarcoidosis
+		- Haemochromatosis
+		- Fabry disease
+	- Metabolic/endocrine
+		- Diabetes
+		- Thyroid disease
+		- Phaeochromocytoma
+		- Cortisol disorders
+	- Toxic
+		- Alcohol
+		- Anthracyclines
+		- Amphetamines
+		- Cocaine
+		- Clozapine
+		- Trastuzumab
+		- Radiation
+	- High-output states
+		- Anaemia
+		- Sepsis
+		- AV fistula
+		- Thyrotoxicosis
+	- Arrhythmias
+		- AF
+		- VT
+		- Bradyarrhythmias
+		- AV block
+	- Congenital heart disease
+	- Pericardial disease
+		- Constriction
+		- Effusion
+
+- Clinical Features
+	- Cardiovascular
+		- Dyspnoea (most common)
+		- Exertional dyspnoea
+		- Orthopnoea
+		- Paroxysmal nocturnal dyspnoea (PND)
+		- Bendopnoea
+		- Fatigue
+		- Elevated JVP
+		- Hepatojugular reflux
+		- S3 gallop
+		- Laterally displaced apex beat
+		- Tachycardia
+		- Cardiac murmur
+
+	- Respiratory
+		- Nocturnal cough
+		- Wheeze (cardiac asthma)
+		- Tachypnoea
+		- Pulmonary crackles
+		- Pleural effusion
+		- Cheyne-Stokes respiration
+
+	- Fluid Overload / Congestive Features
+		- Weight gain >2 kg/week
+		- Peripheral oedemaintestinal / Hepatic Congestion
+		- Abdominal bloating
+		- Anorexia
+
+	- Neurological / Psychological
+		- Palpitations
+		- Dizziness
+		- Syncope
+		- Confusion (elderly)
+		- Depression
+
+	- Advanced Heart Failure
+		- Weight loss
+		- Cardiac cachexia 
+	
+
+- Functional Classification (NYHA)
+	- Class I
+		- No limitation
+		- Symptoms absent with ordinary activity
+	- Class II
+		- Mild limitation
+		- Symptoms with ordinary activity
+	- Class III
+		- Marked limitation
+		- Symptoms with less than ordinary activity
+	- Class IV
+		- Symptoms at rest
+
+- Investigations
+	- Initial
+		- ECG
+		- Chest X-ray
+			- Cardiomegaly
+			- Pulmonary oedema
+			- Pleural effusion
+			- Alternative diagnoses
+	- Biomarkers
+		- BNP
+			- Rule out HF
+				- <100 ng/L
+			- Rule in HF
+				- \>400 ng/L
+		- NT-proBNP
+			- Rule out HF
+				- <300 ng/L
+			- Rule in HF
+				- <50 years
+					- \>450 ng/L
+				- 50–75 years
+					- \>900 ng/L
+				- \>75 years
+					- \>1800 ng/L
+	- Definitive investigation
+		- Transthoracic echocardiography
+			- Most important test
+	- Further investigations
+		- Coronary angiography
+			- Suspected CAD
+			- Refractory angina
+			- VT/cardiac arrest
+		- CT coronary angiography
+			- Low/intermediate CAD probability
+		- Cardiac MRI
+			- Cardiomyopathy
+			- Myocarditis
+			- Infiltrative disease
+		- PET/Bone scintigraphy
+			- Amyloidosis/infiltrative disease
+		- Genetic testing
+			- DCM + conduction disease
+
+- Acute Decompensated Heart Failure
+	- Common precipitants
+		- Infection (commonest)
+		- ACS/MI
+		- AF/arrhythmia
+		- Medication non-compliance
+		- Excess salt intake
+		- Excess fluid intake
+	- Cardiac causes
+		- Hypertensive crisis
+		- Mechanical complications of MI
+		- Pericardial tamponade
+	- Respiratory causes
+		- Pneumonia
+		- Pulmonary embolism
+		- Hypoxia
+	- Systemic causes
+		- Anaemia
+		- Hyperthyroidism
+		- Hypothyroidism
+		- Adrenal disorders
+	- Other causes
+		- Takotsubo cardiomyopathy
+		- Phaeochromocytoma
+
+- Acute Management
+	- Identify and treat precipitant
+	- Monitoring
+		- Continuous SpO₂
+	- Oxygen
+		- If SpO₂ <94%
+	- Pulmonary oedema
+		- NIV
+			- Persistent hypoxia
+			- Tachypnoea despite oxygen
+	- Congestion
+		- IV loop diuretic
+			- First-line
+			- Furosemide
+	- SBP >90 mmHg
+		- Consider IV vasodilator
+	- Hypoperfusion + SBP <90 mmHg
+		- Consider IV inotrope
+
+- Prevention
+	- Smoking cessation
+	- Avoid excess alcohol
+	- Weight reduction
+	- Regular exercise
+	- Control hypertension
+	- Lipid lowering therapy
+	- ACEI
+		- Established CVD
+		- LV systolic dysfunction
+	- SGLT2 inhibitor
+		- T2DM + CVD
+
+- Chronic HFrEF Treatment
+	- Foundation ("Fantastic Four")
+		- ACEI / ARB / ARNI
+		- Beta blocker
+		- MRA
+		- SGLT2 inhibitor
+	- Diuretics
+		- Symptomatic congestion
+	- ARNI (Sacubitril/Valsartan)
+		- Replace ACEI/ARB
+		- Persistent symptoms
+		- ACEI washout
+			- ≥36 hours
+	- Ivabradine
+		- LVEF ≤35%
+		- Sinus rhythm
+		- HR ≥70 bpm
+	- Hydralazine + nitrate
+		- ACEI/ARB intolerance
+	- Digoxin
+		- NYHA III–IV
+		- Sinus rhythm
+
+- Device Therapy
+	- CRT
+		- LVEF ≤35%
+		- Sinus rhythm
+		- QRS ≥150 ms
+	- ICD
+		- Secondary prevention
+			- Cardiac arrest
+			- Sustained VT
+		- Primary prevention
+			- Post-MI + LVEF ≤30%
+			- Ischaemic cardiomyopathy
+				- LVEF ≤35%
+			- DCM
+				- LVEF ≤35%
+
+- Surgical / Advanced Therapy
+	- CABG
+		- Ischaemic HFrEF
+		- LVEF ≤35%
+	- Valve intervention
+		- SAVR
+			- Severe AS/AR
+		- TAVI
+			- High surgical risk severe AS
+		- Mitral valve repair/replacement
+			- Severe MR
+	- Ventricular assist device (VAD)
+	- Heart transplantation
+
+- Drugs That Cause/Worsen HF
+	- NSAIDs (including COX-2 inhibitors)
+	- Verapamil
+	- Diltiazem
+	- Flecainide
+	- Disopyramide
+	- Quinidine
+	- Corticosteroids
+	- Thiazolidinediones
+		- Pioglitazone
+		- Rosiglitazone
+	- Moxonidine
+	- Clozapine
+	- Trastuzumab
+	- Tyrosine kinase inhibitors
+		- Sunitinib
+	- Saxagliptin
+	- Minoxidil
+	- Anthracyclines
+	- Cocaine
+	- Amphetamines
+
+- Special Situations
+	- AF
+		- Assess stroke risk
+		- Anticoagulate if indicated
+		- Rate control target 60–100 bpm
+		- Consider AF ablation if LVEF ≤35%
+	- Iron deficiency
+		- Ferritin <100 μg/L
+		- OR ferritin 100–300 μg/L + TSAT <20%
+		- Consider IV iron
+	- Recovered EF
+		- Continue ACEI/ARB/ARNI
+		- Continue beta blocker
+		- Continue MRA
+	- Advanced HF
+		- Early palliative care referral
+
+![[Pasted image 20260607011635.png]]
+
+![[Pasted image 20260607011738.png]]
+
+	- 
+# treatment
+- Loop diuretics
+	- Role
+		- Relieve symptoms of fluid retention
+	- Principles
+		- Use minimum effective dose
+		- Monitor clinically + biochemically
+	- Monitor for
+		- Volume depletion
+		- Electrolyte disturbance
+
+- ACE inhibitors
+	- Initiation
+		- Start immediately unless contraindicated
+	- Benefits
+		- Improve symptoms
+		- Reduce mortality
+		- Slow disease progression
+	- Optimisation
+		- Aim for maximum tolerated dose
+		- Reduce loop diuretic dose if needed to allow ACEi up-titration
+
+- Hydralazine + isosorbide dinitrate
+	- Indication
+		- ACE inhibitor intolerance
+	- Regimen
+		- High-dose hydralazine + isosorbide dinitrate
+
+- Spironolactone
+	- Low-dose spironolactone
+		- Reduces
+			- Mortality
+			- Hospitalisation
+		- Improves symptoms
+	- Used with
+		- ACE inhibitor
+		- Loop diuretic
+		- ± digoxin
+	- Particularly useful in severe heart failure
+
+- Beta blockers
+	- Carvedilol
+		- Non-selective beta blocker
+		- Additional alpha-blocking vasodilator effect
+	- Indication
+		- Mild–moderate heart failure
+	- AMC pearl
+		- Only beta blocker specifically marketed for HF in Australia
+
+- Digoxin
+	- Main indication
+		- Heart failure + atrial fibrillation
+	- Role
+		- Symptom control
+		- Rate control in AF
+
+- Anticoagulation
+	- Indications in heart failure
+		- Atrial fibrillation
+		- Intracardiac thrombus
+		- Previous systemic thromboembolism
+
+- Other drug therapy
+	- Alpha blockers
+		- Ineffective
+	- Calcium channel blockers
+		- Generally not beneficial
+	- ARBs
+		- Previously under investigation
+		- Now commonly used if ACEi intolerant
+
+- Severe refractory heart failure
+	- Mechanical support
+		- Intra-aortic balloon pump
+	- Heart transplantation
+
+- Acute severe heart failure
+	- IV vasodilators
+		- GTN infusion
+		- Sodium nitroprusside
+		- Effects
+			- ↓ preload
+			- ↓ afterload
+	- Parenteral inotropes
+		- Dopamine
+		- Dobutamine
+		- Milrinone
+
+- Asymptomatic LV dysfunction
+	- ACE inhibitors
+		- Prevent progression
+		- Improve survival
+
+- Cardiovascular risk factor management
+	- Treat associated conditions
+		- Hypertension
+		- Dyslipidaemia
+
+- AMC MCQ pearls
+	- First-line mortality-reducing drugs in HFrEF
+		- ACE inhibitors
+		- Beta blockers
+		- Spironolactone
+	- Loop diuretics
+		- Improve symptoms
+		- No major mortality benefit
+	- Digoxin
+		- Especially useful in HF + AF
+	- Nitrates
+		- Reduce preload
+	- Nitroprusside
+		- Reduces preload + afterload
+	- Severe refractory HF
+		- Consider transplant/mechanical support

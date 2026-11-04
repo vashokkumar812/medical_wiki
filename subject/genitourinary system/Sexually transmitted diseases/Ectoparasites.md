@@ -1,0 +1,217 @@
+# Pubic Lice and Scabies
+* Cause
+  - Pubic lice
+    - Pthirus pubis
+    - Also known as pediculosis pubis or crabs
+  - Scabies
+    - Sarcoptes scabiei var. hominis
+* Epidemiology
+  - Scabies
+    - Associated with crowded living and sleeping conditions
+    - Institutional outbreaks have been reported
+  - Pubic lice
+    - Typically found in sexually active young people
+  - Both are common genital and pubic ectoparasite infestations
+* Transmission
+  - Scabies
+    - Close, prolonged skin-to-skin contact (15–20 minutes)
+    - Person-to-person transmission
+    - Fomite transmission is possible
+    - Survival off host
+      - May survive >3 days in tropical conditions
+      - Usually survives <36 hours
+  - Pubic lice
+    - Close body contact
+    - Fomite transmission plays little role
+    - Survival off host <24 hours
+    - Not a vector for other diseases
+* Clinical presentation
+  - General symptoms
+    - Pubic or genital itch
+    - Rash
+    - Scabies itch is particularly worse at night
+  - Scabies
+    - Genital papulonodules
+      - Penis
+      - Scrotum
+      - Vulva
+    - Clinical signs result from allergy to mite bites
+    - Characteristic skin burrows may be present
+      - Interdigital folds
+      - Wrists
+      - Elbows
+      - Around breast nipples in women
+    - Characteristic nodules
+      - Glans penis
+      - Scrotum
+      - Labial folds
+  - Pubic lice
+    - Debris in underwear
+    - Adult lice and eggs (nits) may be visible on hair
+    - Adult lice infest strong hairs
+      - Pubic hair
+      - Trunk
+      - Chest
+      - Buttocks
+      - Rarely eyebrows and eyelashes
+    - Eggs are strongly attached to hairs
+* Complications
+  - Scabies
+    - Complications are uncommon
+    - More commonly associated with crusted scabies
+    - Secondary bacterial infection
+    - Sleep disturbance
+    - Pain on movement
+    - Fever, particularly in children
+  - Pubic lice
+    - Fever
+    - Lethargy
+    - Irritability
+    - More common in young and frail people
+  - See STI Atlas for clinical images
+* Diagnosis
+  - Pubic lice
+    - Usually a clinical diagnosis
+    - Direct visualisation of adult lice or eggs (nits)
+    - Magnification may assist
+  - Scabies
+    - Usually a clinical diagnosis
+    - Dermatoscope or magnifying glass may assist
+    - Characteristic nodules and silvery skin burrows may be seen
+    - Multiple diagnostic methods require moderate skill and equipment
+    - These methods are not usually practical in general practice
+* Investigations
+  - Pubic lice
+    - Usually diagnosed clinically, with or without magnification
+  - Scabies
+    - Investigations are not generally available in general practice
+    - Seek specialist advice if required
+  - Skin scraping
+    - Scrape a burrow using a fine needle
+    - Examine under light microscopy to identify the mite
+* Management
+  - Scabies
+    - First-line: permethrin 5% cream
+      - Apply topically to dry skin from neck down
+      - Pay particular attention to hands and genitalia
+      - Apply under nails using a nailbrush
+      - Leave on for at least 8 hours, usually overnight
+      - Reapply to hands if washed
+      - Repeat treatment after 1 week to improve success
+      - If treatment failure, application time may be increased to 24 hours
+    - Alternative: benzyl benzoate 25% emulsion
+      - Apply topically to dry skin from neck down
+      - Pay particular attention to hands and genitalia
+      - Apply under nails using a nailbrush
+      - Leave on for 24 hours
+      - Reapply to hands if washed
+      - Repeat treatment after 7 days
+  - Pubic lice
+    - First-line: pyrethrin 0.165% + piperonyl butoxide 1.65% topical foam
+      - Apply to pubic hair and other hair infested with lice
+      - Wash off after 10 minutes
+      - Repeat treatment after 1 week
+  - Crusted scabies
+    - Formerly called Norwegian scabies
+    - Occurs when mite population is very high due to poor host immune response
+    - Associated with HIV infection and remote Aboriginal and Torres Strait Islander communities
+    - Seek specialist advice
+* Treatment advice
+  - Scabies
+    - Avoid close body contact
+    - Patient and recent sexual partners should complete treatment
+    - Apply cream at night
+    - Include finger webs and do not wash hands after applying cream
+    - Clothes, towels and bed linen used during the previous 3 days
+      - Isolate and launder as usual the day after first treatment
+      - Alternatively, isolate for >1 week while mites die
+    - Avoid more than 2 applications of treatment to prevent persistent irritation
+    - Symptoms and signs may take up to 2 weeks to clear
+    - Antipruritic treatment may help
+      - Oral antihistamines
+      - Calamine lotion
+      - Topical corticosteroids, e.g. hydrocortisone 1%
+  - Pubic lice
+    - Isolate clothes, towels and bed linen used during the previous 3 days
+    - Launder as usual the day after first treatment
+    - Shaving pubic hair is not required
+    - Removal of eggs is not required
+    - Resistance to permethrin treatment has not been demonstrated for pubic lice, unlike head lice
+  - Immediate management
+    - Avoid sexual contact
+      - For 7 days after treatment commences
+      - Or until treatment course is completed and symptoms resolve
+      - Whichever is later
+    - Commence contact tracing
+    - Provide patient factsheet
+      - Scabies
+      - Pubic lice
+* Special treatment situations
+  - Complicated or disseminated scabies
+    - Seek specialist advice
+  - Crusted scabies
+    - Less severe disease
+      - Ivermectin 200 micrograms/kg PO on day 1
+      - Second dose between days 8–14
+    - Moderate-to-severe disease
+      - Additional ivermectin dose may be required
+      - Seek specialist advice
+    - Severe secondary bacterial infection (impetigo)
+      - Treat first with antibiotics covering S. aureus and/or S. pyogenes
+      - Then administer antiscabetic treatment
+  - Persistent scabies
+    - Ivermectin 200 micrograms/kg PO on days 1 and 8–14
+    - Use no earlier than 4 weeks after failure of both topical permethrin and benzyl benzoate
+  - Pregnancy and breastfeeding
+    - Permethrin is safe during pregnancy and breastfeeding
+  - Allergy to principal treatment
+    - Seek specialist advice
+  - Regional and remote communities
+    - No special treatment differences
+    - Scabies may affect entire small remote communities
+    - Whole-community treatment regimen may be required
+    - Seek local advice
+  - Eyelash infestation
+    - Ophthalmic-grade petrolatum ointment BD for 10 days
+    - Requires prescription and preparation by a compounding pharmacist
+  - Complicated or persistent presentations
+    - Consider specialist advice before treatment
+* Contact tracing
+  - Scabies
+    - Simultaneously treat sexual contacts from the previous month
+    - Simultaneously treat all household members from the previous month
+  - Pubic lice
+    - Simultaneously treat recent sexual contacts
+    - Simultaneously treat all household members
+* Follow-up
+  - Review after 1 week
+    - Confirm treatment adherence
+    - Assess symptom resolution
+    - Confirm contact tracing has been completed
+    - Offer additional contact tracing support if needed
+  - Sexual health education
+    - Condom use
+    - Contraception
+    - HIV PrEP/PEP
+    - Safe injecting practices
+    - Consent
+    - CST
+    - HAV vaccination
+    - HBV vaccination
+    - HPV vaccination
+* Test of cure
+  - Not required
+* Retesting
+  - Not routinely required
+  - Consider testing for other STIs if not performed at initial presentation
+  - Consider retesting after the relevant window period
+* Persistent symptoms
+  - If itch and rash persist
+    - Reassure the patient
+    - Consider antipruritic treatment
+      - Oral antihistamines
+      - Calamine lotion
+      - Topical corticosteroids, e.g. hydrocortisone 1%
+* Auditable outcomes
+  - 100% of patients diagnosed with pubic lice are treated with pyrethrin 0.165% + piperonyl butoxide 1.65%
+  - 100% of patients with scabies receive permethrin 5% as first-line therapy

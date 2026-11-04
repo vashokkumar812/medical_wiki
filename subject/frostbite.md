@@ -1,0 +1,27 @@
+- Frostbite
+	- Also known as
+		- Reverse-thermal injury
+	- Type of burn injury
+		- Affects skin and underlying tissues
+	- Cause
+		- Freezing injury
+	- Commonly affects
+		- Extremities
+	- Mechanisms
+		- Exposure to cold weather
+		- Direct contact with
+			- Ice
+			- Metals
+			- Liquids
+				- LPG
+			- Aerosols sprayed directly onto skin
+
+- Management
+	- Minor frostbite
+		- Simple first aid
+			- Analgesia
+			- Rewarming
+		- Followed by simple wound care
+	- Severe frostbite
+		- May require burns service review
+		- More intensive wound care management

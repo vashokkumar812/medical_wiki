@@ -1,0 +1,124 @@
+- Progressive gastric distension
+	- Rare condition
+	- Can lead to
+		- Gastric wall ischaemia
+		- Gastric perforation
+		- Sepsis
+		- Multi-organ failure
+		- Death
+	- Often diagnosed late
+	- Early recognition and decompression are critical
+
+- Clinical presentation
+	- Progressive abdominal distension
+	- Increasing abdominal pain
+	- Non-bilious vomiting
+	- Abdominal tympany
+	- Succussion splash
+	- Hypotension
+	- Respiratory compromise
+	- Metabolic alkalosis
+	- Signs of peritonitis if perforation occurs
+
+- Differential diagnosis
+	- Gastric outlet obstruction
+		- Gastric malignancy
+		- Benign prepyloric ulcer stricture
+		- Duodenal ulcer stricture
+	- Small bowel obstruction
+		- Adhesions
+		- Volvulus
+		- Hernia
+		- Neoplasm
+
+- Aetiology
+	- Obstruction
+		- Luminal
+			- Bezoar
+			- Foreign body
+			- Hyperphagia
+			- Gallstone (Bouveret syndrome)
+		- Mural
+			- Gastric tumour
+			- Crohn stricture
+			- Tuberculosis
+			- Anastomotic stricture
+			- Slipped gastric band
+		- Extrinsic
+			- Lymphoma
+			- Intra-abdominal tumour/metastasis
+			- Annular pancreas
+			- Superior mesenteric artery syndrome
+	- Dysmotility
+		- Diabetes mellitus (autonomic neuropathy)
+		- Parkinson disease
+		- Ileus
+		- Eating disorders
+
+- Pathophysiology
+	- Massive gastric dilatation
+	- Increased intragastric pressure
+	- Venous congestion
+	- Gastric wall ischaemia
+	- Gastric necrosis
+	- Gastric perforation
+	- Peritonitis
+	- Septic shock
+	- Multi-organ failure
+	- Ischaemia occurs despite rich gastric collateral blood supply
+	- Mucosal ischaemia may occur when intragastric pressure exceeds 14 mmHg
+
+- Diagnosis
+	- Clinical
+		- Distended tympanic abdomen
+		- Succussion splash
+		- Non-bilious vomiting
+	- Imaging
+		- Abdominal X-ray
+			- Markedly distended stomach
+		- CT abdomen
+			- Massive gastric dilatation
+			- May identify underlying cause
+	- Laboratory findings
+		- Hypochloraemic metabolic alkalosis
+		- Electrolyte abnormalities
+			- Hypokalaemia
+		- Prerenal acute kidney injury
+
+- Initial management
+	- Immediate nasogastric tube (NGT) decompression
+		- Most important initial step
+		- Prevents ongoing venous congestion
+		- Reduces risk of ischaemia and perforation
+		- Reduces aspiration risk
+	- Aggressive IV crystalloid resuscitation
+	- Correct electrolyte abnormalities
+		- Especially potassium
+	- Urgent surgical referral
+	- Consider gastroenterology review
+	- Consider ICU involvement early
+
+- Complications
+	- Hypochloraemic metabolic alkalosis
+	- Severe dehydration
+	- Hypokalaemia
+	- Prerenal renal failure
+	- Gastric ischaemia
+	- Gastric necrosis
+	- Gastric perforation
+	- Peritonitis
+	- Septic shock
+	- Multi-organ failure
+	- Death
+![[Pasted image 20260601191610.png]]
+
+![[Pasted image 20260601191618.png]]
+
+- AMC MCQ Pearls
+	- Progressive abdominal distension + non-bilious vomiting + succussion splash = gastric outlet obstruction until proven otherwise
+	- First-line management of acute gastric distension = nasogastric tube decompression
+	- Massive gastric distension can cause gastric ischaemia despite rich collateral blood supply
+	- Ischaemia results primarily from venous obstruction rather than arterial insufficiency
+	- Common metabolic abnormality = hypochloraemic metabolic alkalosis
+	- Major cause of death = gastric perforation → sepsis → multi-organ failure
+	- Elderly and frail patients have highest risk of adverse outcomes

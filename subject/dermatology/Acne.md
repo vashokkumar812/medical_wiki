@@ -1,0 +1,183 @@
+- proper definition
+	- chronic inflammatory disorder of the pilosebaceous unit causing comedones, papules, pustules, nodules, or cysts.
+- risk factor
+	- Puberty/hormones
+	- Family history
+	- Oily skin/sebum excess
+	- Follicular blockage
+	- _C. acnes_ proliferation
+	- Stress
+	- High-GI diet/dairy
+	- Comedogenic cosmetics
+	- Steroids/lithium/androgens
+	- Friction, sweat, humidity
+	- Smoking
+- Pathophysiology
+	- Follicular keratinocyte hyperproliferation
+	- due to inflmmation
+- prognosis
+	- Usually self-limiting
+	- Takes years to naturally resolve
+
+
+- clinical features
+	- Comedones
+		- Distinguishing feature from rosacea
+		- Open comedones
+			- Blackheads
+		- Closed comedones
+			- Whiteheads
+		- ![[Pasted image 20260522114334.png]]
+
+	- Pustules
+	- Nodules
+		- Red
+		- Tender
+	- Cysts
+		- Keratin-filled dilated follicular structures
+	- Scars
+		- Permanent sequelae
+		- Types of scars
+			- Ice-pick scars
+				- Narrow + deep
+			- Hypertrophic scars
+				- Heaped + smooth
+			- Atrophic scars
+				- Flat/depressed
+			- Keloids
+				- Extend beyond original lesion
+		- Severe acne
+			- More likely permanent scarring
+
+	- Psychological aspects
+		- Severity of acne may not correlate with distress
+		
+- Acne excoriee
+	- Compulsive picking/scratching
+	- Common in young women
+	- Causes hypopigmented scarring
+- Important concepts
+	- Not caused by poor hygiene
+	- No proven link with fatty foods/chocolate
+	- Poor compliance commonly causes treatment failure
+
+- differential diagnosis
+	- ![[Pasted image 20260522120020.png]]
+- treatment
+	- Skin care
+		- Avoid
+			- Excessive cleansing
+			- Harsh soaps
+			- Scrubbing/exfoliation
+			- Squeezing/picking lesions
+				- Causes follicular rupture
+				- Worsens inflammatory acne
+			- Excess sunscreen/makeup may aggravate acne
+		- Oil-free makeup permitted
+		- Oil-free sunscreen recommended
+		- Moisturisers usually unnecessary
+	
+	- Diet
+		- Possible aggravating factors
+			- Refined carbohydrates
+			- Milk/dairy
+			- Saturated fats
+			- Trans fats
+		- Possible protective factors
+			- Vegetables
+			- Fish
+			- Omega-3 fatty acids
+		- IGF-1 + insulin may promote acne
+	- Topical therapy
+		- Benzoyl peroxide
+		- Azelaic acid
+		- Salicylic acid/glycolic acid
+		- Topical retinoids
+			- Most effective comedolytics
+			- Vitamin A derivatives
+			- Night application required
+			- Adverse effects
+				- Irritation
+				- Photosensitivity
+			- Avoid in pregnancy
+				- No proven fetal harm
+		- Topical dapsone
+			- Anti-inflammatory
+			- Not antibiotic
+		- Topical antibiotics
+			- Prescription only
+			- Best combined with
+				- Benzoyl peroxide
+				- Retinoids
+			- Combination reduces antibiotic resistance
+			- Avoid antibiotic monotherapy
+	- Systemic therapy
+		- Indications
+			- Failure of topical monotherapy
+			- Papular/nodular/pustular/cystic acne
+		- Clinical response
+			- Takes weeks to months
+		- drugs
+			- Doxycycline
+				- Commonest oral antibiotic in Australia
+				- Typical dose
+					- 50 mg daily
+				- Adverse effect
+					- Photosensitivity
+				- Administration
+					- 1 hour before or 2 hours after meals
+			- Minocycline
+				- 50 mg BD
+				- Less photosensitivity
+				- Can take with food
+				- Adverse effects
+					- Pigmentation
+					- Rare intracranial hypertension
+					- Rare drug-induced lupus
+			- Second-line antibiotics
+				- Erythromycin
+				- Trimethoprim-sulfamethoxazole
+				- Trimethoprim
+				- Azithromycin
+				- Clarithromycin
+			- Antibiotic principles
+				- Review every 3–6 months
+				- If failure after ≥3 months
+					- Consider alternative therapy
+	- Hormonal therapy
+		- Combined oral contraceptives
+			- Useful agents contain
+				- Cyproterone acetate
+				- Desogestrel
+				- Dienogest
+				- Drospirenone
+				- Gestodene
+			- Slow onset
+				- Improvement after ~3 months
+				- Best results by 6 months
+			- Often combined with
+				- Oral antibiotics
+				- Topical therapy
+		- Spironolactone
+			- Synthetic steroid + weak diuretic
+			- Particularly useful with
+				- Hypertrichosis
+				- Seborrhoea
+			- Takes 2–3 months for response
+			- May cause menstrual irregularity
+			- Combined OCP may reduce irregular bleeding
+	- Isotretinoin
+		- Gold standard for severe/resistant acne
+		- Major adverse effect
+			- Teratogenicity
+		- Avoid pregnancy
+			- During treatment
+			- For 1 month after cessation
+		- Requires specialist prescription
+
+| Severity               | Clinical Features                                             | First-line Therapy                                                                          | Maintenance Therapy                                  |
+| ---------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Mild**               | Comedones with a few papules                                  | Topical retinoid                                                                            | Topical retinoid ± BPO **or** BPO/topical antibiotic |
+| **Moderate**           | Comedones + papules + some pustules                           | Topical retinoid + BPO **or** BPO/topical antibiotic                                        | Topical retinoid ± BPO **or** BPO/topical antibiotic |
+| **Moderate to Severe** | Few cysts or nodules present                                  | BPO/topical antibiotic **or** Topical retinoid + BPO                                        | Topical retinoid ± BPO **or** BPO/topical antibiotic |
+| **Severe**             | Numerous cysts and nodules; may extend to the waistline/trunk | Topical antibiotic + BPO + topical retinoid **or** Oral antibiotic + BPO + topical retinoid | Topical retinoid ± BPO **or** BPO/topical antibiotic |

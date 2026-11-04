@@ -1,0 +1,198 @@
+- diabetic ketoacidosis (DKA)
+	- Definition
+		- Potentially life-threatening complication of diabetes mellitus resulting from insulin deficiency
+		- Characterised by:
+			- hyperglycaemia
+			- ketosis
+			- metabolic acidosis
+
+- euglycaemic diabetic ketoacidosis (euDKA)
+	- Variant of DKA with:
+		- severe ketoacidosis
+		- ketonaemia/ketonuria
+		- normal or mildly elevated blood glucose
+	- Commonly associated with SGLT2 inhibitor use
+
+- diagnostic criteria
+	- pH < 7.3
+	- Ketosis
+		- ketonaemia or ketonuria
+	- HCO3 < 15 mmol/L
+		- due to high anion gap metabolic acidosis (HAGMA)
+	- Hyperglycaemia
+		- may be mild in euDKA
+
+- pathogenesis
+	- Increased counter-regulatory hormones
+		- glucagon
+		- cortisol
+		- catecholamines
+		- growth hormone
+	- Decreased insulin
+		- → hyperglycaemia
+		- → hyperosmolality + glycosuria
+		- → electrolyte loss
+		- → lipolysis
+		- → ketone production from triglyceride metabolism
+		- → metabolic acidosis
+
+- SGLT2 inhibitors
+	- Mechanism
+		- inhibit sodium-glucose cotransporter-2 in proximal renal tubule
+		- increase urinary glucose excretion
+		- reduce plasma glucose
+	- Examples
+		- dapagliflozin
+		- empagliflozin
+		- canagliflozin
+	- Associated with risk of euDKA
+
+- pathophysiology of euDKA
+	- SGLT2 inhibitors cause glycosuria
+		- lowers plasma glucose
+	- Reduced glucose levels suppress insulin secretion
+	- Plasma glucagon concentration increases
+	- Increased glucagon-to-insulin ratio causes:
+		- lipolysis
+		- ketogenesis
+	- Hyperglycaemia may remain mild because excess glucose is excreted in urine
+	- Results in severe ketoacidosis despite near-normal glucose
+
+- risk factors
+	- Non-compliance with insulin
+	- Acute illness
+	- Newly diagnosed diabetes
+	- Type 1 diabetes mellitus
+	- LADA
+	- SGLT2 inhibitor use
+	- Insulin dose reduction or omission
+	- Fasting
+	- Reduced oral intake
+	- Surgery
+	- Dehydration
+	- Alcohol excess
+
+- precipitating factors
+	- Infection
+	- Myocardial infarction
+	- Pneumonia
+	- Gastrointestinal illness
+	- Stroke
+	- Surgery
+	- Trauma
+
+- clinical features
+	- Dehydration
+	- Polyuria
+	- Polydipsia
+	- Weight loss
+	- Nausea
+	- Vomiting
+	- Abdominal pain
+	- Lethargy
+	- Dyspnoea
+	- Kussmaul breathing
+	- Tachycardia
+	- Coma
+
+- investigations
+	- ABG/VBG
+		- metabolic acidosis
+		- low bicarbonate
+	- Blood glucose
+		- may be mildly elevated in euDKA
+	- Blood ketones
+		- elevated
+	- Urinalysis
+		- ketones
+		- glycosuria
+	- Electrolytes
+	- Osmolality
+	- Renal function
+	- Pregnancy test
+	- Investigations for precipitating cause
+		- FBC
+		- ECG
+		- CXR
+
+- acid-base and electrolyte abnormalities
+	- Severe metabolic acidosis with probable incomplete respiratory compensation
+	- Potassium
+		- serum level may initially be normal
+		- total body potassium depletion is present
+		- replace once K⁺ < 5 mmol/L
+			- KH2PO4 may be used
+	- Sodium may be deranged
+	- Acidaemia rarely requires bicarbonate therapy
+		- usually improves with standard treatment
+
+- management
+	- goals
+		- treat precipitating cause
+		- correct dehydration
+		- suppress ketogenesis
+		- correct electrolyte abnormalities
+		- reverse acidosis
+
+	- resuscitation
+		- Airway protection if required
+			- intubation in severe cases
+		- Oxygen as required
+		- IV access
+		- Fluid boluses
+			- 20 mL/kg NS or Hartmann’s
+		- Urinary catheter if required
+
+	- specific therapy
+		- Start insulin infusion
+			- avoid bolus
+			- 0.1 U/kg/hr
+		- Aim glucose reduction
+			- 1–2 mmol/L/hr
+		- Balanced salt solution for fluid resuscitation
+		- Once glucose < 15 mmol/L
+			- Dextrose 5% at 100 mL/hr
+		- Dextrose often needed earlier in euDKA
+		- Stop precipitating medications
+			- especially SGLT2 inhibitors
+
+	- monitoring
+		- Blood glucose
+		- Electrolytes
+		- Blood gases
+		- Blood ketones
+		- Urinary ketones or base excess clearance
+		- Correct osmolality by ≤ 3 mOsm/kg/hr
+
+- prevention
+	- Avoid inappropriate insulin cessation
+	- Avoid dramatic insulin dose reduction
+	- Educate patients regarding:
+		- symptoms of DKA
+		- ketone monitoring
+	- Check ketones during:
+		- illness
+		- fasting
+		- reduced oral intake
+		- perioperative periods
+	- Temporarily cease SGLT2 inhibitors during:
+		- acute illness
+		- surgery
+		- prolonged fasting
+
+- complications
+	- Hypoglycaemia
+	- Hyponatraemia
+	- Hyperchloraemic acidosis
+	- Cerebral oedema
+	- Arrhythmias
+	- Venous thrombosis
+	- Infection
+	- Hyperchloraemia
+
+- important learning points
+	- euDKA is a potentially life-threatening complication of SGLT2 inhibitors
+	- Hyperglycaemia may be absent or mild
+	- Normal glucose does not exclude DKA
+	- Blood ketone testing is essential in symptomatic patients on SGLT2 inhibitors
+	- Delayed diagnosis increases morbidity and mortality

@@ -1,0 +1,199 @@
+* Cause
+  - Chlamydia trachomatis
+  - See also: Lymphogranuloma venereum (LGV)
+* Epidemiology
+  - Most reported communicable disease in Australia
+  - Highest risk in people aged <30 years
+  - 85–90% are asymptomatic
+  - Previous infection does not provide immunity against reinfection
+  - Easy to test and treat
+* Transmission
+  - Sexual contact
+  - Can infect multiple anatomical sites
+    - Genital tract
+    - Anorectum
+    - Pharynx
+    - Eye
+* Clinical features
+  - Asymptomatic infection
+    - 85–90% have no symptoms
+  - Genital symptoms
+    - Dysuria
+    - Penile urethral discharge
+    - Vaginal discharge
+    - Testicular pain
+    - Pelvic pain
+    - Intermenstrual bleeding
+    - Postcoital bleeding
+    - Dyspareunia
+  - Anorectal symptoms
+    - Anorectal discomfort or symptoms
+* Complications
+  - Epididymo-orchitis
+  - Pelvic inflammatory disease (PID)
+  - Infertility
+  - Pregnancy complications
+    - Ectopic pregnancy
+    - Premature rupture of membranes
+    - Preterm delivery
+    - Low-birthweight infants
+  - Reactive arthritis
+    - Arthritis
+    - Sometimes associated with rash
+    - Gastrointestinal symptoms
+  - Cervicitis
+  - Conjunctivitis
+  - Perihepatitis
+* Diagnosis
+  - Nucleic acid amplification test (NAAT)
+    - Highly sensitive
+    - Can be performed in non-clinical settings
+    - Only recommended test for chlamydia
+  - Specimen selection
+    - First-pass urine (FPU)
+      - NAAT
+      - For people without a vagina
+      - If endocervical or self-collected vaginal swab cannot be obtained
+      - Less sensitive than self-collected vaginal swab
+    - Self-collected vaginal swab
+      - NAAT
+      - Best test if speculum examination is not performed
+    - Clinician-collected endocervical swab
+      - NAAT
+      - Best test if patient is examined
+    - Anorectal swab
+      - NAAT
+      - All patients with anorectal symptoms
+      - All men who have sex with men (MSM)
+      - Self-collection or clinician collection
+    - Pharyngeal swab
+      - NAAT
+      - All MSM
+  - Specimen collection
+    - Asymptomatic patients can self-collect most samples
+      - Vaginal swabs
+      - Anorectal swabs
+      - Throat swabs
+    - Encourage self-collection when
+      - Patient is asymptomatic
+      - Clinical examination cannot be performed
+  - Additional testing
+    - Concurrent gonorrhoea testing should accompany chlamydia testing
+* Management
+  - Uncomplicated genital or pharyngeal infection
+    - First-line: doxycycline 100 mg PO BD for 7 days
+    - Alternative: azithromycin 1 g PO stat
+      - Consider if adherence to daily treatment is likely to be poor
+      - Particularly if anorectal infection is less likely
+  - Anorectal infection
+    - Asymptomatic
+      - Doxycycline 100 mg PO BD for 7 days
+    - Symptomatic
+      - Doxycycline 100 mg PO BD for 21 days
+      - Refer to anorectal syndromes
+    - Alternative
+      - Azithromycin 1 g PO stat
+      - Repeat 1 g after 12–24 hours
+  - Treatment advice
+    - Refer to urethritis management for immediate management of urethral symptoms
+    - Do not routinely provide immediate treatment to all sexual contacts
+      - Offer testing of exposed anatomical sites
+      - Await results
+    - If contact treatment is initiated
+      - Use recommended treatment regimen
+      - Use azithromycin only if adherence is likely to be poor or matches index case treatment
+    - Intrauterine device (IUD)
+      - Leave IUD in place
+      - Treat as recommended
+      - Seek specialist advice if needed
+    - Symptomatic anorectal infection
+      - Follow specific anorectal testing and treatment recommendations
+  - Immediate management
+    - Perform comprehensive STI testing
+      - HIV serology
+      - Syphilis serology
+      - If not already performed
+    - Sexual abstinence
+      - Avoid sexual contact for 7 days after treatment commences
+      - Or until treatment course is completed and symptoms resolve
+      - Whichever is later
+    - Advise no sex with partners from the previous 6 months
+      - Until partners have been tested
+      - Until partners have been treated if necessary
+    - Commence contact tracing
+    - Consider patient-delivered partner therapy
+    - Provide patient factsheet
+    - Notify state or territory health department
+* Special treatment situations
+  - Pregnancy
+    - Azithromycin 1 g PO stat
+  - Allergy to principal treatment options
+    - If both principal treatment options are unsuitable
+      - Seek specialist advice
+  - Rectal co-infection with gonorrhoea
+    - Treat both infections
+    - Ceftriaxone 500 mg IMI stat
+      - Diluted in 2 mL of 1% lignocaine
+    - PLUS doxycycline
+      - Asymptomatic: 100 mg PO BD for 7 days
+      - Symptomatic: 100 mg PO BD for 21 days
+* Contact tracing
+  - Importance
+    - Prevent reinfection
+    - Reduce transmission
+  - Trace all sexual partners from the previous 6 months
+  - Diagnosing doctor
+    - Responsible for initiating contact tracing discussion
+    - Must document the discussion
+  - Sexual contacts
+    - Offer testing of all exposed anatomical sites
+    - Consider presumptive treatment if
+      - Sexual contact occurred within the previous 2 weeks
+      - Individual circumstances make later treatment unlikely
+  - Patient-delivered partner therapy (PDPT)
+    - Partner notification and treatment method
+    - Antibiotic prescription or treatment supplied for sexual partner(s)
+    - Index patient delivers prescription or treatment to partner(s)
+    - Consider in
+      - Heterosexual index patients
+      - Anogenital or oropharyngeal chlamydia
+      - Partners unlikely to seek testing or treatment
+      - Repeat infections where partners remain untreated
+    - Approved in some jurisdictions
+      - Victoria
+      - New South Wales
+      - Northern Territory
+    - Refer to local PDPT guidance
+  - Guidelines
+    - Australasian Contact Tracing Guidelines – Chlamydia
+* Follow-up
+  - Confirm treatment adherence
+  - Assess symptom resolution
+  - Confirm contact tracing has been completed
+  - Offer additional contact tracing support if needed
+  - Sexual health education
+    - Condom use
+    - Contraception
+    - HIV PrEP/PEP
+    - Safe injecting practices
+    - Consent
+    - CST
+    - HAV vaccination
+    - HBV vaccination
+    - HPV vaccination
+* Test of cure
+  - Not routinely recommended
+  - Indications
+    - Pregnancy
+    - Anorectal infection treated with azithromycin
+  - Timing
+    - NAAT no earlier than 4 weeks after completion of treatment
+    - Earlier testing may produce false-positive results
+      - Persistent chlamydia DNA
+* Retesting
+  - Reinfection is common
+  - Retest at 3 months
+    - Detect reinfection
+  - Consider testing for other STIs
+    - If not performed at initial presentation
+    - Repeat after relevant window periods

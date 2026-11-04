@@ -1,0 +1,2 @@
+- xray spine
+	- high risk for spinal inury + xray foot + ct foot ( to rule out any small calcaneal frature)

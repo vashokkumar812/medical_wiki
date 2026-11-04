@@ -1,0 +1,552 @@
+# GERD In children 
+- Key points
+	- Gastro-oesophageal reflux (GOR)
+		- common in healthy thriving infants
+		- usually does not require investigation or treatment
+	- Gastro-oesophageal reflux disease (GORD)
+		- defined as troublesome symptoms affecting:
+			- feeding
+			- growth
+			- respiratory status
+	- Consider cow milk protein allergy (CMPA) in infants with GORD symptoms
+	- Do not use acid suppressant therapy as a diagnostic trial in irritable infants
+
+- Background
+	- Gastro-oesophageal reflux (GOR)
+		- due to immature lower oesophageal sphincter
+			- relaxes too often
+			- or fails to close properly
+		- allows reflux of gastric contents into oesophagus
+		- commonly presents with effortless vomiting/possets
+		- physiological process in healthy infants
+
+- GOR
+	- affects 40–65% of healthy infants
+	- usually:
+		- begins before 8 weeks
+		- peaks at 4 months
+		- resolves by 1 year in most infants
+	- does not itself cause crying or irritability
+	- infant crying normally peaks at 6–8 weeks
+	- simple GOR may coexist with unsettled behaviour
+	- rarely requires investigations
+	- management usually:
+		- parental education
+		- reassurance
+		- support
+		- anticipatory guidance
+	- insufficient evidence for:
+		- "silent reflux" diagnosis
+		- treatment of silent reflux
+
+- Gastro-oesophageal reflux disease (GORD)
+	- defined as GOR causing troublesome symptoms
+	- may result in pathological complications
+
+- Features of GORD
+	- Feeding problems
+		- feed refusal
+		- marked irritability with/after feeds
+		- gagging/choking during feeds
+	- Respiratory symptoms
+		- aspiration
+		- chronic cough
+		- wheeze
+		- recurrent pneumonia
+	- Poor weight gain
+	- Haematemesis
+	- Anaemia
+	- Dystonic neck posturing
+		- Sandifer syndrome
+
+- GORD risk groups
+	- more common in children with:
+		- neurological disability
+		- pulmonary dysfunction
+		- congenital abnormalities
+			- eg corrected tracheo-oesophageal fistula
+
+- Cow milk protein allergy (CMPA)
+	- non-IgE mediated CMPA may mimic GORD
+	- symptoms:
+		- persistent regurgitation
+		- vomiting
+		- irritability
+	- suggestive features:
+		- blood/mucous in stool
+		- chronic diarrhoea
+		- personal history of atopy
+		- family history of atopy
+
+- Assessment
+	- diagnosis usually based on:
+		- detailed history
+		- physical examination
+	- direct observation of feeding may identify:
+		- excessive air swallowing
+		- poor latch
+		- difficulty managing milk flow
+
+- Red flag features
+	- General signs/symptoms
+		- vomiting onset:
+			- <1 week
+			- >6 months
+		- vomiting persisting beyond 12–18 months
+		- lethargy
+		- fever
+		- excessive irritability
+		- weight loss
+		- faltering growth
+		- feeding problems/oral aversion
+		- respiratory symptoms
+			- aspiration
+			- chronic cough
+			- wheeze
+			- recurrent pneumonia
+
+	- Neurological signs/symptoms
+		- seizures
+		- microcephaly
+		- macrocephaly
+		- developmental delay
+		- nocturnal vomiting
+			- may suggest raised ICP
+
+	- Gastrointestinal signs/symptoms
+		- bilious vomiting
+		- abdominal rigidity/distension
+			- may indicate intestinal obstruction
+		- forceful/projectile vomiting
+			- may indicate pyloric stenosis
+		- haematemesis
+			- may indicate severe upper GI bleed
+		- chronic diarrhoea
+		- rectal bleeding
+			- possible causes:
+				- bacterial infection
+				- surgical pathology
+				- IBD
+				- CMPA
+		- hepatosplenomegaly
+			- may suggest:
+				- metabolic disorders
+				- other systemic disease
+
+- Differential diagnosis
+	- anatomical malformations
+	- gastrointestinal disorders
+	- neurological disorders
+	- metabolic disorders
+	- cardiac disease
+	- pulmonary pathology
+- - Management
+
+- Investigations
+	- investigations for GORD are rarely indicated
+	- insufficient evidence for routine use of:
+		- barium contrast studies
+		- pH impedance monitoring
+		- upper GI endoscopy
+	- investigations may be considered individually after paediatric/paediatric gastroenterology assessment
+
+- Treatment
+![[Pasted image 20260507191738.png]]
+- GOR
+	- physiological GOR does not require:
+		- investigations
+		- treatment
+
+- General measures
+
+	- Positioning
+		- hold infant head-elevated for 20–30 min after feeds
+			- may reduce reflux
+		- avoid:
+			- prone sleeping
+			- side sleeping
+			- inclined sleep surfaces
+		- reason:
+			- increased SIDS risk
+
+	- Thickened feeds
+		- continue direct breastfeeding where possible
+		- benefit modest
+		- expressing + bottle feeding may increase burden
+		- in bottle-fed infants:
+			- may reduce vomiting frequency
+		- no evidence favouring one thickening agent
+		- options:
+			- anti-reflux pre-thickened formula
+			- add thickener to standard formula
+			- add thickener to expressed breast milk
+		- avoid cereal-based thickeners in breast milk
+			- digested by breast milk amylases
+		- possible adverse effects:
+			- abdominal pain
+			- diarrhoea
+			- constipation
+		- avoid co-administration with alginate products
+			- risk of bowel obstruction
+
+	- Optimise feeds
+		- feed assessment by experienced clinician useful
+		- consider:
+			- smaller frequent feeds
+			- reducing excessive total feed volume
+		- GOR alone is not indication for:
+			- stopping breastfeeding
+			- changing formula
+		- no standard cow milk formula superior to another
+
+	- Complementary therapies
+		- not recommended:
+			- prebiotics
+			- probiotics
+			- herbal medications
+
+- Specific measures for GORD
+
+	- Cow milk protein exclusion
+		- consider if CMPA suspected
+		- trial:
+			- strict cow milk protein elimination for 2–4 weeks
+		- arrange paediatric referral
+		- breastfed infants:
+			- maternal dairy exclusion required
+		- formula-fed infants:
+			- specialised formula required
+
+- Pharmacological management
+
+	- Acid suppression therapy
+		- 1st line:
+			- proton pump inhibitor (PPI)
+				- omeprazole
+				- lansoprazole
+		- initial trial:
+			- 2–4 weeks
+		- reassess ongoing need
+		- if improvement:
+			- continue 4–8 weeks
+			- then consider weaning
+		- potential adverse effects:
+			- community acquired pneumonia
+			- gastroenteritis
+			- fractures
+			- micronutrient deficiency
+		- do not use empiric PPI trial for irritable infants
+
+	- Surface agents
+		- alginate:
+			- Gaviscon Infant®
+		- mechanism:
+			- increases gastric content viscosity
+		- may reduce visible regurgitation
+		- evidence limited
+		- long-term use not recommended
+
+	- Prokinetic agents
+		- specialist use only
+		- may be considered before surgery
+		- used when other pharmacological therapy fails
+
+- Surgical management
+	- fundoplication reserved for:
+		- severe intractable GORD
+		- failure of optimal medical therapy
+		- significant complications
+
+- Consult paediatric team when
+	- red flag signs present
+	- symptoms not responding to initial management
+
+- Consider transfer when
+	- child requires care beyond hospital capability
+
+- Disposition
+
+	- Discharge
+		- most GOR/GORD managed outpatient
+		- ensure:
+			- caregiver support
+			- parent education/handouts
+			- follow-up arranged
+		- reassess response to interventions and therapy
+
+# Helicobacter pylori
+- Definition
+	- Helicobacter pylori (H. pylori)
+		- Gram-negative bacillus
+		- Naturally colonised the human stomach for at least 50,000 years
+		- Usually acquired in childhood
+		- Colonises gastric mucosa
+	- Major pathogen of the gastroduodenal region
+	- Major role in pathogenesis of most peptic ulcer disease (PUD)
+	- No current first-line therapy is curative in all patients
+
+- Epidemiology
+	- Colonises about 50% of the world's population at some time in life
+	- Westernised countries
+		- Prevalence ~30%
+	- Australia
+		- General adult prevalence 24.8%
+		- Prevalence increases with age
+		- Inverse correlation with socioeconomic living conditions
+		- Aboriginal and Torres Strait Islander peoples
+			- 50–80%
+		- Asian communities
+			- 50–80%
+
+- Etiology (Causes)
+	- Risk factors for infection
+		- Increasing age
+		- Lower socioeconomic living conditions
+	- Risk factors for eradication failure
+		- Poor adherence
+		- Clarithromycin resistance
+		- Previous exposure to macrolides
+		- Previous exposure to metronidazole
+		- Previous use of PPIs
+		- Smoking
+
+- Pathogenesis
+	- Persistent gastric colonisation
+	- Induces persistent immune response
+	- Organism possesses adaptations that prevent immune clearance
+	- Sustained gastric inflammation
+		- Reduction in somatostatin-producing D cells
+		- Increased gastrin secretion
+		- Increased gastric acid secretion
+	- May lead to peptic ulceration
+	- Most colonised patients develop gastritis
+	- Ulcer formation influenced by
+		- Bacterial strain differences
+		- Host susceptibility
+		- Environmental factors
+
+- Most Common
+	- Organism
+		- Helicobacter pylori
+	- Associated disease
+		- Gastritis
+	- Worldwide eradication regimen
+		- PPI-based triple therapy
+	- Symptomatic presentation
+		- Dyspepsia
+		- Epigastric pain
+
+- Clinical Features
+	- Symptoms
+		- Epigastric pain
+		- Dyspepsia
+		- Nausea
+		- Bloating
+		- Mild gastric symptoms
+	- Signs
+		- Often asymptomatic
+		- Most patients remain asymptomatic
+	- Examination
+		- May be unremarkable
+
+- Investigations
+	- Invasive tests
+		- Rapid urease test
+			- Biopsy specimen combined with urea
+			- H. pylori converts urea to ammonia + CO₂
+			- Positive if pH becomes more alkaline
+			- Colour change indicates positivity
+			- Quick and inexpensive
+			- Highly sensitive and specific
+			- Not suitable for post-eradication monitoring
+		- Culture
+			- Determines antibiotic sensitivities
+			- Expensive
+			- Not widely available
+			- Highly specific
+			- Low sensitivity
+		- Histology
+			- Assesses degree and pattern of inflammation
+			- Expensive
+			- Highly sensitive and specific
+			- Requires gastroscopy
+			- Detects early MALT lymphoma changes
+
+	- Non-invasive tests
+		- Serology
+			- H. pylori-specific IgG antibodies
+			- Inexpensive
+			- Widely available
+			- Low titre
+				- Past exposure
+			- High titre
+				- Active colonisation
+			- Not suitable for post-eradication monitoring
+		- Urea breath test (UBT)
+			- Uses urea metabolism by H. pylori
+			- Patient ingests 13C-labelled urea
+			- Measures labelled CO₂ in exhaled breath
+			- High positive predictive value
+			- High negative predictive value
+			- Suitable for diagnosis
+			- Recommended test for post-eradication monitoring
+			- Non-invasive test of choice
+			- Test of cure
+				- ≥4 weeks after treatment completion
+			- Preparation
+				- Antibiotics and bismuth compounds
+					- Stop for 4 weeks
+				- Cytoprotective agents (sucralfate)
+					- Stop for 2 weeks
+				- PPIs
+					- Stop for 2 weeks
+				- H₂ antagonists and antacids
+					- Fasting period only
+			- Limitations
+				- Antibiotics
+				- Cytoprotective agents
+				- PPIs
+					- May cause false-negative results
+		- Stool antigen test
+			- Detects H. pylori antigen
+			- Suitable for diagnosis
+			- Suitable for post-treatment monitoring
+			- Monoclonal stool antigen test
+				- Acceptable alternative to UBT in adults
+				- Preferred in paediatric patients
+			- Limitation
+				- Unpleasant specimen collection
+
+- Diagnostic Criteria
+	- Positive urea breath test
+	- Positive stool antigen test
+	- Positive rapid urease test
+	- Positive histology
+	- Positive culture
+	- High-titre serology suggestive of active infection
+
+- Complications
+	- Chronic gastritis
+		- Nearly all infected patients
+	- Peptic ulcer disease
+			- Lifetime risk 10%
+	- Gastric adenocarcinoma
+			- Lifetime risk 1–3%
+	- Mucosa-associated lymphoid tissue (MALT) lymphoma
+			- Lifetime risk <0.1%
+	- Gastric ulcer
+			- >60% associated with H. pylori
+	- Duodenal ulcer
+			- >80% associated with H. pylori
+
+- Management
+	- Screening indications
+		- Epigastric pain
+		- Dyspepsia
+		- Family history of gastric cancer
+		- Family history of MALT lymphoma
+		- Prior to NSAID therapy
+		- Family members with
+			- Upper GI symptoms
+			- Positive family history of gastric cancer
+
+	- Traditional eradication regimens
+		- H₂ receptor blocker + antibiotic
+			- Eradication rate 73–84%
+		- PPI-based dual therapy
+		- Bismuth-based triple therapy
+		- Bismuth-based quadruple therapy
+
+	- First-line therapy
+		- Clarithromycin-based triple therapy
+		- PPI-based triple therapy
+			- Esomeprazole
+			- Amoxicillin
+			- Clarithromycin
+		- Recommended duration
+			- 14 days
+		- Penicillin allergy
+			- Esomeprazole
+			- Clarithromycin
+			- Metronidazole
+
+	- Sequential therapy
+		- Two-step 10-day regimen
+		- First 5 days
+			- PPI
+			- Amoxicillin
+		- Next 5 days
+			- PPI
+			- Clarithromycin
+			- Tinidazole
+		- Eradication rate
+			- 87.0%
+		- 14-day sequential therapy
+			- 90.7%
+		- Intention-to-treat analysis
+			- 91.3%
+		- Per-protocol analysis
+			- 93.7%
+
+	- Salvage therapy
+		- PPI
+		- Amoxicillin
+		- Levofloxacin
+		- 10-day regimen
+		- ACG efficacy after failed sequential therapy
+			- 76%
+		- Pilot study efficacy
+			- 85.7%
+
+	- Refractory H. pylori
+		- Do not repeat clarithromycin-based triple therapy
+		- Consider
+			- Levofloxacin
+			- Colloidal bismuth subcitrate
+			- Tetracycline
+			- Rifabutin
+			- Moxifloxacin
+		- Refer to specialist
+		- Gastroscopy recommended
+
+	- Addressing compliance
+		- Emphasise completion of therapy
+		- Poor adherence is the most common cause of eradication failure in Australia
+		- Assess adherence at 7-day review
+		- Assess side effects at 7-day review
+
+- Monitoring and Follow-up
+	- Urea breath test
+		- Recommended test of cure
+		- ≥4 weeks after treatment completion
+	- Follow-up review
+		- 7 days after treatment commencement
+	- Monitor
+		- Adherence
+		- Side effects
+	- Persistent positive UBT
+		- Refractory H. pylori infection
+
+- Prevention
+	- Early detection and eradication
+	- Screen high-risk patients
+	- Sensitivity testing before treatment may improve eradication success
+	- Select antibiotics according to susceptibility
+	- Avoid reuse of previously failed antibiotic classes
+
+- Screening
+	- Dyspepsia
+	- Epigastric pain
+	- Family history of gastric cancer
+	- Family history of MALT lymphoma
+	- Prior to NSAID therapy
+
+- Prognosis
+	- Most colonised patients do not develop peptic ulcers
+	- Lifetime risk of gastric or duodenal ulcer
+		- 10%
+	- Standard triple therapy success
+		- 70–85%
+	- Quadruple therapy failure after failed triple therapy
+		- 20–25%
+	- No eradication strategy achieves universal cure

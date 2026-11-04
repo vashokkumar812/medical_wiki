@@ -1,0 +1,25 @@
+- Epidemiology
+	- Rare overall
+- Pathology
+	- Small Bowel Tumours
+		- Mostly benign
+	- Large Bowel and Colon Tumours
+		- Mostly malignant
+- Causes of Small Bowel Malignancy
+	- ~50% of malignant small bowel tumour
+		- Adenocarcinoma
+			- 100x risk in crohn disease
+	- Other Malignancies
+		- Carcinoid tumours
+		- Lymphomas
+		- Metastatic deposits
+		- Gastrointestinal stromal tumours (GIST)
+- Metastatic Disease
+	- commonly due to malignant melanoma
+- Small Bowel Lymphoma
+	- if distal ileum
+		- chron disease 
+	- if terminal ileum
+		- Primary Small Bowel Lymphoma
+	- if proximal jejunum
+		- Coeliac Disease–Associated Lymphoma

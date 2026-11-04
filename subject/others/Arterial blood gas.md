@@ -1,0 +1,294 @@
+- ABG Interpretation Approach
+	- Step 1: Assess pH
+		- pH < 7.35
+			- Acidaemia
+		- pH > 7.45
+			- Alkalaemia
+		- pH 7.35–7.45
+			- Normal or compensated disorder
+	- Step 2: Identify primary disorder
+		- PaCO₂ abnormal
+			- Respiratory disorder
+		- HCO₃⁻ abnormal
+			- Metabolic disorder
+	- Step 3: Assess compensation
+	- Step 4: Assess oxygenation
+	- Step 5: Calculate anion gap if metabolic acidosis
+	- Step 6: Look for mixed acid-base disorders
+
+- Normal ABG Values
+	- pH
+		- 7.35–7.45
+	- PaCO₂
+		- 35–45 mmHg
+		- 4.7–6.0 kPa
+	- HCO₃⁻
+		- 22–26 mmol/L
+	- PaO₂
+		- 80–100 mmHg
+		- 10.7–13.3 kPa
+	- SaO₂
+		- 95–100%
+	- Base Excess
+		- −2 to +2
+
+- Respiratory Acidosis
+	- ABG Pattern
+		- pH ↓
+		- PaCO₂ ↑
+	- Causes
+		- COPD exacerbation
+		- Severe asthma
+		- Opioid overdose
+		- Benzodiazepine overdose
+		- CNS depression
+		- Neuromuscular disease
+		- Obesity hypoventilation syndrome
+		- Airway obstruction
+	- Acute Compensation
+		- For every 10 mmHg rise in PaCO₂
+			- HCO₃⁻ rises by 1 mmol/L
+	- Chronic Compensation
+		- For every 10 mmHg rise in PaCO₂
+			- HCO₃⁻ rises by 4 mmol/L
+
+- Respiratory Alkalosis
+	- ABG Pattern
+		- pH ↑
+		- PaCO₂ ↓
+	- Causes
+		- Pulmonary embolism
+		- Anxiety
+		- Panic attack
+		- Pregnancy
+		- Sepsis
+		- High altitude
+		- Early salicylate poisoning
+		- Mechanical overventilation
+	- Acute Compensation
+		- For every 10 mmHg fall in PaCO₂
+			- HCO₃⁻ falls by ~2 mmol/L
+	- Chronic Compensation
+		- For every 10 mmHg fall in PaCO₂
+			- HCO₃⁻ falls by ~5 mmol/L
+
+- Metabolic Acidosis
+	- ABG Pattern
+		- pH ↓
+		- HCO₃⁻ ↓
+	- Step
+		- Calculate anion gap
+	- High Anion Gap Metabolic Acidosis (HAGMA)
+		- GOLD MARK
+			- G
+				- Glycols
+					- Ethylene glycol
+					- Propylene glycol
+			- O
+				- Oxoproline
+					- Chronic paracetamol use
+			- L
+				- Lactic acidosis
+			- D
+				- D-lactic acidosis
+			- M
+				- Methanol
+			- A
+				- Aspirin
+			- R
+				- Renal failure
+			- K
+				- Ketoacidosis
+					- DKA
+					- Alcoholic ketoacidosis
+					- Starvation ketoacidosis
+	- Normal Anion Gap Metabolic Acidosis (NAGMA)
+		- Diarrhoea
+		- Renal tubular acidosis
+		- Acetazolamide
+		- Ureteric diversion
+		- Pancreatic fistula
+		- Excess normal saline infusion
+	- Compensation
+		- Winter's Formula
+			- Expected PaCO₂
+				- (1.5 × HCO₃⁻) + 8 ± 2
+			- Actual PaCO₂ > Expected
+				- Concurrent respiratory acidosis
+			- Actual PaCO₂ < Expected
+				- Concurrent respiratory alkalosis
+
+- Metabolic Alkalosis
+	- ABG Pattern
+		- pH ↑
+		- HCO₃⁻ ↑
+	- Causes
+		- Vomiting
+		- Nasogastric suction
+		- Loop diuretics
+		- Thiazide diuretics
+		- Hyperaldosteronism
+		- Cushing syndrome
+		- Excess bicarbonate administration
+		- Severe hypokalaemia
+	- Compensation
+		- Expected PaCO₂
+			- (0.7 × HCO₃⁻) + 20 ± 5
+
+- Anion Gap
+	- Formula
+		- AG = Na⁺ − (Cl⁻ + HCO₃⁻)
+	- Normal
+		- 8–12 mmol/L
+	- Increased AG
+		- Unmeasured anions present
+	- Common Causes
+		- DKA
+		- Lactic acidosis
+		- Renal failure
+		- Methanol poisoning
+		- Ethylene glycol poisoning
+		- Salicylate poisoning
+	- Albumin Correction
+		- Low albumin lowers AG
+		- Corrected AG
+			- AG + [2.5 × (4 − albumin g/dL)]
+
+- Mixed Acid-Base Disorders
+	- Suspect When
+		- pH near normal despite major abnormalities
+		- Compensation exceeds expected values
+		- Compensation less than expected values
+		- Both PaCO₂ and HCO₃⁻ markedly abnormal
+	- Examples
+		- COPD + vomiting
+			- Respiratory acidosis + metabolic alkalosis
+		- Sepsis + renal failure
+			- Respiratory alkalosis + metabolic acidosis
+		- Salicylate poisoning
+			- Respiratory alkalosis + metabolic acidosis
+		- Cardiac arrest
+			- Respiratory acidosis + metabolic acidosis
+
+- Oxygenation Assessment
+	- PaO₂
+		- Normal
+			- 80–100 mmHg
+		- Mild hypoxaemia
+			- 60–79 mmHg
+		- Moderate hypoxaemia
+			- 40–59 mmHg
+		- Severe hypoxaemia
+			- <40 mmHg
+	- Causes of Hypoxaemia
+		- V/Q mismatch
+		- Shunt
+		- Diffusion defect
+		- Hypoventilation
+		- Low inspired oxygen
+
+- A–a Gradient
+	- Formula
+		- A–a Gradient = PAO₂ − PaO₂
+	- Approximate Normal
+		- (Age ÷ 4) + 4
+	- Increased A–a Gradient
+		- Pulmonary embolism
+		- Pneumonia
+		- Pulmonary oedema
+		- ARDS
+		- Interstitial lung disease
+	- Normal A–a Gradient
+		- Hypoventilation
+		- High altitude
+
+- Classic AMC ABG Patterns
+
+	- COPD Exacerbation
+		- pH ↓
+		- PaCO₂ ↑
+		- HCO₃⁻ mildly ↑
+		- Respiratory acidosis
+
+	- Stable COPD
+		- Near-normal pH
+		- PaCO₂ ↑
+		- HCO₃⁻ ↑
+		- Chronic compensated respiratory acidosis
+
+	- Pulmonary Embolism
+		- pH ↑
+		- PaCO₂ ↓
+		- PaO₂ ↓
+		- Respiratory alkalosis
+
+	- Severe Asthma
+		- Early
+			- Respiratory alkalosis
+		- Late/fatigue
+			- Respiratory acidosis
+			- Life-threatening sign
+
+	- Diabetic Ketoacidosis
+		- pH ↓
+		- HCO₃⁻ ↓
+		- PaCO₂ ↓
+		- High AG metabolic acidosis
+
+	- Vomiting
+		- pH ↑
+		- HCO₃⁻ ↑
+		- Metabolic alkalosis
+
+	- Opioid Overdose
+		- pH ↓
+		- PaCO₂ ↑
+		- Respiratory acidosis
+
+	- Salicylate Poisoning
+		- Early
+			- Respiratory alkalosis
+		- Late
+			- Mixed respiratory alkalosis
+			- High AG metabolic acidosis
+
+	- Septic Shock
+		- Early
+			- Respiratory alkalosis
+		- Late
+			- Lactic acidosis
+			- High AG metabolic acidosis
+
+- AMC Exam High-Yield Pearls
+	- Pulmonary embolism
+		- Most common ABG
+			- Respiratory alkalosis + hypoxaemia
+	- Severe asthma
+		- Normal PaCO₂ is dangerous
+		- Rising PaCO₂ suggests impending respiratory failure
+	- DKA
+		- High AG metabolic acidosis
+		- Low PaCO₂ due to compensation
+	- Diarrhoea
+		- Normal AG metabolic acidosis
+	- Vomiting
+		- Metabolic alkalosis
+	- COPD
+		- Chronic respiratory acidosis with raised HCO₃⁻
+	- Salicylate toxicity
+		- Mixed disorder is classic exam finding
+	- Always assess expected compensation
+		- Inappropriate compensation = mixed disorder
+
+- 30-Second ABG Exam Method
+	- Check pH
+		- Acidosis or alkalosis
+	- Check PaCO₂
+		- Respiratory cause?
+	- Check HCO₃⁻
+		- Metabolic cause?
+	- Assess compensation
+	- Calculate anion gap if acidosis present
+	- Check PaO₂
+	- Consider mixed disorders
+	- Match to clinical scenario

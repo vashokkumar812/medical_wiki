@@ -1,0 +1,198 @@
+Q67. Elderly male. Had history of URTI recently. Now had painful swelling infront of left ear. What appropriate management? 
+1. Incision drainage 
+2. Antibiotics
+
+- Parotitis
+	- Inflammation of the parotid gland
+
+- Causes
+	- Acute infective
+		- Acute suppurative parotitis
+			- *Staphylococcus aureus* (≈80%; most common)
+			- Polymicrobial infection
+		- Viral
+			- Mumps (Paramyxovirus)
+			- Epstein–Barr virus (EBV)
+			- Influenza
+			- Parainfluenza
+			- Coxsackievirus
+			- Cytomegalovirus (CMV)
+			- HIV
+	- Chronic infective
+		- Tuberculosis
+		- Actinomycosis
+		- Syphilis
+	- Drug-induced
+		- Clozapine
+		- Anticholinergics
+		- Antihistamines
+		- Antidepressants
+		- Anti-Parkinson medications
+		- Sulfamethoxazole
+	- Metabolic (sialadenosis)
+		- Diabetes mellitus
+		- Alcohol use disorder
+		- Anorexia nervosa
+		- Bulimia nervosa
+
+- Risk factors for acute suppurative parotitis
+	- Dehydration
+	- Reduced salivary flow
+	- Recent major surgery
+	- Older age
+	- Diabetes mellitus
+	- Immunosuppression
+	- Hypothyroidism
+	- Malnutrition
+
+- History
+	- Acute bacterial
+		- Rapid unilateral facial swelling
+		- Severe pain
+		- Fever
+		- Dysphagia
+		- Trismus
+		- Reduced oral intake
+		- Reduced neck movement
+	- Obstructive
+		- Recurrent unilateral swelling
+		- Worse during meals
+		- Reduced salivary flow
+		- History of smoking
+		- Gout
+	- Viral/systemic
+		- Bilateral swelling
+		- Fever
+		- Malaise
+		- Fatigue
+		- Myalgia
+		- Arthralgia
+		- Night sweats
+	- Sjögren syndrome
+		- Dry eyes
+		- Xerostomia
+		- Dry mucous membranes
+	- Mumps
+		- Bilateral parotitis
+		- Fever
+		- Respiratory symptoms
+		- Orchitis
+		- Aseptic meningitis
+
+- Examination
+	- Diffuse swelling crossing angle of mandible
+	- Tenderness
+	- Warmth
+	- Erythema
+	- Induration
+	- Examine Stensen's duct
+		- Opposite second maxillary molar
+		- Erythematous papilla
+		- Oedematous papilla
+		- Milk gland posterior → anterior
+			- Purulent discharge
+				- Send for culture
+			- Possible stone extrusion
+	- Assess trismus
+		- <3-finger mouth opening
+	- Examine dentition
+		- Dental infection
+		- Xerostomia-related caries
+	- Examine oropharynx
+		- Peritonsillar swelling
+		- Parapharyngeal involvement
+	- Neck examination
+		- Ipsilateral cervical lymphadenopathy
+		- Bilateral lymphadenopathy suggests viral/systemic disease
+	- Facial nerve examination (CN VII)
+		- Mandatory
+		- New palsy strongly suggests malignancy
+		- Urgent ENT referral
+	- Differentiate
+		- Diffuse gland enlargement
+			- Parotitis
+		- Focal mass
+			- Abscess
+			- Lymph node
+			- Neoplasm
+
+- Investigations
+
+	- Microbiology
+		- Culture pus from Stensen's duct
+	- Viral testing
+		- Mumps IgM
+		- Buccal/oral PCR
+
+- Imaging
+	- Not routinely required for uncomplicated acute parotitis
+	- Ultrasound
+		- First-line imaging
+		- Detects
+			- Sialolithiasis
+			- Abscess
+			- Focal masses
+		- High sensitivity and specificity
+	- CT (contrast preferred if complications suspected)
+		- Detects stones
+		- Identifies abscess
+		- Detects deep neck infection
+		- Surgical planning
+	- MRI
+		- Best for chronic disease
+		- Characterises benign vs malignant tumours
+
+- Management
+	- General measures
+		- Rehydration
+		- Analgesia
+		- Warm compresses
+		- Parotid massage
+		- Sialogogues
+			- Lemon juice
+			- Vitamin C
+			- Sour lollies
+			- Mints
+	- Acute suppurative parotitis
+		- Flucloxacillin
+		- Consider MRSA risk or penicillin allergy
+			- Clindamycin
+			- Trimethoprim-sulfamethoxazole
+		- Reassess after 48–72 hours
+			- Poor response → urgent hospital referral
+		- Short course prednisolone may help trismus
+			- Weigh risks individually
+	- Viral parotitis
+		- Supportive care
+		- Hydration
+		- Sialogogues
+		- Mumps
+			- Isolate for 5 days after onset
+			- Notify public health authority
+
+- Red flags requiring emergency referral
+	- Fever >38°C
+	- Tachycardia
+	- Hypotension
+	- Altered mental state
+	- Severe malaise
+	- Moderate or severe dehydration
+	- Severe dysphagia
+	- Severe trismus
+	- Inability to maintain oral intake
+	- Severe limitation of neck movement
+	- Fluctuant parotid swelling
+	- Suspected abscess
+	- Facial nerve palsy
+	- Cutaneous fistula/sinus
+	- Deep neck infection
+	- Septic thrombophlebitis (Lemierre syndrome)
+	- Imaging suspicious for malignancy
+
+- ENT referral
+	- ≥2 episodes of unilateral parotitis
+	- Imaging-confirmed sialolithiasis with parotitis
+	- Bilateral or recurrent parotitis without obvious cause
+	- Incidental parotid mass or tumour
+	- Facial nerve palsy
+	- Persistent focal parotid mass

@@ -1,0 +1,775 @@
+![[Pasted image 20261104130546.png]]
+
+- **Dyslipidaemia / Hyperlipidaemia**
+
+  - **Definition**
+    - Hyperlipidaemia
+      - General term for elevated concentrations of any or all lipids in plasma.
+    - Dyslipidaemia
+      - Abnormal lipid or lipoprotein profile in serum.
+    - Important modifiable cardiovascular risk factor.
+    - There is a continuous relationship between cholesterol levels and cardiovascular events.
+
+  - **Classification**
+    - Primary hyperlipidaemia
+      - May result from genetic abnormalities.
+      - Commonly associated with unhealthy diet and physical inactivity.
+      - Hypercholesterolaemia.
+      - Hypertriglyceridaemia.
+      - Combined hyperlipidaemia.
+    - Secondary hyperlipidaemia
+      - Diabetes mellitus.
+      - Excessive alcohol consumption.
+      - Adverse drug effects.
+      - Other secondary causes
+        - Hypothyroidism.
+        - Obesity.
+        - Anorexia nervosa.
+        - Nephrotic syndrome.
+        - Kidney impairment.
+        - Cholestasis.
+        - Obstructive liver disease.
+        - Hepatic steatosis.
+        - Smoking.
+        - Oestrogen therapy.
+        - Beta-blockers.
+        - Diuretics.
+
+  - **Lipid profile and cardiovascular risk**
+    - Total cholesterol
+      - Higher levels are associated with increased CHD mortality.
+      - Relationship with CHD mortality is curvilinear.
+      - Reduction in cholesterol has a greater impact on CHD mortality at higher baseline cholesterol levels.
+    - LDL cholesterol (LDL-C)
+      - Increased LDL-C is a major coronary artery disease risk factor.
+      - Strongest correlation with coronary artery disease.
+      - Lower LDL-C is associated with greater cardiovascular benefit.
+    - HDL cholesterol (HDL-C)
+      - Low HDL-C is a recognised CHD risk factor.
+      - Increased HDL-C is associated with reduced relative risk of CHD.
+      - At least 50% of variation in HDL-C concentration is genetically determined.
+    - LDL-C : HDL-C ratio
+      - Ratio greater than 4 is listed as a major CAD risk factor in the supplied notes.
+      - Useful in assessing absolute CHD risk.
+      - Used in cardiovascular risk calculators.
+    - Triglycerides (TG)
+      - TG greater than 2 mmol/L is associated with increased cardiovascular risk.
+      - Particularly important when associated with low HDL-C.
+    - Low HDL-C with high TG
+      - Confers at least a similar cardiovascular risk to high LDL-C concentration.
+    - Important
+      - Many individuals with high cholesterol do not develop CHD.
+      - Approximately 35% of individuals with CHD have cholesterol levels below 5.2 mmol/L.
+      - Cholesterol alone is a relatively poor predictor of individual CHD risk.
+
+  - **Lipid targets**
+    - Total cholesterol
+      - Less than 4.0 mmol/L.
+    - LDL-C
+      - Less than 2.0 mmol/L.
+        - Target listed in the supplied lipid-management source.
+      - Less than 2.5 mmol/L.
+        - Target listed in the additional CHD prevention article.
+      - Lower levels may provide additional cardiovascular benefit in high-risk patients.
+    - HDL-C
+      - Greater than or equal to 1.0 mmol/L.
+      - A moderate increase is desirable.
+    - Non-HDL-C
+      - Less than 2.5 mmol/L.
+    - Triglycerides
+      - Less than 2.0 mmol/L.
+    - Very high triglycerides
+      - Greater than 10 mmol/L.
+      - Increased risk of pancreatitis.
+      - Requires aggressive triglyceride reduction.
+
+  - **Screening**
+    - General population
+      - Starting age
+        - 45 years.
+      - Frequency
+        - Every 5 years.
+    - Aboriginal and Torres Strait Islander peoples
+      - Starting age
+        - 35 years in one supplied recommendation.
+    - First-degree relatives of patients with premature CHD
+      - Starting age
+        - 20 years.
+      - Premature CHD
+        - Men younger than 55 years.
+        - Women younger than 65 years.
+    - Patients with established CHD or high cardiovascular risk
+      - Annual screening according to the additional CHD prevention article.
+      - Every 2 years according to the other supplied notes for high-risk patients with 5-year cardiovascular risk greater than 10%.
+    - Mass screening
+      - Not recommended.
+
+  - **Absolute cardiovascular risk assessment**
+    - Definition
+      - Probability, expressed as a percentage, that an individual will experience an adverse cardiovascular event over a specified period.
+      - Usually calculated over 5 or 10 years.
+    - Assessment
+      - Previous approach
+        - Focused on individual cardiovascular risk factors.
+      - Current approach described in the supplied sources
+        - Emphasises overall absolute cardiovascular risk.
+      - Five-year absolute cardiovascular risk assessment is generally recommended.
+      - Framingham-based risk tables and calculators can be used.
+      - Examples
+        - Framingham risk calculator.
+        - New Zealand Risk Calculator.
+      - The LDL-C : HDL-C ratio is used in some cardiovascular risk calculators.
+    - Patients with established cardiovascular disease
+      - Coronary heart disease.
+      - Stroke.
+      - Peripheral arterial disease.
+      - Already at very high cardiovascular risk.
+      - Do not require formal absolute risk calculation before treatment.
+      - Require aggressive cardiovascular risk reduction.
+    - Patients requiring treatment without absolute risk calculation
+      - Familial hypercholesterolaemia.
+      - Severe hypertension.
+      - Target organ damage
+        - Left ventricular hypertrophy.
+        - Proteinuria.
+    - Limitations of Framingham risk assessment
+      - Aboriginal people.
+      - Torres Strait Islanders.
+      - Pacific Islanders.
+        - May substantially underestimate cardiovascular risk.
+        - Particularly problematic in young adults and women.
+        - LDL-C greater than 2.5 mmol/L after lifestyle intervention should prompt consideration of statin therapy according to the supplied recommendation.
+      - Patients older than 70 years
+        - Risk estimation is problematic because individuals older than 70 years were not included in the original Framingham cohort.
+      - Patients with very high isolated risk factors
+        - Calculators may underestimate cardiovascular risk.
+
+  - **Familial hypercholesterolaemia**
+    - Autosomal dominant inheritance.
+    - Exclude secondary causes
+      - Nephrotic syndrome.
+      - Other secondary causes of hypercholesterolaemia.
+    - Complications
+      - Premature cardiovascular disease.
+      - May occur 20–40 years earlier.
+    - Diagnosis
+      - Confirm with at least 2 lipid measurements.
+    - Management
+      - Often starts in childhood.
+      - Requires specialist care.
+      - Statins initially recommended in
+        - Men older than 18 years.
+        - Women older than 30 years.
+        - Unless pregnancy is anticipated soon.
+      - Statin therapy for severe hypercholesterolaemia has been advocated as safe in children older than 8–10 years.
+
+  - **Central obesity and metabolic syndrome**
+    - Metabolic syndrome
+      - Cluster of cardiovascular risk factors.
+      - Associated with increased cardiovascular disease risk.
+      - Components
+        - Hypertension.
+        - Dyslipidaemia.
+        - Glucose intolerance.
+      - Central or visceral obesity is a prerequisite for diagnosis.
+      - Assessed using waist circumference.
+    - Low HDL-C
+      - Commonly associated with metabolic syndrome.
+      - Requires management of all associated cardiovascular risk factors.
+
+  - **Lifestyle modification**
+    - General principles
+      - Foundation of primary prevention of CHD.
+      - Recommended for all patients, including those at high cardiovascular risk.
+      - Also improves the efficacy of lipid-lowering medication.
+      - Requires ongoing support to maintain long-term adherence.
+    - Smoking cessation
+      - Encourage complete smoking cessation.
+    - Weight reduction
+      - Maintain ideal body weight.
+      - Reduce weight in overweight individuals.
+      - May increase HDL-C.
+    - Diet
+      - Reduce
+        - Saturated fats.
+        - Trans fats.
+        - Dietary cholesterol.
+        - Excess dairy and meat intake.
+        - Fast foods.
+        - Deep-fried foods.
+        - Sugar, particularly in hypertriglyceridaemia.
+      - Replace saturated fats with
+        - Monounsaturated fats.
+        - Polyunsaturated fats.
+      - Increase soluble fibre
+        - Fruits.
+        - Vegetables.
+      - Include plant sterol-enriched foods.
+      - Prefer healthier cooking methods
+        - Steaming.
+        - Grilling.
+      - Modify food preparation
+        - Trim visible fat from meat.
+        - Remove chicken skin.
+        - Avoid biscuits and cakes between meals.
+      - Alcohol
+        - Limit alcohol intake.
+        - Excess alcohol particularly increases triglycerides.
+      - Increase water intake.
+    - Physical activity
+      - Regular physical exercise.
+      - May increase HDL-C.
+      - Improves overall cardiovascular risk.
+    - Family support
+      - Important for maintaining lifestyle changes.
+    - Evidence regarding lifestyle interventions
+      - Individual lifestyle interventions produce modest improvements in cholesterol levels.
+      - Systematic review of individual lifestyle interventions did not demonstrate changes in all-cause mortality.
+      - Multiple risk-factor interventions, including drug therapy, were not cost-effective in low-risk individuals according to the supplied article.
+
+  - **Pharmacological management**
+
+    - General principles
+      - Lipid-modifying therapy reduces cardiovascular disease risk.
+      - Most demonstrated benefit is through LDL-C reduction.
+      - Statins have the most convincing evidence for cardiovascular protection.
+      - Statins are generally first-line.
+      - Specific lipid abnormalities may require additional or alternative agents.
+        - Hypertriglyceridaemia may require fibrates or other triglyceride-lowering treatment.
+      - Treatment should be based on absolute cardiovascular risk rather than cholesterol level alone.
+    - Indications based on absolute risk
+      - Five-year cardiovascular risk greater than 15%
+        - Lipid-lowering drug therapy indicated.
+      - Five-year cardiovascular risk 10–15%
+        - Consider drug therapy if additional cardiovascular risk factors are present.
+      - Five-year cardiovascular risk below 10%
+        - Lifestyle modification initially.
+        - Repeat risk assessment after 6 months according to the supplied notes.
+      - Consider PBS eligibility criteria.
+    - Selection of therapy
+      - Select treatment capable of producing effective LDL-C reduction at the approved starting dose.
+      - Titrate according to lipid response.
+      - Dose escalation or change in medication may be required to achieve targets.
+      - Before adding medication
+        - Reassess lifestyle modification.
+        - Reassess medication adherence.
+        - Review lipid response.
+
+  - **Statins**
+    - Mechanism
+      - HMG-CoA reductase inhibitors.
+      - Reduce cholesterol synthesis.
+      - Primarily lower LDL-C.
+    - Benefits
+      - First-line treatment for increased LDL-C.
+      - Most convincing evidence for cardiovascular risk reduction.
+      - Reduce cardiovascular events.
+      - Reduce cardiovascular mortality in secondary prevention.
+      - Have a modest effect on increasing HDL-C.
+      - May reduce triglycerides to some extent.
+    - Dose response
+      - Dose escalation produces diminishing additional benefit.
+      - Higher baseline LDL-C makes achieving target levels more difficult.
+    - Statin selection
+      - Atorvastatin 20 mg and simvastatin 20 mg were among the most frequently prescribed statins in Australia in the supplied article.
+      - Rosuvastatin
+        - Appeared more effective at reducing LDL-C from baseline for the same dose in milligrams.
+        - Safety concerns were raised in the article.
+      - Cerivastatin
+        - Withdrawn because of adverse effects.
+      - No convincing evidence in the supplied article that one statin available in Australia is superior to another.
+      - Choice was suggested to be based on cost.
+    - If LDL-C remains above target despite maximum tolerated statin
+      - Reassess adherence.
+      - Reassess lifestyle.
+      - Consider additional treatment
+        - Ezetimibe.
+        - Bile acid binding resins.
+        - PCSK9 inhibitors.
+        - Nicotinic acid, where appropriate.
+    - Adverse effects
+      - Gastrointestinal upset.
+      - Myalgia.
+      - Myopathy.
+      - Increased ALT and AST.
+      - Rarely rhabdomyolysis.
+      - Conflicting evidence regarding memory and cognitive function.
+
+  - **Ezetimibe**
+    - Mechanism
+      - Reduces cholesterol absorption from the small intestine.
+    - Dose and lipid-lowering effect
+      - 10 mg daily.
+      - Reduces cholesterol levels by approximately 15–20% when used alone.
+      - Addition to statins may produce an additional cholesterol reduction of approximately 24%.
+    - Indications
+      - Statin intolerance.
+      - Inadequate LDL-C reduction despite maximum tolerated statin therapy.
+    - Advantages
+      - Generally well tolerated.
+      - May be used as an alternative or add-on treatment.
+    - Limitations
+      - Long-term safety data is limited.
+      - No mortality or cardiovascular outcome data comparable to the statin evidence described in the supplied article.
+      - Use according to PBS Authority guidelines in the supplied article.
+
+  - **PCSK9 inhibitors**
+    - Examples
+      - Evolocumab.
+      - Alirocumab.
+    - Used for LDL-C reduction.
+    - Indications listed in the supplied notes
+      - Familial hypercholesterolaemia.
+      - Statin intolerance.
+
+  - **Fibrates**
+    - Examples
+      - Gemfibrozil.
+      - Fenofibrate.
+    - Mechanism and lipid effects
+      - Reduce triglycerides.
+      - Increase HDL-C.
+    - Indications
+      - Predominant hypertriglyceridaemia.
+      - Combined hyperlipidaemia.
+      - Increased triglycerides.
+      - Diabetic retinopathy, as listed in the supplied notes.
+    - Doses listed in the supplied notes
+      - Gemfibrozil
+        - 600 mg twice daily.
+      - Fenofibrate
+        - 145 mg daily.
+    - Adverse effects and precautions
+      - Combination with statins increases myopathy risk.
+      - Increased risk of rhabdomyolysis.
+      - Particularly associated with gemfibrozil.
+      - Fenofibrate is preferred over gemfibrozil when statin-fibrate combination treatment is required.
+    - Evidence
+      - Fibrates improve lipid profiles.
+      - The supplied notes describe no established mortality benefit.
+
+  - **Bile acid binding resins**
+    - Examples
+      - Cholestyramine.
+      - Colestipol.
+    - Mechanism
+      - Reduce LDL-C.
+    - Lipid effects
+      - Reduce LDL-C by approximately 15–25%.
+      - Increase HDL-C by approximately 5%.
+      - Dose-response effect.
+    - Adverse effects
+      - Constipation.
+      - Bloating.
+      - Flatulence.
+      - Other gastrointestinal symptoms.
+    - Limitations
+      - Higher doses are limited by gastrointestinal adverse effects.
+      - Often poorly tolerated.
+      - Listed as the safest drug option in the supplied paediatric notes.
+
+  - **Fish oils and omega-3 fatty acids**
+    - Rich in omega-3 polyunsaturated fatty acids.
+    - Reduce triglycerides.
+    - Role
+      - Management of hypertriglyceridaemia.
+      - May be used in combination with statins.
+    - Dose listed in the supplied notes
+      - Fish oil 4 g/day.
+    - Dietary omega-3 sources
+      - Fish.
+      - Nuts.
+      - Seeds.
+    - Dietary fish intake
+      - Approximately 2 servings per week of fish rich in omega-3 fatty acids.
+      - Superiority of dietary fish over supplements was not established in the supplied article.
+    - Evidence
+      - Supplementation has not demonstrated reductions in cardiovascular mortality or all-cause mortality in the supplied notes.
+      - Dietary omega-3 was described as having a slight protective effect.
+
+  - **Nicotinic acid**
+    - Improves lipid profile.
+    - Adverse effects
+      - Flushing.
+      - Gastritis.
+      - Gout.
+    - Reduction of adverse effects
+      - Gradual titration.
+      - Administration with food.
+    - Current formulation described as poorly tolerated.
+    - Best prescribed through specialist clinics.
+    - No established mortality benefit described in the supplied notes.
+
+  - **Management according to lipid abnormality**
+
+    - Hypercholesterolaemia
+      - Increased LDL-C.
+      - Lifestyle modification.
+      - First-line
+        - Statin.
+      - If LDL-C remains above target despite maximum tolerated statin
+        - Ezetimibe.
+        - PCSK9 inhibitors.
+        - Bile acid binding resins.
+        - Other additional treatment where appropriate.
+
+    - Hypertriglyceridaemia
+      - Triglycerides greater than 2 mmol/L
+        - Associated with increased cardiovascular risk.
+        - Particularly important when accompanied by low HDL-C.
+      - Triglycerides greater than 10 mmol/L
+        - Increased risk of pancreatitis.
+        - Requires aggressive reduction.
+      - Lifestyle modification
+        - Weight reduction.
+        - Reduce alcohol.
+        - Reduce sugar.
+        - Reduce saturated fat.
+      - Pharmacological treatment
+        - Fibrates.
+          - Gemfibrozil.
+          - Fenofibrate.
+        - Fish oil.
+          - Omega-3 fatty acids.
+        - Statins.
+          - Limited triglyceride reduction.
+          - Still provide cardiovascular risk reduction.
+      - Isolated raised TG with normal LDL-C and HDL-C and no metabolic syndrome
+        - Lifestyle intervention.
+        - Insufficient evidence for benefit from drug treatment.
+
+    - Combined hyperlipidaemia
+      - Increased cholesterol and triglycerides.
+      - Lifestyle modification.
+      - Statins for LDL-C and cardiovascular risk reduction.
+      - Fibrates may have a role when triglycerides are elevated.
+
+  - **Primary prevention of coronary heart disease**
+    - Serum cholesterol alone
+      - Relatively poor predictor of individual CHD risk.
+      - Absolute cardiovascular risk should guide treatment decisions.
+    - Assess other cardiovascular risk factors
+      - Hypertension.
+      - Smoking.
+      - Diabetes.
+      - Obesity.
+      - Other associated risk factors.
+    - Lifestyle modification
+      - Smoking cessation.
+      - Weight reduction.
+      - Healthy eating.
+      - Reduced saturated fat.
+      - Reduced dietary cholesterol.
+      - Regular physical exercise.
+    - Evidence from primary prevention trials
+      - Mainly involved middle-aged men without previous myocardial infarction.
+      - Lipid-lowering medication reduced CHD events by approximately 30%.
+      - Summary OR 0.70.
+      - 95% CI 0.62–0.79.
+      - Reduction in
+        - Nonfatal myocardial infarction.
+        - CHD deaths.
+      - No demonstrated reduction in all-cause mortality in the supplied analysis.
+    - Low-risk individuals
+      - Multiple risk-factor interventions, including drug therapy, were not cost-effective in the supplied article.
+    - High-risk individuals
+      - Treating high-risk patients is cost-effective.
+      - Priority should be given to identifying and treating high-risk individuals not receiving therapy.
+
+  - **Secondary prevention of coronary heart disease**
+    - Established CHD
+      - Very high absolute cardiovascular risk.
+      - Requires aggressive lipid-lowering treatment.
+    - Statin benefits in adults with established CHD
+      - Statin doses equivalent to simvastatin 40 mg.
+      - Overall mortality reduction
+        - 16%.
+        - RR 0.84.
+        - 95% CI 0.79–0.89.
+      - Cardiovascular mortality reduction
+        - 23%.
+        - RR 0.77.
+        - 95% CI 0.71–0.83.
+      - CHD mortality or nonfatal MI reduction
+        - 25%.
+        - RR 0.75.
+        - 95% CI 0.71–0.79.
+      - Benefits observed within 2 years of starting treatment.
+      - Reduction in CHD risk increases with duration of treatment.
+    - Statin treatment
+      - Beneficial regardless of baseline LDL-C in established vascular disease.
+      - Beneficial in patients with diabetes.
+      - Beneficial in younger and older patients.
+      - Maintain evidence-based treatment to prevent discontinuation.
+
+  - **Statin use in women and elderly patients**
+
+    - Women
+      - Less trial evidence compared with men.
+      - Secondary prevention
+        - Similar but smaller total mortality benefit described in the supplied article.
+      - Primary prevention
+        - Benefits less clear in the supplied article.
+      - Absolute cardiovascular risk should be assessed on the same basis as men.
+      - Treatment should be guided by cardiovascular risk.
+
+    - Elderly patients
+      - Studies involving patients older than 65 years
+        - Statins reduced cardiovascular events.
+        - Combined relative risk reduction approximately 21%.
+        - 95% CI 17–25%.
+        - Number needed to treat approximately 23.
+        - 95% CI 17–29.
+      - Secondary prevention
+        - Statins beneficial at any age according to the supplied notes.
+      - Primary prevention above 74 years
+        - No major mortality or cardiovascular benefit described in the supplied notes.
+      - Diabetes
+        - Small benefit reported up to age 85 in the supplied notes.
+      - Risk assessment above 70 years
+        - Framingham risk estimation is problematic.
+
+  - **Prevention and treatment of stroke**
+
+    - Cholesterol and stroke risk
+      - High cholesterol
+        - Associated with increased risk of ischaemic stroke.
+      - Low cholesterol
+        - Associated with increased risk of haemorrhagic stroke.
+
+    - Statins
+      - Reduce nonfatal stroke risk in patients with
+        - Established CHD.
+        - Elevated serum cholesterol.
+      - In patients with previous TIA or stroke but no history of CHD
+        - The supplied article describes no demonstrated benefit or harm.
+      - Any possible increased risk of haemorrhagic stroke
+        - Appears to be offset by reduced CHD and ischaemic stroke risk.
+
+  - **Peripheral vascular disease**
+
+    - Lipid-lowering treatment
+      - May slow progression of peripheral vascular disease.
+    - Statins
+      - May provide benefits in intermittent claudication.
+      - Improvements described in self-reported walking distance.
+    - Peripheral arterial disease
+      - Indicates generalised vascular disease.
+      - Associated with increased cardiovascular morbidity and mortality.
+
+  - **Monitoring during lipid-lowering therapy**
+
+    - Baseline investigations before statin therapy
+      - Lipid profile.
+      - Liver function tests.
+        - ALT.
+        - AST.
+      - Creatine kinase (CK/CPK).
+
+    - Lipid profile monitoring
+      - Repeat after treatment initiation to assess response.
+      - High-risk patients who have reached target
+        - Ideally every 6 months.
+        - At least every 12 months.
+      - Stable patients
+        - Usually no more than once yearly according to the supplied notes.
+      - Reassess
+        - Lipid control.
+        - Medication adherence.
+        - Overall cardiovascular risk.
+      - Avoid excessive biochemical monitoring unless clinically indicated.
+
+    - Liver function monitoring
+      - Baseline liver enzymes before treatment.
+      - Repeat approximately 4–8 weeks after initiation according to the supplied notes.
+      - Minor abnormalities are common in
+        - Diabetes.
+        - Metabolic syndrome.
+        - Hepatic steatosis.
+      - Minor abnormalities are not necessarily a contraindication to lipid-lowering treatment.
+      - Statin-associated hepatic enzyme elevations
+        - Approximately 0.0–0.8% in one supplied article.
+        - Approximately 3% in another supplied article.
+        - Dose-dependent.
+      - Mild ALT elevation
+        - May settle without discontinuation.
+        - May settle after reducing or stopping the dose.
+      - AST or ALT greater than 3 times the upper limit of normal
+        - Stop statin treatment according to the other supplied lipid-management notes.
+      - Further repeat LFT
+        - Unnecessary if the first post-treatment measurement is normal and the patient remains well.
+      - Statins should not be used according to the supplied article in patients with
+        - Severe liver disease.
+        - Chronic hepatitis.
+        - Heavy alcohol consumption.
+
+    - Creatine kinase monitoring
+      - Measure CK before commencing statin therapy according to the supplied lipid-management notes.
+      - Routine ongoing CK monitoring is not recommended.
+      - Check CK when muscle symptoms occur.
+      - Additional caution in patients predisposed to myopathy
+        - Patients taking gemfibrozil.
+        - Patients taking colchicine.
+        - Patients taking cimetidine.
+        - Elderly patients.
+        - Patients with kidney dysfunction.
+        - Patients reporting muscle symptoms.
+
+    - Statin-associated myalgia
+      - Commonly reported muscle aches and pains.
+      - May be tolerable.
+      - Often settles after a few weeks.
+      - Check CK when muscle symptoms occur.
+
+    - Statin-associated myopathy
+      - Musculoskeletal symptoms with raised CK.
+      - More common with higher statin doses.
+      - One supplied source describes CK greater than 3 times the upper limit of normal as suggestive of myopathy.
+      - Another supplied article recommends stopping statin when symptoms occur with CK 4 times the upper limit of normal.
+      - Management described in the supplied notes
+        - Stop statin treatment.
+        - Repeat CK measurement.
+        - Reintroduction with extreme caution.
+        - Preferably under specialist supervision.
+
+    - Rhabdomyolysis
+      - Rare but potentially life-threatening complication.
+      - Incidence described as 0.04–0.2% of statin users.
+      - Deaths are rare.
+      - Increased risk with statin-fibrate combination therapy.
+      - Particularly associated with gemfibrozil.
+      - Less commonly associated with fenofibrate.
+
+    - Cognitive effects
+      - Conflicting evidence regarding statins and memory.
+      - Conflicting evidence regarding cognitive function.
+
+  - **Duration of treatment and discontinuation**
+
+    - Lipid-lowering treatment
+      - Usually lifelong.
+      - Longer duration of statin treatment is associated with greater CHD risk reduction.
+      - Important for sustained cardiovascular prevention.
+    - Discontinuation
+      - Clinical trial discontinuation rates described as 6–30%.
+      - Rates are much higher in community practice.
+      - Adherence may be poor in elderly patients.
+      - Patients may have variable adherence to dosing schedules.
+    - Consider deprescribing according to the supplied notes
+      - Age greater than 75 years.
+      - Frailty.
+      - Limited life expectancy.
+    - Trial off medication may be considered in selected patients
+      - Significant and sustained lifestyle improvement.
+      - Previously high cardiovascular risk has reduced.
+      - No established cardiovascular disease.
+      - Residual absolute cardiovascular risk should be considered.
+    - Adherence interventions
+      - No specific intervention could be recommended in the supplied article.
+
+  - **Special populations**
+
+    - Children
+      - Lipid-lowering drugs generally not recommended for routine use.
+      - Benefit not established in the general paediatric population.
+      - Exception
+        - Severe familial hypercholesterolaemia.
+        - Severe hypercholesterolaemia requiring specialist management.
+      - Statins
+        - Advocated as safe in children older than 8–10 years in severe hypercholesterolaemia according to the supplied notes.
+      - Adolescents
+        - Routine screening not recommended in the supplied notes.
+        - If elevated lipids are detected
+          - Dietary advice.
+          - Smoking avoidance.
+      - Safest drug option listed
+        - Bile acid binding resins.
+
+    - Aboriginal and Torres Strait Islander peoples
+      - Earlier screening from age 35 years in the supplied recommendations.
+      - Framingham risk calculators may underestimate cardiovascular risk.
+      - Consider statin therapy when LDL-C remains greater than 2.5 mmol/L after lifestyle intervention according to the supplied recommendation.
+
+    - Pregnancy
+      - Physiological increase in cholesterol.
+      - Cholesterol generally returns towards normal postpartum.
+      - Avoid systemic lipid-lowering drugs due to potential fetal risk.
+      - Familial hypercholesterolaemia
+        - Statin treatment in women requires consideration of planned pregnancy.
+
+    - Elderly
+      - Primary prevention above 74 years
+        - Benefit described as uncertain in the supplied notes.
+      - Secondary prevention
+        - Statins beneficial at any age according to the supplied notes.
+      - Consider frailty and limited life expectancy when reviewing treatment.
+
+  - **Complementary therapy**
+
+    - Fish oil supplements
+      - Reduce triglycerides.
+      - No demonstrated reduction in
+        - Cardiovascular mortality.
+        - All-cause mortality.
+
+    - Dietary omega-3
+      - Fish.
+      - Nuts.
+      - Seeds.
+      - Slight protective effect described in the supplied notes.
+
+    - Complementary therapies not recommended in the supplied notes
+      - Vitamin E.
+      - Garlic.
+      - Lecithin.
+
+  - **Improving medication adherence**
+
+    - Patient education
+      - Explain that lipid-lowering therapy is generally lifelong.
+      - Explain that longer duration of treatment is associated with greater likely benefit.
+      - Educate about the importance of cholesterol management in preventing cardiovascular events.
+      - Explain the benefits of managing good and bad cholesterol.
+
+    - Establishing treatment goals
+      - Agree on clear treatment goals.
+      - Explain target lipid levels.
+      - Share treatment progress with patients.
+
+    - Monitoring and feedback
+      - Provide feedback regarding
+        - Lipid levels.
+        - Blood pressure.
+        - Absolute cardiovascular risk.
+        - Waist circumference.
+
+    - Lifestyle reinforcement
+      - Emphasise dietary modification.
+      - Reinforce physical activity.
+      - Encourage weight reduction when appropriate.
+      - Continue lifestyle counselling throughout treatment.
+
+    - Addressing barriers to adherence
+      - Provide educational resources.
+      - Consider medication costs.
+      - Recognise that multiple medications can increase financial burden.
+      - Explain potential side effects.
+      - Emphasise long-term treatment benefits.
+
+  - **Key clinical principles**
+    - Hyperlipidaemia may be primary or secondary.
+    - Serum cholesterol alone is a relatively poor predictor of individual CHD risk.
+    - Absolute cardiovascular risk should guide primary prevention.
+    - Established CHD requires aggressive secondary prevention.
+    - Statins are first-line lipid-lowering treatment.
+    - LDL-C reduction provides the major cardiovascular benefit.
+    - Low HDL-C and high triglycerides are important cardiovascular risk markers.
+    - High HDL-C does not neutralise elevated LDL-C.
+    - Triglycerides greater than 10 mmol/L are associated with pancreatitis risk.
+    - Lifestyle modification is required in all patients.
+    - Ezetimibe may be used when statins are not tolerated or LDL-C reduction is inadequate.
+    - Fibrates have a role in hypertriglyceridaemia and combined hyperlipidaemia.
+    - Statin-fibrate combination therapy increases myopathy risk.
+    - Fenofibrate is preferred over gemfibrozil when combination treatment is required.
+    - Monitor lipid response, adherence and adverse effects.
+    - Statins provide substantial secondary prevention benefits.

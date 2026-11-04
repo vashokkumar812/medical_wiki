@@ -1,0 +1,863 @@
+- MCQ 3.201 – OCP-induced hypertension ⭐⭐⭐
+	- Question
+		- A 34-year-old woman, who has been taking the oral contraceptive pill (OCP) Microgynon 30®, is found to have a BP of 160/100 mmHg when she attends for a repeat prescription.
+		- She indicates that she wishes to cease the OCP in six months to enable her to conceive.
+		- Which one of the following is the most appropriate advice?
+	- Options
+		- A. Continue the OCP unchanged, but add methyldopa as a hypotensive agent, as this could be continued during a subsequent pregnancy.
+		- B. Change the OCP to a preparation with a lower oestrogen dose, such as Microgynon 20®.
+		- C. Cease the OCP and commence hypotensive treatment with methyldopa.
+		- D. Cease the OCP, use condoms for contraception, and reassess the BP in three months. ✅
+		- E. Cease the OCP and commence treatment with an angiotensin-converting enzyme (ACE) inhibitor, as this can be continued during pregnancy.
+	- Answer
+		- D. Cease the OCP, use condoms for contraception, and reassess the BP in three months.
+	- Diagnosis clues ⭐⭐⭐
+		- OCP use
+		- New hypertension
+			- BP 160/100 mmHg
+		- Planning pregnancy
+	- Management
+		- Stop OCP ⭐
+		- Use condoms
+		- Reassess BP after 3 months
+		- Hypertension may resolve after stopping OCP
+		- If hypertension persists
+			- Start an antihypertensive compatible with pregnancy
+	- Pregnancy antihypertensive
+		- Best evaluated
+			- Methyldopa
+	- Why others are wrong
+		- A. Continue OCP + methyldopa
+			- OCP should be stopped
+		- B. Lower-dose OCP
+			- OCP should be stopped
+		- C. Stop OCP + immediate methyldopa
+			- BP may normalize after stopping OCP
+			- Reassess before starting treatment
+		- E. ACE inhibitor
+			- Contraindicated in pregnancy
+			- Associated with fetal death
+	- Additional points
+		- ACE inhibitors
+			- Not approved in pregnancy
+		- Beta-blockers
+			- Potential problems in pregnancy
+		- Diuretics
+			- Avoid
+			- Contraindicated in pregnancy
+	- AMC pearls ⭐⭐⭐
+		- OCP-induced hypertension
+			- First step = Stop OCP ⭐
+		- Planning pregnancy
+			- Avoid ACE inhibitors
+		- If antihypertensive required in pregnancy
+			- Methyldopa
+
+
+- MCQ 3.202 – Menorrhagia in a 45-year-old woman ⭐⭐⭐
+	- Question
+		- A 45-year-old woman complains of a series of heavy irregular periods.
+		- Six months previously her menstrual pattern had been quite normal.
+		- On physical examination no abnormality was detected and cervical smear was negative.
+		- Her haemoglobin was 115 g/L (115–165).
+		- Which one of the following is the most common cause of this type of menorrhagia?
+	- Options
+		- A. Endometrial carcinoma
+		- B. Anovulatory cycles ✅
+		- C. Submucous fibroids
+		- D. Endometrial polyps
+		- E. Adenomyosis
+	- Answer
+		- B. Anovulatory cycles
+	- Diagnosis clues ⭐⭐⭐
+		- Age
+			- 45 years
+		- Heavy irregular bleeding
+		- Previously regular cycles
+		- Normal examination
+		- Normal cervical smear
+	- Most likely cause
+		- Perimenopausal anovulatory cycles ⭐
+			- Ovulatory dysfunction
+	- Why others are wrong
+		- A. Endometrial carcinoma
+			- Uncommon cause of menorrhagia
+			- More commonly presents with
+				- Postmenopausal bleeding
+		- C. Submucous fibroids
+			- Cause menorrhagia
+			- Cycles usually regular
+			- Uterus usually enlarged
+		- D. Endometrial polyps
+			- Can cause menorrhagia
+			- Cycles usually regular
+		- E. Adenomyosis
+			- Can cause menorrhagia
+			- Cycles usually regular
+			- Uterus usually enlarged
+	- AMC pearls ⭐⭐⭐
+		- Perimenopausal heavy irregular bleeding
+			- Most commonly due to anovulatory cycles ⭐
+		- Fibroids/adenomyosis
+			- Enlarged uterus
+			- Usually regular heavy periods
+		- Endometrial carcinoma
+			- Classically presents with postmenopausal bleeding
+
+- MCQ 3.203 – Rhythm (calendar) method ⭐⭐⭐
+	- Question
+		- A couple in their mid-twenties have decided to use the 'Rhythm Method' (calendar calculation) as their contraceptive method, abstaining from sexual intercourse at the time a pregnancy would otherwise be likely to result.
+		- They are keen to avoid a pregnancy for the next two years.
+		- The woman has charted her cycles for the last twelve months and these have varied in length between 26 and 29 days.
+		- Which one of the following abstinence periods would be the correct advice?
+	- Options
+		- A. From day 4 to day 17.
+		- B. From day 6 to day 17. ✅
+		- C. From day 8 to day 19.
+		- D. From day 10 to day 19.
+		- E. From day 12 to day 19.
+	- Answer
+		- B. From day 6 to day 17.
+	- Calculation ⭐⭐⭐
+		- Luteal phase
+			- Fixed
+				- 14 days
+		- Ovulation
+			- 14 days before next period
+		- Cycle length
+			- 26–29 days
+		- Earliest ovulation
+			- Day 12
+		- Latest ovulation
+			- Day 15
+		- Sperm survival
+			- Up to 6 days ⭐
+			- Abstain from
+				- Day 6
+		- Ovum survival
+			- Fertilisable for 24–36 hours
+			- Resume intercourse
+				- 2 days after latest ovulation
+				- Day 17
+		- Abstinence period
+			- Day 6–17 ⭐
+	- Why others are wrong
+		- A. Day 4–17
+			- Unnecessarily long
+		- C. Day 8–19
+			- Starts too late
+			- Ends later than required
+		- D. Day 10–19
+			- Starts too late
+		- E. Day 12–19
+			- Starts after earliest fertile period
+	- AMC pearls ⭐⭐⭐
+		- Luteal phase
+			- Constant
+				- 14 days ⭐
+		- Ovulation
+			- 14 days before next menstruation
+		- Sperm survival
+			- Up to 6 days
+		- Ovum survival
+			- 24–36 hours
+
+- MCQ 3.204 – Amenorrhoea: hormone indicating pregnancy ⭐⭐⭐
+	- Question
+		- A 28-year-old woman with primary infertility presents to her general practitioner because of secondary amenorrhoea of 12 months duration.
+		- Which one of the following hormone assays, if the result is clearly markedly elevated, would indicate that a pregnancy has already occurred?
+	- Options
+		- A. Serum oestradiol (E2)
+		- B. Serum progesterone
+		- C. Serum follicle-stimulating hormone (FSH)
+		- D. Serum luteinising hormone (LH) ✅
+		- E. Serum prolactin (PRL)
+	- Answer
+		- D. Serum luteinising hormone (LH)
+	- Explanation ⭐⭐⭐
+		- Pregnancy
+			- hCG
+				- β-subunit closely resembles LH
+				- Cross-reacts with most LH assays
+			- Markedly elevated LH assay
+				- Indicates pregnancy
+		- Pregnancy hormone changes
+			- Oestradiol
+				- ↑
+			- Progesterone
+				- ↑
+			- Prolactin
+				- ↑
+			- FSH
+				- ↓
+					- Due to elevated oestradiol and progesterone
+	- Why others are wrong
+		- A. Oestradiol
+			- Elevated in pregnancy
+			- Also elevated in pathological states
+			- Also elevated during some menstrual cycles
+		- B. Progesterone
+			- Elevated in pregnancy
+			- Also elevated in pathological states
+			- Also elevated during some menstrual cycles
+		- C. FSH
+			- Suppressed in pregnancy
+		- E. Prolactin
+			- Elevated in pregnancy
+			- Also elevated in pathological states
+	- Important values
+		- PCOS
+			- LH rarely >30 mIU/mL
+		- Mid-cycle LH surge
+			- 100–150 mIU/mL
+		- LH >200 mIU/mL
+			- Usually indicates pregnancy
+- MCQ 3.205 – Endometriosis presentation ⭐⭐⭐
+	- Question
+		- A 24-year-old woman, who has not conceived after two years of unprotected intercourse, presents because she is concerned she may have endometriosis.
+		- This concern has arisen because she has a friend who was recently diagnosed with this condition.
+		- Which one of the following symptom profiles is most likely if endometriosis is actually present in this woman?
+	- Options
+		- A. Dysmenorrhoea from the time of the menarche.
+		- B. Dyspareunia.
+		- C. Menorrhagia.
+		- D. Mid-cycle vaginal bleeding.
+		- E. No abnormal bleeding or pain. ✅
+	- Answer
+		- E. No abnormal bleeding or pain.
+	- Explanation
+		- Endometriosis
+			- May present with
+				- Menorrhagia
+				- Premenstrual spotting
+				- Pelvic pain
+				- Dyspareunia
+			- Most commonly diagnosed
+				- During laparoscopy for infertility
+			- Most patients
+				- Infertility only
+				- No pain
+				- No abnormal bleeding
+	- Why others are wrong
+		- A. Dysmenorrhoea from menarche
+			- Not the most common presentation
+		- B. Dyspareunia
+			- May occur
+			- Not the most common presentation
+		- C. Menorrhagia
+			- May occur
+			- Not the most common presentation
+		- D. Mid-cycle vaginal bleeding
+			- Not a typical presentation
+
+- MCQ 3.205 – Endometriosis presentation ⭐⭐⭐
+	- Question
+		- A 24-year-old woman, who has not conceived after two years of unprotected intercourse, presents because she is concerned she may have endometriosis.
+		- This concern has arisen because she has a friend who was recently diagnosed with this condition.
+		- Which one of the following symptom profiles is most likely if endometriosis is actually present in this woman?
+	- Options
+		- A. Dysmenorrhoea from the time of the menarche.
+		- B. Dyspareunia.
+		- C. Menorrhagia.
+		- D. Mid-cycle vaginal bleeding.
+		- E. No abnormal bleeding or pain. ✅
+	- Answer
+		- E. No abnormal bleeding or pain.
+	- Explanation
+		- Endometriosis
+			- May present with
+				- Menorrhagia
+				- Premenstrual spotting
+				- Pelvic pain
+				- Dyspareunia
+			- Most commonly diagnosed
+				- During laparoscopy for infertility
+			- Most patients
+				- Infertility only
+				- No pain
+				- No abnormal bleeding
+	- Why others are wrong
+		- A. Dysmenorrhoea from menarche
+			- Not the most common presentation
+		- B. Dyspareunia
+			- May occur
+			- Not the most common presentation
+		- C. Menorrhagia
+			- May occur
+			- Not the most common presentation
+		- D. Mid-cycle vaginal bleeding
+			- Not a typical presentation
+
+- MCQ 3.206 – PID after suction curettage ⭐⭐⭐
+	- Question
+		- An 18-year-old university student, who had a suction curettage performed for an unwanted pregnancy which occurred after a university party, presents four days later with a temperature of 38.4°C and a purulent vaginal discharge.
+		- Which one of the following organisms is the most likely cause of her symptoms?
+	- Options
+		- A. Mixed infection with *Chlamydia trachomatis* and vaginal pathogens. ✅
+		- B. *N. gonorrhoea* alone.
+		- C. *Chlamydia trachomatis* alone.
+		- D. *E. coli* alone.
+		- E. *Mycoplasma hominis* alone.
+	- Answer
+		- A. Mixed infection with *Chlamydia trachomatis* and vaginal pathogens.
+	- Diagnosis clues
+		- Recent suction curettage
+		- Fever
+			- 38.4°C
+		- Purulent vaginal discharge
+		- Pelvic inflammatory disease (PID)
+			- Systemic infection
+	- Explanation
+		- PID after sexual activity
+			- Common organisms
+				- *Chlamydia trachomatis*
+				- *N. gonorrhoeae*
+			- Australia
+				- Chlamydia more common than gonorrhoea
+		- PID after gynaecological procedures
+			- *Mycoplasma hominis*
+			- Vaginal pathogens
+			- Sometimes *E. coli*
+		- Pregnancy termination
+			- Preoperative chlamydia prevalence
+				- Up to 15%
+			- Most likely infection
+				- *Chlamydia trachomatis* + vaginal pathogens
+	- Why others are wrong
+		- B. *N. gonorrhoeae* alone
+			- Less common than chlamydia
+		- C. *Chlamydia trachomatis* alone
+			- More likely if vaginal discharge without PID
+		- D. *E. coli* alone
+			- Can occur after gynaecological procedures
+			- Less likely
+		- E. *Mycoplasma hominis* alone
+			- Can occur after gynaecological procedures
+			- Less likely
+
+- MCQ 3.207 – Follicular cyst ⭐⭐⭐
+	- Question
+		- A 25-year-old woman (gravida 0, para 0), who is not sexually active and has cycles varying between 32 and 35 days in length, presents because of intermittent lower abdominal pain.
+		- Her last normal menstrual period commenced three weeks ago.
+		- Pelvic ultrasound shows:
+			- Uterus
+				- Normal
+			- Right ovary
+				- Normal
+			- Left ovary
+				- Cystic structure
+					- 4.5 cm
+					- Unilocular
+					- Thin-walled
+		- Which one of the following is the most likely cause of the ultrasound findings?
+	- Options
+		- A. A developing follicle which is about to ovulate.
+		- B. A follicular cyst. ✅
+		- C. A corpus luteum cyst.
+		- D. A benign cystic teratoma.
+		- E. An endometriotic cyst.
+	- Answer
+		- B. A follicular cyst.
+	- Diagnosis clues
+		- Mid-cycle
+			- ~Day 21 of a 35-day cycle
+		- 4.5 cm ovarian cyst
+		- Unilocular
+		- Thin-walled
+		- Benign appearance
+	- Explanation
+		- Too large
+			- To be a pre-ovulatory follicle
+		- No ultrasound features of
+			- Corpus luteum cyst
+			- Benign cystic teratoma
+			- Endometrioma
+		- Most likely
+			- Follicular cyst
+	- Ultrasound features
+		- Unilocular
+		- Thin-walled
+		- Cystic
+			- Strongly suggests benign cyst
+		- Multiloculated cyst
+			- Solid elements
+				- Suggests malignancy
+			- Uncommon
+				- But possible in a 25-year-old woman
+	- Why others are wrong
+		- A. Developing follicle
+			- Too large
+		- C. Corpus luteum cyst
+			- Typical ultrasound features absent
+		- D. Benign cystic teratoma
+			- Typical ultrasound features absent
+		- E. Endometriotic cyst
+			- Typical ultrasound features absent
+
+
+- MCQ 3.208 – Postmenopausal ovarian mass ⭐⭐⭐
+	- Question
+		- A 58-year-old woman presents with mild lower abdominal discomfort.
+		- She has been menopausal for eight years.
+		- Vaginal examination three years ago was normal.
+		- Now a 6 cm mass is palpable in the left ovarian region.
+		- Which one of the following is the most appropriate next step in management?
+	- Options
+		- A. Parenteral progestogens.
+		- B. Papanicolaou (Pap) smear and review in six weeks.
+		- C. Papanicolaou (Pap) smear and review in six months.
+		- D. X-ray to evaluate osteoporosis.
+		- E. Admission to hospital for early surgical exploration. ✅
+	- Answer
+		- E. Admission to hospital for early surgical exploration.
+	- Diagnosis clues ⭐⭐⭐
+		- Postmenopausal
+		- New 6 cm ovarian mass
+		- Ovarian malignancy must be excluded
+	- Management
+		- Admit
+		- Early surgical exploration
+		- Additional investigation
+			- CA-125
+	- Why others are wrong
+		- A. Parenteral progestogens
+			- Hormone therapy contraindicated until diagnosis established
+		- B. Pap smear + review in 6 weeks
+			- Pap smear not useful for ovarian masses
+		- C. Pap smear + review in 6 months
+			- Delays diagnosis
+			- Pap smear not useful for ovarian masses
+		- D. X-ray for osteoporosis
+			- Inappropriate until ovarian mass evaluated
+
+- MCQ 3.209 – Secondary infertility with PCOS ⭐⭐⭐
+	- Question
+		- A 32-year-old woman presents with a two-year history of secondary infertility.
+		- Her first child was fathered by the same partner, she conceived spontaneously and was delivered normally after a short labour.
+		- The child is now three years old.
+		- She has always had irregular menstrual cycles, with periods occurring every three to four months.
+		- Pelvic ultrasound shows
+			- 15–20 small cysts (4–6 mm) in each ovary.
+		- Her partner's semen analysis shows
+			- Sperm count
+				- 10 million/mL
+			- Motility
+				- 50%
+			- Abnormal forms
+				- 30%
+		- Which one of the following is the most appropriate next step in the treatment of her infertility?
+	- Options
+		- A. Laparoscopic ovarian drilling.
+		- B. Ovulation induction with gonadotrophins.
+		- C. Donor insemination.
+		- D. Treatment with metformin. ✅
+		- E. In vitro fertilisation.
+	- Answer
+		- D. Treatment with metformin.
+	- Diagnosis clues ⭐⭐⭐
+		- Secondary infertility
+		- Irregular cycles
+			- Every 3–4 months
+		- Bilateral polycystic ovaries on ultrasound
+		- PCOS
+	- Explanation
+		- Metformin
+			- Improves insulin resistance
+			- Restores ovulatory cycles
+			- Rapid return of fertility
+		- Some patients
+			- Require additional clomiphene citrate
+			- Metformin and clomiphene equally effective
+	- Why others are wrong
+		- A. Laparoscopic ovarian drilling
+			- Reserved after failure of other treatments
+		- B. Gonadotrophins
+			- Rarely required
+			- Reserved after failure of first-line treatment
+		- C. Donor insemination
+			- Semen analysis not profoundly abnormal
+			- Previous spontaneous conception with same partner
+		- E. IVF
+			- Reserved after failure of other treatment
+- MCQ 3.210 – Bleeding soon after menopause ⭐⭐⭐
+	- Question
+		- A 50-year-old woman, whose last menstrual period occurred at the age of 49 years, had an episode of vaginal bleeding of three days duration, two weeks ago.
+		- Just prior to the bleeding, she had noticed
+			- Reduction in hot flushes
+			- Breast enlargement
+		- Which one of the following is the most likely cause of this bleeding?
+	- Options
+		- A. Carcinoma of the cervix.
+		- B. Carcinoma of the endometrium.
+		- C. Atrophic vaginitis.
+		- D. An episode of ovarian follicular activity. ✅
+		- E. Cystic endometrial hyperplasia.
+	- Answer
+		- D. An episode of ovarian follicular activity.
+	- Diagnosis clues ⭐⭐⭐
+		- Bleeding
+			- Within 2–3 years of menopause
+		- Reduced hot flushes
+		- Breast enlargement
+		- Transient oestrogen production
+	- Explanation
+		- Residual ovarian follicle
+			- Responds to high FSH
+			- Produces oestrogen
+			- Causes
+				- Reduced hot flushes
+				- Increased vaginal lubrication
+				- Breast enlargement
+				- Increased abdominal size
+				- Subsequent vaginal bleeding
+	- Why others are wrong
+		- A. Carcinoma of the cervix
+			- Uncommon within 2–3 years of menopause
+		- B. Carcinoma of the endometrium
+			- Uncommon within 2–3 years of menopause
+		- C. Atrophic vaginitis
+			- Uncommon within 2–3 years of menopause
+		- E. Cystic endometrial hyperplasia
+			- Uncommon
+			- Usually associated with marked obesity
+
+- MCQ 3.211 – Hormone profile in menopause ⭐⭐⭐
+	- Question
+		- A 49-year-old woman comes to see you because she has not had a period for the last 11 months.
+		- Prior to that time her periods were regular and normal.
+		- You arranged for her follicle-stimulating hormone (FSH) and oestradiol (E2) levels to be measured.
+		- Which one of the patterns below would be most likely to be found, assuming she has reached menopause?
+	- Options
+		- A. Low FSH and low E2.
+		- B. Low FSH and normal E2.
+		- C. Normal FSH and low E2.
+		- D. Normal FSH and normal E2.
+		- E. High FSH and low E2. ✅
+	- Answer
+		- E. High FSH and low E2.
+	- Explanation
+		- Menopause
+			- Ovarian failure
+				- ↓ Oestradiol
+				- ↑ FSH
+					- Pituitary attempts to stimulate ovaries
+		- Continuing amenorrhoea
+			- Hormone results easier to interpret
+		- Around menopause
+			- Hormone assays may fluctuate
+			- Irregular ovarian activity
+				- Transient oestrogen production
+				- May suppress elevated FSH
+				- Bleeding occurs when oestrogen falls
+			- Blood sampling timing influences results
+	- Why others are wrong
+		- A. Low FSH + low E2
+			- Not menopausal pattern
+		- B. Low FSH + normal E2
+			- Not menopausal pattern
+		- C. Normal FSH + low E2
+			- Not typical menopause
+		- D. Normal FSH + normal E2
+			- Not menopausal pattern
+
+- MCQ 3.212 – Menorrhagia with multiple fibroids ⭐⭐⭐
+	- Question
+		- A 40-year-old woman, who has previously had a Filshie clip sterilisation, complains of excessively heavy but regular periods.
+		- She is known to have multiple uterine fibroids and her uterus is enlarged to that of a 12-week pregnancy.
+		- Her Pap smear is normal, and her haemoglobin is 93 g/L.
+		- She had a dilatation and curettage performed six months ago, but this has not improved her symptoms and did not define an underlying cause.
+		- Which one of the following is the most appropriate next step in management?
+	- Options
+		- A. Oral progestogen therapy from day 14–24 of her cycle.
+		- B. Prostaglandin synthetase inhibitor (e.g. Ponstan®) during the bleeding episodes.
+		- C. Myomectomy.
+		- D. Endometrial ablation.
+		- E. Total abdominal hysterectomy. ✅
+	- Answer
+		- E. Total abdominal hysterectomy.
+	- Diagnosis clues ⭐⭐⭐
+		- Heavy regular menorrhagia
+		- Multiple fibroids
+		- Uterus
+			- 12-week size
+		- Completed family
+			- Previous sterilisation
+		- Anaemia
+			- Hb 93 g/L
+		- Failed D&C
+	- Explanation
+		- Total abdominal hysterectomy
+			- Definitive treatment
+	- Why others are wrong
+		- A. Oral progestogens
+			- Rarely effective with enlarged fibroid/adenomyotic uterus
+		- B. Ponstan®
+			- Rarely effective with enlarged fibroid/adenomyotic uterus
+		- C. Myomectomy
+			- Reserved when future fertility desired
+			- Multiple fibroids difficult to remove completely
+			- High recurrence risk
+			- May require hysterectomy during surgery
+		- D. Endometrial ablation
+			- Difficult with significantly enlarged uterus
+			- Poor long-term control of menorrhagia
+
+- MCQ 3.213 – Amenorrhoea after stopping OCP ⭐⭐⭐
+	- Question
+		- A 45-year-old woman, who has three teenage children, has been taking the combined oestrogen/progestogen contraceptive pill for 10 years, during which time she had regular light menstrual periods.
+		- She ceased this medication three months ago.
+		- Apart from the period she had immediately after ceasing it, since that time she has not menstruated.
+		- She is extremely anxious and fears that she is pregnant, although there are no other symptoms to suggest this diagnosis.
+		- Vaginal examination reveals a bulky retroverted uterus.
+		- Which one of the following would be the most appropriate advice?
+	- Options
+		- A. Reassurance that pregnancy is rare at her age.
+		- B. A pregnancy test should be performed. ✅
+		- C. Follicle-stimulating hormone (FSH) level should be assessed.
+		- D. Resume taking the oral contraceptive pill (OCP).
+		- E. Review in four weeks time if she still has not menstruated.
+	- Answer
+		- B. A pregnancy test should be performed.
+	- Diagnosis clues ⭐⭐⭐
+		- Amenorrhoea
+			- 3 months after stopping OCP
+		- Pregnancy not excluded
+	- Explanation
+		- First step
+			- Pregnancy test ⭐
+		- If negative
+			- Consider post-pill amenorrhoea
+			- Decide whether to restart OCP
+			- Or continue observation
+		- Use contraception
+			- Condoms
+			- Until cause of amenorrhoea clarified
+		- Further investigations if required
+			- FSH
+			- LH
+			- Prolactin
+			- Thyroid hormones
+	- Why others are wrong
+		- A. Reassurance alone
+			- Pregnancy must first be excluded
+		- C. FSH
+			- Elevated FSH suggests ovarian failure
+			- Does not exclude pregnancy
+			- Does not predict future menstruation
+		- D. Restart OCP
+			- Pregnancy must first be excluded
+		- E. Review in 4 weeks
+			- Pregnancy must first be excluded
+
+- MCQ 3.214 – Infertility with multiple factors ⭐⭐⭐
+	- Question
+		- You are reviewing a couple who are both in their late twenties and have been trying to conceive for the last three years.
+		- She has had previous fallopian tube surgery after tubal obstruction had been diagnosed by laparoscopy, has amenorrhoea and galactorrhoea, and had evidence of mild endometriosis involving the uterosacral ligaments treated at the time of the tubal surgery.
+		- He has a severe and persistent abnormality of the semen specimen.
+		- Which one of the following is the most appropriate management?
+	- Options
+		- A. She should be treated with the dopamine agonist bromocriptine.
+		- B. She should be treated with danazol.
+		- C. He should be treated with gonadotrophin injections.
+		- D. She should have further laparoscopic surgery.
+		- E. They should use intracytoplasmic sperm injection (ICSI) in IVF.
+	- Answer
+		- E. Intracytoplasmic sperm injection (ICSI) in IVF.
+	- Diagnosis clues ⭐⭐⭐
+		- Tubal factor infertility
+			- Previous tubal obstruction/surgery
+		- Hyperprolactinaemia
+			- Amenorrhoea
+			- Galactorrhoea
+		- Mild endometriosis
+		- Severe male factor infertility
+	- Explanation
+		- ICSI with IVF
+			- Bypasses tubal disease
+			- Effective for severe male factor infertility
+			- Useful in mild endometriosis
+			- Overcomes infertility despite hyperprolactinaemia
+	- Why others are wrong
+		- A. Bromocriptine
+			- Appropriate if hyperprolactinaemia were the only cause
+			- Insufficient with multiple infertility factors
+		- B. Danazol
+			- Treats endometriosis
+			- Does not address other major causes
+		- C. Gonadotrophins
+			- Unlikely to improve severe semen abnormalities
+		- D. Further laparoscopy
+			- Not justified
+			- Tubal disease/endometriosis already managed
+			- Does not address severe male factor infertility
+
+- MCQ 3.215 – Tubal ectopic pregnancy ⭐⭐⭐
+	- Question
+		- A 24-year-old woman presents with abdominal pain and vaginal bleeding after six weeks of amenorrhoea.
+		- Which one of the following combinations of physical signs is most likely if she has a tubal ectopic pregnancy?
+	- Options
+		- A. Board-like abdominal rigidity with both rebound tenderness and guarding.
+		- B. Little guarding but marked rebound tenderness in the suprapubic region.
+		- C. Profound shock with a rapid pulse and low BP.
+		- D. Rapid pulse and upper abdominal rebound tenderness.
+		- E. Tenderness in the pouch of Douglas and a tender adnexal mass.
+	- Answer
+		- B. Little guarding but marked rebound tenderness in the suprapubic region.
+	- Diagnosis clues ⭐⭐⭐
+		- 6 weeks amenorrhoea
+		- Vaginal bleeding
+		- Lower abdominal pain
+		- Tubal ectopic pregnancy
+	- Explanation
+		- Intraperitoneal blood
+			- Causes
+				- Marked rebound tenderness
+				- Minimal guarding
+			- Does not usually cause
+				- Board-like rigidity
+		- Pain
+			- Usually lower abdomen
+			- Often not localised to affected side
+		- Shock
+			- Uncommon
+			- Diagnosis usually made before major blood loss
+		- Pelvic examination
+			- Pelvic tenderness common
+			- Adnexal mass less common
+				- If present
+					- Ectopic pregnancy
+					- More commonly ectopic surrounded by blood clot
+	- Why others are wrong
+		- A. Board-like rigidity
+			- Suggests chemical/purulent peritonitis
+		- C. Profound shock
+			- Usually late finding
+		- D. Upper abdominal rebound tenderness
+			- Pain usually lower abdominal
+		- E. Tender pouch of Douglas + adnexal mass
+			- Pelvic tenderness common
+			- Palpable mass less common
+
+- MCQ 3.216 – Postcoital bleeding on OCP ⭐⭐⭐
+	- Question
+		- A 25-year-old woman, who is taking the oral contraceptive pill (OCP), presents with a history of two episodes of postcoital bleeding.
+		- She has never had an abnormal Pap smear and her last one was done about one year ago.
+		- Which one of the following is the most likely cause of the postcoital bleeding?
+	- Options
+		- A. A cervical ectropion.
+		- B. Chlamydial cervicitis.
+		- C. A cervical polyp.
+		- D. Cervical intraepithelial neoplasia.
+		- E. Cervical carcinoma.
+	- Answer
+		- A. Cervical ectropion.
+	- Diagnosis clues ⭐⭐⭐
+		- Young woman
+		- On OCP
+		- Postcoital bleeding
+		- Recent normal Pap smear
+	- Explanation
+		- Cervical ectropion
+			- Extension of endocervical columnar epithelium onto ectocervix
+			- Fragile columnar epithelium
+			- Bleeds with contact during intercourse
+			- Most likely cause
+	- Why others are wrong
+		- B. Chlamydial cervicitis
+			- Can cause postcoital bleeding
+			- Less likely
+		- C. Cervical polyp
+			- Can cause postcoital bleeding
+			- Less likely
+		- D. Cervical intraepithelial neoplasia
+			- Does not itself cause postcoital bleeding
+			- Associated ectropion may bleed
+		- E. Cervical carcinoma
+			- Can cause postcoital bleeding
+			- Less likely with recent normal Pap smear
+- MCQ 3.217 – HRT early after menopause ⭐⭐⭐
+	- Question
+		- A healthy 52-year-old woman ceased menstruating three months ago and is now complaining of hot flushes 10–12 times daily, irritability and difficulty sleeping.
+		- Which one of the following treatments would be most likely to relieve her symptoms without troublesome side effects?
+	- Options
+		- A. Continuous daily oestrogen therapy, with medroxyprogesterone acetate (MPA) given daily for 12 days each month.
+		- B. Continuous oestrogen therapy alone.
+		- C. Daily progestogen therapy with MPA.
+		- D. Continuous therapy with oestrogen and MPA.
+		- E. Daily treatment with diazepam.
+	- Answer
+		- A. Continuous daily oestrogen + cyclical MPA (12 days/month).
+	- Diagnosis clues ⭐⭐⭐
+		- 3 months since last menstrual period
+		- Hot flushes
+		- Irritability
+		- Insomnia
+		- Early menopause
+	- Explanation
+		- Symptoms
+			- Due to oestrogen deficiency
+		- Best treatment
+			- Cyclical HRT
+				- Continuous oestrogen
+				- MPA for 12 days/month
+			- Relieves symptoms
+			- Predictable withdrawal bleeding
+				- Usually ~2 days after stopping MPA
+				- Oestrogen continued
+	- Why others are wrong
+		- B. Oestrogen alone
+			- Contraindicated if uterus present
+		- C. Progestogen alone
+			- Used only if oestrogen contraindicated
+		- D. Continuous oestrogen + MPA
+			- High risk of unpredictable breakthrough bleeding
+			- Avoid within 1–2 years of last menstrual period
+			- More suitable >2 years after menopause
+				- Continued amenorrhoea likely
+		- E. Diazepam
+			- May improve sleep/irritability
+			- Does not relieve hot flushes
+
+- MCQ 3.218 – Basal body temperature (BBT) contraception ⭐⭐⭐
+	- Question
+		- A couple decide to use the daily basal body temperature assessment (BBT) as their method of contraception.
+		- During the last 12 months, she has had cycles varying in length between 24 and 30 days, with periods lasting four days.
+		- They do not have any sexual activity while she is menstruating.
+		- Which one of the following regimens would be the most appropriate for minimising the likelihood of pregnancy?
+	- Options
+		- A. Intercourse day four to day nine, abstinence day 10 until two days after the temperature elevation of 0.4°C, intercourse thereafter.
+		- B. Intercourse day four to day seven, abstinence day eight until two days after the temperature elevation of 0.3°C, intercourse thereafter.
+		- C. Intercourse day four to day five, abstinence day six until two days after the temperature elevation of 0.3°C, intercourse thereafter.
+		- D. No intercourse in the follicular phase of the cycle, commence intercourse two days after temperature elevation of 0.1°C and continue thereafter.
+		- E. No intercourse in the follicular phase of the cycle, commence intercourse two days after temperature elevation of 0.3°C and continue thereafter.
+	- Answer
+		- E. No intercourse in the follicular phase; commence intercourse two days after a 0.3°C temperature rise.
+	- Explanation ⭐⭐⭐
+		- Shortest cycle
+			- 24 days
+		- Earliest ovulation
+			- Day 10
+				- Ovulation occurs 14 days before menstruation
+		- Sperm survival
+			- Up to 6 days
+		- Therefore
+			- Avoid intercourse throughout follicular phase
+			- Since intercourse during menstruation is avoided
+				- No intercourse before ovulation
+		- Ovulation
+			- Progesterone rises
+			- BBT rises
+				- 0.3–0.4°C
+				- Within 2–3 days after ovulation
+			- Ovum viable
+				- ~20 hours
+		- Safe timing
+			- Resume intercourse
+				- Two days after a 0.3°C temperature rise
+				- Usually 3–4 days after ovulation
+	- Why others are wrong
+		- A–C
+			- Permit intercourse during follicular phase
+		- D
+			- Uses incorrect temperature rise
+				- 0.1°C

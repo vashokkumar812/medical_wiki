@@ -1,0 +1,146 @@
+- key points  
+  - camphor is highly toxic  
+  - onset of symptoms  
+    - within 15 minutes  
+    - ingestion >30 mg/kg  
+  - neurologic complications common  
+    - seizures  
+      - within 90 minutes  
+  - 24-hour advice  
+    - victorian poisons information centre  
+      - 13 11 26  
+
+- background  
+  - camphor  
+    - highly toxic  
+    - readily absorbed from skin  
+    - most toxicity → ingestion  
+  - common sources  
+    - vicks inhaler  
+    - rubs  
+      - dencorub  
+      - tiger balm  
+      - emu oils  
+      - vicks vaporub  
+    - mothballs  
+      - may contain  
+        - naphthalene  
+        - paradichlorobenzene  
+  - poisons centre advice  
+    - not recommended  
+    - no proven benefit  
+    - unsafe in homes  
+  - co-toxicity  
+    - other ingredients may be toxic  
+      - e.g. salicylates  
+
+- pharmacokinetics  
+  - onset  
+    - 5–15 minutes post ingestion  
+  - peak levels  
+    - 1–3 hours  
+  - resolution  
+    - within 24 hours  
+  - metabolism  
+    - oxidised and conjugated in liver  
+  - excretion  
+    - renal  
+  - dose toxicity  
+    - 0.5–1 g  
+      - lethal in children  
+
+- children requiring assessment  
+  - deliberate self-poisoning  
+  - significant accidental ingestion  
+  - any symptomatic patient  
+  - dose thresholds  
+    - >10 mg/kg  
+      - GIT irritation  
+      - CNS depression  
+    - >30 mg/kg  
+      - serious toxicity  
+  - concern for non-accidental poisoning  
+    - developmental age inconsistent  
+
+- risk assessment  
+
+  - history  
+    - intentional vs accidental  
+    - dose taken  
+    - calculate mg/kg  
+    - co-ingestants  
+      - e.g. paracetamol  
+
+  - examination  
+    - characteristic odour  
+    - neurologic  
+      - seizures  
+        - within 90 minutes  
+      - preceding features  
+        - muscle fasciculation  
+        - confusion  
+        - delirium  
+        - hallucinations  
+        - restlessness  
+    - respiratory  
+      - depression  
+        - often post-seizure  
+    - GIT  
+      - oral burning  
+      - epigastric burning  
+      - nausea  
+      - vomiting  
+    - CVS  
+      - cardiomyopathy (case reports)  
+      - prolonged QRS  
+      - prolonged QTc  
+    - always check  
+      - medicalert bracelet  
+      - signs of underlying disease  
+        - fingerprick marks  
+
+- investigations  
+  - paracetamol level  
+    - all intentional overdoses  
+  - ECG  
+  - CXR  
+    - if symptomatic  
+
+- acute management  
+
+  - resuscitation  
+    - manage seizures  
+
+  - decontamination  
+    - wash skin  
+    - remove clothes  
+    - charcoal  
+      - not recommended  
+
+  - observation  
+    - if asymptomatic  
+      - observe 4 hours  
+      - discharge if no symptoms  
+
+- consultation (paediatric team)  
+  - intentional overdose  
+  - significant/persistent vomiting or diarrhoea  
+  - seizures  
+  - decreased conscious state  
+  - respiratory depression  
+  - contact  
+    - victorian poisons information centre  
+      - 13 11 26  
+
+- transfer indications  
+  - persistent seizures  
+  - decreased conscious state  
+  - requires respiratory support  
+  - care beyond local capacity  
+  - PIPER service  
+    - 1300 137 650  
+
+- discharge criteria  
+  - normal conscious state  
+  - stable after 4 hours symptom-free  
+  - low risk of further self-harm  

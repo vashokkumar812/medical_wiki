@@ -1,0 +1,63 @@
+- Definition
+	- BGL <4 mmol/L
+- Treatment
+	- IV glucose
+		- 10% glucose 2 mL/kg bolus
+		- Change fluids to:
+			- 10% glucose + KCl
+	- Important
+		- Do NOT stop insulin
+- Persistent Hypoglycaemia
+	- Reduce insulin infusion
+- Oral Treatment (if safe)
+	- Criteria
+		- pH ≥7.3
+		- Alert patient
+	- High GI carbohydrates
+		- <5 years / <25 kg
+			- 5–10 g carbohydrate
+			- Examples:
+				- Glucose tablets/gel
+				- 50 mL lemonade
+				- 100 mL cordial
+				- 1 tsp honey
+				- 2 jellybeans
+				- 60 mL juice
+		- >5 years / >25 kg
+			- Larger equivalent doses
+	- Recheck BGL
+		- After 15–20 min
+		- Repeat if BGL still <4 mmol/L
+- Treat Precipitating Cause
+	- Common causes
+		- Missed insulin
+		- Intercurrent illness
+	- Infection
+		- Investigate
+		- Antibiotics if indicated
+- Persisting Acidosis consider
+	- Inadequate insulin
+	- Poor rehydration
+	- Sepsis
+	- Hyperchloraemic acidosis
+	- Toxins
+		- e.g. salicylates
+- Bicarbonate
+	- Avoid routinely
+	- indications
+		- Life-threatening hyperkalaemia
+		- Inotropic support required
+	- Action
+		- Discuss with ICU before use
+	- paediatric consultation indications
+		- All DKA cases
+		- All new diabetes diagnoses
+- ICU / Transfer Indications
+	- Age <2 years
+	- Coma
+	- Shock
+	- Seizures
+	- Cerebral oedema
+	- Severe acidosis
+		- pH <7.1
+		- HCO₃ <5

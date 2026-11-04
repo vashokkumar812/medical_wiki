@@ -1,0 +1,10 @@
+- Risk factors
+	- Previous ear infections or tympanic membrane perforation
+	- Exposure to loud noise
+	- Head injury or barotrauma
+	- Family history of hearing loss or otosclerosis
+	- Previous meningitis
+	- Ototoxic medications
+		- Aminoglycosides
+		- Cisplatin
+		- Loop diuretics

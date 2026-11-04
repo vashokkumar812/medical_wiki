@@ -1,0 +1,189 @@
+# allergic rhinitis
+![[Pasted image 20260531210620.png]]
+
+
+
+- Definition
+	- Type I IgE-mediated hypersensitivity reaction
+	- Triggered by airborne allergens
+- Epidemiology
+	- Peak age
+		- 25–44 years
+- associations
+	- Asthma association
+- etiology
+	- Risk Factors
+		- Genetic predisposition
+		- Childhood atopy
+		- Eczema
+		- Higher socioeconomic status
+	- Protective Factors
+		- Breastfeeding
+		- Increased microbial diversity exposure
+- Classification
+	- Intermittent
+		- <4 days/week OR <4 weeks
+	- Persistent
+		- ≥4 days/week AND ≥4 weeks
+- Clinical Features
+	- Mild
+		- Normal sleep
+		- Normal daily activities
+		- Normal work/school
+		- No troublesome symptoms
+	- Cardinal Symptoms
+		- Rhinorrhoea
+		- Sneezing
+		- Nasal itching
+		- Nasal obstruction
+	- Associated Symptoms
+		- Allergic conjunctivitis
+		- Postnasal drip
+		- Nocturnal cough
+		- Hyposmia
+	- Face
+		- Allergic shiners
+			- Dark circles under eyes
+		- Allergic salute
+		- Transverse nasal crease
+	- Children
+		- Snoring
+		- Obstructive sleep apnoea
+		- Eye rubbing
+		- Excessive blinking
+		- Recurrent upper respiratory tract infections
+		- Behavioural problems
+	- examination
+		- Anterior Rhinoscopy
+			- inferior turbinates - Pale oedematous 
+			- mucus - Increased, clear, sticky
+			- Exclude
+				- Septal deviation
+				- Nasal polyps
+				- Sinonasal masses
+		- Nasoendoscopy
+			- Not essential for diagnosis
+			- May identify
+				- Middle turbinate oedema
+				- Adenoid hypertrophy
+				- Alternative pathology
+- Red Flags
+	- Unilateral nasal obstruction
+	- Progressive blood-stained nasal discharge
+	- Malodorous nasal discharge
+	- Unilateral nasal polyps
+	- Suspicion of sinonasal mass
+	- Suspicion of malignancy
+![[Pasted image 20260531232638.png]]
+
+![[Pasted image 20260531232700.png]]
+
+
+- Investigations
+	- Gold Standard
+		- Skin prick test
+			- Preparation
+				- Stop oral antihistamines
+					- 2–7 days before testing
+				- Stop topical antihistamines
+					- ≥2 days before testing
+				- Corticosteroids can be continued
+	- Blood Tests
+		- Full blood count
+		- Serum allergen-specific IgE
+	- Interpretation
+		- Positive test without symptoms is not clinically relevant
+		- Elevated total IgE is non-specific
+		- Eosinophilia is non-specific
+	- Imaging
+		- Not indicated routinely
+		- Use only if diagnosis uncertain or alternative pathology suspected
+- Management
+	- Allergen Avoidance
+	- Pharmacotherapy
+		- First-Line
+			- Intranasal saline
+			- Intranasal corticosteroids
+				- Mometasone
+				- Budesonide
+				- Fluticasone
+				- **Most effective preventative therapy**
+				- Use regularly for ≥4 weeks
+			- Intranasal antihistamines
+				- Azelastine
+				- Levocabastine
+				- Rapid symptom relief
+			- Combination intranasal corticosteroid + antihistamine
+				- Azelastine + fluticasone
+				- Olopatadine + mometasone
+				- Increasingly preferred first-line option
+			- Oral antihistamines
+				- Cetirizine
+				- Loratadine
+				- Fexofenadine
+				- Less effective than intranasal therapy
+		- Second-Line
+			- Intranasal sodium cromoglycate
+		- Other Options
+			- Short course oral corticosteroids
+				- Severe congestion
+				- Not for routine use
+			- Leukotriene receptor antagonists
+				- Montelukast
+				- Useful in asthma
+				- Useful in children unable to tolerate sprays
+			- Oral/intranasal decongestants
+				- Short-term use only
+				- Risk of rhinitis medicamentosa
+	- Immunotherapy
+		- Only disease-modifying therapy
+		- Indications
+			- Persistent symptoms
+			- Inadequate response to pharmacotherapy
+			- Alternative to long-term medications
+		- Subcutaneous Immunotherapy (SCIT)
+			- Strongest evidence
+			- Highest risk of systemic adverse reactions
+		- Sublingual Immunotherapy (SLIT)
+			- Self-administered
+			- Less invasive
+			- Lower risk of adverse effects
+			- Available for
+				- Grass pollen
+				- House dust mite allergy
+		- Duration of benefit
+			- 10–20 years
+	- Surgery
+		- Indications
+			- Failure of medical therapy
+			- Significant anatomical obstruction
+		- Procedures
+			- Inferior turbinate reduction
+			- Septoplasty
+			- Adenoidectomy (children)
+			- Inferior turbinate ablative procedures
+			- Rarely
+				- Vidian neurectomy
+				- Posterior nasal nerve radiofrequency ablation
+		- Limitation
+			- Does not treat underlying allergy
+- Complications
+	- Asthma exacerbation
+- Referral
+	- ENT Referral
+		- Unilateral obstruction
+		- Unilateral polyps
+		- Blood-stained discharge
+		- Malodorous discharge
+		- Sinonasal mass suspected
+		- Significant septal deviation
+		- Failure of medical management
+	- Allergist/Immunologist Referral
+		- Skin prick testing
+		- Complex allergy profile
+		- Consideration of immunotherapy
+		- Persistent symptoms despite treatment
+
+
+# hay fever 
+- 

@@ -1,0 +1,7 @@
+- synptoms
+	- palpitations
+	- burns
+	- muscle damage
+		- in severe shock
+		- lead to necrosis sometimes
+	- more damage on dc current

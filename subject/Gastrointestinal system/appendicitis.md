@@ -1,0 +1,239 @@
+- Definition
+	- Inflammation of the appendiceal wall
+- Epidemiology
+	- Most common surgical cause of acute abdomen
+	- Peak incidence
+		- 10–30 years
+- Classification
+	- Uncomplicated appendicitis
+		- Inflamed appendix alone
+	- Complicated appendicitis
+		- Gangrenous 
+		- Perforation
+			- higher risk
+				- Children
+				- Elderly
+				- Diabetes
+				- Pregnancy
+				- Delayed presentation
+		- Periappendiceal abscess
+		- Peritonitis
+		- Sepsis
+		- Septic shock
+- Clinical features
+	- Symptoms
+		- Abdominal pain
+			- Initially periumbilical
+			- Migrates to RIF within 6–12 hours
+			- Sometimes colicky initially
+			- Progressively worsens
+			- Worse with
+				- Walking
+				- Movement
+				- Coughing
+			- Patient may limp
+		- Nausea
+		- Vomiting
+			- Usually after onset of pain
+		- Sudden anorexia
+		- Diarrhoea
+		- Constipation
+
+	- General signs
+		- Appears unwell
+		- Initially flushed
+		- Later pale
+		- Furred tongue
+		- Halitosis
+		- Low-grade fever
+		- Tachycardia
+
+	- Abdominal signs
+		- Superficial hyperaesthesia
+		- RIF tenderness
+			- Maximal at McBurney point
+		- Rebound tenderness
+		- Percussion tenderness
+		- Cough tenderness
+		- Guarding
+		- Rigidity
+	- Classic AMC triad
+		- RIF pain
+		- Nausea/vomiting
+		- Guarding
+	- Special signs
+		- Rovsing sign
+			- RIF pain on palpation of LIF
+		- Retrocaecal appendix
+			- Positive psoas sign
+				- Pain on extension of right hip
+				- Pain on resisted flexion of right hip
+				- Pain on raising right leg
+			- Loin tenderness
+			- Less 
+				- guarding
+				-  rebound tenderness
+				-  rigidity
+	
+		- Pelvic appendix
+			- Positive obturator sign
+				- Pain on flexion and internal rotation of right hip
+			- Urinary frequency
+			- Diarrhoea
+			- Tenesmus
+			- Tender PR examination
+			- Less abdominal rigidity
+
+- Special populations
+	- Children
+		- Difficult diagnosis
+		- Rapid perforation
+
+	- Elderly
+		- less pain and delayed presentation
+		- May mimic bowel obstruction
+		- High perforation risk
+
+	- Pregnancy
+		- Commonest in second trimester
+		- Pain may be higher and more lateral
+		- Difficult diagnosis
+		- high perforation risk
+
+- Investigations
+	- Laboratory
+		- FBC
+			- Leukocytosis
+			- Neutrophilia
+			- Left shift
+		- Elevated CRP
+		- UEC
+			- Assess hydration
+		- Urinalysis
+			- Exclude UTI
+		- β-hCG
+			- Exclude ectopic pregnancy
+	- Imaging
+		- Ultrasound
+			- Thickened non-compressible appendix
+			- Preferred in
+				- Children
+				- Pregnancy
+				- Young females
+		- CT abdomen
+			- Best investigation when diagnosis uncertain
+			- Useful in
+				- Elderly
+				- Females
+				- Atypical presentations
+			- Assesses for complicated appendicitis
+		- MRI
+			- Highly sensitive and specific
+			- Useful in pregnancy
+			- Useful when US inconclusive
+		- Plain X-ray
+			- Limited role
+		- Diagnostic laparoscopy
+			- Diagnostic and therapeutic
+- Scoring systems
+	- Alvarado score - MANTRELS
+		- Migration of pain
+		- Anorexia
+		- Nausea/vomiting
+		- RIF tenderness ( 2 )
+		- Rebound tenderness
+		- Fever
+		- Leukocytosis ( 2 )
+		- Left shift
+	- Interpretation
+		- ≤4
+			- Low probability
+		- 5–6
+			- Possible appendicitis
+		- ≥7
+			- Likely appendicitis
+- Differential diagnosis
+	- Gastroenteritis
+		- Vomiting before pain
+		- Diffuse cramps
+		- Prominent diarrhoea
+		- No focal peritonism
+	- Mesenteric adenitis
+		- Common in children
+		- Post-viral URTI
+		- Less toxic
+	- Meckel diverticulitis
+		- Mimics appendicitis
+		- May cause painless GI bleeding
+	- Crohn disease
+		- Chronic diarrhoea
+		- Weight loss
+		- Perianal disease
+- Management
+	- Initial
+		- ABC assessment
+		- NBM
+		- IV fluids
+		- Analgesia
+		- Antiemetics
+		- Early surgical review
+		- Broad-spectrum antibiotics
+	- Antibiotic principles
+		- Cover
+			- Gram-negative enteric organisms
+			- Anaerobes
+		- Common Australian regimens
+			- Ceftriaxone + metronidazole
+			- Cefotaxime + metronidazole
+			- Amoxicillin-clavulanate
+		- Alternative ETG regimen
+			- Gentamicin or tobramycin
+			- Plus metronidazole
+			- Plus amoxicillin or ampicillin
+		- Severe penicillin allergy
+			- Gentamicin/tobramycin plus clindamycin
+			- Consider metronidazole if source control delayed
+	- Uncomplicated appendicitis
+		- Laparoscopic appendicectomy
+			- Treatment of choice
+			- Gold standard
+		- Nonoperative treatment
+			- Selected patients only
+			- Antibiotics
+			- Observation
+			- Shared decision with surgeon
+			- Recurrence after nonoperative treatment
+				- Up to 40% require appendicectomy within 5 years
+	- Complicated appendicitis
+		- Surgical source control
+		- Appendicectomy
+		- Abscess drainage if required
+	- Perforation
+		- Urgent surgery
+	- Appendiceal abscess
+		- Radiological drainage
+		- Interval appendicectomy sometimes
+	- Appendiceal mass/ phlegmon
+		- Conservative initially
+			- Antibiotics
+			- Observation
+	- Antibiotic duration
+		- Uncomplicated appendicitis
+			- Stop after appendicectomy if
+				- No perforation
+				- No gangrene
+				- No abscess
+				- No peritonitis
+				- No sepsis
+		- Nonoperative management
+			- Total antibiotic course 7–10 days
+		- Complicated appendicitis
+			- After adequate source control
+			- Total antibiotic duration about 4 days
+
+- Safety-net discharged patients
+	- Return if
+		- Increasing pain
+		- Fever
+		- Persistent vomiting
+		- Unable to tolerate fluids

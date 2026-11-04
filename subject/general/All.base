@@ -1,0 +1,16 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.folder == "recalls"
+    groupBy:
+      property: file.folder
+      direction: ASC
+    sort:
+      - property: file.size
+        direction: DESC
+    markers: number
+    cardSize: 800
+    imageAspectRatio: 1.8

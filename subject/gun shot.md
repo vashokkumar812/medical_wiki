@@ -1,0 +1,11 @@
+- if stable
+	- cxr
+		- xray to check hemo/pneumothorax
+	- abdominal xray
+		- to check air under diaphragm
+	- triple phase contrast ct
+		- organ injury assessment
+- if unstable
+	- exploratory laprotomy
+- if no ct available
+	- do peritoneal laval

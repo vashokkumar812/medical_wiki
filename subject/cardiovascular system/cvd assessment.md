@@ -1,0 +1,158 @@
+
+- Australian CVD risk assessment
+	- Applies to adults without known cardiovascular disease
+	- Estimates **5-year absolute CVD risk**
+		- Low
+			- <5%
+		- Intermediate
+			- 5% to <10%
+		- High
+			- ≥10%
+
+- When to start assessment
+	- General population
+		- Age 45–79 years
+	- Diabetes (without known CVD)
+		- Age 35–79 years
+	- First Nations people
+		- Age 18–29 years
+			- Assess individual CVD risk factors
+		- Age 30–79 years
+			- Use Australian CVD Risk Calculator
+
+- Clinically determined high risk (calculator not required)
+
+	- eGFR <45 mL/min/1.73 m²
+	- Men
+		- uACR >25 mg/mmol
+	- Women
+		- uACR >35 mg/mmol
+	- Familial hypercholesterolaemia
+
+- Reassessment intervals
+	- High risk
+		- Receiving pharmacological treatment
+			- Routine formal reassessment not recommended
+			- Management guided by clinical context
+	- Intermediate risk (5% to <10%)
+		- No pharmacotherapy
+			- Repeat every 2 years
+		- Reassess earlier if
+			- Risk close to ≥10%
+			- Risk factors worsen
+			- New risk factors develop
+	- Low risk (<5%)
+		- No pharmacotherapy
+			- Repeat every 5 years
+		- Reassess earlier if
+			- Risk close to 5%
+			- Risk factors worsen
+			- New risk factors develop
+	- First Nations people
+		- Every year during annual health assessment
+		- At least every 2 years
+
+- Risk reclassification
+	- Increase estimated risk
+		- Family history of premature CVD
+			- Male first-degree relative <55 years
+			- Female first-degree relative <65 years
+		- Mild-to-moderate CKD (without diabetes)
+			- eGFR 45–59
+			- Men
+				- uACR 2.5–25 mg/mmol
+			- Women
+				- uACR 3.5–35 mg/mmol
+		- Severe mental illness
+	- Decrease estimated risk
+		- East Asian ethnicity
+			- Chinese
+			- Japanese
+			- Korean
+			- Taiwanese
+			- Mongolian
+
+- Coronary artery calcium (CAC)
+	- Not recommended for population screening
+	- Do not perform if
+		- Known coronary artery disease
+		- Previous MI
+		- Previous coronary revascularisation
+		- Already high CVD risk
+	- Consider if
+		- Low/intermediate calculated risk
+		- Decision regarding treatment uncertain
+		- Additional risk information required
+
+- Other investigations
+	- Not routinely recommended
+		- Ankle-brachial index
+		- High-sensitivity CRP
+	- Do not increase risk solely because of rheumatoid arthritis
+
+- Risk communication
+	- Use decision aids
+	- Use shared decision-making
+	- Explain risk using
+		- Percentages
+		- 100-person charts
+	- Reinforce with
+		- Motivational interviewing
+		- Goal setting
+		- Health coaching
+
+- Lifestyle management (recommended for everyone)
+	- Smoking
+		- Smoking cessation
+		- Behavioural counselling
+		- TGA-approved pharmacotherapy when indicated
+	- Diet
+		- Vegetables
+		- Fruit
+		- Wholegrains
+		- Healthy protein
+			- Plant or animal
+		- Low-fat dairy
+		- Healthy fats
+			- Olive oil
+			- Nuts
+			- Seeds
+			- Fish
+		- Reduce saturated fat
+		- Avoid trans fats
+		- Reduce salt intake
+		- DASH diet
+			- Reduces blood pressure
+		- Mediterranean diet
+			- Reduces CVD and stroke
+		- Oily fish
+			- Reduces coronary heart disease
+	- Physical activity
+		- Regular
+		- Sustainable
+	- Weight
+		- Achieve and maintain healthy weight
+	- Alcohol
+		- Reduce intake according to national guidelines
+
+- Pharmacotherapy according to 5-year CVD risk
+	- High risk (≥10%)
+		- Lifestyle modification
+		- Blood pressure-lowering medication
+		- Lipid-lowering medication (statin)
+		- Shared decision-making
+	- Intermediate risk (5% to <10%)
+		- Lifestyle modification
+		- Consider antihypertensive therapy
+		- Consider statin
+		- Shared decision-making
+	- Low risk (<5%)
+		- Lifestyle modification only
+		- Routine pharmacotherapy not recommended
+
+- Treat regardless of calculated CVD risk
+	- Blood pressure >160/100 mmHg
+		- Start antihypertensive therapy
+	- Total cholesterol >7.5 mmol/L
+		- Start lipid-lowering therapy
+

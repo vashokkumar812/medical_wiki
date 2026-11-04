@@ -1,0 +1,182 @@
+# screening
+
+- Step 1
+	- Assess for symptoms
+		- Symptoms suggestive of lung cancer
+			- Not eligible for screening
+			- Perform diagnostic assessment
+		- No symptoms
+			- Assess screening eligibility
+- Eligibility
+	- Age
+		- 50–70 years
+	- Asymptomatic
+	- Smoking history
+		- Current smoker
+			- OR
+		- Quit within past 10 years
+	- Tobacco exposure
+		- ≥30 pack-years
+- Screening
+	- Low-dose CT chest
+	- Every 2 years
+	- Earlier scan
+		- Nodule follow-up
+- Once enrolled
+	- Smoking eligibility
+		- No reassessment required
+	- Continue until
+		- Age 71 years
+		- Unable to undergo low-dose CT
+		- Exit program because of screening findings
+- Low-dose CT contraindications/unsuitable
+	- Weight exceeds scanner limit
+	- Unable to lie flat
+	- Unable to raise arms
+	- Active respiratory infection
+		- COVID-19
+		- Pneumonia
+		- Bronchitis
+	- Chest CT within previous 12 months
+	- Planned diagnostic chest CT within next 3 months
+- Smoking cessation
+	- Offer at every visit
+	- Pharmacotherapy
+		- Nicotine replacement therapy
+		- Varenicline
+		- Bupropion
+	- Refer to quit services
+
+
+# others
+
+
+![[Pasted image 20260519164646.png]]
+
+
+- Prognosis
+	- 5-year survival ≈10%
+	- Most patients die from disease
+- Classification
+	- NSCLC (~80%)
+		- Adenocarcinoma (~30%)
+		- Squamous cell carcinoma (~30%)
+		- Large cell carcinoma (~10%)
+	- SCLC (~20%)
+- SCLC
+	- Rapid growth
+	- Early metastasis
+	- Usually metastatic at diagnosis
+	- Untreated survival
+		- 2–3 months
+	- Good response to chemotherapy
+- NSCLC
+	- Slower growth
+	- Later metastasis
+	- Better prognosis
+	- Less responsive to chemotherapy
+- Clinical features
+	- Persistent or changing cough
+	- Haemoptysis
+	- Dyspnoea
+		- Airway obstruction
+		- Pleural effusion
+	- Recurrent pneumonia
+	- Pleuritic chest pain
+	- Weight loss
+- Examination
+	- Monophonic wheeze
+	- Atelectasis
+		- Tracheal deviation towards affected side
+	- Cervical lymphadenopathy
+	- Supraclavicular lymphadenopathy
+	- Axillary lymphadenopathy
+	- Hepatomegaly
+- Investigations
+	- Blood tests
+		- ALP
+			- Elevated in liver or bone metastases
+		- Calcium
+			- Bone metastases
+			- PTHrP secretion
+	- Chest X-ray
+		- First investigation
+		- Central tumour may be missed
+		- Distal collapse
+		- Peripheral solitary pulmonary nodule
+		- Mediastinal widening
+		- Cannonball metastases
+		- Lymphangitis carcinomatosis
+	- CT chest with contrast
+		- Primary tumour
+		- Hilar lymph nodes
+		- Mediastinal lymph nodes
+	- Sputum cytology
+	- Bronchoscopy with biopsy
+	- CT-guided biopsy
+		- Peripheral lesions
+	- PET-CT
+		- Staging
+	- Brain MRI
+		- Suspected brain metastases
+		- SCLC staging
+	- Pulmonary function tests
+		- Surgical assessment
+- Management
+	- SCLC
+		- Limited stage
+			- Chemotherapy
+				- Cisplatin or carboplatin + etoposide
+			- Concurrent radiotherapy
+			- Prophylactic cranial irradiation
+		- Extensive stage
+			- Chemotherapy
+			- Immunotherapy
+			- Palliative radiotherapy
+	- NSCLC
+		- Stage I–II
+			- Surgical resection
+				- Lobectomy
+				- Pneumonectomy
+		- Stage III
+			- Chemoradiotherapy
+			- Selected surgery
+		- Stage IV
+			- Immunotherapy
+			- Targeted therapy
+			- Chemotherapy
+			- Palliative care
+	- Radiotherapy
+		- Local symptom control
+		- Bone metastases
+		- Brain metastases
+		- Airway obstruction
+	- Malignant pleural effusion
+		- Drainage
+		- Talc pleurodesis
+- Chemotherapy complications
+	- Neutropenia
+	- Neutropenic sepsis
+	- Nausea
+	- Vomiting
+	- Diarrhoea
+	- Alopecia
+	- Renal toxicity
+- Palliative care
+	- Dyspnoea
+		- Opioids
+		- Anxiolytics
+		- Oxygen if hypoxaemic
+		- Treat reversible causes
+	- Cough
+		- Dry
+			- Opioid suppressants
+		- Productive
+			- Physiotherapy
+			- Nebulised saline
+			- Hyoscine
+			- Glycopyrrolate
+	- Chest wall pain
+		- Paracetamol
+		- NSAIDs
+		- Opioids

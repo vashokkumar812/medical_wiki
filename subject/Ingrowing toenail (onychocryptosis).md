@@ -1,0 +1,14 @@
+- epidemiology
+	- Common in 
+		- adolescent males
+- pathology
+	- Represents an imbalance between:
+		- Soft tissue nail fold
+		- Embedded growing edge of the nail
+- Management
+	- Conservative methods
+		- Separation of the succulent soft tissue nail fold from the growing nail edge
+		- May allow resolution
+	- Surgical correction
+		- Often required when conservative measures fail
+		- Corrects the underlying imbalance

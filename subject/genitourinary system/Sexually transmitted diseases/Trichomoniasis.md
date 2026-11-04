@@ -1,0 +1,111 @@
+
+- Etiology
+	- Trichomonas vaginalis
+		- protozoan parasite infecting the vagina, urethra and paraurethral glands.
+- Epidemiology
+	- More common in
+		- elderly
+		- regional and remote areas.
+		- Aboriginal and Torres Strait Islander people.
+		- Street-based sex workers.
+	- Uncommon cause of vaginal discharge or penile urethritis in
+		- urban settings.
+- pathology
+	- Long natural history; infection may persist for years without treatment.
+	- Spontaneous clearance occurs more quickly in people with a penis than in people with a vagina.
+- Clinical presentation
+	- Symptoms
+		- 50%, Urethral infections - asymptomatic
+		- vaginal discharge
+			- Malodorous
+			- profuse
+			- frothy.
+		- Vulval itching or soreness.
+		- Cervicitis.
+		- uncommon
+			- Urethral discharge
+			- Dysuria
+- Complications and associations
+	- Prostatitis
+	- enhance HIV transmission
+	- in pregnancy
+		- Premature rupture of membranes
+		- Preterm delivery
+		- Low birth weight
+		- Postpartum sepsis
+
+- Diagnosis
+	- Testing recommendations
+		- Testing is not routinely recommended for people with urethritis.
+		- Screening is not recommended except in high-prevalence populations.
+		- Follow local guidelines
+	- Investigations
+		- High vaginal swab – NAAT
+			- Preferred option in people with a vagina.
+			- Ideally clinician-collected in symptomatic patients
+			-  if the patient declines examination
+				- Self-collection is acceptable
+		- First-pass urine (FPU) – NAAT.
+			- Available in major laboratories in each Australian state.
+- Management
+	- Uncomplicated infection
+		- First-line: Metronidazole 400 mg PO with food, BD for 7 days.
+		- Alternative: Metronidazole 2 g PO with food, stat.
+	- Treatment advice
+		- Avoid alcohol during metronidazole treatment and for 24 hours after completion.
+		- No sexual contact for 7 days after treatment is commenced, or until treatment is completed and symptoms have resolved, whichever is later.
+		- Treat the current sexual partner.
+		- Perform contact tracing.
+		- Provide the patient with an appropriate factsheet.
+		- Rule out reinfection and poor adherence in persistent or recurrent infection.
+
+	- Special treatment situations
+		- if metronidazole resistance or contraindication is suspected
+			-  Seek specialist advice
+		- Pregnancy:
+			- Metronidazole is Category B2 in pregnancy according to the supplied source.
+		- Breastfeeding:
+			- Metronidazole may affect the taste of breast milk.
+			- Avoid high doses during breastfeeding.
+		- Allergy to metronidazole:
+			- No effective alternative to 5-nitroimidazole compounds.
+			- Metronidazole desensitisation has been described.
+		- People living with HIV:
+			- Single-dose metronidazole is reported to be less effective than extended treatment.
+		- Complicated presentations:
+			- Consider specialist advice before treatment.
+- Contact tracing
+	- Insufficient evidence to define a definitive contact-tracing period.
+	- Focus on current and recent sexual partners.
+	- Test partners using genital-site specimens.
+	- Consider presumptive treatment:
+		- Sexual contact within the previous 2 weeks.
+		- Individual circumstances make later treatment unlikely.
+	- Partners with a penis may test negative because spontaneous clearance is more common in this group.
+	- Refer to the Australasian Contact Tracing Manual – Trichomoniasis.
+- Follow-up
+	- Review after 1 week to:
+		- Confirm treatment adherence.
+		- Assess symptom resolution.
+		- Confirm partner treatment and contact-tracing completion.
+		- Offer additional contact-tracing support if required.
+		- Provide sexual health education.
+	- Educate about:
+		- Condom use.
+		- Contraception.
+		- HIV PrEP/PEP.
+		- Safe injecting practices.
+		- Consent.
+		- CST.
+		- HAV, HBV and HPV vaccination as indicated.
+- Test of cure and retesting
+	- Test of cure:
+		- Not routinely recommended.
+		- Consider if symptoms persist.
+	- Retesting:
+		- If symptoms persist or partner treatment is uncertain, retest after 4 weeks.
+		- Consider testing for other STIs after their relevant window periods.
+- Notifiable disease
+	- Trichomoniasis is notifiable only in the Northern Territory
+- Auditable outcome
+	- 100% of diagnosed vaginal infections should receive the recommended principal treatment option.

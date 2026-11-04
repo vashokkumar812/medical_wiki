@@ -1,0 +1,57 @@
+
+- Pathophysiology
+	- Panic + breath holding
+	- Water aspiration
+		- Laryngospasm
+		- Asphyxia
+	- Loss of consciousness
+		- Water enters lungs
+	- Pulmonary water
+		- V/Q mismatch
+		- Hypoxaemia
+	- Severe hypoxia
+		- Metabolic acidosis
+		- Cerebral oedema
+		- Acute tubular necrosis
+	- Hypothermia
+		- Common
+		- Neuroprotective effect
+			- Especially children
+
+- Important differences from other cardiac arrest
+	- Respiratory arrest occurs before cardiac arrest
+	- Severe metabolic acidosis common
+
+- Management
+	- Immediate CPR
+		- Mainstay
+	- Continue resuscitation
+		- >30 min if required
+		- Especially if hypothermic
+	- Successfully resuscitated patients
+		- 100% oxygen
+		- Transfer to hospital
+
+- Assess for aspiration
+	- Historical clues
+		- Prolonged submersion
+		- Choking/inhalation
+		- Loss of consciousness
+		- Apnoea
+		- CPR required
+
+	- Clinical features
+		- Cough
+		- Dyspnoea
+		- Retrosternal discomfort
+		- Cyanosis
+		- Tachycardia
+		- Tachypnoea
+		- Wheeze/crackles
+		- Pink frothy sputum
+		- Reduced consciousness
+		- Low oxygen saturation
+	- Aspiration may occur despite initially normal chest X-ray
+	- If aspiration suspected
+		- 100% oxygen
+		- Hospital transfer

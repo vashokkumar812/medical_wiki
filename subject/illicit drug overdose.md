@@ -1,0 +1,308 @@
+- Illicit drug overdose
+	- Epidemiology
+		- ~40% Australians tried illicit drugs lifetime
+		- ~15% used within previous 12 months
+		- Most common
+			- cannabis
+		- Highest mortality
+			- heroin/opiates
+				- >90% illicit drug deaths
+		- Common age group
+			- 20–29 years
+		- Males
+			- higher use
+			- higher hospitalisation
+		- Cannabis
+			- highest prevalence
+			- no direct overdose deaths reported
+		- Amphetamines
+			- second highest mortality
+		- MDMA
+			- associated with hyperthermia + hyponatraemia
+
+- Initial approach to overdose
+	- Priorities
+		- resuscitation
+		- risk assessment
+		- supportive care
+	- ABC approach
+		- airway
+		- breathing
+		- circulation
+	- Important history
+		- drug taken
+		- dose
+		- route
+		- timing
+		- recreational vs deliberate self-poisoning
+		- alcohol
+		- tobacco
+		- caffeine
+		- prescription/OTC/herbal drugs
+		- psychiatric history
+		- suicidal ideation
+		- cardiovascular disease
+	- Examination
+		- vital signs
+		- oxygen saturation
+		- GCS
+		- pupils
+		- tone/reflexes/clonus
+		- track marks
+		- smell
+		- bruising
+		- aspiration/injury signs
+	- Investigations
+		- bedside glucose
+		- ECG
+		- blood gas
+		- β-HCG
+		- paracetamol level
+			- if deliberate overdose
+
+- Common toxidromes
+	- CNS depressant syndrome
+			- opioids
+			- GHB
+			- benzodiazepines
+		- Features
+			- sedation
+			- unconsciousness
+			- hypoventilation
+		- Management
+			- airway support
+			- oxygenation
+			- ventilation
+	- Sympathomimetic syndrome
+		- amphetamines
+		- cocaine
+		- synthetic cathinones
+		- Features
+			- agitation
+			- delirium
+			- psychosis
+			- hypertension
+			- tachycardia
+		- Management
+			- sedation
+			- cardiovascular monitoring
+	- Acute psychosis
+		- cannabinoids
+		- stimulants
+		- Severe agitation
+			- may need 5-point restraint
+			- chemical sedation
+				- midazolam
+				- droperidol
+				- olanzapine
+
+- Opioid overdose
+	- Common drugs
+		- heroin
+		- oxycodone
+		- codeine
+		- morphine
+		- tramadol
+		- methadone
+	- Classic triad
+		- CNS depression
+		- respiratory depression
+		- miosis
+	- Key sign
+		- RR <10/min strongly suggests opioid toxicity
+	- Complications
+		- aspiration pneumonitis
+		- non-cardiogenic pulmonary oedema
+	- Investigations
+		- end-tidal CO2
+		- blood gas
+			- pCO2 best measure of hypoventilation
+		- chest X-ray
+	- Management
+		- airway + ventilation priority
+		- naloxone
+			- titrate to respiratory effort
+			- not consciousness
+		- Naloxone doses
+			- 100–400 mcg IV
+			- 2 mg IM/IN
+		- Intranasal naloxone
+			- reduced needlestick risk
+		- Risks of naloxone
+			- acute withdrawal
+				- agitation
+				- diaphoresis
+				- tachycardia
+			- absconding/recurrent sedation
+		- All suspected heroin overdose
+			- ED referral/admission
+
+- Amphetamine/cocaine overdose
+	- Toxidrome
+		- sympathomimetic excess
+	- Features
+		- tachycardia
+		- hypertension
+		- agitation
+		- delirium
+		- hallucinations
+		- psychosis
+	- Major complications
+		- myocardial infarction
+		- coronary vasospasm
+		- arrhythmias
+		- seizures
+	- Important investigation
+		- ECG
+	- Acute coronary syndrome management
+		- opiates
+		- benzodiazepines
+		- nitrates
+		- aspirin
+	- Benzodiazepines useful for
+		- agitation
+		- hypertension
+		- seizures
+		- delirium
+	- Cocaine-induced VT
+		- due to sodium channel blockade
+		- treat with sodium bicarbonate
+			- 1–2 mmol/kg IV
+	- Symptomatic patients
+		- hospital admission
+		- delirium may persist 48 hours
+
+- MDMA/ecstasy overdose
+	- Amphetamine derivative with serotonergic activity
+	- Features
+		- empathy/euphoria
+		- bruxism
+		- palpitations
+		- hypertension
+		- diaphoresis
+		- sympathomimetic syndrome
+	- Serious complications
+		- serotonin syndrome
+		- hyperthermia
+		- dehydration
+		- hyponatraemia
+		- seizures
+	- Management
+		- similar to amphetamine toxicity
+		- aggressive cooling
+		- hypertonic saline if severe hyponatraemia
+
+- Cannabis intoxication
+	- Usually mild/self-limiting
+	- Features
+		- anxiety
+		- panic
+		- depersonalisation
+		- disorientation
+		- memory impairment
+		- poor attention
+		- tachycardia
+		- palpitations
+		- AF
+		- orthostatic hypotension
+	- Duration
+		- inhaled
+			- 2–3 hours
+		- oral
+			- 4–12 hours
+	- Management
+		- reassurance
+		- benzodiazepines if agitation
+
+- GHB overdose
+	- Clear tasteless liquid
+	- Rapid CNS depression
+	- Short duration + rapid offset
+	- Similar to benzodiazepine toxicity
+	- Management
+		- supportive care
+
+- Designer drugs
+	- Synthetic cathinones
+			- amphetamine-like
+		- synthetic cannabinoids
+			- cannabis-like
+	- Management
+		- supportive
+		- symptom-based
+
+- Street names
+	- Amphetamines
+		- speed
+		- meth
+		- ice
+	- Cannabis
+		- weed
+		- pot
+		- grass
+		- ganja
+		- hash
+	- Cocaine
+		- coke
+		- crack
+		- snow
+	- MDMA
+		- E
+		- eccies
+		- XTC
+	- Heroin
+		- smack
+		- junk
+		- horse
+	- GHB
+		- fantasy
+		- liquid X
+
+- Opioid prescribing principles
+	- Use biopsychosocial assessment
+	- Shared decision-making essential
+	- Lowest effective dose
+	- Shortest duration possible
+	- Discuss risks
+			- dependence
+			- withdrawal
+			- misuse/diversion
+			- falls
+			- cognitive impairment
+			- MVAs
+	- Avoid opioids in
+		- alcohol/substance use disorder
+		- polydrug use
+	- Long-term opioids
+		- uncommon
+		- use cautiously
+		- regular dose reduction attempts
+		- continued monitoring required
+	- Prescribe from
+		- one GP/practice
+		- one pharmacy
+	- Combination psychoactive drugs
+		- especially benzodiazepines + opioids
+		- high overdose risk
+	- Use term
+		- substance use disorder (SUD)
+			- preferred over addiction/abuse/dependence
+	- All patients deserve
+		- respectful
+		- dignified
+		- safe care
+
+| Drug | Street names |
+|---|---|
+| **Amphetamines** (methamphetamine, PMA) | Speed, meth, ice, uppers, death (PMA) |
+| **Cannabis** | Marijuana, weed, pot, grass, joint, mull, cone, dope, ganja, hash, chronic |
+| **Cocaine** | Snow, crack, coke, rock |
+| **Ecstasy (MDMA)** | XTC, E, eccies, M&Ms, Adam |
+| **Heroin** | Smack, horse, junk, skag, brown, Harry, H |
+| **GHB** (γ-hydroxybutyrate) | GHB, fantasy, date rape drug, grievous bodily harm, liquid X/E/G |
+
+| Illicit drug(s) | Associated toxidrome | Major complications | Treatment options |
+|---|---|---|---|
+| **Amphetamines / Cocaine / MDMA** | **Sympathomimetic toxidrome**<br><br>• CNS excitation: euphoria, hallucinations, agitation, psychosis, delirium, seizures<br>• Neuromuscular: hyperreflexia, tremor<br>• Autonomic: hyperthermia, diaphoresis, flushing, mydriasis<br>• Cardiovascular: tachycardia, hypertension, arrhythmias<br>• GI: nausea, vomiting, diarrhoea<br>• MDMA may cause serotonin syndrome | • Seizures<br>• Hypertension<br>• ACS<br>• Rhabdomyolysis<br>• Shock/cardiovascular collapse<br>• Arrhythmias<br>• Hyponatraemia (MDMA)<br>• Hyperthermia >39°C<br>• Serotonin toxicity | • ACS: aspirin, nitrates, opiate analgesia, benzodiazepines<br>• Agitation: benzodiazepines, droperidol<br>• Seizures/HTN: benzodiazepines<br>• Arrhythmias: sodium bicarbonate, amiodarone<br>• Shock: crystalloids, inotropes<br>• Hyperthermia: IV fluids, ice packs, may need intubation/paralysis |
+| **Opiates** | **Opiate toxidrome**<br><br>• CNS depression: drowsiness → coma<br>• Respiratory depression<br>• Hypercapnia | • Respiratory failure<br>• Aspiration pneumonitis<br>• Non-cardiogenic pulmonary oedema<br>• Rhabdomyolysis<br>• Hypothermia | • Oxygen + respiratory support<br>• Naloxone IV boluses 100–400 mcg titrated to effect<br>• Long-acting opioids may require naloxone infusion<br>• Supportive care: IV fluids, rewarming, maintain euglycaemia |
+| **Cannabis** | **Psychological disturbance**<br><br>• Depersonalisation<br>• Disorientation<br>• Decreased inhibition<br>• Altered mood<br>• Memory impairment<br>• Poor attention | • Agitation<br>• Psychosis<br>• Hyperemesis | • Reassurance<br>• Antiemetics<br>• Oral/IV benzodiazepines<br>• Antipsychotics |

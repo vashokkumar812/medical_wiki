@@ -1,0 +1,4 @@
+- blood loss
+	- 30 to 50 ml
+- bleeding days
+	- 8

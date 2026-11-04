@@ -1,0 +1,102 @@
+## General approach
+  - Localise the lesion → Brain, spinal cord or peripheral nerve.
+  - Screening examination
+    - General examination: consciousness, neck stiffness, higher centres, speech, abnormal movements.
+    - Cranial nerves I–XII.
+    - Upper limbs: inspection, tone, power, reflexes, coordination, pinprick, proprioception, vibration, light touch.
+    - Lower limbs: same motor and sensory examination as upper limbs + gait.
+    - Skull and spine: local disease.
+    - Carotid arteries: bruits.
+
+## General signs
+  - Consciousness
+    - Assess level of consciousness.
+    - If unconscious → Assess responses to various stimuli.
+  - Neck stiffness / meningism
+    - Indications: 
+	    - Acute neurological illness
+	    - fever
+	    - altered mental status.
+    - Examination
+      - Patient lies flat.
+      - Place hand under occiput and gently flex neck passively.
+      - Neck stiffness → Resistance to flexion; head, neck and shoulders may rise.
+    - Causes
+      - Pyogenic or other meningitis.
+      - Subarachnoid haemorrhage.
+      - Other causes of resistance to neck flexion:
+        - Cervical spondylosis.
+        - Previous cervical fusion.
+        - Parkinson’s disease.
+        - Raised intracranial pressure, especially impending tonsillar herniation.
+    - Brudzinski’s sign
+      - Passive neck flexion causes spontaneous flexion of the hips.
+      - Indicates meningism.
+    - Kernig’s sign
+      - Flex hip, then attempt to extend knee while hip remains flexed.
+      - Pain and restricted knee extension due to hamstring spasm → Meningism
+    - Clinical interpretation
+      - Meningeal signs ==>  limited diagnostic accuracy.
+      - Absence of fever, headache and neck stiffness does not exclude meningitis.
+
+  - Handedness
+    - Ask whether the patient is right- or left-handed.
+    - Helps identify the likely dominant cerebral hemisphere.
+    - Approximately 94% of right-handed people and 50% of left-handed people have left-hemisphere dominance.
+    - Dominant hemisphere → Language and mathematical functions.
+
+  - Orientation
+    - Person → Ask name.
+    - Place → Ask current location.
+    - Time → Ask date.
+    - Disorientation is not a specific localising sign
+	    - Acute and reversible → Delirium
+	    - Chronic and potentially irreversible → Dementia
+    - MoCA or MMSE → Document and monitor cognitive impairment over time
+
+# cranial nerve examination
+- general examintion
+  - Examination anatomy
+    - CN I and II arise directly from the brain; CN III–XII arise from the brainstem.
+    - Cranial nerves are numbered from rostral (top) to caudal (bottom).
+    - Examine according to function; multiple cranial nerves contribute to eye movements.
+  - General inspection
+    - Position patient sitting at the edge of the bed, if possible.
+    - Inspect head, face and neck for:
+      - Acromegaly, Paget’s disease, basilar invagination.
+      - Ptosis, proptosis, unequal pupils, skew deviation, facial asymmetry.
+    - Inspect scalp for craniotomy scars.
+    - Inspect skin for neurofibromas.
+    - Facial capillary/cavernous haemangioma in trigeminal nerve distribution → Sturge–Weber syndrome; associated with leptomeningeal venous haemangioma and seizures.
+    - Dermatomal/nerve-distribution vesicular rash → Herpes zoster; distribution helps identify the affected nerve.
+
+- CN I — Olfactory nerve
+  - Examination anatomy
+    - Purely sensory nerve responsible for smell.
+    - Fibres arise from nasal mucosa → Cribriform plate of ethmoid bone → Olfactory bulb → Olfactory tract → Medial temporal lobe on the same side.
+  - Indications for examination
+    - Anosmia (loss of smell).
+    - Complaint of loss of taste.
+    - Signs suggesting frontal or temporal lobe lesion.
+    - Not routinely tested in every patient.
+  - Examination
+    - Inspect external nose for rash or deformity.
+    - Examine nasal vestibule by elevating the tip of the nose; use a speculum if needed.
+    - Test each nostril separately using familiar, non-irritating smells:
+      - Coffee, vanilla, peppermint or isopropyl alcohol wipes.
+    - Avoid ammonia and other pungent substances → Stimulate CN V sensory fibres rather than reliably testing smell.
+    - If anosmia is present, examine nasal passages for polyps or mucosal thickening.
+  - Causes of anosmia
+    - Bilateral causes:
+      - Upper respiratory tract infection (most common).
+      - Smoking and increasing age.
+      - Ethmoid tumours.
+      - Basal skull/frontal fracture or following pituitary surgery.
+      - Congenital causes, e.g. Kallmann syndrome (hypogonadotrophic hypogonadism).
+      - Olfactory groove meningioma.
+      - Previous meningitis.
+    - Unilateral causes:
+      - Head trauma without fracture.
+      - Early olfactory groove meningioma.
+  - Clinical clue
+    - Loss of taste may actually reflect loss of smell, because smell contributes significantly to flavour perception.

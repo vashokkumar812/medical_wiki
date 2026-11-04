@@ -1,0 +1,46 @@
+## definition
+- Status epilepticus = repeated convulsions (usually >5 minutes) without regaining consciousness after initial tonic–clonic seizure. Significant mortality at >30 minutes.
+- Serial seizures = repeated convulsions after regaining consciousness.
+## treatment
+- focal status
+	- high index of suspicion is needed to diagnose
+	- Oral medication usually adequate
+	- Avoid overtreatment
+- Generalized status
+	- [[seizure]] ( petit mal )
+		- diazepam
+			- IV
+			- rectally 
+				- adult : 5 ml of isotonic saline and introduced via a the nozzle of the syringe into the rectum
+				- children : 0.5 mg/kg
+		- Hospitalization
+	- [[tonic clonic seizure]]
+		- first line
+			- benzodiazepine
+		- followed  by
+			- anti epileptic agent
+		- Left lateral position 
+		- ensure adequate oxygenation
+			- guedel tube 
+		- O2 8L/Min
+		- first benzodiazepine
+			- [[midazolam]] 5–10 mg (child: 0.15–0.2 mg/kg up to 10 mg) IM or IV, over 2–5 minutes or 
+			- [[midazolam]] 5–10 mg (child: 0.2–0.3 mg/kg up to 10 mg) buccally or intranasally. One drop = 0.3 mg. Repeat once 15 minutes later if seizure continues or 
+			- diazepam 10–20 mg (child: 0.1–0.25 mg/kg up to 20 mg) IV, over 2–5 minutes (max. 5 mg/min). Repeat once 15 minutes later if seizure continues (beware of respiratory [[depression]]) or 
+			- clonazepam 1 mg (child 0.25–0.5 mg) IV over 2–5 minutes. Repeat once 15 minutes later if necessary 
+			- for children
+				- Intranasal [[midazolam]] (0.2–0.3 mg/kg/dose) up to maximum of 10 mg
+		- followed immediately (for all of above) by an anti-epileptic: 
+			- phenytoin 15–20 mg/kg IV in a glucose-free solution over 30 minutes (child 25 mg/min) careful monitoring of ECG and BP or 
+			- sodium valproate 10 mg/kg (child: 15–30 mg/kg up to 800 mg by slow IV injection
+		- if uncontrolled
+			- intubation with expert assistance
+- do and donts
+	- - **Don’t** move the person unless there’s danger.
+	- **Don’t** put anything in their mouth.
+	- **Don’t** try to stop the seizure.
+	- **Do** roll them on their side, head turned, chin up.
+	- **Do** call for medical help if seizure >10 minutes or repeats.
+	- **Do** remove dentures and clear airway after seizure
+- if recurrent or repetitive status epilepticus
+	- [[midazolam]] 10 mg buccally or diazepam 10–20 mg rectally (may be available from hospital pharmacies)

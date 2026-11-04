@@ -1,0 +1,168 @@
+- **Palpitations**
+
+  - "Can you describe exactly what you notice when you experience these episodes?"
+    - Awareness of heartbeat
+      - Unexpected awareness of one's heartbeat.
+      - May be perceived as fast, slow, forceful or irregular.
+    - Heart missing a beat followed by a strong beat
+      - Atrial ectopic beats (PACs)
+        - Premature atrial contraction followed by a pause.
+        - Subsequent normal beat may feel unusually forceful.
+      - Ventricular ectopic beats (PVCs)
+        - Premature ventricular contraction followed by a compensatory pause.
+        - Subsequent normal beat may feel unusually forceful.
+    - Fluttering or abnormal beating sensation
+      - Atrial fibrillation
+      - Atrial flutter
+      - Supraventricular tachycardia
+      - Ectopic beats
+
+  - "Does your heart seem to beat fast or slow?"
+    - Very fast heartbeat
+      - Regular
+        - Supraventricular tachycardia (SVT)
+        - Ventricular tachycardia (VT)
+      - Irregular
+        - Atrial fibrillation (AF)
+        - Atrial flutter with variable AV conduction
+    - Slow heartbeat
+      - Bradyarrhythmias
+        - Sinus bradycardia
+        - AV block
+    - Forceful heartbeat without increased rate
+      - Awareness of sinus rhythm
+        - Anxiety-related awareness of normal heartbeat.
+
+  - "Does your heartbeat feel regular or irregular?"
+    - Regular heartbeat
+      - Very fast and regular
+        - SVT
+        - VT
+      - Forceful but not fast
+        - Awareness of sinus rhythm
+        - Anxiety
+    - Irregular heartbeat
+      - Normal beats interrupted by missed or strong beats
+        - Atrial ectopic beats (PACs)
+        - Ventricular ectopic beats (PVCs)
+      - Completely irregular heartbeat
+        - Atrial fibrillation (AF)
+      - Irregular heartbeat with variable rhythm
+        - Atrial flutter with variable AV conduction.
+
+  - "How long does each episode last?"
+    - A few seconds
+      - Atrial ectopic beats
+      - Ventricular ectopic beats
+    - Several minutes
+      - Paroxysmal SVT
+      - Paroxysmal atrial fibrillation
+    - Several hours
+      - Atrial fibrillation
+      - Atrial flutter
+      - Sustained SVT
+      - Ventricular tachycardia
+
+  - "Are the palpitations worse when you are resting or lying down?"
+    - More noticeable at rest
+      - Atrial ectopic beats
+      - Ventricular ectopic beats
+      - Awareness of sinus rhythm.
+
+  - "Do the palpitations start and stop suddenly?"
+    - Sudden onset and sudden termination
+      - Supraventricular tachycardia (SVT)
+        - Particularly suggestive of a re-entrant tachycardia.
+      - Ventricular tachycardia (VT)
+    - Gradual onset and gradual termination
+      - Sinus tachycardia
+        - May occur with exercise, anxiety or physiological stress.
+
+  - "Can you stop the palpitations by taking deep breaths, holding your breath or bearing down?"
+    - Palpitations terminate with vagal manoeuvres
+      - Supraventricular tachycardia (SVT)
+        - AV nodal re-entrant tachycardia (AVNRT).
+        - AV re-entrant tachycardia (AVRT).
+    - Palpitations do not terminate with vagal manoeuvres
+      - Atrial fibrillation.
+      - Atrial flutter.
+      - Ventricular tachycardia.
+      - Sinus tachycardia.
+
+  - "Do you experience a pounding or throbbing sensation in your neck?"
+    - Prominent regular pounding in the neck
+      - Supraventricular tachycardia
+        - Particularly AVNRT.
+        - May result from simultaneous atrial and ventricular contraction.
+
+  - "Have you ever had an ECG recorded while experiencing these episodes?"
+    - Previous ECG documented an abnormal rhythm
+      - SVT
+      - Atrial fibrillation.
+      - Atrial flutter.
+      - Ventricular tachycardia.
+      - Atrial or ventricular ectopic beats.
+    - No ECG recorded during symptoms
+      - Intermittent arrhythmia may remain undocumented.
+
+  - "Do you experience any other symptoms along with the palpitations?"
+
+    - Chest tightness or chest pain
+      - Cardiac
+        - Ventricular tachycardia
+        - SVT
+        - Atrial fibrillation with rapid ventricular response
+        - Acute coronary syndrome
+      - Other
+        - Anxiety or panic attack.
+
+    - Breathlessness
+      - Cardiac
+        - Ventricular tachycardia
+        - SVT
+        - Atrial fibrillation
+        - Heart failure
+      - Respiratory
+        - Pulmonary embolism
+
+    - Dizziness or light-headedness
+      - Cardiac arrhythmias
+        - SVT
+        - Ventricular tachycardia
+        - Atrial fibrillation with rapid ventricular response
+        - Bradyarrhythmias
+
+    - Fainting or loss of consciousness
+      - Ventricular arrhythmias
+        - Ventricular tachycardia
+        - Ventricular fibrillation
+      - Bradyarrhythmias
+        - Complete heart block
+        - Sinus node dysfunction
+      - Inherited arrhythmia syndromes
+        - Long QT syndrome
+        - Brugada syndrome
+
+  - "Have you previously been diagnosed with any heart problems?"
+    - Previous myocardial infarction
+      - Ventricular tachycardia
+      - Ventricular ectopic beats
+    - Heart failure
+      - Ventricular tachycardia
+      - Atrial fibrillation
+    - Cardiomyopathy
+      - Ventricular arrhythmias
+      - Atrial arrhythmias
+    - Previous arrhythmia
+      - Recurrent SVT
+      - Atrial fibrillation
+      - Ventricular tachycardia
+
+  - "Does anyone in your family have heart rhythm problems or has anyone died suddenly at a young age?"
+    - Family history of arrhythmia
+      - Inherited arrhythmia syndromes.
+    - Family history of sudden cardiac death
+      - Long QT syndrome
+      - Brugada syndrome
+      - Hypertrophic cardiomyopathy
+      - Catecholaminergic polymorphic ventricular tachycardia

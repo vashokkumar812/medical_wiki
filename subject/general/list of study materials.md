@@ -1,0 +1,22 @@
+- [ ] australian immunisation handbook
+- [ ] therapeutic guideliness
+- [ ] amc handbook of mcq
+- [ ] anthology of medical conditions
+- [ ] clinical assessment
+- [ ] annotations
+- [ ] red book
+- [ ] green book
+- [ ] snap
+- [ ] prevention of cardiobvascular diseases
+- [ ] hpv vaccination program
+- [ ] diabetes management in gp
+- [ ] absolute cardiovasclar disease risk assessment
+- [ ] [[dementia]]
+- [ ] advanced care plans
+- [ ] code of conduct of corporations
+- [ ] driver fitness
+- [ ] abuse and violence
+- [ ] initimate partner violence
+- [ ] racgp guideliness
+- [ ] imaging pathway
+- [ ] pathology tests

@@ -1,0 +1,108 @@
+![[Pasted image 20260220195157.png]]
+
+
+
+
+
+
+- Initial imaging
+	- Chest X-ray
+		- first investigation
+		- Excludes non-cardiac causes
+			- Pneumothorax
+			- Pneumonia
+			- Pulmonary/mediastinal masses
+		- May show cardiac failure
+- Functional imaging
+	- Myocardial perfusion study (MPS)
+		- Widely available stress investigation
+		- Detects
+			- Reversible ischaemia
+			- Fixed ischaemia
+		- Very high negative predictive value
+		- Stratifies patients into
+			- Abnormal
+			- Normal
+			- Equivocal
+		- Limitations
+			- Requires exercise compliance
+			- Radiation exposure
+			- Relatively lower sensitivity
+		- Equivocal result
+			- CT coronary angiography
+	- Stress echocardiography
+		- Alternative functional test
+		- No radiation
+		- Demonstrates wall motion abnormalities
+		- Used for risk stratification
+		- Limited skilled operator availability
+- CT coronary angiography (CTCA)
+	- Role
+		- Non-invasive anatomical assessment
+		- Best for low–intermediate risk patients
+		- Usually outpatient procedure
+	- Technique
+		- Target HR ≈60 bpm
+		- Often requires beta blockers
+		- IV non-ionic contrast via cubital vein
+		- Single breathhold acquisition
+			- 8–15 seconds
+		- Image reconstruction
+			- 30–45 minutes
+	- Radiation dose
+		- ~1.5–3.5 mSv
+		- Comparable/lower than invasive angiography
+	- Advantages
+		- Very high negative predictive value
+			- ~100%
+		- High sensitivity for significant stenosis
+		- Detects
+			- Calcified plaque
+			- Soft plaque
+		- Evaluates
+			- Cardiac valves
+			- Chamber size
+			- Wall thickness
+			- Thrombus
+			- Tumour
+			- Mediastinum
+			- Lungs
+			- Coronary artery origin anomalies
+		- Useful for
+			- Coronary graft patency
+			- Coronary stents
+	- Limitations
+		- Heavy coronary calcification obscures lumen
+		- Tachyarrhythmia reduces accuracy
+		- Contrast-related risks
+	- Coronary calcium score
+		- Non-contrast CT screening tool
+		- Used for CAD risk stratification
+- Triple rule out CT
+	- Evaluates simultaneously
+		- Coronary artery disease
+		- Pulmonary embolism
+		- Aortic dissection
+	- High sensitivity + high negative predictive value
+	- Mainly emergency department use
+	- Limited community use in Australia
+	- May reduce admissions/additional testing
+- Cardiac MRI
+	- Limited by
+		- Availability
+		- Long acquisition time
+	- Currently not comparable to CTCA for coronary angiography
+	- Expanding role in
+		- Chamber volume assessment
+		- Wall motion analysis
+		- Myocardial perfusion
+- Practical diagnostic pathway
+	- Clinical assessment ± ECG/troponin
+	- Chest X-ray
+	- Functional imaging
+		- MPS
+		- Stress echo
+	- CTCA
+		- Equivocal studies
+		- Low–intermediate risk patients
+	- Further specialist imaging if required

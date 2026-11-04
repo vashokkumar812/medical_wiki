@@ -1,0 +1,189 @@
+---
+aliases:
+  - PID
+---
+- Pelvic inflammatory disease (PID)
+	- Syndrome involving inflammatory disorders of upper genital tract
+- Includes
+	- Endometritis
+	- Salpingitis
+	- Tubo-ovarian abscess
+	- Pelvic peritonitis
+- complications
+	- Tubal infertility
+	- Ectopic pregnancy
+	- Chronic pelvic pain
+	- Recurrent PID
+	- Adhesions
+- Causes
+	- Usually polymicrobial
+	- Sexually transmitted organisms
+		- Neisseria gonorrhoeae
+		- Chlamydia trachomatis
+		- Mycoplasma genitalium
+	- Vaginal organisms
+		- Facultative bacteria
+		- Bacterial vaginosis-associated organisms
+	- Non-sexual causes
+		- Ascending infection after instrumentation
+- Risk factors
+	- Age <30 years
+	- Sexually active
+	- New sexual partner
+	- Partner with STI
+	- Recent uterine instrumentation
+		 - IUD insertion
+		 - Dilation and curettage (D&C)
+		 - Surgical abortion/termination
+	- Previous PID
+	- Bacterial vaginosis
+- clinical features
+	- Lower abdominal/pelvic pain
+		- pain during first 2 days of menstruation
+		- Usually bilateral
+		- Worse with movement
+		- May localise to one side
+	- Deep dyspareunia
+	- Vaginal discharge
+		- Blood stained
+		- Mucopurulent
+	- Abnormal vaginal bleeding
+		- Intermenstrual
+		- Postcoital
+		- Heavy menstrual bleeding
+	- Fever
+	- Nausea/vomiting
+		 - Suggest severe infection
+	- Right upper quadrant pain
+		 - Fitz-Hugh–Curtis syndrome
+			 - Perihepatitis associated with PID
+			 - epidemiology
+				 - in young sexually active women
+			- Causes
+				- Right upper quadrant pain
+				- Pleuritic pain
+			- Liver enzymes often normal
+		 - Perihepatitis due to PID
+- examination
+	- Cervicitis on speculum examination
+		- Inflamed cervix
+		- Friable cervix
+		- Mucopurulent discharge
+	- Cervical motion tenderness
+		 - Classic PID finding
+	- Peritonism
+		 - Severe disease
+	- Fever/tachycardia
+		 - Severe infection/sepsis
+- Diagnosis
+	- Primarily clinical diagnosis
+	- Low threshold for suspicion required
+	- New pelvic pain in sexually active woman <30 years highly predictive
+	- Do not delay treatment waiting for results
+- Important diagnostic pearls
+	- Absence of fever does NOT exclude PID
+	- mostly no organism isolated
+	- Pain on bimanual exam
+		- Poor predictor
+	- Absence of cervical/adnexal tenderness
+		- Makes PID less likely
+	- If unable to perform bimanual examination
+	- Still commence empiric treatment if suspicion high
+- Differential diagnoses
+	- Ectopic pregnancy
+		 - Must exclude urgently
+- Essential investigations
+	- Urine pregnancy test
+		 - Mandatory in reproductive-age women
+		 - Positive → urgent pelvic ultrasound
+	- STI testing
+		- Endocervical swabs
+	- Urinalysis
+		 - Nitrites/leukocytes suggest UTI
+	- Pelvic ultrasound
+		 - Preferred if diagnosis uncertain
+		 - Transvaginal preferred
+			 - May be normal
+			- Thickened fallopian tubes
+			- Dilated tubes
+			- Free pelvic fluid
+			- Tubo-ovarian abscess
+- Organism-specific tests
+	- Gonorrhoea
+		- Endocervical swab
+			- NAAT + culture
+	- Chlamydia
+		- Endocervical swab NAAT
+	- Mycoplasma genitalium
+		- Endocervical swab NAAT
+	- Bacterial vaginosis
+		- High vaginal swab NAAT
+- treatment
+	- Mild–moderate PID treatment
+		- Outpatient management
+		- Ceftriaxone IM/IV stat + metronidazole x 14 days + doxycycline for 14 days
+	- Severe PID treatment
+		- Inpatient management
+		- Ceftriaxone OR cefotaxime + azithromycin + metronidazole
+- Treatment pearls
+	- Start antibiotics immediately
+		 - Do not wait for test results
+	- Rapid improvement with antibiotics strongly supports PID diagnosis
+	- Consider azithromycin instead of doxycycline if
+		- Breastfeeding
+		- Poor adherence risk
+- if IUD
+	- Recent IUD insertion may precipitate PID
+	- Do NOT routinely remove IUD immediately
+	- Consider removal only if
+		- No improvement within 48–72 hours
+- Admission indications
+	- Clinically unwell
+	- Unstable vital signs
+	- Severe pain
+	- Surgical emergency cannot be excluded
+	- Tubo-ovarian abscess suspected
+	- Pregnancy
+	- Failure of outpatient treatment within 48–72 hours
+	- Intolerance to oral therapy
+	- Homeless/unstable accommodation
+- Tubo-ovarian abscess
+	- Severe complication of PID
+	- Features
+		- Fever
+		- Severe pelvic pain
+		- Adnexal mass
+		- Toxic appearance
+	- Requires admission
+	- Risk of rupture → sepsis
+- Pregnancy and PID
+	- Avoid doxycycline
+	- Use azithromycin regimen instead
+	- Pregnancy itself is admission indication
+- Supportive management
+	- Avoid sexual intercourse
+		 - For 1 week after treatment or until symptoms improve
+	- Analgesia
+		- NSAIDs
+		- Paracetamol
+- Follow-up
+	- No improvement within 72 hours
+		 - Consider admission
+	- Review again at 1–2 weeks
+		- Confirm improvement
+		- Ensure contact treatment
+
+
+- Common AMC clinical scenarios
+	- Young sexually active woman with bilateral lower abdominal pain + cervical motion tenderness
+		- PID
+	- PID + RUQ pain
+		- Fitz-Hugh–Curtis syndrome
+	- Pelvic pain + positive pregnancy test
+		- Exclude ectopic pregnancy urgently
+	- Persistent fever/adnexal mass despite antibiotics
+		- Tubo-ovarian abscess
+	- Recent IUD insertion + pelvic pain/discharge
+		- PID possible
+	- PID symptoms but negative STI tests
+		- Does not exclude PID

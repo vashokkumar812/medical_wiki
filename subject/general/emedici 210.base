@@ -1,0 +1,9 @@
+views:
+  - type: list
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("emedici")
+    groupBy:
+      property: file.folder
+      direction: ASC

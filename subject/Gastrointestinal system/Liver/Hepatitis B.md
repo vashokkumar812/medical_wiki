@@ -1,0 +1,225 @@
+* Cause
+  - Hepatitis B virus (HBV)
+	  - Double-stranded DNA virus
+* Epidemiology
+  - Risk of chronic infection
+    - Infection acquired at birth or before 5 years → >90%
+    - Infection acquired as an adult → <5%
+  - Australia
+    - People aged 34 years or younger in 2020 who grew up in Australia
+      - Generally assumed to be vaccinated
+      - Do not usually require testing
+      - Consider hepatitis B serology in high-risk groups
+        - People with HIV
+        - People who inject drugs (PWID)
+    - Elevated prevalence among
+      - Aboriginal and Torres Strait Islander people living in remote areas
+      - Some culturally and linguistically diverse populations
+    - Most people living with chronic HBV in Australia were born overseas
+      - Asia Pacific region
+      - Europe
+      - Africa
+      - Middle East
+* Transmission
+  - Vertical transmission
+    - Mother-to-child
+  - Horizontal transmission
+    - Parenteral exposure
+      - Shared injection equipment
+    - Sexual contact
+    - Household contact
+  - Infectivity
+    - Infectious 2 weeks before symptom onset
+    - Remains infectious until HBsAg becomes negative
+    - Chronic infection → lifelong infectivity
+  - Household contact
+    - HBV is a blood-borne virus and sexually transmissible infection
+    - Casual household contact is not a transmission risk
+      - Sharing cutlery is not a transmission risk
+* Pathogenesis
+  - Infection causes acute hepatitis
+  - Acute infection may progress to chronic infection
+  - Chronic hepatitis B
+    - HBsAg positive
+    - Infection lasting more than 6 months
+    - Can be lifelong
+    - No healthy carrier state
+    - Requires ongoing monitoring
+    - Must be considered for treatment
+* Clinical features
+  - Asymptomatic infection
+    - Common
+  - Acute hepatitis
+    - Incubation period: 45–180 days
+      - Mean: 60 days
+    - Right upper quadrant pain
+    - Lethargy
+    - Nausea
+    - Fever
+    - Anorexia
+    - Jaundice develops after a few days
+  - Chronic hepatitis
+    - Infection lasting more than 6 months
+    - Can be lifelong
+* Complications
+  - Liver cirrhosis
+  - Liver failure
+  - Hepatocellular carcinoma (HCC)
+    - Can occur even without liver cirrhosis
+* Diagnosis
+  - Hepatitis B serology
+    - Use ASHM Decision Making Tool for
+      - Ordering hepatitis B serology
+      - Interpreting hepatitis B serology
+  - Indications for HBV Testing
+	* General recommendations
+	  - Testing indicated in all people belonging to priority populations
+	  - Most new cases of chronic HBV diagnosed in Australia occur in people from culturally and linguistically diverse (CALD) backgrounds
+	  - Testing people born in countries with intermediate or high HBV prevalence is crucial
+		- Includes new arrivals to Australia
+	  - Individual risk of HBV infection should guide testing decisions
+	  - Absence of declared risk factors should not prevent testing when clinically appropriate
+	* Priority populations and clinical indications
+	  - Birth in an intermediate or high HBV prevalence country
+	  - Aboriginal and Torres Strait Islander people
+	  - Children of HBsAg-positive women
+	  - Unvaccinated adults at higher risk of infection
+	  - Individual or family history of chronic liver disease
+	  - Individual or family history of liver cirrhosis
+	  - Individual or family history of hepatocellular carcinoma (HCC)
+	  - Evaluation of abnormal liver function tests
+	  - Acute hepatitis
+	  - Family, sexual or household contact with a person known or suspected to have HBV
+	* Other indications for HBV testing
+	  - Pregnancy
+		- Pregnant women
+		- Women contemplating pregnancy
+	  - Healthcare workers
+		- Perform or may be expected to perform exposure-prone procedures (EPPs)
+		- Must take reasonable steps to know their HBV, HIV and HCV status
+	  - Contact tracing
+		- Documented exposure to blood or body fluids of an infected person
+	  - Diagnosis of infections with shared transmission routes
+		- Hepatitis C virus (HCV)
+		- HIV
+	  - Previous reactive HBV result
+		- Reactive result from a test not licensed in Australia
+	  - Conditions potentially caused by HBV
+		- Glomerulonephritis
+		- Vasculitis
+	  - Patient-requested testing
+		- Patient requests HBV testing despite no declared risk factors
+		- Some individuals may choose not to disclose their risk factors
+		- Absence of disclosed risk factors should not prevent offering HBV testing
+* Management
+  - Use ASHM Decision Making Tool for hepatitis B management
+  - Complicated presentations
+    - Consider specialist advice before treatment
+  - Immediate management
+    - Advise no sexual contact during acute illness
+      - Exception: partner is immune
+    - Commence contact tracing
+    - Consider testing
+      - Sexual contacts
+      - Household contacts
+      - Close family members
+    - Vaccinate contacts if not immune
+    - Provide patient factsheet
+    - Notify state or territory health department
+    - Consider comprehensive STI testing
+      - Depending on sexual history
+* Special treatment situations
+  - HIV pre-exposure prophylaxis (PrEP)
+    - People living with HBV can use PrEP if at risk of HIV
+    - Must use daily PrEP
+    - Do not use on-demand PrEP
+    - Refer to PrEP guidelines
+  - HIV post-exposure prophylaxis (PEP)
+    - Seek immediate specialist advice
+    - Some PEP medications also treat HBV
+  - Pregnancy
+    - Requires specialist review
+    - Infant requires at birth
+      - Hepatitis B vaccination
+      - Hepatitis B immunoglobulin (HBIG)
+    - Pregnant person may require antiviral therapy
+      - To reduce transmission at birth
+    - Postpartum period
+      - Risk of hepatitis B flares
+    - Refer to Management of Hepatitis B in Pregnancy
+* Contact tracing
+  - Notifiable condition
+  - Importance
+    - Prevent reinfection
+    - Reduce transmission
+  - Acute hepatitis B
+    - Trace contacts 6 months before symptom onset
+  - Chronic hepatitis B
+    - Most people diagnosed with hepatitis B in Australia acquired infection at birth
+    - Contact tracing differs from acute hepatitis B
+    - Follow Australian contact tracing guidelines
+  - Contact management
+    - Test sexual contacts
+    - Test household contacts
+    - Test family members
+    - Offer vaccination if susceptible
+    - Further assessment for contacts with current infection
+  - Hepatitis B immunoglobulin (HBIG)
+    - Post-exposure prophylaxis in high-risk situations
+      - Sexual exposure
+      - Injecting exposure
+      - Occupational exposure
+    - Birth dose
+      - Reduces transmission from an HBsAg-positive person to their child
+  - Guidelines
+    - Australasian Contact Tracing Guidelines – Hepatitis B
+* Follow-up
+  - Contact tracing
+    - Confirm contact tracing has been undertaken
+    - Offer additional contact tracing support if needed
+  - Acute infection
+    - Monitor until HBsAg becomes negative
+  - Chronic infection
+    - Lifelong follow-up
+    - Every 6–12 months
+      - Hepatitis B monitoring
+    - Yearly
+      - HBV DNA viral load
+      - Liver function testing
+    - Antiviral therapy if indicated
+  - HCC surveillance
+    - Certain chronic HBV populations require 6-monthly screening
+    - Abdominal ultrasound
+    - Alpha-fetoprotein (AFP)
+  - Hepatitis A
+    - Check hepatitis A status
+    - Vaccinate if susceptible
+  - Hepatitis C
+    - Check hepatitis C status
+    - If positive
+      - Discuss with a hepatologist
+  - Other causes of hepatitis
+    - Assess for
+      - Alcohol use
+      - Fatty liver
+    - Counsel to reduce contributing factors
+      - Reduce alcohol intake
+  - Hepatitis D
+    - Check HDV status in patients with HBV born in HDV-endemic regions
+    - Endemic regions include
+      - Mongolia
+      - Moldova
+      - West Africa
+      - Central Africa
+* Retesting
+  - Resolved infection
+    - Provides lifelong immunity to reinfection
+  - Immunosuppression
+    - Resolved HBV may reactivate
+    - May cause hepatitis B flare
+    - Example: chemotherapy
+* Auditable outcomes
+  - 100% of patients with chronic hepatitis B infection have annual reviews
+  - 100% of sexual, household and family contacts are
+    - Tested
+    - Vaccinated if susceptible

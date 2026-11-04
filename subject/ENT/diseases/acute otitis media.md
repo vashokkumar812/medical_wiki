@@ -1,0 +1,217 @@
+definition
+	- Infection of middle ear space
+- etiology
+	- Streptococcus pneumoniae
+	- Haemophilus influenzae
+	- Moraxella catarrhalis
+
+- risk factors
+	- cigarette smoke exposure
+		- modifiable
+	- Cochlear implant or immunocompromise (higher risk)
+- epidemiology
+	- Most common age
+		- 6–24 months
+- clinical features
+	- Ear pain (otalgia)
+	- Fever
+	- in pre vertebral children
+		- Irritability
+	- Crying
+	- decreased 
+		- sleep
+		- feeding
+		- hearing
+	- Ear discharge if perforation occurs
+- Initial assessment
+	- ear examination
+		- Acute inflammation of tympanic membrane (TM): 
+			- bulging, red, opaque
+		- A red TM alone ≠ AOM (often viral URTI)
+		- middle ear infusion+ middle ear inflammation
+	- Exclude serious conditions
+		- Acute mastoiditis
+			- ![[Pasted image 20251027121921.jpg]]
+			- most common suppurative complication
+			- Rare but serious complication
+			- Symptoms/signs
+				- Pain/tenderness behind ear
+				- Redness behind ear
+				- Swelling behind ear
+				- Ear protrusion/sticking out
+				- Ear discharge
+				- Fever
+				- Irritability
+				- Headache
+				- Hearing loss
+				- Ear protrusion
+				 - Postauricular swelling/tenderness
+			- Management
+				- Urgent hospital referral
+				- IV antibiotics
+					- 3rd-gen cephalosporin
+				- Possible surgical intervention
+
+		- Meningitis
+		- Intracranial abscess
+		- Sinus thrombosis
+		- Facial nerve palsy
+- Red flags suggesting serious disease
+	- intracranial involvement
+		- altered consciousness
+		- severe headache
+		- neck stiffness
+		- neurological signs
+		- persistent vomiting
+	- local invasive disease
+		- facial nerve palsy
+		- mastoid swelling/tenderness
+	- severe infection/systemic toxicity
+		- toxic appearance
+		- severe systemic illness
+- prognosis
+	- Usually self-limiting
+- complications
+	- Persistent hearing concerns after AOM
+		 - Assess for persistent effusion
+	- Tympanic Membrane Perforation
+		- Common
+		- causes otorrhoea and pain relief
+		- Distinguish from otitis externa
+	- acute mastoiditis
+	- Rare intracranial spread
+	- Facial nerve palsy → urgent ENT discussion
+	- Long-term: TM atelectasis, [[ear]]
+	- Otitis Media with Effusion (OME)
+		- Fluid in middle ear without infection signs
+		- May follow AOM and resolve spontaneously
+		- No antibiotics or routine ENT referral needed
+		- Persistent effusion >3 months:  
+		  → Hearing assessment and **ENT referral
+
+- investigations
+	- if intracranial complications suspected
+		- do CT or MRI
+- treatment
+	- In infants <6 months
+		- diagnosis of AOM/OME can be inaccurate
+		- always rule out serious illness
+	- Analgesia
+		- Main treatment modality
+		- Use
+			- systemic
+				- Paracetamol
+				- Ibuprofen
+			- topical if age < 3 years
+				-  (2% lignocaine, or Benzocaine + Phenazone) if TM intact
+		- Should be given whether or not antibiotics prescribed
+		- Additional supportive measures
+			- Warm cloth on ear
+			- Distraction techniques
+				- Toys
+				- Movies
+				- Colouring
+				- Games
+	- antibiotics
+		- Most children do NOT require antibiotics
+		- Antibiotics usually provide only small benefit
+		- indications of antibiotics
+			- Children who are systemically unwell
+				 - Lethargic
+				 - Pale
+				 - Very irritable
+			- Age <6 months
+			- Age <2 years with bilateral AOM
+			 - Living in remote communities
+			 - for aborginals
+				 - Aboriginal and Torres Strait Islander children at high risk, specifically those:
+			    - aged <2 years ◦ whose first episode of otitis media occurred when they were aged <6 months
+			    - who have persistent or recurrent middle ear problems
+			    - who live in remote communities or in areas with high rates of chronic suppurative otitis media.
+			 - High chronic suppurative OM prevalence areas
+			- Cochlear implant
+			- Recurrent AOM
+				 - \>3 episodes in previous 12 months
+			- Chronic suppurative otitis media history
+			- Craniofacial abnormalities
+				 - Cleft palate
+			- Down syndrome
+			- Developmental delay
+			- Only one hearing ear
+			- Immunodeficiency
+	- Harms of antibiotics
+		- Diarrhoea
+		- Vomiting
+		- Rash
+		- Hypersensitivity reactions
+	- NOT routinely recommended
+		- Decongestants
+		- Antihistamines
+		- Oral prednisolone
+	- Shared decision-making
+		- Discuss with parent/carer
+			- Benefits of antibiotics
+			- Harms of antibiotics
+			- Expected illness duration
+			- Safety-net advice
+		- Reassure
+			 - Most children recover without antibiotics
+- Preventive strategies
+	- Keep vaccinations up to date
+		 - Influenza
+		 - Pneumococcal
+	- Avoid passive smoking exposure
+	- Limit dummy/pacifier use
+		 - Especially after 6 months
+	- Exclusive breastfeeding for first 6 months
+- paediatric consultation indications
+	- Child is **systemically unwell**
+	- **Neonate**
+	- **Acute mastoiditis** or **cochlear implant** present
+- transfer indications
+	- Care **beyond local hospital capacity**
+	- **Intracranial involvement** suspected
+- discharge indications
+	- **No signs of complications**
+	- **Stable and improving**
+	- **Follow-up** arranged
+
+
+- 
+
+- Otoscopic Appearances
+	
+	- Normal Tympanic Membrane
+		- TM is **translucent**
+		- Handle of **malleus vertical**
+		- **No erythema**
+			- ![[Pasted image 20251027121704.png]]
+	
+	- Pink Tympanic Membrane
+		- **Injected** TM (pink/red)
+		- Seen with **fever**, **URTI**, or **Eustachian tube obstruction**
+		- TM remains **transparent**
+		- ![[Pasted image 20251027121714.png]]
+	
+	- Acute Otitis Media (Bulging TM)
+		- Loss of TM landmarks (esp. malleus)
+		- TM **opaque** (red or white from pus)
+		- ![[Pasted image 20251027121732.png]]
+	
+	- Otitis Media with Effusion (OME)
+		- **Retracted TM**; handle of malleus more horizontal
+		- **Yellow/amber** appearance or **air-fluid level**
+		- May persist up to **12 weeks post-AOM**
+		- ![[Pasted image 20251027121814.png]]
+	
+	- Perforated Tympanic Membrane
+		- **Otorrhoea** following perforation
+		- Often results in **pain relief**
+		- ![[Pasted image 20251027121830.png]]
+	
+	-  Otitis Externa
+		- **Tender ear canal**
+		- **Swollen** external ear canal with thin pus
+		- ![[Pasted image 20251027121840.png]]
+
+![[Pasted image 20251027121859.png]]

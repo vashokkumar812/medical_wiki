@@ -1,0 +1,157 @@
+
+* Cause
+  - Chlamydia trachomatis serovars L1–L3
+  - Non-LGV genital chlamydia is caused by serovars D–K
+* Epidemiology
+  - LGV is very uncommon in Australia
+  - Usually symptomatic in Australia
+  - Routine screening of asymptomatic patients is not recommended
+  - More commonly recognised in men who have sex with men (MSM)
+* Clinical presentation
+  - Primary stage
+    - Small ulcer or nodule
+    - May occur on penis, vulva or anus
+    - May go unnoticed
+    - Proctitis may occur
+  - Secondary stage
+    - Inguino-femoral lymph node swelling
+    - Lymph node discharge (bubo)
+    - May be associated with erythema
+  - Tertiary stage
+    - Chronic proctitis
+    - Fistulae
+    - Strictures
+    - Genital oedema
+    - Vulval scarring (esthiomene)
+  - Proctitis symptoms
+    - Rectal pain
+    - Rectal bleeding
+    - Rectal discharge
+    - Tenesmus
+    - Changed bowel habit
+  - Primary lesion site
+    - Depends on site of inoculation
+    - Genitals
+    - Perianal area
+    - Rarely, mouth
+  - See STI Atlas for clinical images
+* Complications
+  - Chronic untreated infection may cause long-term tertiary sequelae
+  - Tertiary complications are rarely seen in Australia
+* Diagnosis
+  - Rectal swab
+    - Initial test: chlamydia NAAT
+    - Indication: patients with proctitis symptoms
+    - Clinician-collected or self-collected rectal swab
+    - Write on request form: "Proctitis: NAAT. If chlamydia positive, please send for LGV testing"
+    - LGV-specific NAAT
+      - Subsequent test performed on a positive rectal chlamydia sample in symptomatic MSM
+      - Ensure positive chlamydia samples from MSM with proctitis are sent to the local reference laboratory for LGV typing
+  - Ulcer swab
+    - Initial test: chlamydia NAAT
+    - Clinician-collected viral transport swab rolled directly over the lesion
+    - Not a routine test for genital ulceration
+    - Perform only when there is high clinical suspicion of LGV
+  - NAAT
+    - Nucleic acid amplification test
+  - Vaginal infection
+    - Very uncommon in Australia
+    - If suspected, refer to a local Sexual Health or Infectious Diseases clinic
+* Investigations
+  - Co-infections in MSM
+    - LGV is associated with high rates of co-infection with
+      - Gonorrhoea
+      - Syphilis
+      - Hepatitis C
+      - HIV
+    - HSV can also cause proctitis
+  - At initial consultation and follow-up
+    - Test for gonorrhoea
+    - Syphilis serology
+    - HIV
+    - Hepatitis C
+    - HSV NAAT at initial consultation
+    - Syphilis NAAT from any ulcerated area may also be performed
+  - LGV-specific testing indications
+    - MSM living with HIV with a positive rectal chlamydia swab, even if asymptomatic
+    - All MSM with chlamydial proctitis
+  - Proctoscopy findings
+    - Red, ulcerated and oedematous rectal mucosa
+    - May have mucopurulent discharge
+    - Gram stain showing >20 white cells per high-power field is suggestive of LGV
+* Management
+  - Suspected or confirmed LGV
+    - First-line: doxycycline 100 mg PO BD for 21 days
+    - Alternative regimens are not recommended due to lack of efficacy data
+    - If an alternative regimen is required, seek specialist advice
+  - Treatment principles
+    - LGV DNA may persist in the rectum for up to 16 days after treatment initiation
+    - A prolonged 21-day treatment course is required
+    - At initial consultation for suspected LGV proctitis, also treat for
+      - Gonorrhoea
+      - HSV
+    - LGV serovar results may take time to return from the laboratory
+  - Immediate management
+    - Avoid sexual contact during the 21-day treatment course
+    - Avoid sex with partners from the previous 3 months until they have been tested and treated if necessary
+    - Commence contact tracing
+    - Provide patient factsheet
+    - Primary care professionals are not required to notify state or territory health departments about LGV
+* Special treatment situations
+  - Persistent symptoms despite initial treatment
+    - Check whether other STI tests were performed at initial consultation
+    - Seek specialist advice
+  - Pregnancy
+    - Seek specialist advice
+  - Allergy to principal treatment
+    - Seek specialist advice
+  - Inguinal buboes
+    - May require drainage through normal skin
+    - Perform under ultrasound guidance
+    - Seek specialist advice
+  - Complicated presentations
+    - Consider specialist advice before treatment
+* Contact tracing
+  - High priority because LGV is rare in Australia
+  - Required for all patients with confirmed infection
+  - Symptomatic infection
+    - Trace all partners for at least 3 months before development of primary symptoms
+    - If infection was likely acquired overseas, trace partners since arrival from an LGV-endemic area
+  - Asymptomatic infection
+    - Trace sexual partners from the previous 6 months
+  - Refer to Australasian Contact Tracing Manual – LGV
+* Follow-up
+  - Review after 1 week
+    - Review results from initial consultation
+    - Confirm treatment adherence
+    - Assess symptom resolution
+    - Confirm contact tracing has been completed
+    - Offer additional contact tracing support if needed
+  - Sexual health education
+    - Condom use
+    - Contraception
+    - HIV PrEP/PEP
+    - Safe injecting practices
+    - Consent
+    - CST
+    - HAV vaccination
+    - HBV vaccination
+    - HPV vaccination
+* Test of cure
+  - Perform chlamydia NAAT at 6 weeks
+    - This is 3 weeks after completion of treatment
+  - If positive
+    - Seek specialist advice
+    - Send sample for LGV testing to confirm persistence
+  - If negative
+    - No need for LGV testing
+* Retesting
+  - At 3 months
+    - Full STI testing
+      - Syphilis
+      - HIV, if initially negative
+      - Hepatitis C
+  - Further testing as required according to clinical guidelines, e.g. MSM guidelines
+* Auditable outcomes
+  - 100% of patients diagnosed with LGV have contact tracing completed by the patient or healthcare provider
+  - 100% of patients are recommended to repeat HIV and hepatitis C testing at 3 months

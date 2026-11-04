@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "textFontFamily": "Arial",
+  "accentColor": "#0000ff",
+  "enabledCssSnippets": [],
+  "showViewHeader": true,
+  "showRibbon": false,
+  "floatingNavigation": false,
+  "interfaceFontFamily": ""
+}

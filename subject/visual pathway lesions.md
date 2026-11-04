@@ -1,0 +1,27 @@
+- Visual pathway lesions
+	- Retina
+		- Monocular visual loss
+	- Optic nerve
+		- Ipsilateral monocular blindness
+	- Optic chiasm
+		- Bitemporal hemianopia
+		- Typical lesion
+			- Pituitary adenoma
+	- Lateral optic chiasm
+		- Ipsilateral nasal hemianopia
+		- Rare
+			- Internal carotid artery aneurysm
+	- Optic tract
+		- Contralateral homonymous hemianopia
+	- Lateral geniculate nucleus
+		- Contralateral homonymous hemianopia
+	- Temporal lobe (Meyer's loop)
+		- Contralateral superior quadrantanopia
+		- "Pie in the sky"
+	- Parietal lobe (superior optic radiations)
+		- Contralateral inferior quadrantanopia
+		- "Pie on the floor"
+	- Occipital cortex
+		- Contralateral homonymous hemianopia
+		- Often with macular sparing
+			- Usually posterior cerebral artery infarction

@@ -1,0 +1,191 @@
+# Genital Herpes (HSV)
+* Cause
+  - Herpes simplex virus (HSV) types 1 and 2
+  - Other herpes viruses may cause genital ulceration
+    - Herpes zoster virus (HZV)
+    - Epstein–Barr virus (EBV)
+    - See anogenital ulcer section
+* Epidemiology
+  - Genital HSV is highly stigmatised and poorly understood in the community
+  - Most infections are asymptomatic or sufficiently mild that diagnosis is never sought
+  - Symptoms may appear days or years after initial acquisition
+  - More than 50% of primary genital infections in young people are caused by HSV-1
+  - Recurrences are more common during the first year with HSV-2
+  - Severe and frequent recurrences may require suppressive or episodic antiviral therapy
+* Clinical presentation
+  - Initial episode
+    - May be severe
+    - Extensive anogenital ulceration
+    - Systemic features of viraemia
+  - Recurrent infection
+    - Recurrent ulcers or blisters involving
+      - Anogenitals
+      - Lower back
+      - Buttocks
+      - Thighs
+      - Pubis
+    - Recurrent genital fissures
+    - Erythema
+    - Itching and tingling
+  - Genital manifestations
+    - Cervicitis
+      - Often with visible ulcers, blisters or erosions during primary episodes
+      - Vaginal discharge
+    - Urethritis
+      - Including urethral discharge
+    - Proctitis
+      - Tenesmus
+  - Extra-genital lesions
+    - Lower back
+    - Buttocks
+    - Groin
+    - Thighs
+    - Fingers
+    - Eyes
+  - Psychosexual stress
+    - Very common
+  - Rare complications
+    - Neonatal infection
+    - CNS involvement
+      - Meningitis
+      - Transverse myelitis
+      - Sacral radiculopathy
+* Diagnosis
+  - HSV NAAT
+    - Specimen: swab from base of ulcer or deroofed vesicle
+    - Highly sensitive and specific
+    - Positive result: confirms HSV infection
+    - Negative result: does not necessarily exclude HSV infection
+    - False-positive and false-negative results are rare but possible
+  - Self-collection
+    - Self-collected NAAT specimens at the first onset of recurrent symptoms may help confirm diagnosis
+    - Particularly useful when previous clinical testing failed to confirm the diagnosis
+  - Serology
+    - Do not screen asymptomatic people for HSV-1 or HSV-2 using serology
+    - Limited role in specific situations where results provide meaningful clinical information
+      - Example: asymptomatic pregnant partner of a newly diagnosed person
+    - Perform in conjunction with an infectious diseases specialist
+* Management
+  - Initial episode
+    - First-line: valaciclovir 500 mg PO BD for 5–10 days
+    - Alternative: aciclovir 400 mg PO TDS for 5–10 days
+  - Recurrent infection: episodic therapy
+    - Self-initiate treatment at the first hint of symptoms
+    - First-line: valaciclovir 500 mg PO BD for 3 days
+    - Alternatives
+      - Famciclovir 1 g PO BD for 1 day
+      - OR aciclovir 800 mg PO TDS for 2 days
+  - Recurrent infection: suppressive therapy
+    - First-line: valaciclovir 500 mg PO daily for 6 months
+    - Alternatives
+      - Famciclovir 250 mg PO BD for 6 months
+      - OR aciclovir 400 mg PO BD
+  - Suppression in pregnancy
+    - First-line: valaciclovir 500 mg PO BD from 36 weeks until birth
+    - Alternative: aciclovir 400 mg PO TDS from 36 weeks until birth
+    - PBS streamline authority scripts required
+* Immediate management
+  - Treatment should not be delayed while awaiting test results
+  - Particularly important in moderate-to-severe episodes and initial episodes
+  - Written information and support
+    - www.herpes.org.nz
+  - Regular analgesia
+  - Topical lignocaine
+    - Reduces pain from erosions, fissures and ulcers
+  - Superficial dysuria
+    - Urinating in a bath or shower may relieve pain
+  - Neuropathic bladder
+    - Requires urgent catheterisation and referral
+  - Avoid intimate contact with partners until symptoms have resolved
+  - Perform routine sexual health screening
+  - Consider barriers, e.g. waterproof dressings
+  - HSV is not a notifiable disease
+  - Contact tracing is not recommended
+    - Patients may need support if they wish to disclose to current or future sexual partners
+* Treatment advice
+  - Initial episodes
+    - Do not delay treatment in moderate-to-severe presentations
+    - May require a 10-day course if symptoms are slow to resolve
+  - Treatment selection
+    - Consider the patient's ability to adhere to the recommended dosing frequency
+    - Choice of suppressive therapy, episodic therapy or no therapy depends on
+      - Frequency of recurrences
+      - Severity of recurrences
+      - Psychosexual complications
+      - Fear of transmitting infection to intimate partners
+  - Suppressive therapy
+    - Review the need every 6 months
+    - Recurrences usually become less frequent and less severe over time
+    - Frequent recurrences (e.g. 2–3 times per month) or immunosuppression may require higher doses
+    - Increased medication quantities require PBS authority
+  - Persistent symptoms
+    - Consider other causes of genital symptoms if symptoms continue despite antiviral treatment
+    - Refer to anogenital ulcer and genital dermatology sections
+  - HIV or immunosuppression
+    - Seek specialist advice
+* Psychosocial impact
+  - Diagnosis may have a profound psychological impact
+  - Distress is often based on misinformation
+  - Patient education is essential at diagnosis
+  - Community prevalence information
+    - HSV-1: 70–80%
+    - HSV-2: 12–15%
+  - Most infections have mild clinical effects
+  - Reassure patients
+    - Transmission can occur from someone unaware they have HSV
+    - Symptoms may first appear days or years after acquisition
+    - First presentation does not necessarily indicate recent acquisition
+    - Multiple strategies are available to reduce transmission to future partners
+  - Consider psychological support
+    - Refer to a psychologist if the patient
+      - Cannot accept the diagnosis
+      - Is significantly distressed
+      - Is anxious about having HSV despite a negative test
+    - Some Australian sexual health services provide counselling
+  - Patient resource
+    - https://www.herpes.org.nz/herpes-patientinfo/living-with-genital-herpes
+* Special treatment situations
+  - Complicated presentations
+    - Seek specialist advice before treatment
+  - Pregnancy
+    - Neonatal transmission may occur
+      - During pregnancy
+      - During delivery
+      - Through postnatal skin-to-skin contact via orolabial HSV transmission
+    - Greatest risk of neonatal sequelae
+      - HSV acquired during the third trimester
+      - HSV acquired close to delivery
+    - Suppressive therapy
+      - Routinely commence from 36 weeks gestation in people with known HSV infection
+      - Give regardless of whether lesions are present
+      - Consider earlier commencement in people with multiple recurrent lesions during pregnancy
+    - Seek sexual health specialist advice
+  - Partner planning pregnancy
+    - Discuss suppressive therapy to reduce transmission before or during pregnancy
+  - Allergy to principal treatment
+    - Seek specialist advice
+* Contact tracing
+  - Contact tracing is not recommended for HSV infections
+* Follow-up
+  - Review 1 week after commencing treatment for the first time
+    - Evaluate response to treatment
+    - Complete sexual health testing if not possible at initial presentation due to severe symptoms
+    - Educate about
+      - Condom use
+      - Contraception
+      - HIV PrEP/PEP
+      - Safe injecting practices
+      - Consent
+      - CST
+      - HAV vaccination
+      - HBV vaccination
+      - HPV vaccination
+    - Provide further support and information as required
+    - Obtain copies of previous results if testing was performed at another clinic
+  - Microbiological confirmation
+    - NAAT confirmation is desirable
+    - Confirmation must not delay treatment
+* Test of cure and retesting
+  - Not required
+* Auditable outcomes
+  - 100% of patients presenting with an initial episode of genital herpes are offered treatment

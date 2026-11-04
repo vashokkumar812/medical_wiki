@@ -1,0 +1,204 @@
+![[Pasted image 20260303132804.png]]
+- features
+	- Patients may describe as
+			- “Choking”
+			- “Pressure on the neck”
+	- May leave few visible signs
+	- Strong predictor of future homicide risk in intimate partner violence
+
+- Injury risk
+	- Internal injury can occur without external signs
+- Timeline
+	- Loss of consciousness
+		- ~6–10 seconds
+	- Possible anoxic seizure
+		- ~11–17 seconds
+	- Urinary incontinence
+		- ~15 seconds
+	- Faecal incontinence
+		- ~30 seconds
+	- Post-event confusion
+		- Common
+- Mechanisms of injury
+	- Venous occlusion
+		- Clinical features
+			- Pressure behind eyes
+			- “Seeing stars”
+			- [[headache]]
+			- Nausea
+			- Loss of consciousness
+		- Damage
+			- Petechiae
+			- Subconjunctival haemorrhage
+			- Cerebral oedema
+	- Arterial occlusion
+		- Clinical features
+			- Pre-syncope
+			- Syncope
+			- Memory gaps
+			- [[headache]]
+		- Damage
+			- Hypoxic brain injury
+			- Stroke risk
+	- Airway occlusion
+		- Clinical features
+			- Hypoxia
+			- Panic
+			- Inability to breathe
+			- Inability to speak
+			- Inability to swallow
+		- Damage
+			- Hypoxic brain injury
+			- Laryngeal trauma
+			- Airway perforation
+			- Pulmonary oedema
+	- Psychological injury
+		- Clinical features
+			- Fear of imminent death
+			- Feeling frozen
+			- Overwhelmed/despair
+		- Damage
+			- PTSD
+			- Impaired executive function
+			- Altered risk assessment
+- History taking
+	- Opening question
+		- “Was any pressure applied to your neck?”
+	- Open questions
+		- “Can you tell me what you remember?”
+		- “What concerns do you have about your body?”
+	- During assault
+		- Trouble breathing/speaking
+		- Feeling faint
+		- Loss of consciousness
+		- Visual changes
+		- Pain
+		- Memory gaps
+		- Urinary incontinence
+		- Faecal incontinence
+	- After assault
+		- Pain/discomfort
+		- Vision changes
+		- Limb weakness/clumsiness
+		- Dizziness
+		- Seizures
+		- Speech changes
+		- Swallowing changes
+		- Bruising
+		- Swelling
+- Examination
+	- Airway
+		- Hoarseness
+		- Voice change
+		- Neck swelling
+		- Tenderness
+		- Pain on swallowing
+		- Subcutaneous emphysema
+	- Breathing
+		- Respiratory distress
+		- Oxygen compromise
+	- Circulation/carotids
+		- Carotid bruising
+		- Carotid bruits
+		- Petechiae
+		- Subconjunctival haemorrhage
+		- Oral bruising
+		- Throat bruising
+	- Neurological assessment
+		- Cranial nerves
+		- Limb power
+		- Rapid cognitive screen
+			- MMSE
+			- MoCA
+		- Confusion
+		- Altered consciousness
+	- External signs
+		- Ligature marks
+		- Neck bruising
+		- Fingernail abrasions
+- Management
+	- Immediate ED referral if red flags present
+		- Imaging
+		- Observation for delayed oedema
+			- Up to 36 hours
+		- Neurological monitoring
+		- Social worker involvement
+- Imaging
+	- Refer to ED if
+		- New/evolving neurological deficit
+		- Carotid bruits
+		- Carotid bruising
+		- History of loss of consciousness
+
+	- Preferred imaging
+		- CT angiography
+			- Assess carotid dissection
+		- CT brain
+			- Oedema
+			- Haemorrhage
+
+	- Airway evaluation
+		- Nasendoscopy
+		- CT
+		- MRI
+			- Consider in pregnancy
+
+	- Not recommended
+		- Carotid Doppler ultrasound for blunt trauma dissection screening
+
+- Monitoring
+	- Observe minimum 6 hours
+	- Delayed oedema possible up to 36 hours
+	- Discharge only to safe responsible adult
+- Safety netting advice
+	- Seek emergency care if
+		- Difficulty breathing
+		- Voice changes
+		- Swallowing difficulty
+		- Neck swelling
+		- Tongue swelling
+		- Confusion
+		- Loss of consciousness
+		- Seizures
+		- Behavioural changes
+		- Escalating self-harm thoughts
+	- Advise
+		- GP follow-up in 48–72 hours
+		- Keep symptom log if safe
+
+- Follow-up
+	- Review timing
+		- 48–72 hours
+		- 3 months
+			- Cognitive review
+	- Highest stroke risk
+		- First 2 weeks
+	- Stroke may occur months later
+
+- Consider traumatic brain injury if
+	- Persistent memory loss
+	- Poor concentration
+	- Communication difficulty
+	- Mood change
+	- Personality change
+
+- Action for suspected traumatic brain injury
+	- Perform cognitive screening
+			- MoCA
+			- MMSE
+	- Refer to
+			- Neurology
+			- Brain injury service
+			- Neuropsychology
+			- Neuropsychiatry
+
+- Domestic violence considerations
+	- Perform risk assessment
+	- Safety planning
+	- Offer warm referral
+		- Domestic violence services
+		- Counselling
+	- Respect patient wishes regarding police involvement
+	- Override confidentiality only if
+		- Imminent serious harm risk
+		- Child protection concerns

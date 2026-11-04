@@ -1,0 +1,22 @@
+## target 
+- MAP
+	- 20% decrease in 1st 1 hour
+	- 15% decrease in 24 hour
+## management 
+- Inj. Nitroglycerin 5–100 µg/min IV infusion
+	- BP Q210mins
+- Inj. labetalol 20mg IV stat
+	- 20–80 mg IV bolus every 10 minutes (maximum 300 mg) 
+	- avoid in [[heart failure]] and chronic obstructive pulmonary disease ([[COPD]])
+- Esmolol (beta-blocker): 250–500 µg/kg loading dose over 1 minute
+	- then initiate IV infusion at 25–50 µg/kg/min; titrate incrementally up to maximum of 300 µg/kg/min (avoid in [[heart failure]], and [[COPD]])
+- if pheochromocytoma suspect
+	- do not start a beta-blocker alone
+- tapper IV anti hypertensive , add oral 
+	- Tablet amlodipine 10 mg od
+	- Tablet nifedipine R 20 mg bd;
+	- Tablet metoprolol XL 25 mg bd
+	- Tablet losartan 50 mg od
+	- Tablet hydrochlorothiazide 25 mg pd
+- observe for 12 hours
+- discharge with oral hypertensives

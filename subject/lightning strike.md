@@ -1,0 +1,4 @@
+- filigree burns
+	- tree like appearance on body
+- organ damage
+- blast ix

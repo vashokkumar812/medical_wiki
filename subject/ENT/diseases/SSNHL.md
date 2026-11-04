@@ -1,0 +1,32 @@
+# Idiopathic SSNHL
+- Diagnosis of exclusion
+- Most common cause of SSNHL
+- Early treatment important
+- Better prognosis associated with
+	- Low-frequency hearing loss
+	- Less severe hearing loss
+	- Early treatment
+- Worse prognosis associated with
+	- Age <15 years
+	- Age >60 years
+	- Vertigo
+- 1/3–2/3 recover some hearing within 2 weeks
+
+- SSNHL treatment
+	- Mainstay
+		 - Early oral steroids
+	- Prednisolone commonly used
+	- Start treatment early
+		 - Do not delay for full work-up
+	- Consider comorbidities
+		 - Diabetes
+		 - Steroid risks
+	- Intratympanic steroid injections
+		 - Salvage therapy if oral steroids fail
+	- Hyperbaric oxygen
+		 - Possible role
+	- No evidence for
+		- Antivirals
+		- Vasodilators
+		- Carbogen
+		- Thrombolytics

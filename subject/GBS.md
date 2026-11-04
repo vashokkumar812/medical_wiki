@@ -1,0 +1,210 @@
+- Epidemiology
+	- Most common cause of acute neuromuscular paralysis in developed countries
+	- Incidence
+		- 1–2 cases per 100,000 annually
+	- Male:female ratio
+		- 2:1
+	- Mortality
+		- <1% in Australia
+	- Often affects young adults
+	- Important cause of long-term disability
+
+- Types
+	- Acute inflammatory demyelinating polyradiculoneuropathy (AIDP)
+		- Most common form
+	- Acute motor axonal neuropathy (AMAN)
+	- Acute motor and sensory axonal neuropathy (AMSAN)
+	- Variants
+		- Miller Fisher syndrome
+			- Ophthalmoplegia
+			- Ataxia
+			- Areflexia
+		- Acute pan-dysautonomia
+
+- Pathophysiology
+	- Autoimmune-mediated peripheral nerve injury
+	- T-lymphocyte sensitisation against myelin proteins
+	- Demyelination of
+		- Peripheral nerves
+		- Nerve roots
+		- Myelin sheaths
+	- Results in
+		- Slowed nerve conduction
+		- Conduction block
+	- Axonal variants
+		- Normal conduction velocity
+		- Reduced functional motor units
+	- Remyelination begins after inflammation resolves
+
+- Triggers
+	- Preceding upper respiratory infection
+		- ~60%
+	- No preceding illness
+		- ~27%
+	- Campylobacter jejuni
+		- Strong association
+		- Worse prognosis
+	- Cytomegalovirus (CMV)
+	- Associated conditions
+		- Diabetes
+		- Alcohol abuse
+		- Heavy metal exposure
+		- Industrial toxins
+		- SLE
+		- Sarcoidosis
+		- Hodgkin disease
+		- Malignancy
+	- Drugs
+		- Thrombolytics
+		- Heroin
+
+- Clinical features
+	- Ascending symmetrical weakness
+		- Legs → arms
+	- Flaccid paralysis
+	- Areflexia or hyporeflexia
+	- Mild sensory symptoms
+		- Paraesthesia
+		- Hypoaesthesia
+	- Cranial nerve involvement
+		- Facial nerve palsy (LMN VII)
+	- Autonomic dysfunction
+		- Tachycardia
+		- Bradycardia
+		- Hypertension
+		- Hypotension
+		- Sweating abnormalities
+	- Respiratory muscle weakness
+	- Typically afebrile
+
+- Frequency of findings
+	- Leg weakness
+		- 95%
+	- Arm weakness
+		- 90%
+	- Areflexia
+		- 90%
+	- Paraesthesia
+		- 85%
+	- Sensory loss
+		- 75%
+	- Oropharyngeal weakness
+		- 50%
+	- Pain
+		- 30%
+	- Respiratory failure
+		- 30%
+	- Ophthalmoparesis
+		- 15%
+	- Ataxia
+		- 15%
+	- Sphincter involvement
+		- 5%
+
+- Diagnosis
+	- Clinical diagnosis supported by investigations
+	- CSF
+		- Albuminocytologic dissociation
+			- Elevated protein
+			- <10 cells/mm³
+		- Usually appears in second week
+	- Nerve conduction studies
+		- Demyelination
+		- Conduction slowing
+		- Conduction block
+
+- Differential diagnosis
+	- Transverse myelitis
+	- Spinal cord compression
+	- Myasthenia gravis
+	- Neoplastic meningitis
+	- Vasculitic neuropathy
+	- Paraneoplastic neuropathy
+
+- Prognosis
+	- Peak severity
+		- 50% by 2 weeks
+		- 80% by 3 weeks
+	- Recovery starts
+		- Usually 2–4 weeks after onset
+	- Disease duration
+		- ~12 weeks
+	- Outcomes
+		- 80% ambulatory by 6 months
+		- 50% minor residual deficits
+		- 15% persistent functional deficits
+
+- Poor prognostic factors
+	- Older age
+	- Respiratory failure
+	- Need for ventilation
+	- Rapid onset
+	- Quadriplegia
+	- Severe disease at presentation
+	- Axonal subtype
+	- Campylobacter jejuni infection
+	- No plasmapheresis
+	- No improvement after 3 weeks plateau
+
+- Treatment
+	- Plasma exchange (plasmapheresis)
+		- Most effective within 7 days
+		- Some benefit up to 30 days
+		- Shortens ventilation duration
+		- Improves walking recovery
+	- IV immunoglobulin (IVIG)
+		- Equally effective as plasmapheresis
+	- Corticosteroids
+		- Not effective
+		- Not recommended
+
+- Respiratory management
+	- Monitor vital capacity
+	- Intubation indicated if vital capacity
+		- <18 mL/kg
+	- Chest physiotherapy
+	- Breathing exercises
+	- Inspiratory muscle training
+
+- Autonomic complications
+	- Occur in severe disease
+	- Can cause fatal arrhythmias
+	- Postural hypotension common
+	- Management
+		- Hydration
+		- Compression stockings
+		- Gradual mobilisation
+		- Tilt-table training
+
+- Other complications
+	- Deep venous thrombosis
+	- Pulmonary embolism
+	- Pressure sores
+	- Nerve compression palsies
+		- Ulnar nerve
+		- Peroneal nerve
+	- Heterotopic ossification
+	- Bladder dysfunction
+	- Constipation
+	- Neuropathic pain
+	- Depression
+	- Fatigue
+
+- Pain management
+	- Gabapentin
+	- Carbamazepine
+	- Tricyclic antidepressants
+	- SSRIs
+	- Tramadol/opioids if severe
+	- TENS
+
+- AMC MCQ Pearls
+	- Ascending weakness + areflexia after recent gastroenteritis or URTI = GBS
+	- CSF: ↑ protein with normal cell count = albuminocytologic dissociation
+	- First-line treatment = IVIG or plasmapheresis
+	- Steroids are NOT recommended
+	- Most important life-threatening complication = respiratory failure
+	- Most important monitoring parameter = vital capacity (FVC)
+	- Miller Fisher syndrome = ophthalmoplegia + ataxia + areflexia
+	- Campylobacter jejuni is the classic preceding infection
+	- Autonomic instability is a major cause of morbidity and mortality

@@ -1,0 +1,87 @@
+
+- Pyogenic granuloma (lobular capillary haemangioma)
+	- Benign vascular proliferation
+	- Reactive lesion
+	- Not infectious
+	- Not a true granuloma
+
+- Epidemiology
+	- Common
+	- Any age
+	- Common sites
+		- Fingers
+		- Hands
+		- Face
+		- Lips
+		- Oral mucosa
+
+- Aetiology
+	- Exact cause unknown
+	- Associated with
+		- Minor trauma
+		- Burns
+		- Insect bites
+		- Pregnancy
+		- Pre-existing vascular lesions
+		- Isotretinoin therapy
+	- Most patients
+		- No identifiable predisposing factor
+
+- Clinical features
+	- Rapid growth
+			- Days to weeks
+	- Painless
+	- Bright red to red-purple
+	- Smooth
+	- Glistening
+	- Sessile or pedunculated
+	- Friable
+	- Bleeds easily with minimal trauma
+	- Usually 5–10 mm
+	- May ulcerate
+	- Often follows minor injury
+
+- Diagnosis
+	- Usually clinical
+	- Typical history
+			- Rapidly growing lesion after trauma
+	- Histopathology
+			- Recommended after excision
+			- Confirms diagnosis
+			- Excludes malignancy
+
+- Differential diagnosis
+	- Haemangioma
+	- Spitz naevus
+	- Basal cell carcinoma
+	- Amelanotic melanoma
+	- Kaposi sarcoma
+	- Cutaneous metastasis
+
+- Management
+	- First-line
+			- Complete surgical excision
+				- Lowest recurrence
+				- Allows histopathological examination
+	- Alternative surgical options
+			- Curettage ± cautery
+			- Shave excision ± cautery
+	- Non-surgical options
+			- Cryotherapy
+			- CO₂ laser
+			- Pulsed dye laser
+			- Topical timolol (limited evidence)
+			- Imiquimod (limited evidence)
+			- Sclerotherapy (limited evidence)
+	- Observation
+			- Selected cases
+			- May regress spontaneously over 6–18 months
+
+- Recurrence
+	- Surgical excision
+			- ~3%
+	- Curettage/shave excision
+			- ~10%
+	- Cryotherapy and laser
+			- Similar recurrence to surgical excision
+			- Often require multiple treatment sessions

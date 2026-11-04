@@ -1,0 +1,43 @@
+
+- "Have you noticed any change in the colour or appearance of your urine?"
+	- Red or pink urine (haematuria)
+		- Painless visible haematuria
+			- Bladder cancer
+			- Renal cell carcinoma
+			- Upper urinary tract urothelial carcinoma
+		- Painful haematuria
+			- UTI
+			- Urolithiasis
+			- Pyelonephritis
+		- Haematuria with clots
+			- Bladder or urothelial malignancy
+			- Significant urinary tract bleeding
+		- Haematuria with loin-to-groin pain
+			- Ureteric calculus
+			- Renal calculus
+		- Haematuria with oedema and hypertension
+			- Glomerulonephritis
+			- IgA nephropathy
+		- Haematuria following recent throat or skin infection
+			- Post-streptococcal glomerulonephritis
+	- Dark or cola-coloured urine
+		- Glomerulonephritis
+		- Myoglobinuria
+		- Haemoglobinuria
+		- Bilirubinuria
+	- Cloudy urine
+		- UTI
+		- Crystalluria
+		- Phosphaturia
+	- Foul-smelling urine
+		- UTI
+		- Concentrated urine
+		- Dietary or medication-related changes
+	- Frothy urine
+		- Proteinuria
+		- Nephrotic syndrome
+		- CKD
+	- Orange or brown urine
+		- Bilirubinuria
+		- Dehydration
+		- Medication-related (e.g. rifampicin)

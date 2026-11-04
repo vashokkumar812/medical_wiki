@@ -1,0 +1,273 @@
+- **Etiology**
+	- Japanese encephalitis virus (JEV)
+		- Mosquito-borne zoonotic **single-stranded RNA flavivirus**
+		- Family: **Flaviviridae**
+		- Related viruses
+			- Dengue
+			- Murray Valley encephalitis
+			- West Nile (Kunjin)
+			- Zika
+		- Five genotypes
+			- Same serotype
+			- Similar virulence
+		- Australian 2021–2022 outbreak
+			- Genotype IV
+
+- **Transmission**
+	- Vector
+		- **Culex mosquitoes**
+			- Especially *Culex annulirostris*
+	- Reservoir hosts
+		- Wild wading birds
+			- Herons
+			- Egrets
+	- Amplifying host
+		- Pigs
+			- High viraemia for 3–5 days
+			- Major source of mosquito infection
+	- Humans
+		- **Dead-end hosts**
+		- Insufficient viraemia for onward transmission
+		- No human-to-human transmission
+	- Other dead-end hosts
+		- Cattle
+		- Horses
+		- Dogs
+		- Chickens
+	- Feral pigs
+		- Important in spread of infection
+
+- **Epidemiology**
+	- Endemic throughout Asia and Western Pacific
+	- Approximately 3 billion people at risk
+	- One of the leading causes of viral encephalitis worldwide
+	- Symptomatic infection
+		- <1% of infected individuals
+		- Estimated range
+			- 1 in 25 to 1 in 1000 infections
+	- Cases occur predominantly in rural areas
+		- Pig farming
+		- Rice cultivation
+	- Tropical regions
+		- Year-round transmission
+		- Peak during wet season
+	- Temperate/subtropical regions
+		- Peak during warmer months
+	- Australia
+		- Prior to 2021
+			- Only 5 locally acquired cases
+			- Restricted to northern Australia
+		- Since 2021
+			- Spread to NSW, VIC, SA, QLD, NT
+			- Associated with heavy rainfall and flooding
+			- Linked to climate change
+
+- **Risk Factors**
+	- Mosquito exposure
+	- Residence in endemic/outbreak areas
+	- Rural residence
+	- Living near pig farms
+	- Living near rice fields
+	- Outdoor activities during mosquito activity periods
+	- Travel to endemic regions
+	- Lack of immunity
+
+- **Pathophysiology**
+	- Infection via mosquito bite
+	- Initial viraemia
+	- CNS invasion
+		- Encephalitis
+		- Meningoencephalitis
+		- Acute flaccid paralysis
+	- Characteristic brain involvement
+		- Bilateral thalami
+		- Basal ganglia
+		- Brainstem
+
+- **Clinical Features**
+	- Incubation period
+		- **5–15 days**
+
+	- Prodromal phase
+		- Fever
+		- Coryza
+		- Gastrointestinal symptoms
+		- Rash (occasionally)
+
+	- Neurological phase
+		- Headache
+		- Irritability
+		- Agitation
+		- Confusion
+		- Drowsiness
+		- Coma
+
+	- Meningeal features
+		- Neck stiffness
+		- Meningitis symptoms
+
+	- Characteristic movement disorders
+		- Parkinsonian features
+			- Mask-like facies
+			- Cogwheel rigidity
+			- Pill-rolling tremor
+		- Generalized rigidity
+		- Dystonia
+		- Choreoathetosis
+
+	- Motor manifestations
+		- Acute flaccid paralysis
+
+	- Seizures
+		- Common in children
+			- Up to 85%
+		- Less common in adults
+			- Approximately 10%
+		- Focal or generalized
+		- Persistent seizures suggest raised intracranial pressure
+
+- **Complications**
+	- Severe encephalitis
+	- Raised intracranial pressure
+	- Coma
+	- Acute flaccid paralysis
+	- Cognitive impairment
+	- Psychiatric sequelae
+	- Permanent neurological deficits
+	- Death
+
+- **Diagnosis**
+	- Suspect in patients with
+		- Encephalitis
+		- Meningitis
+		- Acute flaccid paralysis
+		- Mosquito exposure in affected areas
+
+	- Gold-standard test
+		- **JEV IgM in CSF**
+
+	- Confirmatory tests
+		- Positive JEV PCR
+			- CSF
+			- Blood
+			- Serum
+			- Urine
+		- Seroconversion
+		- Rising JEV IgG titre
+
+	- Limitations
+		- PCR sensitivity reduced by transient viraemia
+		- Significant flavivirus serological cross-reactivity
+
+	- Additional testing
+		- Dengue serology
+		- Murray Valley encephalitis serology
+		- Kunjin serology
+
+- **Investigations**
+	- CSF
+		- JEV IgM positive
+		- Viral meningoencephalitis pattern
+	- PCR
+		- Highly specific if positive
+	- MRI brain
+		- Bilateral thalamic lesions (**classic AMC finding**)
+		- Basal ganglia involvement
+		- Brainstem involvement
+
+- **Differential Diagnosis**
+	- Herpes simplex encephalitis
+	- Bacterial meningitis
+	- Murray Valley encephalitis
+	- West Nile (Kunjin) infection
+	- Enteroviral encephalitis
+	- Dengue-associated encephalopathy
+	- Autoimmune encephalitis
+	- Other causes of acute flaccid paralysis
+
+- **Treatment**
+	- No proven antiviral therapy
+	- Supportive management
+		- Airway support
+		- Oxygenation
+		- Fluid management
+		- Seizure control
+		- Management of raised intracranial pressure
+		- Intensive care if required
+	- Suspected meningitis/encephalitis
+		- Urgent hospital referral
+		- Do not delay empiric antimicrobials if bacterial meningitis remains possible
+	- Long-term rehabilitation for neurological sequelae
+
+- **Prognosis**
+	- Case fatality rate
+		- Average ≈18%
+		- Range 5–50%
+	- Approximately 50% of survivors
+		- Permanent neurological sequelae
+	- Poor prognostic indicators
+		- Persistent seizures
+		- Severe encephalitis
+		- Childhood disease
+		- Elderly age
+
+- **Prevention**
+	- Mosquito avoidance
+		- Long-sleeved clothing
+		- Mosquito repellents
+		- Mosquito nets
+		- Window screens
+		- Avoid outdoor exposure during peak mosquito activity
+		- Remove standing water
+
+	- Public health measures
+		- Surveillance
+		- Vector control
+		- Monitoring piggeries
+		- Vaccination programs
+
+- **Vaccination**
+	- **Imojev**
+		- Live attenuated vaccine
+		- Single subcutaneous dose
+		- Age ≥9 months
+		- Contraindications
+			- Immunocompromised
+			- Pregnancy
+			- Breastfeeding
+		- Booster
+			- 12–24 months later for individuals <18 years with ongoing exposure risk
+		- No routine adult booster
+
+	- **JEspect**
+		- Inactivated vaccine
+		- Two IM doses
+		- Standard schedule
+			- 28 days apart
+		- Accelerated adult schedule
+			- 7-day course
+		- Adult booster
+			- 1–2 years after primary course if ongoing risk
+		- Can be used during pregnancy when exposure risk exists
+
+- **Vaccination Indications**
+	- Laboratory workers exposed to JEV
+	- Residents of high-risk regions
+	- Workers in high-risk regions
+	- Travellers to endemic areas
+	- Occupational exposure to pigs
+	- Occupational exposure to mosquitoes
+	- Public health priority groups during outbreaks
+
+- **AMC High-Yield Pearls**
+	- JEV = mosquito-borne flavivirus causing encephalitis
+	- Pigs = amplifying hosts
+	- Humans = dead-end hosts
+	- Incubation period = 5–15 days
+	- Parkinsonian movement disorders are characteristic
+	- CSF JEV IgM = diagnostic gold standard
+	- MRI bilateral thalamic involvement = classic finding
+	- No specific antiviral treatment
+	- Supportive care only
+	- Live vaccine (Imojev) contraindicated in pregnancy and immunocompromised patients
+	- Climate change, flooding, bird migration, and mosquito proliferation contributed to Australian spread

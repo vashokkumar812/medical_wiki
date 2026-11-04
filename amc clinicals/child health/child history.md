@@ -1,0 +1,87 @@
+- History-taking sequence
+  - 1. Presenting complaints: SIC
+    - Symptoms
+      - Severity.
+      - Frequency.
+      - Triggers.
+      - Treatments.
+    - Investigations.
+    - Complications.
+  - 2. Other concerns
+    - Address additional concerns raised by the child or parents.
+  - 3. Systems review
+    - Perform a systematic top-to-toe review.
+    - Adapt questions to the child's age and developmental stage.
+    - Ask the carer and child, as appropriate.
+  - 4. Antenatal and birth history
+    - Obtain pregnancy, labour, delivery and neonatal history.
+  - 5. Medications and exposures
+    - Document medications, doses, frequency and adherence.
+    - Ask about environmental exposures, e.g. tobacco smoke.
+  - 6. Immunisation
+    - Check whether vaccinations are up to date according to the Australian schedule.
+  - 7. Allergies and family history
+    - Ask about known drug allergies.
+    - Ask about other allergies and intolerances.
+    - Specifically enquire about:
+      - Food allergies.
+      - Asthma.
+      - Eczema.
+      - Hay fever.
+    - Ask about inherited diseases in the family.
+    - Ask whether the parents are biologically related (consanguinity).
+  - 8. Family deaths
+    - Ask about unexplained premature deaths in the family.
+  - 9. Psychosocial history: BEST CARE
+    - BEhavioural history
+      - Unusual behaviours, e.g. frequent temper tantrums.
+      - Sleep disturbances.
+      - Phobias.
+      - Toileting problems:
+        - Encopresis.
+        - Bedwetting.
+    - Screening of development and social interactions
+      - School performance.
+      - Vision and hearing.
+      - Speech.
+      - Gross- and fine-motor function.
+      - Social interaction.
+      - Adolescents: consider HEADSSS assessment.
+        - Ideally interview adolescents without parents present when appropriate.
+        - Explain and respect confidentiality.
+    - Typical day
+      - Ask parents to describe a typical day.
+      - Assess living conditions and social circumstances.
+      - Ask about:
+        - Physical activity.
+        - Food and diet.
+        - Sleep.
+        - Dental care.
+        - Safety practices, e.g. bicycle helmets and seatbelts.
+    - Coping with hospitalisation and/or disease
+      - Assess parental understanding of the current condition.
+      - Explore concerns and expectations for the future.
+    - Access to healthcare
+      - Determine whether the family lives in a remote area.
+      - Assess transport availability and access to healthcare services.
+    - Relationships
+      - Explore family relationships and conflicts.
+      - Assess extended-family and social support.
+      - Ask about alternative care arrangements and foster care.
+      - Identify primary carers and whether the child lives across multiple households.
+    - Effect of illness on the child and family
+      - Assess effects on the child's:
+        - Physical functioning.
+        - Cognitive functioning.
+        - Emotional functioning.
+        - Social functioning.
+      - Explore dependence on healthcare and support services.
+      - Assess impact on parents and siblings.
+      - Particularly important in chronic medical and neurodevelopmental conditions, e.g.:
+        - Cerebral palsy.
+        - Autism.
+        - Down syndrome.
+  - 10. Conclude the history
+    - Summarise the main issues.
+    - Confirm shared understanding with the family.
+    - Ask whether they have any further concerns or questions.

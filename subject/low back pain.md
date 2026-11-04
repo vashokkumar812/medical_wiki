@@ -1,0 +1,21 @@
+## management
+### practise points
+- Back pain that is related to posture, aggravated by movement and sitting, and relieved by lying down is due to vertebral dysfunction, especially a disc disruption.
+- The pain from most disc lesions is generally relieved by rest. 
+- Plain X-rays are of limited use, especially in younger patients, and may appear normal in disc prolapse. 
+- Remember the possibility of depression as a cause of back pain; if suspected, consider a trial of antidepressants. 
+- If back pain persists, possibly worse during bed rest at night, consider malignant disease, depressive illness or other systemic diseases.
+- Pain that is worse on standing and walking, but relieved by sitting, is probably caused by spondylolisthesis. 
+- If pain and stiffness is present on waking and lasts longer than 30 minutes upon activity, consider inflammation. 
+- Avoid using strong analgesics (especially opioids) in any chronic non-malignant pain state. 
+- Bilateral back pain is more typical of systemic diseases, while unilateral pain typifies mechanical causes.
+- back pain at rest and morning stiffness in a young person demand careful investigation: consider inflammation such as ankylosing spondylitis and reactive arthritis. 
+- A disc lesion of L5–S1 can involve both L5 and S1 roots. However, combined L and S1 root lesions should still be regarded with suspicion (e.g. consider malignancy). 
+- A large central disc protrusion can cause bladder symptoms, either incontinence or retention. 
+- Low back pain of very sudden onset with localised spasm and protective lateral deviation may indicate a facet joint syndrome. 
+- The T12–L1 and L1–2 discs are the groin pain discs. 
+- The L4–5 disc is the back pain disc. 
+- The L5–S1 disc is the leg pain disc. 
+- Severe limitation of SLR (especially to less than 30°) indicates lumbar disc prolapse. 
+- A preventive program for dysfunctional back pain based on back care awareness and exercises is helpful. 
+- Remember that most back problems resolve within a few weeks, so avoid overtreatment.

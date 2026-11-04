@@ -1,0 +1,145 @@
+
+- Definition
+	- uterus collapses and turns partially or completely inside out
+- Epidemiology
+	- Rare
+- Etiology
+	- Risk factors
+		- Iatrogenic / delivery-related factors
+			- Fundal pressure
+			- Excessive umbilical cord traction
+		- Placental factors
+			- Abnormally adherent placenta
+		- Umbilical cord factors
+			- Short umbilical cord
+		- Maternal uterine risk factors
+			- Multiparity
+			- Vaginal birth after caesarean (VBAC)
+			- Uterine anomalies
+			- Previous uterine inversion
+		- Labour and fetal factors
+			- Fetal macrosomia
+			- Precipitous labour
+		- Connective tissue disorders
+			- Marfan syndrome
+			- Ehlers-Danlos syndrome
+- Pathogenesis
+	- Traction on uterine ligaments
+		- Vagal stimulation
+		- Shock
+			- Hypotension
+			- Bradycardia
+- Classification
+	- By degree
+		- Grade 1
+			- Fundus inverted but remains within uterine cavity
+		- Grade 2
+			- Fundus passes through cervix into vagina
+		- Grade 3
+			- Uterus visible at vaginal introitus
+		- Grade 4
+			- Entire uterus prolapses outside introitus
+
+	- By timing
+		- Acute
+			- Within 24 h postpartum
+		- Subacute
+			- 24 h to 30 days postpartum
+		- Chronic
+			- \>30 days postpartum
+			- Rare
+
+
+
+- Clinical features
+	- Severe lower abdominal pain
+	- Strong bearing-down sensation
+	- Impalpable/irregular uterine fundus
+	- Vaginal bleeding
+	- Hypotension + bradycardia
+	- Urinary retention
+	- Confirmation
+		- Bimanual examination
+
+- Differential diagnosis
+	- Uterine atony
+	- Uterovaginal prolapse
+	- Fibroid polyp
+	- Retained placenta
+	- Uterine rupture
+- complications
+	- Oedema
+	- Cervical constriction ring
+
+- Management
+	- Key principle
+		- Do not remove placenta if still attached
+
+	- Initial resuscitation
+		- ABC stabilisation
+		- Lie patient flat
+		- High-flow oxygen
+				- 10 L/min
+		- 2 large-bore IV cannulae
+		- IV fluids
+			- Up to 2 L normal saline/Hartmann
+			- Activate haemorrhage protocol if required
+		- Stop uterotonics temporarily
+			- Relax uterus
+		- Tranexamic acid
+			- 1 g IV
+		- Blood tests
+			- CBC
+			- Group and crossmatch
+			- Coagulation profile
+
+	- Definitive management
+		- Immediate manual replacement
+			- Perform as early as possible
+
+			- Analgesia
+				- Epidural top-up
+				- IV opioids
+				- Nitrous oxide
+			- Technique
+				- Grasp inverted fundus
+				- Push upward through cervix toward umbilicus
+				- Maintain bimanual compression until contraction occurs
+		- If manual replacement unsuccessful
+			- Tocolysis
+				- Terbutaline
+				- Salbutamol
+				- Glyceryl trinitrate
+			- Hydrostatic replacement
+				- Used if manual reduction fails
+				- Warm saline infused into vagina
+				- Pressure pushes fundus upward
+				- Usually successful within 5–10 min
+		- If unsuccessful despite above
+			- Surgery under general anaesthesia
+				- Laparotomy
+				- Cervical ring incision
+					- If constriction ring present
+		- After uterine replacement
+			- Placenta
+				- Remove only after uterus repositioned and contraction
+			- Prevent reinversion and PPH
+				- Start uterotonics
+			- Oxytocin infusion
+				- 40 IU in 500 mL saline
+				- Over 4 hours
+	- Monitoring
+		- Every 5 min
+			- Respiratory rate
+			- Heart rate
+		- Every 15 min
+			- Blood pressure
+		- Continuous
+			- SpO₂
+		- Assess
+			- Perfusion
+			- Blood loss
+- Prevention
+	- Active management of third stage of labour
+	- Confirm uterine contraction before cord traction
+		- Palpate uterus

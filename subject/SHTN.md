@@ -1,0 +1,1267 @@
+---
+aliases:
+  - Hypertension
+---
+- Hypertension
+	- Blood Pressure Measurement
+		- Diagnosis
+			- Clinic blood pressure ≥140/90 mmHg
+				- Confirm with
+					- Ambulatory blood pressure monitoring
+					- Home blood pressure monitoring
+		- Cardiovascular Risk Assessment
+			- Use clinic blood pressure for absolute cardiovascular disease risk calculators
+			- Home blood pressure monitoring or ambulatory blood pressure monitoring
+				- May underestimate cardiovascular disease risk
+		- Monitoring Requirements
+			- Ambulatory blood pressure monitoring
+				- Explain procedure adequately
+			- Home blood pressure monitoring
+				- Appropriate training
+				- Qualified supervision
+		- Not Recommended
+			- Finger blood pressure devices
+			- Wrist blood pressure devices
+	- General Treatment Strategy
+		- All Patients
+			- Lifestyle modification
+		- Start Antihypertensive Therapy
+			- Low Cardiovascular Disease Risk
+				- <10% 5-year risk
+				- Persistent blood pressure ≥160/100 mmHg
+			- Moderate Cardiovascular Disease Risk
+				- 10–15% 5-year risk
+				- Persistent blood pressure ≥140/90 mmHg
+		- Treatment Targets
+			- Uncomplicated hypertension
+				- Target <140/90 mmHg
+			- Selected high cardiovascular risk patients
+				- Consider systolic blood pressure <120 mmHg
+				- Monitor closely for
+					- Hypotension
+					- Syncope
+					- Electrolyte abnormalities
+					- Acute kidney injury
+	- Antihypertensive Drug Selection
+		- First-Line Agents
+			- Angiotensin-converting enzyme inhibitors
+			- Angiotensin receptor blockers
+			- Calcium channel blockers
+			- Thiazide diuretics
+		- Beta-blockers
+			- Not first-line in uncomplicated hypertension
+			- Use when other indications present
+				- Previous myocardial infarction
+				- Heart failure
+				- Angina
+		- Avoid
+			- Angiotensin-converting enzyme inhibitor + angiotensin receptor blocker combination
+	- Combination Therapy
+		- Consider Initial Dual Therapy
+			- Blood pressure >20 mmHg systolic above target
+			- Blood pressure >10 mmHg diastolic above target
+	- Hypertension with Prior Stroke or Transient Ischaemic Attack
+		- Benefits
+			- Reduces overall cardiovascular risk
+		- Drug Choice
+			- Any effective first-line antihypertensive
+		- Target
+			- <140/90 mmHg
+	- Hypertension with Chronic Kidney Disease
+		- Drug Choice
+			- Any effective first-line antihypertensive
+			- Albuminuria present
+				- Angiotensin-converting enzyme inhibitor
+				- Angiotensin receptor blocker
+		- Start Treatment
+			- Persistent blood pressure >140/90 mmHg
+		- Target
+			- Standard
+				- <140/90 mmHg
+			- Selected patients
+				- Consider systolic blood pressure <120 mmHg
+		- Avoid
+			- Dual renin–angiotensin system blockade
+				- Angiotensin-converting enzyme inhibitor + angiotensin receptor blocker
+		- Use Caution
+			- Aldosterone antagonists
+		- Intensive Blood Pressure Control Monitoring
+			- Hypotension
+			- Syncope
+			- Electrolyte abnormalities
+			- Acute kidney injury
+	- Hypertension with Diabetes
+		- Start Treatment
+			- Systolic blood pressure ≥140 mmHg
+		- Drug Choice
+			- Any effective first-line antihypertensive
+		- Target
+			- Standard
+				- <140/90 mmHg
+			- If stroke prevention prioritised
+				- Consider systolic blood pressure <120 mmHg
+		- Intensive Blood Pressure Control Monitoring
+			- Hypotension
+			- Syncope
+			- Electrolyte abnormalities
+			- Acute kidney injury
+	- Hypertension with Previous Myocardial Infarction
+		- Preferred Drugs
+			- Angiotensin-converting enzyme inhibitors
+			- Beta-blockers
+				- Hypertension treatment
+				- Secondary prevention
+		- Symptomatic Angina
+			- Beta-blockers
+			- Calcium channel blockers
+	- Hypertension with Chronic Heart Failure
+		- First-Line
+			- Angiotensin-converting enzyme inhibitors
+			- Evidence-based beta-blockers
+				- Carvedilol
+				- Bisoprolol
+				- Extended-release metoprolol
+				- Nebivolol
+		- Angiotensin-Converting Enzyme Inhibitor Intolerance
+			- Angiotensin receptor blocker
+	- Hypertension with Peripheral Arterial Disease
+		- Treat hypertension
+			- Reduces cardiovascular risk
+		- Drug Choice
+			- Any effective first-line antihypertensive
+		- Target
+			- <140/90 mmHg
+	- Older Adults
+		- Drug Choice
+			- Any first-line antihypertensive
+		- Prescribing Principles
+			- Start low
+			- Titrate slowly
+		- Age >75 Years
+			- Consider systolic blood pressure <120 mmHg
+			- Exception
+				- Concomitant diabetes
+		- Intensive Blood Pressure Control Monitoring
+			- Hypotension
+			- Syncope
+			- Electrolyte abnormalities
+			- Acute kidney injury
+		- Always Balance
+			- Benefit of treatment
+			- Against
+				- Adverse effects
+				- Frailty
+				- Comorbidities
+	- Suspected Blood Pressure Variability
+		- Focus On
+			- Lifestyle measures
+			- Medication adherence
+		- Do Not
+			- Select drugs specifically to reduce blood pressure variability
+	- Resistant Hypertension
+		- First Steps
+			- Confirm adherence
+			- Exclude secondary causes
+			- Optimise medical therapy
+		- Not Recommended
+			- Renal sympathetic denervation
+	- Antiplatelet Therapy
+		- Hypertension with Previous Cardiovascular Disease Event
+			- Low-dose aspirin recommended
+			- Unless
+				- Increased bleeding risk
+
+# definition and classification
+- Severe Hypertension
+	- Markedly elevated blood pressure alone
+		- Does not automatically require emergency treatment
+		- Assess for target organ damage
+- Hypertensive Urgency
+	- Definition
+		- Severe hypertension
+			- >180/110 mmHg
+		- No acute life-threatening target organ damage
+		- May have symptoms
+			- Severe headache
+		- May have moderate target organ damage
+	- Management
+		- Oral antihypertensive therapy
+		- Follow-up within 24–72 hours
+- Hypertensive Emergency
+	- Definition
+		- Very severe hypertension
+			- Often >220/140 mmHg
+		- Acute target organ damage or dysfunction present
+	- Target Organ Damage
+		- Acute heart failure
+		- Acute pulmonary oedema
+		- Acute myocardial infarction
+		- Aortic aneurysm/dissection
+		- Acute renal failure
+		- Hypertensive encephalopathy
+		- Papilloedema
+		- Cerebral infarction
+		- Haemorrhagic stroke
+		- Major neurological deficits
+	- Management
+		- Hospitalisation
+			- Usually intensive care unit
+		- Continuous blood pressure monitoring
+		- Parenteral antihypertensive therapy
+- Accelerated Hypertension
+	- Definition
+		- Severe hypertension
+		- Retinal haemorrhages
+		- Retinal exudates
+	- Prognosis
+		- Poor without treatment
+	- Management
+		- Urgent specialist treatment
+- Malignant Hypertension
+	- Definition
+		- Accelerated hypertension
+		- Plus papilloedema
+	- Findings
+		- Severe hypertension
+		- Retinal haemorrhages
+		- Retinal exudates
+		- Papilloedema
+	- Prognosis
+		- Very poor without treatment
+	- Management
+		- Urgent treatment by experienced practitioners
+
+![[Pasted image 20260604180946.png]]
+
+# risk assessment
+- Absolute Cardiovascular Disease Risk in Hypertension
+	- Absolute Cardiovascular Disease Risk Assessment
+		- Eligible Patients
+			- Adults ≥45 years
+			- Aboriginal and Torres Strait Islander peoples ≥35 years
+			- No known cardiovascular disease
+		- Use
+			- Detailed medical history
+			- Cholesterol status
+			- Diabetes status
+		- Blood Pressure Measurement
+			- Use clinic blood pressure only
+			- Not validated for
+				- Ambulatory blood pressure monitoring
+				- Home blood pressure monitoring
+				- Automated blood pressure measurements
+	- Not Suitable for Absolute Cardiovascular Disease Risk Assessment
+		- Known cardiovascular disease
+			- Previous myocardial infarction
+			- Previous stroke
+			- Transient ischaemic attack
+			- Peripheral arterial disease
+			- Heart failure
+			- Atrial fibrillation
+			- Aortic disease
+		- End-stage kidney disease
+		- Persistent blood pressure ≥180/110 mmHg
+		- Established target organ damage
+		- Adults <45 years
+		- Aboriginal and Torres Strait Islander peoples <35 years
+	- High-Risk Patients
+		- Absolute cardiovascular disease risk assessment not required
+		- Diabetes and age >60 years
+		- Diabetes with microalbuminuria
+		- Moderate or severe chronic kidney disease
+			- Macroalbuminuria
+			- Estimated glomerular filtration rate <45 mL/min/1.73 m²
+		- Familial hypercholesterolaemia
+		- Systolic blood pressure ≥180 mmHg
+		- Diastolic blood pressure ≥110 mmHg
+		- Total cholesterol >7.5 mmol/L
+		- Aboriginal or Torres Strait Islander adult >74 years
+
+# diagnosis
+- Blood Pressure Measurement
+	- Diagnosis of Hypertension
+		- Multiple occasions
+			- At least 2 visits
+			- ≥1 week apart
+			- Earlier if severe hypertension
+	- Methods
+		- Clinic blood pressure
+		- Home blood pressure monitoring
+		- Ambulatory blood pressure monitoring
+
+- Blood Pressure Measuring Devices
+	- Recommended Devices
+		- Aneroid sphygmomanometer
+		- Electronic devices
+	- Automated Office Blood Pressure Measurement
+
+- Clinic Blood Pressure Measurement
+	- Environment
+		- Quiet room
+		- Room temperature
+	- Patient Preparation
+		- Seated
+		- Relaxed for several minutes
+		- Legs uncrossed
+		- No caffeine for ≥2 hours
+		- No smoking for ≥2 hours
+	- Cuff Requirements
+		- Bladder length ≥80% of arm circumference
+		- Bladder width ≥40% of arm circumference
+	- Automated Device Use
+		- Check for pulse irregularity first
+		- Atrial fibrillation may reduce accuracy
+		- If irregular pulse
+			- Use manual auscultatory method
+	- Measurement Technique
+		- Arm supported at heart level
+		- Cuff centred over brachial artery
+		- Lower cuff border 2 cm above elbow crease
+	- Initial Assessment
+		- Measure both arms
+		- If inter-arm difference >5 mmHg
+			- Use higher-reading arm subsequently
+		- If postural hypotension suspected
+			- Measure sitting blood pressure
+			- Measure standing blood pressure
+			- Repeat after standing ≥2 minutes
+	- Interpretation
+		- Take 3 measurements
+		- Average last 2 measurements
+		- If variation >10 mmHg systolic or >6 mmHg diastolic
+			- Rest 5 minutes
+			- Repeat measurements
+- Common Measurement Errors
+	- Cuff over clothing
+	- Incorrect cuff size
+	- Worn cuff
+	- Unvalidated device
+	- Poorly serviced device
+	- Arm above heart level
+	- Failure to assess both arms
+	- Patient talking
+	- Patient not rested
+	- Rapid cuff deflation
+	- Reinflation before full deflation
+	- Excessive rounding of readings
+	- Single measurement only
+
+- Out-of-Clinic Blood Pressure Measurement
+	- Indications
+		- Suspected white-coat hypertension
+		- Suspected masked hypertension
+		- Confirmed white-coat hypertension
+		- Marked blood pressure variability
+		- Postural hypotension
+		- Drug-induced hypotension
+		- Resistant hypertension
+		- Suspected nocturnal hypertension
+		- Sleep apnoea
+		- Chronic kidney disease
+		- Diabetes
+
+- Ambulatory Blood Pressure Monitoring
+	- Method
+		- Usually non-dominant arm
+		- Measurements every 15 minutes
+		- Includes daytime and sleep measurements
+	- Diagnostic Thresholds
+		- Daytime average ≥135/85 mmHg
+		- Night-time average ≥120/70 mmHg
+		- 24-hour average ≥130/80 mmHg
+	- Data Review
+		- ≥2 measurements per waking hour
+		- ≥14 daytime readings
+		- ≥70% successful readings over 24 hours
+		- Night-time systolic blood pressure should be ≥10% lower than daytime
+			- Absence of nocturnal dipping
+				- Increased cardiovascular disease risk
+
+- Home Blood Pressure Monitoring
+	- Device
+		- Validated upper-arm oscillometric device
+	- Diagnostic Threshold
+		- ≥135/85 mmHg
+	- Measurement Protocol
+		- Morning
+			- Before breakfast
+			- Before morning medications
+			- After 5 minutes seated rest
+		- Evening
+			- Before bedtime
+			- After medications
+			- After 5 minutes seated rest
+		- Two measurements
+			- 1 minute apart
+		- Record all readings
+		- Record factors affecting readings
+
+- Hypertension Diagnostic Thresholds
+	- Clinic blood pressure
+		- ≥140/90 mmHg
+	- Ambulatory blood pressure monitoring
+		- Daytime ≥135/85 mmHg
+		- Night-time ≥120/70 mmHg
+		- 24-hour average ≥130/80 mmHg
+	- Home blood pressure monitoring
+		- ≥135/85 mmHg
+
+- Recommendations
+	- Clinic blood pressure ≥140/90 mmHg or suspected hypertension
+		- Confirm with
+			- Ambulatory blood pressure monitoring
+			- Home blood pressure monitoring
+	- Use clinic blood pressure for absolute cardiovascular disease risk calculators
+	- Home blood pressure monitoring and ambulatory blood pressure monitoring
+		- Stronger predictors of cardiovascular outcomes than clinic blood pressure
+
+- Hypertension Evaluation
+	- Symptoms Suggesting Secondary Hypertension
+		- Phaeochromocytoma
+			- Headache
+			- Sweating
+			- Palpitations
+		- Obstructive sleep apnoea
+			- Obesity
+			- Snoring
+			- Daytime somnolence
+		- Primary aldosteronism
+			- Hypokalaemia
+			- Muscle weakness
+			- Hypotonia
+			- Tetany
+			- Cramps
+			- Arrhythmias
+		- Thyroid disease symptoms
+	- Drugs and Substances Increasing Blood Pressure
+		- Non-steroidal anti-inflammatory drugs
+		- Sympathomimetics
+			- Decongestants
+			- Diet pills
+			- Cocaine
+		- Stimulants
+			- Methylphenidate
+			- Dexamphetamine
+			- Methamphetamine
+			- Modafinil
+		- Excess alcohol
+		- Oral contraceptive pills
+		- Hormone replacement therapy
+		- Corticosteroids
+		- Clozapine
+		- Serotonin–norepinephrine reuptake inhibitors
+		- Monoamine oxidase inhibitors
+		- Erythropoiesis-stimulating agents
+		- Abrupt withdrawal
+			- Clonidine
+			- Bromocriptine
+		- Bupropion
+		- Herbal Products
+			- Ginseng
+			- Bitter orange
+			- Guarana
+			- Liquorice
+			- St John's wort
+		- Energy drinks
+		- Caffeine-containing products
+	- Heart failure signs
+		- Basal crackles
+		- Peripheral oedema
+		- Pulsatile liver
+	- Enlarged kidneys
+		- Polycystic kidney disease
+	- Fundoscopy
+			- Retinal haemorrhages
+			- Exudates
+			- Papilloedema
+			- Arteriovenous nipping
+			- Diabetic retinopathy
+	- Initial Investigations
+		- Urinalysis
+			- Urine dipstick for blood
+			- If abnormal
+				- Urine microscopy
+		- Albuminuria Assessment
+			- Urinary albumin-to-creatinine ratio
+				- Preferred test
+			- Mandatory in diabetes
+			- Macroalbuminuria
+				- 24-hour urinary protein
+		- Blood Tests
+			- Fasting glucose
+			- Lipid profile
+				- Total cholesterol
+				- Low-density lipoprotein cholesterol
+				- High-density lipoprotein cholesterol
+				- Triglycerides
+			- Urea
+			- Electrolytes
+			- Creatinine
+			- Estimated glomerular filtration rate
+			- Haemoglobin or haematocrit
+		- Electrocardiogram
+			- Atrial fibrillation
+			- Left ventricular hypertrophy
+			- Previous ischaemic heart disease
+	- Albuminuria Definitions
+		- Microalbuminuria
+			- Male
+				- Albumin-to-creatinine ratio 2.5–25 mg/mmol
+			- Female
+				- Albumin-to-creatinine ratio 3.5–35 mg/mmol
+		- Macroalbuminuria
+			- Male
+				- Albumin-to-creatinine ratio >25 mg/mmol
+			- Female
+				- Albumin-to-creatinine ratio >35 mg/mmol
+		- Proteinuria
+			- >500 mg/day
+	- Additional Investigations
+		- Cardiovascular Disease
+			- Echocardiography
+				- Left ventricular hypertrophy
+				- Left atrial dilatation
+				- Structural heart disease
+			- Carotid ultrasound
+				- Asymptomatic atherosclerosis
+		- Chronic Kidney Disease
+			- Renal artery imaging
+			- Renal artery duplex ultrasound
+			- Computed tomography angiography
+		- Peripheral Arterial Disease
+			- Ankle-brachial index
+				- <0.9 diagnostic
+		- Secondary Hypertension
+			- Primary Aldosteronism
+				- Plasma aldosterone-to-renin ratio
+				- Consider in
+					- Moderate-to-severe hypertension
+					- Resistant hypertension
+					- Hypokalaemia
+			- Phaeochromocytoma
+				- Plasma metanephrines
+				- Plasma normetanephrines
+				- Urinary catecholamines
+				- Urinary metanephrines
+				- Indications
+					- Episodic hypertension
+					- Episodic catecholamine symptoms
+
+# lifestyle modifications
+- Lifestyle Management in Hypertension
+	- Review progress every 3–6 months
+	- Physical Activity
+		- Target
+			- Moderate-intensity activity
+				- 150–300 minutes/week
+			- Vigorous-intensity activity
+				- 75–150 minutes/week
+			- Muscle-strengthening exercises
+				- ≥2 days/week
+		- Adults >65 Years
+			- Physical activity at any level is beneficial
+			- ≥30 minutes moderate-intensity activity on most days
+		- Postpone Exercise If
+			- Severe hypertension
+				- Blood pressure ≥180/110 mmHg
+		- Require Medical Review and Supervised Exercise
+			- Unstable angina
+			- Blood pressure ≥180/110 mmHg
+			- Uncontrolled heart failure
+			- Cardiomyopathy
+			- Myocardial infarction within previous 3 months
+			- Severe aortic stenosis
+			- Resting tachyarrhythmia
+			- Chest pain at rest
+			- Dyspnoea at rest
+			- Poorly controlled diabetes
+	- Weight Control
+		- Targets
+			- Body mass index
+				- <25 kg/m²
+			- Waist circumference
+				- Men <94 cm
+				- Asian men <90 cm
+				- Women <80 cm
+		- Body Mass Index Classification
+			- Healthy weight
+				- 18.5–24.9 kg/m²
+			- Overweight
+				- 25–29.9 kg/m²
+			- Obesity class I
+				- 30–34.9 kg/m²
+			- Obesity class II
+				- 35–39.9 kg/m²
+			- Obesity class III
+				- ≥40 kg/m²
+		- Blood Pressure Effect
+			- Weight loss 1 kg
+				- Blood pressure reduction ≈1 mmHg
+			- Weight loss 5–10 kg
+				- Blood pressure reduction 7/3 to 13/7 mmHg
+	- Dietary Modification
+		- Fruit and Vegetables
+			- Vegetables
+				- 5 serves/day
+			- Fruit
+				- 2 serves/day
+		- Dietary Approaches to Stop Hypertension Diet
+			- Vegetables
+			- Fruits
+			- Whole grains
+			- Low-fat dairy products
+	- Salt Restriction
+		- Target
+			- Primary prevention
+				- <6 g/day
+			- Secondary prevention
+				- <4 g/day
+			- Choose foods with sodium <400 mg/100 g
+			- Low-salt food
+				- Sodium <120 mg/100 g
+		- Potassium Intake
+			- Increase fruits
+			- Increase vegetables
+			- Increase unsalted nuts
+			- Increase legumes
+			- Avoid excess potassium if taking potassium-sparing diuretics
+	- Dietary Fat
+		- Total fat
+			- 20–35% of total energy intake
+		- Saturated fat + trans fat
+			- <10% of total energy intake
+	- Smoking Cessation
+		- Approach
+			- 5As
+				- Ask
+				- Assess
+				- Advise
+				- Assist
+				- Arrange
+	- Alcohol
+		- Recommended Limit
+			- Men
+				- ≤2 standard drinks/day
+			- Women
+				- ≤2 standard drinks/day
+			- Any occasion
+				- ≤4 standard drinks
+		- Excess Intake
+			- Increases risk of hypertension
+	- Relaxation Therapies
+		- Insufficient evidence for meaningful blood pressure reduction
+	- Supporting Long-Term Lifestyle Change
+		- Set realistic goals
+		- Provide regular encouragement
+		- Reinforce incremental success
+		- Give written instructions
+		- Review progress regularly
+		- Refer for ongoing support when appropriate
+
+# medications
+
+	- Lifestyle modification
+		- Recommended for all patients
+- When to Start Drug Therapy
+	- Low Absolute Cardiovascular Disease Risk
+		- <10% 5-year risk
+		- Persistent blood pressure ≥160/100 mmHg
+	- Moderate Absolute Cardiovascular Disease Risk
+		- 10–15% 5-year risk
+		- Persistent blood pressure ≥140/90 mmHg
+- Treatment Targets
+	- Uncomplicated Hypertension
+		- <140/90 mmHg
+		- Lower if tolerated
+	- Selected High Cardiovascular Risk Patients
+		- Consider systolic blood pressure <120 mmHg
+		- Requires close monitoring for
+			- Hypotension
+			- Syncope
+			- Electrolyte abnormalities
+			- Acute kidney injury
+	- Drug Selection
+		- First-Line Agents
+			- Angiotensin-converting enzyme inhibitors
+			- Angiotensin receptor blockers
+			- Calcium channel blockers
+			- Thiazide diuretics
+		- Beta-blockers
+			- Not first-line for uncomplicated hypertension
+			- Use when specific indications exist
+	- Combination Therapy
+		- Preferred Combination
+			- Angiotensin-converting enzyme inhibitor + calcium channel blocker
+		- Effective Combinations
+			- Angiotensin-converting enzyme inhibitor + thiazide diuretic
+			- Angiotensin receptor blocker + thiazide diuretic
+			- Angiotensin receptor blocker + calcium channel blocker
+		- Avoid
+			- Angiotensin-converting enzyme inhibitor + angiotensin receptor blocker
+			- Dual renin–angiotensin system blockade
+	- Drug Class Benefits
+		- Thiazide Diuretics
+			- Best evidence for heart failure prevention
+		- Calcium Channel Blockers
+			- Better stroke prevention
+		- Angiotensin-Converting Enzyme Inhibitors
+			- Reduce myocardial infarction
+			- Prevent diabetic nephropathy
+		- Angiotensin Receptor Blockers
+			- Better protection against progression of advanced diabetic nephropathy
+![[Pasted image 20260604182817.png]]
+
+![[Pasted image 20260604182833.png]]
+![[Pasted image 20260604182849.png]]
+
+![[Pasted image 20260604182902.png]]
+
+- Antihypertensive Drug Therapy
+	- Angiotensin-Converting Enzyme Inhibitors
+		- Adverse Effects
+			- Cough
+			- Hyperkalaemia
+			- Renal impairment
+			- Angioedema
+	- Angiotensin Receptor Blockers
+		- Adverse Effects
+			- Hyperkalaemia
+			- Renal impairment
+			- Rare cough
+			- Rare angioedema
+		- Use Caution
+			- Previous angioedema with angiotensin-converting enzyme inhibitors
+	- Calcium Channel Blockers
+		- Dihydropyridines
+			- Adverse Effects
+				- Peripheral oedema
+				- Flushing
+				- Headache
+				- Dizziness
+				- Postural hypotension
+				- Tachycardia
+				- Palpitations
+				- Chest pain
+				- Gingival hyperplasia
+			- Important Point
+				- Do not treat calcium channel blocker-induced oedema with diuretics
+		- Non-Dihydropyridines
+			- Drugs
+				- Verapamil
+				- Diltiazem
+			- Effects
+				- Reduce heart rate
+				- Reduce cardiac contractility
+			- Adverse Effects
+				- Bradycardia
+				- Constipation
+					- Especially verapamil
+				- Atrioventricular block
+				- Heart failure
+
+	- Thiazide and Thiazide-Like Diuretics
+		- Adverse Effects
+			- Postural hypotension
+			- Dizziness
+			- Hypokalaemia
+			- Hyponatraemia
+			- Hyperuricaemia
+			- Hyperglycaemia
+		- Notes
+			- Electrolyte effects are dose-dependent
+			- Loop diuretics not recommended unless volume overload present
+
+	- Beta-Blockers
+		- Important Point
+			- Do not stop abruptly
+				- Risk of rebound hypertension
+				- Risk of myocardial infarction
+		- Adverse Effects
+			- Bradycardia
+			- Postural hypotension
+			- Transient worsening of heart failure
+			- Bronchospasm
+			- Cold extremities
+		- Special Note
+			- Atenolol not recommended as monotherapy
+
+	- Amiloride
+		- Uses
+			- Diuretic-induced hypokalaemia
+			- Hyperaldosteronism with spironolactone intolerance
+		- Adverse Effects
+			- Hyperkalaemia
+
+	- Clonidine
+		- Important Point
+			- Avoid abrupt withdrawal
+				- Rebound hypertension
+		- Adverse Effects
+			- Postural hypotension
+			- Constipation
+			- Bradycardia
+			- Dry mouth
+			- Sedation
+			- Dizziness
+
+	- Hydralazine
+		- Uses
+			- Refractory hypertension
+		- Adverse Effects
+			- Palpitations
+			- Flushing
+			- Headache
+			- Oedema
+			- Tachycardia
+			- Worsening angina
+			- Drug-induced lupus
+
+	- Methyldopa
+		- Main Use
+			- Hypertension in pregnancy
+		- Adverse Effects
+			- Sedation
+			- Dizziness
+			- Hepatitis
+			- Hepatic necrosis
+			- Positive Coombs test
+			- Haemolytic anaemia
+
+	- Moxonidine
+		- Important Point
+			- Withdraw gradually
+		- Adverse Effects
+			- Dry mouth
+			- Somnolence
+			- Dizziness
+			- Bradycardia
+			- Vasodilation
+
+	- Prazosin
+		- Important Point
+			- First-dose hypotension
+		- Adverse Effects
+			- Severe hypotension
+			- Postural hypotension
+		- Risk Factors for Hypotension
+			- Dose escalation
+			- Older age
+			- Diuretic therapy
+			- Volume depletion
+			- Concomitant antihypertensives
+
+	- Spironolactone
+		- Uses
+			- Resistant hypertension
+			- Primary hyperaldosteronism
+			- Heart failure
+		- Adverse Effects
+			- Hyperkalaemia
+			- Hyponatraemia
+			- Mastalgia
+			- Gynaecomastia
+			- Sexual dysfunction
+
+	- High-Yield Adverse Effect Associations
+		- Angiotensin-converting enzyme inhibitors
+			- Cough
+			- Angioedema
+		- Angiotensin-converting enzyme inhibitors and angiotensin receptor blockers
+			- Hyperkalaemia
+			- Renal impairment
+		- Dihydropyridine calcium channel blockers
+			- Peripheral oedema
+		- Verapamil
+			- Constipation
+			- Bradycardia
+		- Thiazide diuretics
+			- Hypokalaemia
+			- Hyponatraemia
+			- Hyperuricaemia
+		- Beta-blockers
+			- Bradycardia
+			- Bronchospasm
+		- Clonidine
+			- Rebound hypertension
+		- Prazosin
+			- First-dose hypotension
+		- Spironolactone
+			- Gynaecomastia
+			- Hyperkalaemia
+		- Methyldopa
+			- Positive Coombs test
+			- Haemolytic anaemia
+			- Hepatitis
+
+
+
+- Combination Therapy
+- If Baseline blood pressure
+	- >20 mmHg systolic above target
+	- >10 mmHg diastolic above target
+
+- Hypertension with Prior Stroke or Transient Ischaemic Attack
+	- Drug Choice
+		- Any first-line antihypertensive that effectively lowers blood pressure
+		- Calcium channel blockers
+			- Best evidence for stroke prevention
+		- Beta-blockers
+			- Less effective for stroke prevention
+	- Blood Pressure Target
+		- <140/90 mmHg
+	- Acute Stroke
+		- Do not routinely initiate blood pressure lowering within first 7 days
+		- Start antihypertensive therapy when clinically stable
+
+- Hypertension with Chronic Kidney Disease
+	- Drug Choice
+		- Any first-line antihypertensive that effectively lowers blood pressure
+		- If microalbuminuria or macroalbuminuria
+			- Angiotensin-converting enzyme inhibitor
+			- Angiotensin receptor blocker
+				- Preferred first-line agents
+		- Combination Therapy
+			- Angiotensin-converting enzyme inhibitor + calcium channel blocker
+				- Superior to beta-blocker + diuretic combination
+		- Avoid
+			- Dual renin–angiotensin system blockade
+			- Angiotensin-converting enzyme inhibitor + angiotensin receptor blocker
+		- Aldosterone Antagonists
+			- Use with caution
+	- Treatment Threshold
+		- Persistent blood pressure >140/90 mmHg
+	- Blood Pressure Target
+		- <140/90 mmHg
+	- Intensive Target
+		- Systolic blood pressure <120 mmHg may be beneficial if tolerated
+		- Requires monitoring for
+			- Hypotension
+			- Syncope
+			- Electrolyte abnormalities
+			- Acute kidney injury
+
+- Hypertension with Diabetes Mellitus
+	- Treatment Threshold
+		- Systolic blood pressure ≥140 mmHg
+	- Drug Choice
+		- Any first-line antihypertensive that effectively lowers blood pressure
+		- Beta-blockers
+			- Inferior to calcium channel blockers, angiotensin-converting enzyme inhibitors and angiotensin receptor blockers for mortality outcomes
+		- Diuretics
+			- Best evidence for heart failure prevention
+	- Blood Pressure Target
+		- <140/90 mmHg
+	- Intensive Target
+		- Systolic blood pressure <120 mmHg
+			- May be considered if stroke prevention is prioritised
+			- Associated with increased adverse effects
+		- Requires monitoring for
+			- Hypotension
+			- Syncope
+			- Electrolyte abnormalities
+			- Acute kidney injury
+
+- Hypertension with Previous Myocardial Infarction
+	- Drug Choice
+		- Angiotensin-converting enzyme inhibitor
+		- Beta-blocker
+			- Recommended for hypertension treatment
+			- Recommended for secondary prevention
+	- If Angina Present
+		- Beta-blocker
+		- Calcium channel blocker
+	- Treatment Target
+		- No specific target different from standard hypertension target established
+
+
+- Hypertension with Chronic Heart Failure
+	- Heart Failure with Reduced Ejection Fraction
+		- First-Line Therapy
+			- Angiotensin-converting enzyme inhibitors
+			- Selected beta-blockers
+				- Carvedilol
+				- Bisoprolol
+				- Metoprolol extended release
+				- Nebivolol
+		- If Angiotensin-Converting Enzyme Inhibitor Intolerant
+			- Angiotensin receptor blocker
+	- Heart Failure with Preserved Ejection Fraction
+		- No preferred antihypertensive drug class
+		- Angiotensin receptor blockers
+			- No proven mortality benefit
+	- Drug Class Considerations
+		- Diuretics
+			- Most effective for prevention of heart failure
+		- Calcium channel blockers
+			- Higher risk of heart failure compared with
+				- Diuretics
+				- Angiotensin-converting enzyme inhibitors
+				- Beta-blockers
+	- Treatment Targets
+		- No specific blood pressure target established
+		- Intensive blood pressure lowering
+			- No proven reduction in all-cause mortality
+
+- Hypertension with Peripheral Arterial Disease
+	- Clinical Features of Peripheral Arterial Disease
+		- Intermittent claudication
+			- Most common symptom
+		- Non-healing foot ulcers
+		- Gangrene
+	- Management Principles
+		- Treat hypertension to reduce cardiovascular disease risk
+		- Focus on overall cardiovascular risk reduction
+	- Drug Choice
+		- Any first-line antihypertensive that effectively lowers blood pressure
+	- Blood Pressure Target
+		- <140/90 mmHg
+	- Treatment Individualisation
+		- Consider
+			- Symptoms
+			- Contraindications
+			- Comorbidities
+	- Evidence Highlights
+		- Angiotensin-converting enzyme inhibitors
+			- Reduce
+				- Cardiovascular death
+				- Myocardial infarction
+				- Stroke
+
+- White-Coat Hypertension
+	- Definition
+		- Untreated patient
+		- Clinic blood pressure
+			- Hypertensive
+		- Home blood pressure monitoring or ambulatory blood pressure monitoring
+			- Normal
+	- Diagnosis
+		- Requires
+			- Ambulatory blood pressure monitoring
+			- Home blood pressure monitoring
+	- Risks
+		- Progression to sustained hypertension
+		- Increased cardiovascular disease risk
+		- Stroke risk comparable to sustained hypertension
+	- Management
+		- Without additional risk factors
+			- Lifestyle modification
+			- Frequent review
+		- High cardiovascular disease risk
+			- Consider antihypertensive therapy
+			- Lifestyle modification
+
+- Masked Hypertension
+	- Definition
+		- Untreated patient
+		- Clinic blood pressure
+			- Normal
+		- Home blood pressure monitoring or ambulatory blood pressure monitoring
+			- Hypertensive
+	- Diagnosis
+		- Requires
+			- Ambulatory blood pressure monitoring
+			- Home blood pressure monitoring
+	- Suspect In
+			- End-organ damage with normal clinic blood pressure
+			- Diabetes mellitus
+			- Smokers
+			- Heavy alcohol users
+	- Risks
+			- Increased cardiovascular disease risk
+			- Increased mortality
+			- Progression to sustained hypertension
+	- Management
+			- Antihypertensive therapy
+			- Lifestyle modification
+
+- Hypertension in Older Adults
+	- Drug Choice
+		- Any first-line antihypertensive agent
+	- Prescribing Principles
+		- Start at lowest dose
+		- Titrate slowly
+		- Monitor adverse effects closely
+	- Blood Pressure Target
+		- Standard target
+			- <140/90 mmHg
+		- Age >75 years
+			- Consider systolic blood pressure <120 mmHg if tolerated
+			- Not recommended when concomitant diabetes mellitus present
+	- Monitor for Intensive Therapy Adverse Effects
+		- Hypotension
+		- Syncope
+		- Electrolyte abnormalities
+		- Acute kidney injury
+	- Clinical Approach
+		- Balance benefit of treatment against adverse effects
+
+- Hypertension in Pregnancy
+	- Definition
+		- Blood pressure ≥140/90 mmHg
+
+- Blood Pressure Variability
+	- Definition
+		- Significant variation in blood pressure between visits
+	- Significance
+		- Independent cardiovascular risk factor
+	- Management
+		- Lifestyle optimisation
+		- Ensure medication adherence
+	- Drug Selection
+		- Do not choose antihypertensive therapy solely to reduce blood pressure variability
+
+- Resistant Hypertension
+	- Definition
+		- Systolic blood pressure >140 mmHg despite
+			- ≥3 antihypertensive drugs
+			- Including a diuretic
+			- At optimal tolerated doses
+	- Exclude
+		- Poor adherence
+		- White-coat hypertension
+		- Secondary hypertension
+		- Sleep apnoea
+		- Excess alcohol intake
+		- Recreational drug use
+		- High salt intake
+		- Other medications causing hypertension
+- Complications
+			- Left ventricular hypertrophy
+			- Microalbuminuria
+			- Kidney failure
+			- Coronary artery disease
+	- Management
+			- Optimise medical therapy
+			- Address adherence
+			- Exclude secondary causes
+			- Specialist referral if persistent despite maximal tolerated therapy
+	- Additional Therapy
+			- Spironolactone may be used as add-on therapy
+	- Renal Denervation
+			- Not recommended for routine management
+
+- Obstructive Sleep Apnoea
+	- Association with Hypertension
+			- Common cause of resistant hypertension
+			- Contributes to nocturnal hypertension
+			- Contributes to absent nocturnal dipping
+	- Prevalence
+			- Present in up to 40% of hypertensive patients
+			- Present in up to 80% of resistant hypertension patients
+	- Diagnosis
+			- Symptoms
+			- Clinical assessment
+			- Overnight sleep study
+		- Ambulatory blood pressure monitoring
+			- Best assessment of blood pressure effects
+	- Cardiovascular Effects
+			- Increased cardiovascular risk
+			- Stronger association with stroke than coronary disease
+	- Management
+			- Weight loss
+			- Exercise
+			- Alcohol reduction
+			- Continuous positive airway pressure therapy
+	- Continuous Positive Airway Pressure Therapy
+			- Improves obstructive sleep apnoea severity
+			- Produces modest blood pressure reduction
+			- Greatest benefit in
+				- Severe obstructive sleep apnoea
+				- Pre-existing hypertension
+				- Good adherence
+	- Drug Choice
+			- No preferred antihypertensive class
+
+
+- Maximising Adherence
+	- Assess Adherence
+		- Ask at every visit
+			- "Do you recall not having taken your medicines over the last four weeks?"
+- Managing Other Cardiovascular Risk Factors
+	- Lipid-Lowering Therapy
+		- Primary Prevention
+			- Moderate-to-high cardiovascular disease risk
+			- Low-density lipoprotein cholesterol target
+				- <2.0 mmol/L
+		- Secondary Prevention
+			- Coronary heart disease
+				- Low-density lipoprotein cholesterol target <1.8 mmol/L
+			- Ischaemic stroke
+			- Transient ischaemic attack
+			- Heart failure
+			- Diabetes mellitus
+				- Low-density lipoprotein cholesterol target <1.8 mmol/L
+		- Benefits
+			- Reduced cardiovascular events
+	- Antiplatelet Therapy
+		- Indication
+			- Previous cardiovascular disease event
+		- Drug
+			- Low-dose aspirin
+		- Avoid Routine Use
+			- Low-to-moderate cardiovascular disease risk
+				- Bleeding risk may outweigh benefit
+
+- Monitoring Response to Treatment
+	- After Starting Antihypertensive Therapy
+		- Review every 4–6 weeks
+		- Assess
+			- Adherence
+			- Adverse effects
+			- Tolerability
+			- Efficacy
+		- Severe hypertension
+			- Consider more frequent review
+	- Laboratory Monitoring
+		- High risk of renal impairment
+			- Check electrolytes and creatinine
+				- Baseline
+				- 2 weeks after starting therapy
+		- Monitor for
+			- Hyperkalaemia
+			- Renal dysfunction
+	- Stable Blood Pressure
+		- Follow-up every 3–6 months
+		- Annual assessment for
+			- Additional cardiovascular risk factors
+			- Target-organ damage
+
+- Withdrawal of Antihypertensive Therapy
+	- Usually Lifelong
+	- Consider Withdrawal If
+		- Diagnosis uncertain
+		- Major sustained lifestyle modification
+		- Patient requests trial cessation
+	- Do Not Withdraw If
+		- High cardiovascular disease risk
+		- Previous stroke
+		- Diabetes mellitus
+		- Chronic kidney disease
+	- After Withdrawal
+		- Continue regular blood pressure monitoring
+		- Restart treatment if blood pressure rises
+		- Blood pressure rise may occur
+			- Weeks later
+			- Months later
+	- More Likely to Succeed If
+		- Younger age
+		- Single antihypertensive agent previously
+		- Lower pretreatment blood pressure
+		- Good adherence to lifestyle modification
+
+- 
+![[Pasted image 20260517030835.png]]
+
+## Clinical Features Suggesting Secondary Hypertension
+
+| Clinical Feature                                                      | Likely Cause                                |
+| --------------------------------------------------------------------- | ------------------------------------------- |
+| Abdominal systolic bruit                                              | [[renal artery stenosis]]                   |
+| Proteinuria, haematuria, urinary casts                                | Glomerulonephritis                          |
+| Bilateral kidney masses ± haematuria                                  | Polycystic kidney disease                   |
+| History of claudication with delayed femoral pulse                    | Coarctation of the aorta                    |
+| Progressive nocturia, muscle weakness                                 | Primary aldosteronism (check serum K⁺)      |
+| Obesity, snoring, daytime sleepiness                                  | Obstructive sleep apnoea                    |
+| Use of recreational drugs, complementary or prescribed therapies      | Stimulants, diet pills, OCPs, energy drinks |
+| Paroxysmal hypertension with headache, pallor, sweating, palpitations | Phaeochromocytoma                           |
+| truncal obesity with pigmented striae                                 | Cushing syndrome                            |

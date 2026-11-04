@@ -1,0 +1,203 @@
+- Introduction
+	- Spine
+		- 33 vertebrae
+			- Base of skull → coccyx
+		- Surrounds and protects spinal cord
+			- Nerve tissue
+	- Injury mechanism
+		- Fracture/dislocation
+			- Direct mechanical compression of cord
+			- Severing of cord
+		- Secondary injury
+			- Bleeding into cord
+			- Swelling at injury site/adjacent area
+	- Clinical principle
+		- Always consider spinal injury in trauma victims
+		- Prehospital worsening risk lower than previously believed
+		- Careful handling reduces secondary injury
+	- Regions of spinal injury
+		- Cervical spine
+			- Neck
+			- Most vulnerable
+		- Thoracic spine
+			- Back of chest
+		- Lumbar spine
+			- Lower back
+	- Cervical spine
+		- Most common site
+			- >50% of spinal injuries
+		- Suspect with injuries above shoulders
+	- Clinical dilemma
+		- Unconscious victim with suspected neck injury
+		- Airway management may move cervical spine
+
+- Recognition
+	- Common causes
+		- Motor vehicle crash
+			- Occupant
+			- Rider
+			- Pedestrian
+		- Motorcycle crash
+		- Bicycle crash
+		- Industrial/workplace accident
+		- Diving/jumping into shallow or obstructed water
+		- Dumped in surf
+		- Sporting accident
+			- Rugby
+			- Horse fall
+		- Fall > standing height
+			- Ladder
+			- Roof
+		- Falls in elderly
+		- Significant blow to head
+		- Severe penetrating injury
+			- Gunshot wound
+
+	- Symptoms
+		- Pain in injured region
+		- Tingling/numbness
+			- Limbs
+			- Below injury level
+		- [[weakness]]
+		- Paralysis of limbs
+		- Nausea
+		- [[headache]]
+		- Dizziness
+		- Altered or absent skin sensation
+
+	- Signs
+		- Abnormal head/neck position
+		- Signs of associated head injury
+		- Altered conscious state
+		- Breathing difficulties
+		- Shock
+		- Altered muscle tone
+			- Flaccid
+			- Stiff
+		- Loss of limb function
+		- Loss of bladder control
+		- Loss of bowel control
+		- Priapism
+			- Male erection
+
+- Management
+	- Priorities
+		- Call ambulance
+		- Manage ABC
+			- Airway
+			- Breathing
+			- Circulation
+		- Spinal care
+	- Principle
+		- Harm minimisation
+		- Careful handling
+		- Maintain spinal alignment
+
+	- Conscious victim
+		- Tell victim to remain still
+		- Do not physically restrain uncooperative patient
+		- Pain-induced muscle spasm may splint injury
+		- Keep comfortable until help arrives
+		- If removal from danger needed
+			- Water
+			- Road
+		- Support injured area
+		- Minimise spinal movement
+		- Ideally moved only by trained personnel with equipment
+
+	- Unconscious victim
+		- Airway management takes priority over spinal protection
+		- Gentle movement to neutral position acceptable for airway
+		- If unconscious but breathing
+			- Place in recovery position
+		- Handle gently
+		- Avoid twisting
+		- Maintain alignment
+			- Head
+			- Neck
+			- Torso
+		- Airway opening methods
+			- Jaw thrust preferred
+			- Chin lift preferred
+			- Head tilt
+				- Last resort
+
+- Spinal immobilisation techniques and devices
+	- Evidence base
+		- No RCT evidence
+		- Evidence from
+			- Retrospective studies
+			- Volunteers
+			- Manikins
+			- Cadavers
+		- No proven outcome improvement with prehospital immobilisation
+		- Neurological deterioration from poor immobilisation likely exaggerated
+		- Risks of immobilisation
+			- Device complications
+			- Transport delays
+
+	- Cervical collars
+		- Semi-rigid collars by first aiders
+			- Not recommended
+			- CoSTR 2015
+				- Weak recommendation
+				- Low-quality evidence
+		- ANZCOR recommendations
+			- Review collar use
+			- Manual head support preferred
+			- Neutral/natural position
+			- Limit angular movement
+			- Healthy adults
+				- ~2 cm padding under head improves neutral alignment
+		- Adverse effects
+			- Increased movement during sizing/fitting
+			- Pain
+			- Discomfort
+			- Restricted mouth opening
+			- Dysphagia
+			- Airway compromise during vomiting
+			- Neck vein compression
+				- Increased intracranial pressure
+				- Dangerous in head injury
+			- May obscure life-threatening conditions
+
+	- Spinal boards
+		- Rigid backboards
+			- Useful for moving victim
+			- Limited benefit unless trunk controlled
+		- Do not leave victim on rigid board
+		- Risks
+			- Pain
+				- Neck
+				- Occiput
+				- Scapula
+				- Lumbar region
+			- Pressure necrosis
+			- Conscious patients may move for comfort
+				- May worsen injury
+			- Paralysed/unconscious patients at higher risk
+				- Lack protective pain sensation
+			- Strapping may restrict breathing
+				- Loosen if respiratory compromise occurs
+		- Alternatives
+			- Padded spinal board
+			- Air mattress
+			- Bead-filled vacuum mattress
+
+	- Log roll
+		- Purpose
+			- Examine back
+			- Place/remove spinal board
+		- Done by trained team
+		- Technique
+			- Supine → side → supine
+
+	- Children
+		- Road traffic accident
+			- Conscious infant
+				- Leave in rigid car seat/capsule until ambulance arrives
+			- If possible
+				- Remove seat/capsule with infant inside
+		- <8 years old
+			- Require ~2.5 cm padding under shoulders
+			- Helps maintain neutral alignment

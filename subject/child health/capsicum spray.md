@@ -1,0 +1,33 @@
+- definition  
+  - oleoresin capsicum (OC) spray  
+    - extract of capsicum peppers  
+    - active ingredient  
+      - capsaicin  
+  - use  
+    - police  
+    - violent situations  
+
+- clinical effects  
+  - mucosal irritation  
+    - conjunctiva  
+    - nasal mucosa  
+    - oral mucosa  
+  - respiratory  
+    - bronchospasm  
+    - cough  
+  - skin  
+    - erythema  
+    - intense burning pain  
+
+- treatment  
+  - initial assessment  
+    - airway  
+    - breathing  
+    - circulation  
+  - assess for injury  
+  - bronchospasm  
+    - salbutamol  
+  - eyes  
+    - copious water irrigation  
+  - skin  
+    - wash with copious water  

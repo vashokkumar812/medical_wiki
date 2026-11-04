@@ -1,0 +1,139 @@
+# Osteomyelitis (AMC MCQ High-Yield)
+
+- **Definition**
+	- Infection of bone and bone marrow
+	- Usually bacterial
+	- **Staphylococcus aureus** is the most common organism
+
+- **Common Organisms**
+	- **Staphylococcus aureus (most common)**
+		- MSSA
+		- MRSA
+	- Streptococci
+	- Gram-negative bacilli
+		- Salmonella (**sickle cell disease**)
+		- Pseudomonas
+			- IV drug users
+			- Puncture wound through rubber-soled shoe
+	- Diabetic foot
+		- Polymicrobial
+			- Staphylococcus
+			- Streptococci
+			- Gram-negative organisms
+			- Anaerobes
+
+- **Risk Factors**
+	- Diabetes mellitus
+	- Peripheral vascular disease
+	- Trauma
+	- Open fractures
+	- Orthopaedic implants
+	- IV drug use
+	- Sickle cell disease
+	- Immunosuppression
+	- Recent surgery
+
+- **Routes of Infection**
+	- Haematogenous spread
+		- Common in children
+	- Contiguous spread
+		- Trauma
+		- Surgery
+		- Prosthetic joint
+	- Direct inoculation
+		- Penetrating injury
+	- Spread from diabetic foot ulcer
+
+- **Clinical Features**
+	- Fever
+	- Localised bone pain
+	- Swelling
+	- Warmth
+	- Erythema
+	- Reduced limb function
+	- Chronic disease
+		- Sinus tract
+		- Non-healing ulcer
+		- Chronic drainage
+
+- **Investigations**
+	- Blood tests
+		- ↑ CRP
+		- ↑ ESR
+		- WCC may be elevated
+	- Blood cultures
+		- Before antibiotics if possible
+	- Imaging
+		- X-ray
+			- Often normal initially
+			- Lytic lesions appear after 10–14 days
+		- **MRI = investigation of choice**
+			- Most sensitive early test
+		- CT
+			- Better for cortical destruction
+			- Surgical planning
+	- **Bone biopsy + culture = Gold standard**
+		- Identifies organism
+		- Guides antibiotic therapy
+
+- **Management**
+	- Obtain blood cultures
+	- Bone biopsy if feasible before prolonged antibiotics
+	- Surgical debridement if
+		- Abscess
+		- Necrotic bone (sequestrum)
+		- Prosthetic infection
+		- Failure of medical therapy
+	- Antibiotics
+		- Usually **4–6 weeks**
+		- Tailor to culture results
+
+- **Antibiotics (AMC High Yield)**
+	- **MSSA**
+		- **IV flucloxacillin** (first-line)
+		- Cefazolin (alternative)
+	- **MRSA**
+		- **IV vancomycin** (first-line)
+		- Linezolid (alternative)
+		- Daptomycin (selected cases)
+	- **Community-acquired MRSA (Australia)**
+		- Often susceptible to
+			- Cotrimoxazole
+			- Doxycycline
+			- Rifampicin
+			- Fusidic acid
+		- **Serious invasive infection**
+			- Start **IV vancomycin** while awaiting cultures
+		- Mild skin infection
+			- Incision & drainage ± oral cotrimoxazole
+		- **Never use rifampicin alone**
+			- Combine with another active antibiotic to prevent resistance
+	- **Pseudomonas**
+		- Piperacillin-tazobactam
+		- Cefepime
+		- Ceftazidime
+		- According to cultures
+	- **Salmonella**
+		- Ceftriaxone
+		- Ciprofloxacin (if susceptible)
+
+- **Complications**
+	- Chronic osteomyelitis
+	- Sequestrum (dead bone)
+	- Involucrum (new bone surrounding sequestrum)
+	- Pathological fracture
+	- Septicaemia
+	- Growth disturbance (children)
+	- Squamous cell carcinoma arising from chronic sinus tract (rare)
+
+- **AMC Pearls**
+	- **Most common organism = Staphylococcus aureus.**
+	- **MRI is the best imaging test for early osteomyelitis.**
+	- **Bone biopsy with culture is the diagnostic gold standard.**
+	- **IV flucloxacillin = first-line for MSSA osteomyelitis.**
+	- **IV vancomycin = first-line empirical treatment for serious MRSA osteomyelitis.**
+	- **Treat for at least 4–6 weeks.**
+	- **Diabetic foot osteomyelitis is often polymicrobial.**
+	- **Salmonella osteomyelitis → think sickle cell disease.**
+	- **Pseudomonas → puncture wound through trainer/rubber-soled shoe or IV drug use.**
+	- **Culture before antibiotics whenever possible.**

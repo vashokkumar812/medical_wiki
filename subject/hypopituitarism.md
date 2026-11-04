@@ -1,0 +1,43 @@
+- etiology
+	- pitutary causes
+		- primary
+			- adenoma
+		- infiltration
+			- hemochromatosis
+			- lymphocytic hypophysitis
+		- haemorrhage
+			- pitutary apoplexy
+		- infarction
+			- sheehan syndrome
+	- hypothalamic causes
+		- mass lesions
+		- radiotherapy
+		- infiltration
+			- sarcoidosis
+		- trauma to skull base
+		- infections
+			- TB meningitis
+- clinical features
+	- female
+		- amenorhoea
+		- loss of axillary and pubic hair
+		- breast atrophy
+	- male
+		- decreased libido
+		- impotence
+		- loss of body hair
+	- others
+		- hypothyroidism
+		- adrenal insufficiency
+		- thin, wrinkled skin
+			- monkey face pale
+			- alabaster
+			- skin/hairlessness
+- investigations
+	- serum pitutary horomones
+	- MRI
+	- triple stimulation test
+- treatment
+	- HRT
+	- surgery
+	- radiotherapy

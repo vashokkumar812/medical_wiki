@@ -1,0 +1,1 @@
+https://www.health.wa.gov.au/-/media/Files/Corporate/general-documents/Mental-health/PDF/Best-Practice-for-the-Care-of-People-Who-May-Be-Suicidal.pdf

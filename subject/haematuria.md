@@ -1,0 +1,257 @@
+
+![](Pasted%20image%2020260118131526.jpg)
+
+
+
+
+- Risk factors for urinary tract malignancy
+	- Increasing age
+	- gross haematuria
+	- Irritative lower urinary tract symptoms
+	- Smoking
+		- Current
+		- Past
+	- Occupational exposure
+		- Dyes
+		- Benzenes
+		- Aromatic amines
+	- Cyclophosphamide exposure
+	- Chronic urinary tract infection
+	- Prior pelvic irradiation
+
+- Diagnosis
+	- Examination points
+		- If BP is elevated
+			- Suspect glomerular cause
+		- If renal angle or flank tenderness present
+			- Suggest renal colic
+		- If external genital pathology suspected
+			- Inspect external genitalia
+		- If female patient
+			- Perform speculum examination
+			- Exclude vaginal, cervical, uterine bleeding
+		- If male >50 years
+			- Perform digital rectal examination
+			- Check PSA
+			- Evaluate for prostate cancer
+	- Initial work-up before urology referral
+		- Look for benign or transient causes first
+			- Especially in microscopic haematuria
+		- Suspected urine contamination
+			- Menstruation
+			- Trauma
+			- Urogenital atrophy
+			- Repeat urine microscopy after resolution
+		- Urine microscopy and culture
+			- Check squamous cells
+			- Check leukocytes
+			- Check organisms
+		- Urinary tract infection
+			- Treat infection
+			- Repeat urine microscopy after 6–12 weeks
+			- Refer if haematuria persists
+		- Haematuria with irritative symptoms and no infection
+			- Use caution
+			- Possible underlying malignancy
+			- Example
+				- Bladder carcinoma in situ (CIS)
+		- Blood tests
+			- Renal function
+			- Coagulation profile
+			- Haemoglobin
+	- Imaging before referral
+		- Upper tract imaging recommended where possible
+		- CT IVP
+			- Gold standard for malignancy
+		- Renal tract ultrasound
+			- Suitable for
+				- Age <50 years
+				- Renal impairment
+	- Urinary cytology
+		- not a standalone test
+	- Urology and nephrology referral
+		- Urology referral
+			- All patients with gross haematuria
+		- Microscopic haematuria
+			- Use risk-stratified approach
+		- Low-risk microscopic haematuria
+			- definition
+				-  Age <50 years
+				- Never smoker or <10 pack-years
+				- <10 RBCs per high-power field
+				- No other risk factors
+			- Repeat urinalysis within 6 monthste
+		- Nephrology referral
+			- Suspected glomerular cause
+			- Features include
+				- Proteinuria
+				- Dysmorphic RBCs
+				- Urinary casts
+				- Renal insufficiency
+				- Hypertension in patients <40 years
+		- Isolated haematuria in <40 years
+			- Often mild glomerulonephritis
+			- Low risk of progression
+		- Important note
+			- Glomerular features do not exclude urological causes
+			- Upper tract imaging and cystoscopy still required
+			- Initial urology referral remains appropriate
+			- Nephrology referral can be concurrent
+
+- New directions in haematuria assessment
+
+	- Direct access cystoscopy
+		- Developed to reduce delay in cancer diagnosis
+		- Direct referral to cystoscopy booking
+		- Similar to colonoscopy cancer pathways
+		- Used in several health systems
+		- Limitations
+			- Benign or transient haematuria may not need cystoscopy
+			- Repeat testing may be better first
+		- Cystoscopy
+			- Gold standard for bladder assessment
+			- Invasive procedure
+			- Use only with clear indication
+
+	- Genetic urinary biomarkers
+		- Emerging non-invasive tests
+		- Possible future roles
+			- Bladder cancer screening
+			- Surveillance
+			- Haematuria assessment
+		- Current status
+			- Cannot replace cystoscopy
+			- Useful as adjunct tests
+			- May help detect missed tumours
+			- Especially carcinoma in situ
+
+	- Follow-up after negative work-up
+		- Care usually returned to GP
+		- Many patients have no further haematuria
+		- Recurrent gross haematuria
+			- Re-refer to urology promptly
+		- Microscopic haematuria follow-up
+			- Repeat urine microscopy at 6–12 months
+			- If two negative results
+				- Stop evaluation
+		- Persistent microscopic haematuria at 12 months
+			- Use shared decision making
+			- Consider further investigation
+		- Consider nephrology referral
+			- Renal impairment
+			- Proteinuria
+			- No prior nephrology work-up
+		- Ongoing monitoring
+			- Annual urine microscopy
+			- Renal function tests
+			- Blood pressure
+		- Re-evaluate if new symptoms develop
+		- Malignancy risk after negative work-up
+			- <1%
+
+# haematuria  - rch
+- definition
+	- microscopic haematuria
+		- \>10 RBC/microlitre only by urinalysis
+		- urine colour
+			- normal
+	- persistent microscopic haematuria
+		- 3 positive separate samples
+		- occur ≥1 week apart
+		- not during exercise, menstruation
+	- isolated asymptomatic microscopic haematuria
+		- microscopic haematuria without
+			- clinical symptoms
+			- other urine abnormalities like proteinuria
+	- macroscopic haematuria
+		- visible blood in urine without microscopy
+		- more likely from
+			- bladder
+			- urethra
+		- less likely kidney source
+- red/brown urine dd
+	- haematuria
+	- haemoglobinuria
+	- myoglobinuria
+	- medications
+	- food
+		- beetroot
+		- berries
+	- requires microscopy for differentiation
+	- urate crystals
+		- common in newborn urine
+		- may cause red nappy discolouration
+		- appearance
+			- “brick dust” appearance
+		- may mimic blood
+- other sources
+	- blood may arise from non-urinary sources
+		- vaginal bleeding
+		- rectal fissure
+- etiology
+	- isolated asymptomatic microscopic haematuria
+	- viral infections
+	- UTI
+	- trauma
+	- Henoch-Schönlein purpura
+	- hypercalciuria
+	- inherited glomerular basement membrane abnormalities
+	- drug
+		- NSAIDs
+		- rifampicin
+		- metronidazole
+		- nitrofurantoin
+		- cyclophosphamide
+
+- Red flags
+	- haematuria +
+		- proteinuria
+		- hypertension
+		- fluid overload
+			- oedema
+			- ascites
+		- flank pain
+		- abdominal pain
+		- immunocompromised
+
+- Management
+	- isolated asymptomatic microscopic haematuria with no other abnormalities
+		- GP review
+		- repeat urinalysis on 2 further occasions
+			- at least 1 week apart
+		- avoid 
+			- urine collection during menstruation and after exercise
+		- no interim investigations needed
+		- commonly resolves spontaneously
+
+	- isolated persistent microscopic haematuria
+		- urine microscopy
+		- urine protein:creatinine ratio
+		- urine calcium:creatinine ratio
+		- urinalysis of immediate family
+
+	- macroscopic haematuria
+		- urine microscopy and culture
+		- urine protein:creatinine ratio
+		- urine calcium:creatinine ratio
+		- FBE
+		- UEC
+		- LFT
+		- coagulation profile
+		- CMP
+		- painless haematuria
+			- glomerulonephritis screen as per flowchart
+		- renal ultrasound
+
+- Consider consultation with paediatric team when
+	- child systemically unwell
+	- haematuria with any red flag
+	- microscopic haematuria persists after 3 consecutive tests
+	- nephritis features
+		- consider nephrology consultation
+	- haemolytic uraemic syndrome
+		- consider nephrology consultation
+	- abdominal mass
+		- consider surgical/urology consultation
+
+![[Pasted image 20260508095511.png]] 

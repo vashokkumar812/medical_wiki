@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "75eeacf645fc479f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1271af3bc1ab123e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e64bfb4fad818d80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adult medicine and surgery/breast/diseases/breast skin/Paget disease of the nipple.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Paget disease of the nipple"
+            }
+          },
+          {
+            "id": "643a073148ea41cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Q fever.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Q fever"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d72c494a70ffe1e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "09be2a26ee043085",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "f3761b5324a8b5e8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Q fever",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0fddfc70990900dc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1a32f0b7fe682e94",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "165d8053b2704d07",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Q fever.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e1da9e22fb83e157",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Q fever.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "61bafe0f46766096",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Q fever.md",
+            "followCursor": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "643a073148ea41cd",
+  "lastOpenFiles": [
+    "Adult medicine and surgery/breast/diseases/breast skin/Paget disease of the nipple.md",
+    "Q fever.md",
+    "women's health/fetal anomaly screening.md",
+    "women's health/fetal macrosomia.md",
+    "women's health/exercise in pregnancy.md",
+    "general/list of study materials.md",
+    "women's health/rch pregnancy.md",
+    "women's health/obesity in pregnancy.md",
+    "women's health/normal menstruation.md",
+    "women's health/Pre-eclampsia.md",
+    "women's health/pregnancy care in people with ID.md",
+    "women's health/progesterone in 2nd and 3rd trimester.md",
+    "Adult medicine and surgery/men's health/diseases/androigen evaluation.md",
+    "Adult medicine and surgery/Nephrology/AKI.md",
+    "child health/diseases/activated charcoal.md",
+    "women's health/diseases/obstetric emergencies/APH/APH.md",
+    "Adult medicine and surgery/endocrinology/hyperglycemic emergencies.md",
+    "Adult medicine and surgery/endocrinology/diabetes drug.md",
+    "Adult medicine and surgery/endocrinology/drugs/anti androgens/anti androgenes.md",
+    "Adult medicine and surgery/endocrinology/environment/neuroleptic malignant syndrome.md",
+    "Adult medicine and surgery/endocrinology/environment/malignant hyperthermia.md",
+    "Adult medicine and surgery/endocrinology/environment/environment.md",
+    "Adult medicine and surgery/endocrinology/environment/cramps.md",
+    "Adult medicine and surgery/endocrinology/environment/heat stroke.md",
+    "Adult medicine and surgery/endocrinology/drugs/SGLT2 inhibitors.md",
+    "Adult medicine and surgery/emergency/diseases/frostbite.md",
+    "rheumatology",
+    "population health",
+    "metabolic abnormalities",
+    "mental health/Substance disorders",
+    "mental health/Impulse control disorders",
+    "mental health",
+    "infections",
+    "images/Pasted image 20260124104312.png",
+    "images/Pasted image 20260123132546.jpg",
+    "images/Pasted image 20260124165149.png",
+    "haematology/diseases",
+    "haematology",
+    "GIT",
+    "Pasted image 20260123132546.jpg",
+    "images/Pasted image 20251027121704.png",
+    "images/Pasted image 20251027121200.png",
+    "images/Pasted image 20251027121921.jpg",
+    "images/Pasted image 20250921193443.png",
+    "images/Pasted image 20251120120709.png",
+    "images/Pasted image 20251120120214.jpg",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,105 @@
+![[Pasted image 20260304125825.png]]
+
+
+
+
+- Definition
+	- Renal tract pain
+		- Most commonly due to **ureteric obstruction by calculi (renal colic)**
+
+
+- Pain severity
+	- Depends on **speed (acuity) of obstruction**
+	- Not degree of obstruction
+
+- Clinical features
+	- Severe colicky pain
+	- **Migratory "loin → groin" pain**
+	- Pain location depends on stone site
+		- Upper ureter
+			- Flank pain
+			- Renal angle tenderness
+		- Mid ureter
+			- Loin pain
+		- Distal ureter
+			- Groin
+			- Scrotum/labia
+			- Perineum
+			- LUTS
+				- Frequency
+				- Urgency
+				- Nocturia
+				- Incontinence
+	- Associated symptoms
+		- Haematuria
+		- Nausea
+		- Vomiting
+		- LUTS
+	- **Red flag**
+		- Fever → **infected obstructed kidney (urological emergency)**
+
+
+- Risk factors
+	- Previous/family history of stones
+	- Structural abnormalities
+		- Horseshoe kidney
+		- Ectopic kidney
+		- Medullary sponge kidney
+		- ADPKD
+		- Duplex ureter
+		- PUJ obstruction
+	- Medical
+		- Gout
+		- Hyperparathyroidism
+		- Renal tubular acidosis
+		- Recurrent Urinary tract infection
+	- Drugs
+		- Ciprofloxacin
+		- acetazolamide
+		- Sulfonamides
+		- Indinavir
+		- Loop diuretics
+	- Lifestyle
+		- Dehydration
+		- High salt
+		- High protein diet
+- investigations
+	- **Gold standard: Non-contrast CT KUB**
+		- Stone size
+		- Location
+		- Density
+		- Alternative diagnoses
+	- Ultrasound
+		- Preferred
+			- Pregnancy
+			- <50 years
+			- Radiation avoidance
+		- Poor for mid-ureter stones
+		- CT if inconclusive
+- Management
+	- Analgesia
+		- First-line
+			- NSAIDs
+			- Paracetamol
+		- Second-line
+			- Opioids
+	- Medical expulsive therapy
+		- **Tamsulosin (α-blocker)**
+			- Best for
+				- Distal ureter stones
+				- Stones >5 mm
+			- AE
+				- Postural hypotension
+	- Surgical indications
+		- Failed conservative therapy
+		- Infection + obstruction
+		- Anuria
+		- Bilateral obstruction
+		- Solitary kidney obstruction
+		- AKI
+	- Procedures
+		- Ureteric stent
+		- Percutaneous nephrostomy
+		- Definitive stone removal
+			- Ureteroscopy + laser lithotripsy
+			- ESWL

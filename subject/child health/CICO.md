@@ -1,0 +1,365 @@
+- key points  
+  - can’t intubate can’t oxygenate (CICO)  
+    - life-threatening emergency  
+    - due to airway obstruction  
+    - requires immediate front of neck access (FONA)  
+  - true CICO in children  
+    - rare  
+  - ensure reversible causes corrected  
+    - laryngospasm  
+    - upper airway obstruction  
+  - confirm indications met  
+    - before performing FONA  
+  - continue oxygenation attempts  
+    - facemask  
+    - oropharyngeal airway  
+    - while preparing equipment  
+    - during FONA  
+  - equipment for FONA  
+    - must be pre-prepared  
+    - in all intubating locations  
+
+- background  
+  - difficult airway in children  
+    - rare  
+    - usually anticipated  
+      - congenital abnormalities  
+      - acute airway pathology  
+  - if anticipated  
+    - seek expert assistance  
+      - if time permits  
+  - difficult ventilation without abnormalities  
+    - usually due to  
+      - laryngospasm  
+      - upper airway obstruction  
+    - reversible  
+    - should not require FONA  
+  - emergency FONA  
+    - potentially life-saving  
+    - technically difficult  
+      - small children  
+      - infants  
+      - neonates  
+  - even with impaired ventilation  
+    - oxygenation may be adequate  
+    - time to mobilise ENT surgeon  
+      - formal tracheostomy  
+  - if unable to oxygenate  
+    - ENT not present  
+    - declare CICO  
+    - airway doctors perform FONA  
+
+- indications  
+
+  - criteria for CICO  
+    - child anaesthetised  
+      - cannot be woken rapidly  
+    - or unconscious  
+      - GCS <8  
+    - unable to intubate  
+    - unable to oxygenate/ventilate  
+      - oropharyngeal airway  
+      - laryngeal mask airway  
+      - two-person ventilation  
+    - oxygen saturation  
+      - <80%  
+      - <50% if cyanotic heart disease  
+      - with bradycardia  
+    - reversible causes excluded  
+    - cricoid pressure removed  
+
+- equipment  
+
+  - CICO pack  
+    - must be available  
+    - in all intubating locations  
+
+  - cannula cricothyroidotomy  
+    - 16G cannula  
+    - rapid O2 oxygen insufflator  
+    - 5 mL syringe  
+    - 10 mL saline ampoule  
+
+  - scalpel cricothyroidotomy  
+    - size 10 scalpel  
+    - bougies  
+      - 5 CH 50 cm Portex tracheal tube guide  
+      - 8 Fr 35 cm Cook Frova introducer  
+        - stiffening rod removed  
+        - 15 mm Rapi-Fit connector  
+      - 11 Fr 83 cm Cook airway exchange catheter  
+        - 15 mm Rapi-Fit connector  
+    - endotracheal tubes  
+      - sizes  
+        - 3.0  
+        - 4.0  
+        - 5.0  
+    - lubricant sachet  
+
+  - additional equipment  
+    - Cook Melker emergency cricothyrotomy sets  
+      - sizes  
+        - 3.5  
+        - 4.0 uncuffed  
+        - 5.0 cuffed  
+
+- analgesia, anaesthesia, sedation  
+  - prepare and label all drugs  
+    - analgesia  
+    - sedatives  
+    - hypnotics  
+    - muscle relaxants  
+  - unless cardiac arrest  
+    - give hypnotic first  
+      - e.g. ketamine  
+    - then muscle relaxant  
+      - e.g. rocuronium  
+  - consider delay  
+    - between drugs  
+    - team leader decision  
+  - avoid hypoxia  
+    - continue gentle ventilation  
+      - with PEEP  
+    - during laryngoscopy  
+      - flow 2 L/kg/min  
+      - max 15 L/min  
+
+- medication dosing  
+
+  - induction agent  
+    - risk  
+      - hypotension  
+    - ketamine  
+      - 0.5–2 mg/kg  
+
+  - muscle relaxant  
+    - may need higher dose  
+    - rocuronium  
+      - 1.2–1.6 mg/kg  
+
+- procedure  
+  - in CICO event  
+    - proceed to  
+      - surgical cricothyroidotomy  
+        - >12 years  
+      - needle cricothyroidotomy  
+        - any age  
+        - may temporise before surgical  
+- - procedure  
+  - technique choice  
+    - debated in literature  
+    - hospital should define standard approach  
+    - staff must be trained accordingly  
+
+- cannula cricothyroidotomy  
+  - one staff  
+    - continue oxygenation  
+      - facemask ventilation  
+      - oropharyngeal airway  
+  - other staff  
+    - check femoral pulse  
+    - start chest compressions if required  
+  - positioning  
+    - extend head and neck  
+    - consider shoulder roll  
+  - landmark identification  
+    - stand on child’s left  
+    - palpate thyroid and cricoid cartilage  
+    - locate cricothyroid membrane  
+  - stabilisation  
+    - immobilise trachea  
+      - left index finger and thumb  
+  - preparation  
+    - attach 5 mL syringe  
+      - with 2 mL saline  
+      - to trochar  
+  - insertion  
+    - insert cannula  
+      - 45° angle  
+      - midline  
+  - aspiration  
+    - continuous aspiration  
+    - advance posteriorly and inferiorly  
+  - confirmation  
+    - air aspirated  
+    - advance cannula off trochar  
+      - do not withdraw trochar first  
+    - hold cannula in trachea  
+  - removal  
+    - remove trochar  
+    - detach syringe  
+  - reconfirmation  
+    - reattach syringe  
+    - aspirate air  
+  - oxygen delivery  
+    - attach rapid O2 insufflator  
+    - assistant connects oxygen tubing  
+    - flow rate  
+      - 1 L/min/year of age  
+      - minimum 4 L/min  
+  - insufflation  
+    - occlude insufflator hole  
+    - deliver oxygen  
+    - assess thumb feedback  
+      - detects kinking  
+  - monitoring  
+    - inflate until chest expansion  
+    - release thumb  
+    - watch for  
+      - subcutaneous emphysema  
+    - delayed rise in saturations  
+  - repetition  
+    - wait for chest recoil  
+    - or falling saturations  
+    - avoid continuous ventilation  
+      - prevents hyperinflation  
+  - continuation  
+    - continue until ENT available  
+      - formal tracheostomy  
+  - escalation  
+    - consider Melker conversion if  
+      - prolonged delay  
+      - blockage  
+        - blood  
+        - secretions  
+        - kinking  
+    - not routine in children  
+      - increased risk  
+
+- scalpel-bougie cricothyroidotomy  
+  - indication  
+    - failed cannula technique  
+  - aim  
+    - place ETT via neck  
+  - equipment selection  
+    - neonates/infants  
+      - 3.0 ETT + 5 Fr bougie  
+    - children  
+      - 4.0 ETT + 8 Fr Frova introducer  
+    - teenagers  
+      - 5.0 ETT + 11 Fr airway exchange catheter  
+  - steps  
+    - repeat positioning and landmark steps  
+    - incision  
+      - horizontal  
+      - through skin + cricothyroid membrane  
+      - wide enough for ETT  
+    - blade rotation  
+      - 90° sagittal plane  
+      - pull blade toward operator  
+      - maintain vertical position  
+    - bougie insertion  
+      - into trachea  
+    - tube insertion  
+      - pass ETT over bougie  
+      - rotate if tight  
+    - depth  
+      - advance until cuff in trachea  
+      - avoid endobronchial intubation  
+    - ventilation  
+      - connect circuit  
+      - standard ventilation  
+
+- midline sagittal incision cricothyroidotomy  
+  - indication  
+    - failed cannula  
+      - impalpable anatomy  
+        - obesity  
+        - pathology  
+    - or institutional first-line technique  
+  - incision  
+    - sagittal  
+    - from sternal notch toward chin  
+    - expose thyroid cartilage region  
+  - dissection  
+    - blunt finger dissection  
+    - separate tissues and muscles  
+  - visualisation  
+    - identify trachea and membrane  
+  - completion  
+    - perform  
+      - cannula or scalpel-bougie technique  
+
+- post procedure care  
+  - FONA  
+    - temporary airway  
+  - airway security  
+    - hold manually at all times  
+  - definitive airway  
+    - tracheostomy  
+    - fibreoptic/video intubation  
+  - transfer  
+    - avoid until definitive airway established  
+  - consult  
+    - retrieval service  
+
+- consultation  
+  - paediatric team  
+    - unfamiliar airway management  
+    - need assistance  
+
+- transfer indications  
+  - no facility for surgical airway management  
+
+- appendix 1: management of laryngospasm  
+  - definition  
+    - vocal cord adduction  
+      - partial or complete  
+  - signs  
+    - paradoxical chest movement  
+    - rigid abdomen  
+    - high-pitched stridor  
+    - desaturation  
+    - partial  
+      - air movement present  
+      - loud stridor  
+    - complete  
+      - silent  
+  - context  
+    - rare in paralysed emergency intubation  
+    - more common  
+      - elective anaesthesia  
+      - procedural sedation  
+      - partial consciousness  
+  - management steps  
+    - stop stimulation  
+    - call for help  
+    - oxygen  
+      - 100%  
+      - facemask  
+      - chin lift  
+      - CPAP  
+    - medications  
+      - propofol  
+        - 0.5–1 mg/kg  
+      - suxamethonium  
+        - 1 mg/kg  
+    - intubation  
+      - if required  
+    - note  
+      - may not need intubation if resolves  
+
+  - adjuncts (use caution)  
+    - suction  
+      - if secretions  
+    - jaw thrust  
+    - oropharyngeal airway  
+    - risk  
+      - may worsen spasm  
+
+- appendix 2: complications  
+
+  - unsuccessful FONA  
+
+  - cannula complications  
+    - posterior wall perforation  
+    - barotrauma  
+    - volutrauma  
+    - subcutaneous emphysema  
+
+  - scalpel complications  
+    - damage to surrounding structures  
+    - bleeding  
+
+
+![[Pasted image 20260503185213.png]]

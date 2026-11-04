@@ -1,0 +1,1110 @@
+# examination
+- Neonatal physical examination — AMC Clinical
+  - Timing
+    - Immediate health check after birth.
+    - Detailed physical examination within the first 3 days of life.
+    - Repeat examination at 6–8 weeks.
+  - Aims
+    - Detect congenital anomalies, illnesses, inadequate adaptation to extrauterine life and birth-related adverse effects.
+    - Discuss findings and limitations with parents tactfully and sympathetically.
+    - Arrange appropriate follow-up and management.
+
+- Preparation for examination
+  - Infant preparation
+    - Avoid examination immediately after a large feed → Risk of vomiting.
+    - Avoid examining when hungry → Likely to cry.
+    - Avoid bright light and cold environments → May cause discomfort.
+  - Infection prevention
+    - Remove jewellery/watch and roll sleeves above elbows.
+    - Perform hand hygiene with soap and water or ethanol-based disinfectant:
+      - Before and after contact with the baby.
+      - Before and after procedures or exposure to bodily fluids.
+      - After touching the baby's surroundings.
+    - Wear gloves and other PPE when indicated.
+    - Clean examination equipment, e.g. stethoscope, before and after use.
+  - Safety
+    - Newborns may move sideways on the examination table and fall.
+    - Explain this risk to parents.
+    - Create barriers on both sides or gently secure the infant with a hand.
+    - Never leave the infant unattended; arrange supervision or carry the baby with you.
+
+- Measurements
+  - Weight
+    - Fully undress the neonate, including the nappy.
+    - Use an electronic baby scale.
+    - Never leave the baby unattended on the scales.
+    - If the room is cold, use a heating lamp or weigh the baby on a preweighed towel.
+  - Length
+    - Use a newborn stadiometer/headboard.
+    - A helper is required for accurate measurement.
+    - Hold both feet against the footpiece and gently extend the legs.
+    - Slide the headpiece horizontally until it rests gently on the head.
+  - Head circumference
+    - Use a non-stretching tape around the widest part of the head.
+    - Pass the tape:
+      - Across the middle of the forehead, just above the palpebral fissures.
+      - Around the temporal bones, beneath the auricular helices.
+      - Around the most posterior part of the occipital bone.
+    - Repeat measurements until the difference between two readings is <0.5 cm.
+  - Growth charts
+    - Suitable for term infants. - WHO Child Growth Standards (2006)
+    - premature neonates - Fenton growth charts
+    - Other charts may be used for premature infants or specific genetic conditions, e.g. trisomy 21.
+
+- Growth classification
+  - Small for gestational age (SGA)
+    - Birth weight <10th percentile for gestational age.
+    - May be constitutional, e.g. small parents, or pathological due to fetal, maternal or placental factors.
+  - Large for gestational age (LGA)
+    - Birth weight >90th percentile for gestational age.
+    - Gestational diabetes is a common cause.
+
+- Intrauterine growth restriction (IUGR)
+  - Symmetrical IUGR
+    - Weight, length and head circumference <10th percentile.
+    - Indicates impaired growth beginning early in pregnancy.
+    - Causes:
+      - Intrauterine infections.
+      - Maternal drug abuse.
+      - Anaemia.
+      - Fetal chromosomal abnormalities.
+    - Often associated with other clinical signs and serious long-term sequelae.
+  - Asymmetrical IUGR
+    - Disproportionate reduction in weight, with weight <10th percentile.
+    - Indicates impaired growth during the third trimester.
+    - Causes:
+      - Pre-eclampsia.
+      - Placental insufficiency.
+      - Multiple gestation.
+      - Maternal age >35 years.
+    - Reduced subcutaneous fat increases risk of:
+      - Hypoglycaemia.
+      - Hypocalcaemia.
+      - Polycythaemia.
+      - Fetal distress and hypoxia.
+
+# head to toe examination
+
+  - Posture and spontaneous movements
+    - Normal: Flexed upper and lower limbs; symmetrical, alternating movements of all extremities.
+    - Abnormal movement pattern → Consider birth injury, deformity, neurological or genetic abnormality.
+    - Spontaneous movements absent; movements occur only with stimulation → High risk of severe illness.
+
+  - Generalised paucity of movements (floppy infant)
+    - Frog-leg posture + reduced limb movements → Reduced muscle tone and power.
+    - History of polyhydramnios and reduced fetal movements → Consider congenital hypotonia.
+    - Possible lesion sites:
+      - Anterior horn cell/lower motor neuron → Spinal muscular atrophy.
+      - Motor end plate → Congenital myasthenia gravis, botulism.
+      - Muscle → Congenital myopathy, muscular dystrophy, infections.
+    - Look for tongue fasciculations → Suggest lower motor neuron lesion.
+    - Test tendon reflexes: Biceps, triceps, brachioradialis, knee and ankle.
+    - Absent tendon reflexes → Suspect lower motor neuron lesion.
+    - Upper motor neuron abnormalities during first 6 months → May present with reduced tone rather than spasticity.
+    - Increased tone/stiff limbs → Possible severe neonatal illness.
+    - Older infants: Scissoring of lower limbs + flexed thumbs → Suspect upper motor neuron lesion.
+
+  - Localised paucity of movements
+    - Asymmetry of power or tone → Focal upper or lower motor neuron lesion.
+    - Birth-related brachial plexus palsy → Commonly associated with shoulder dystocia.
+    - Assess affected arm:
+      - Hand and arm size.
+      - Muscle bulk.
+      - Joint contractures.
+    - Respiratory distress → Consider phrenic nerve palsy.
+    - Horner syndrome (miosis, ptosis, anhidrosis) → Suggests T1 spinal root injury.
+    - Look for associated birth injuries:
+      - Clavicular or humeral fractures.
+      - Torticollis.
+      - Cephalohaematoma.
+      - Facial nerve palsy.
+
+  - Spine and skull
+    - Inspect spine for soft-tissue masses and posterior midline defects of vertebral fusion (dysraphism).
+    - Spina bifida cystica:
+      - Meningocele.
+      - Myelocele.
+      - Myelocystocele.
+      - Meningomyelocele.
+    - Suspected open spinal dysraphism → Examine only with sterile gloves because of infection risk.
+    - Neurological deficits depend on the level of the lesion.
+    - Hydrocephalus → Increased CSF volume, usually due to obstruction of drainage pathways; common complication of meningomyelocele.
+    - Inspiratory stridor + abnormal cry + dysphagia → Suspect lower cranial nerve palsy (bulbar palsy).
+    - Apnoeic episodes → Impaired brainstem function; major cause of death in affected infants.
+    - Spina bifida may be associated with lower-limb deformities and joint contractures.
+    - Midline dermal dimple or sinus:
+      - Measure depth and distance from the anal verge.
+      - Consider occult spina bifida and spinal ultrasound/MRI if:
+        - Depth >0.5 cm.
+        - Location >2.5 cm from the anus.
+        - Associated naevus, haemangioma, lipoma or hairy patch.
+
+  - Abnormal limb movements
+    - Jerky movements (myoclonus)
+      - Benign neonatal sleep myoclonus:
+        - Occurs only during sleep (NREM).
+        - Sensitive to stimulation.
+        - Stops abruptly when the infant wakes.
+        - Resolves during the first months of life.
+        - No other disorder explains the movements.
+      - Features suggesting neonatal seizures:
+        - Horizontal eye deviation or eyelid blinking.
+        - Jerks or abnormal limb tone.
+        - Orobuccal movements: Grimacing, tongue smacking, extranutritional sucking.
+        - Mnemonic: EEG — Eyes, Extremities, Grimacing.
+        - Autonomic features: Apnoea, increased heart rate, loss of muscle tone.
+    - Jittery movements
+      - Rhythmic tremors of equal amplitude; common during the first days of life.
+      - Triggered by stimulation and interrupted by gentle flexion or holding the affected limb.
+      - Persistent or exaggerated jitteriness → Consider:
+        - Hypoglycaemia.
+        - Hypocalcaemia.
+        - Abstinence syndrome.
+        - Sepsis.
+        - Birth asphyxia.
+
+  - Skin examination
+    - Inspect the skin from head to toe.
+    - Normal findings:
+      - Pink colour in fair-skinned newborns.
+      - Acrocyanosis (bluish hands and feet) during the first days of life.
+      - Erythema toxicum.
+      - Sebaceous hyperplasia.
+      - Milia.
+      - Salmon patches/angel's kiss (naevus simplex).
+      - Hyperpigmented Mongolian spots.
+    - Generalised rash or blisters → Consider potentially life-threatening neonatal disease.
+    - Staphylococcal scalded skin syndrome (Ritter disease)
+      - Generalised erythematous rash.
+      - Vesicles or bullae.
+      - Skin exfoliation with gentle rubbing (positive Nikolsky sign).
+      - Caused by Staphylococcus aureus.
+    - Impetigo
+      - Bullous impetigo → Localised blisters.
+      - Non-bullous impetigo → Erythematous papules.
+      - Common organisms: Staphylococcus and Streptococcus species.
+    - Neonatal herpes
+      - Vesicles with surrounding erythema on face or scalp.
+      - May progress to pustules containing purulent/cloudy material.
+      - Particularly suggestive following vaginal delivery.
+    - Pigmented naevi
+      - Large naevi require monitoring for changes in size or shape that may indicate malignancy.
+    - Port-wine stain (naevus flammeus)
+      - Dark-red/purple patch with well-defined borders.
+      - May be associated with Sturge–Weber syndrome.
+    - Infantile haemangiomas
+      - Early lesion: Small dilated capillaries with a pale halo, pale/erythematous macule or bruise-like appearance.
+      - Superficial proliferative lesion: Raised, bright-red, lobulated, strawberry-like lesion; may feel warm.
+      - Involution: Colour changes from bright red to grey, often beginning centrally.
+      - Deep haemangioma: Soft subcutaneous mass with dusky/bluish colour.
+      - Facial or neck haemangiomas → Risk of airway haemangiomas.
+      - More than five cutaneous haemangiomas → Risk of visceral haemangiomas.
+
+  - Jaundice
+    - Visible jaundice generally develops when total serum bilirubin exceeds approximately 6 mg/dL (102.6 µmol/L).
+    - Visual assessment cannot reliably determine the severity of hyperbilirubinaemia.
+    - Physiological jaundice:
+      - Usually absent during the first 24 hours.
+      - Peaks on days 3–5.
+      - Usually does not exceed 15 mg/dL.
+      - Resolves within 1 week in term newborns and within 2 weeks in premature babies.
+    - Significant jaundice → Assess for haemolysis:
+      - Bruising or cephalohaematoma → Birth trauma.
+      - Splenomegaly → Consider spherocytosis.
+      - Pallor, generalised oedema or heart failure → Severe anaemia, e.g. Rh/ABO incompatibility.
+      - Macrosomia and plethora → Polycythaemia.
+      - Asian or African-American ancestry → Consider G6PD deficiency.
+    - Assess for impaired bilirubin elimination:
+      - Functional or mechanical bowel obstruction → Increased enterohepatic bilirubin circulation.
+      - Hepatomegaly → Consider hepatitis or infection.
+
+	  - Pale, chalky stools + dark urine staining the nappy → Consider cholestasis or biliary atresia.
+  - Petechiae
+	- Do not blanch or disappear on pressure.
+	- Generalised petechiae → Consider neonatal thrombocytopenia.
+  - Mottling
+	- Uneven, discoloured skin patches.
+	- Suggests poor peripheral perfusion → Consider hypothermia, sepsis, heart failure or hypovolaemia.
+  - Café-au-lait spots
+	- More than 6 spots, each >5 mm → Diagnostic feature of neurofibromatosis type 1.
+
+- Temperature
+  - Baby cold to touch → May indicate severe illness.
+  - Measure axillary temperature.
+  - Abnormal temperature:
+    - <35.5°C → Hypothermia.
+    - >37.5°C → Hyperthermia.
+    - Remeasure rectally if axillary temperature is abnormal.
+  - Hypothermia or increased temperature → Strong predictors of severe neonatal illness.
+
+- Head examination
+  - Shape
+    - Breech presentation → Flatter vertex and elongated occipitofrontal diameter.
+    - Cephalic delivery → Shorter biparietal diameter and more prominent vertex.
+    - Prominent moulding and palpable bony ridges → Usually resolve within a few days.
+  - Inspection
+    - Swelling or bruising → Haematoma.
+    - Lacerations or abrasions → Birth injury.
+    - Asymmetry or protuberances → Consider craniosynostosis.
+    - Abnormal hair growth or pigmentation.
+    - Scalp defects → Aplasia cutis.
+  - Scalp swelling
+    - Caput succedaneum
+      - Subcutaneous serosanguineous fluid.
+      - Pitting swelling that crosses cranial sutures.
+      - Resolves within 2 weeks.
+    - Cephalohaematoma
+      - Haemorrhage between periosteum and skull.
+      - Non-pitting swelling confined by suture lines.
+      - May persist for months or longer if calcified.
+
+- Cranial sutures — Craniosynostosis
+  - Palpate all four suture lines for ridges suggesting premature fusion.
+  - Metopic suture
+    - Premature fusion → Triangular forehead (trigonocephaly).
+  - Coronal suture
+    - Bilateral fusion → Short anteroposterior diameter and increased transverse diameter (brachycephaly).
+    - Unilateral fusion → Anterior plagiocephaly.
+  - Sagittal suture
+    - Premature fusion → Long, narrow head (scaphocephaly).
+    - Most common craniosynostosis.
+  - Lambdoid suture
+    - Fusion → Trapezoid-shaped head with unilateral occipital flattening (posterior plagiocephaly).
+    - Positional moulding is a more common cause of posterior plagiocephaly and usually resolves spontaneously.
+  - All cranial sutures fused → Oxycephaly (turricephaly).
+  - Associated syndromes: Apert, Crouzon, Saethre–Chotzen, Pfeiffer and Carpenter syndromes.
+
+- Fontanels
+  - Anterior fontanel
+    - Diamond-shaped; junction of frontal and parietal bones.
+    - Expected to close by 18 months.
+  - Posterior fontanel
+    - Triangular-shaped; junction of sagittal and lambdoid sutures.
+    - Closes by 3 months.
+  - Large or bulging fontanel → Consider raised intracranial pressure.
+  - Increased fontanel size without fullness → Consider bony or endocrine abnormalities.
+  - Premature fontanel closure → Consider craniosynostosis.
+  - Auscultation
+    - Cranial bruit → Consider intracranial aneurysmal malformation, e.g. vein of Galen malformation.
+
+- Face — Neonatal examination (AMC Clinical)
+
+  - Eyes
+    - Examine towards the end if possible → Examination may disturb the infant; crying can make assessment difficult.
+    - Urgent intervention may be required for conditions threatening vision.
+    - Inspect upper face and orbits for dysmorphic features, e.g. short palpebral fissures.
+    - Sclera
+      - Blue → Prematurity or osteogenesis imperfecta.
+      - Yellow → Jaundice.
+    - Conjunctiva
+      - Injection → Consider glaucoma or subconjunctival haemorrhage.
+    - Iris
+      - Hypopigmentation → Oculocutaneous albinism.
+    - Cornea
+      - Cloudiness → Consider metabolic causes, ulcers, transient oedema, trauma, tears or dermoids.
+    - Pupils
+      - Asymmetry → Consider ocular motor nerve palsy.
+      - Irregular shape → Consider coloboma.
+      - White pupillary reflex (leucocoria) → Consider cataract or retinoblastoma.
+    - Watery eyes → Nasolacrimal duct stenosis; duct obstruction may cause dacryocystocele.
+    - Purulent discharge → Suspect bacterial infection, including Chlamydia trachomatis or Neisseria gonorrhoeae conjunctivitis.
+    - Eye movements
+      - Assess horizontal and vertical gaze by moving your face within the infant's visual field without talking or making noises.
+      - Intermittent loss of fixation may be normal in neonates.
+      - Dysconjugate eye movements (squint/strabismus) → Determine whether transient or fixed.
+      - Fixed squint → Consider cranial nerve damage due to birth trauma.
+      - Convergent squint → May indicate lateral rectus weakness due to CN VI palsy.
+    - Pupillary and red reflexes
+      - Darken the room and use an ophthalmoscope with the zero lens setting.
+      - Direct light towards each eye from approximately 15 cm.
+      - Pupils should be equal and reactive to light (PEARL).
+      - Absent red reflex → Consider cataract, retinal haemorrhage, retinal detachment or retinoblastoma.
+      - Retina may appear yellow-white, grey or red depending on pigmentation.
+
+  - Ears
+    - Inspect for periauricular pits and skin tags.
+      - Presence increases the risk of hearing impairment approximately five-fold.
+      - Assess hearing with screening tests:
+        - Transient-evoked otoacoustic emissions (TEOAE).
+        - Auditory brainstem response (ABR) audiometry.
+    - Assess ear position
+      - Approximately 30% of the pinna should lie above an imaginary line drawn from the inner and outer canthi to the occipital bone.
+      - Low-set ears → Upper margin of the helix lies below eye level; may indicate chromosomal anomalies.
+    - Tympanic membrane examination
+      - Otoscopy is not routinely performed because the ear canal may be obscured by vernix or blood.
+      - Pneumatic otoscopy may prevent collapse of the cartilaginous ear canal and improve visualisation.
+      - Newborn tympanic membranes are greyer, thicker and more vascular than in older children.
+      - Middle ear effusions are common and usually resolve within the first 3 days of life.
+
+- Nose
+  - Inspect external nose for deformity and asymmetry of nasal bridge or nares → May affect airway patency.
+  - Nasal flaring → Suggests respiratory distress.
+  - Neonates are preferential nose breathers → Verify bilateral nasal patency, especially with respiratory distress or apnoeic spells.
+  - Cyanosis worsened by feeding and relieved by crying → Suggests nasal obstruction.
+    - Choanal atresia → Posterior nasal obstruction.
+    - Piriform aperture stenosis → Anterior nasal obstruction.
+    - Dacryocystocele with intranasal extension.
+  - Examine nasal passages
+    - Insert otoscope tip a few millimetres into anterior nares.
+    - Look for septal deviation and masses: encephalocele, dermoid cysts, haemangiomas.
+  - Assess nasal airflow
+    - Observe movement of thin cotton fibres or condensation on a mirror beneath each nostril.
+    - Alternatively, close the mouth and one nostril; auscultate airflow from the other nostril, then repeat on the opposite side.
+    - If uncertain, gently attempt to pass a small nasogastric tube (e.g. 6 French) through each nostril into the hypopharynx.
+    - Successful passage does not exclude partial obstruction, e.g. piriform aperture stenosis.
+    - Mucosal oedema may also cause obstruction.
+  - Nasal discharge
+    - Clear discharge → Usually viral upper respiratory tract infection; rarely CSF leak.
+    - Purulent discharge → Consider bacterial infection.
+
+- Mouth
+  - Jaw and face
+    - Inspect mandible from the front and sides for asymmetry and abnormal size.
+    - Micrognathia + glossoptosis + airway obstruction → Pierre Robin sequence; may be associated with cleft palate.
+    - If the infant cries, assess symmetrical mouth opening and unrestricted forward and lateral jaw movement → Excludes temporomandibular joint ankylosis.
+    - Lip cyanosis → Note presence.
+    - Cleft lip or other dysmorphic features.
+    - Small upper lip + smooth philtrum → Suggests fetal alcohol spectrum disorder.
+  - Palate
+    - Inspect for cleft palate and bifid uvula; bifid uvula may indicate submucous cleft palate.
+    - Cleft lip/palate → May impair swallowing and feeding.
+    - Submucous cleft palate may present later with:
+      - Nasal regurgitation.
+      - Recurrent ear infections.
+      - Hypernasal speech due to velopharyngeal insufficiency.
+    - Exclude cleft palate by palpating the hard and soft palate with a gloved index finger.
+    - Prevent full mouth closure during examination → Strong sucking can prevent assessment of the soft palate.
+  - Oral cavity
+    - Epstein pearls → Small, white cysts at the hard–soft palate junction or gums; usually harmless unless feeding is affected.
+    - Natal teeth → Present at birth.
+    - Neonatal teeth → Erupt during the first month.
+      - Usually lower central incisors.
+      - Often loose with enamel hypoplasia.
+      - Extraction is the treatment of choice.
+  - Tongue
+    - Aglossia/microglossia → May be associated with micrognathia.
+    - Macroglossia → Consider Beckwith–Wiedemann syndrome, Down syndrome or hypothyroidism.
+    - Assess position → Glossoptosis.
+    - Assess mobility → Tongue tie (ankyloglossia/short lingual frenulum).
+    - Standardised scoring tools can assess the need for treatment of ankyloglossia.
+    - Inspect beneath the tongue for central (sublingual) cyanosis.
+
+- Neck
+  - Inspect symmetry and abnormal skinfolds.
+    - Loose nuchal skin → Consider intrauterine lymphoedema, Down syndrome, Noonan syndrome or Turner syndrome.
+  - Sternocleidomastoid muscles
+    - Unilateral shortening or swelling → Consider congenital torticollis.
+    - Torticollis:
+      - Head tilts towards the affected side.
+      - Chin points to the opposite side.
+      - Restricted neck rotation on gentle examination.
+  - Cervical masses
+    - Assess for painless, soft or semifirm swellings.
+    - Cystic hygroma:
+      - Usually unilateral in the posterior cervical space.
+      - Variable size.
+      - Large lesions → Risk of airway compromise; may extend into the mediastinum or face.
+    - Thyroglossal cyst:
+      - Usually midline, at or below the hyoid bone.
+      - Moves upwards with tongue protrusion.
+    - Epidermoid cyst:
+      - Located at the floor of the mouth, superior to the hyoid bone.
+  - Cervical lymph nodes
+    - Isolated palpable nodes up to 12 mm may be normal in healthy newborns.
+    - Document and arrange follow-up.
+  - Short, asymmetrical neck → Consider cervical vertebral maldevelopment (Klippel–Feil syndrome).
+
+
+- Chest and cardiovascular system
+  - Chest inspection
+    - Assess symmetrical expansion and chest wall deformities.
+    - Acquired deformities → Consider fracture or pneumothorax.
+    - Congenital deformities:
+      - Pectus excavatum → Depressed sternum (funnel chest); most common congenital chest deformity.
+      - Pectus carinatum → Protruding sternum (pigeon chest); may be symmetrical or unilateral.
+      - Narrow chest → Consider Jeune syndrome, Poland syndrome or Ellis–van Creveld syndrome.
+        - May be associated with bilateral lung hypoplasia.
+      - Left diaphragmatic hernia → Commonly associated with unilateral lung hypoplasia.
+
+  - Respiratory assessment
+    - Count respiratory rate for a full minute using chest movements and breath sounds.
+      - Normal: 40–60 breaths/min.
+      - Tachypnoea → Moderately predicts severe illness.
+    - Assess for upper airway obstruction:
+      - Pierre Robin sequence.
+      - Choanal atresia.
+      - Tracheomalacia or laryngomalacia.
+      - Respiratory effort may be normal or increased despite inadequate airflow.
+    - Asymmetrical chest movements → Consider unilateral diaphragmatic paralysis due to phrenic nerve palsy.
+    - Weak or hoarse cry → Abnormal finding; document.
+    - Paradoxical inward chest and outward abdominal movement during inspiration → Normal in newborns, especially during sleep.
+    - Periodic breathing:
+      - Normal breathing for up to 20 seconds followed by apnoea lasting less than 10 seconds.
+      - Three or more successive cycles may be normal.
+    - Apnoea:
+      - Airflow cessation for more than 20 seconds, or shorter cessation associated with desaturation or bradycardia → Urgent evaluation for serious illness.
+    - Respiratory distress signs:
+      - Nasal flaring.
+      - Intercostal or subcostal recessions.
+      - Tracheal tug.
+      - Grunting.
+
+  - Cyanosis
+    - Central cyanosis → Consider hypoxaemia and right-to-left shunting due to pulmonary or intracardiac disease.
+    - Visible cyanosis depends on deoxygenated haemoglobin concentration and total haemoglobin.
+      - Anaemia may mask cyanosis despite severe hypoxaemia.
+      - Polycythaemia may cause visible cyanosis at a higher oxygen saturation.
+    - Peripheral cyanosis (acrocyanosis) during the first days of life → Common and usually physiological.
+
+  - Peripheral perfusion
+    - Capillary refill time (CRT):
+      - Press the chest for 2 seconds.
+      - Normal: colour returns within 2 seconds.
+      - Prolonged CRT → Suggests poor peripheral perfusion.
+    - Causes of prolonged CRT:
+      - Low body temperature.
+      - Cardiac failure, including congenital heart disease.
+      - Infection: pneumonia, meningitis, UTI or omphalitis.
+      - Anaemia due to haemolysis or bleeding.
+      - Dehydration due to feeding difficulties or vomiting.
+    - Palpate brachial and femoral pulses in all four extremities.
+      - Diminished pulses → May occur in heart failure.
+      - Bounding pulses → Consider patent ductus arteriosus.
+      - Weak or absent femoral pulses with preserved cardiac function → Consider coarctation of the aorta.
+
+- Heart examination
+  - Apex beat
+    - Normal levocardia: fourth intercostal space, approximately at the left midclavicular line.
+    - Increased size → Consider ventricular dilatation.
+    - Forceful impulse → Consider ventricular hypertrophy.
+    - Left parasternal impulse or lift → Consider right ventricular hypertrophy, e.g. tetralogy of Fallot.
+
+  - Cardiac position and situs
+    - Levocardia + abdominal situs inversus → Commonly associated with congenital heart disease.
+    - Dextrocardia + situs inversus abdominalis (situs inversus totalis):
+      - Usually occurs without structural heart defects.
+      - May be associated with primary ciliary dyskinesia → Bronchiectasis and chronic sinusitis (Kartagener syndrome).
+    - Dextrocardia + normal abdominal situs (situs solitus) → Commonly associated with atrial or ventricular septal defects.
+    - Dextroposition (acquired displacement of the heart):
+      - Causes: left diaphragmatic hernia, pneumothorax, congenital lobar emphysema or congenital cystic adenomatoid malformation.
+      - Left-sided breath sounds may be reduced or absent.
+
+  - Murmurs and precordial palpation
+    - Approximately 1% of newborns have a murmur; about half of these have structural heart defects.
+    - A murmur may:
+      - Appear several days after birth.
+      - Disappear during the first hours or months despite persistent structural disease.
+    - Palpable thrill → Consistent with a grade 4 or louder murmur.
+      - Left upper sternal edge → Consider pulmonary stenosis.
+      - Left lower sternal border → Consider ventricular septal defect.
+    - Absence of a murmur does not exclude serious congenital heart disease.
+
+  - Heart rate and auscultation
+    - Assess whether rhythm is regular or irregular.
+    - Count heart rate over 15 seconds.
+      - Normal in an active neonate: 120–160 beats/min.
+    - Auscultate with diaphragm first, then bell.
+    - Examine at least four areas:
+      - Mitral/apical: fourth intercostal space, between midclavicular and anterior axillary lines.
+      - Tricuspid: left lower sternal border, fourth intercostal space.
+      - Pulmonary: left upper sternal border, second intercostal space.
+      - Aortic: right upper sternal border, second intercostal space.
+    - Describe murmurs using CARDIO:
+      - Character.
+      - Area where best heard.
+      - Radiation.
+      - Degree/intensity.
+      - Occurrence within the cardiac cycle.
+
+  - Pulse oximetry
+    - Combine cardiac examination with peripheral oxygen saturation (SpO₂) measurement to improve detection of congenital heart disease.
+    - If central cyanosis is present or suspected, measure:
+      - Preductal SpO₂: right hand/arm.
+      - Postductal SpO₂: either foot.
+    - Expected SpO₂: ≥95% at both sites.
+      - At altitudes above 2000 m, values of 91–96% may occur.
+    - Reduced postductal SpO₂ → Suggests right-to-left shunting through the ductus arteriosus.
+      - May indicate duct-dependent congenital heart disease.
+      - Examples: tricuspid atresia, transposition of the great arteries.
+      - Tetralogy of Fallot may also cause reduced oxygen saturation without ductal dependence.
+
+  - Hyperoxygenation test
+    - Consider when echocardiography is not immediately available and cardiac versus pulmonary disease must be distinguished.
+    - Administer 100% oxygen via facemask for 10 minutes.
+    - Compare preductal and postductal arterial PaO₂ before and after oxygen exposure.
+    - Failure of significant PaO₂ improvement → Suggests congenital heart disease.
+      - Pulmonary disease with a large right-to-left shunt may also fail to respond.
+
+  - Blood pressure
+    - Not routinely measured in healthy neonates.
+    - Perform non-invasive oscillometric measurement in ill infants.
+    - Oscillometric measurements may be inaccurate in very premature, hypotensive or critically ill neonates.
+    - Arterial catheter measurement may be required when accurate continuous monitoring is necessary.
+
+
+- Lung auscultation
+  - Normal neonatal breath sounds → Bronchovesicular:
+    - Medium pitch and volume.
+    - Inspiration and expiration equally prominent.
+  - Adult vesicular sounds → Low pitch, soft, predominantly inspiratory.
+
+  - Reduced breath sounds
+    - Consider:
+      - Atelectasis.
+      - Pleural effusion.
+      - Consolidation.
+      - Diaphragmatic hernia.
+      - Pneumothorax.
+      - Emphysema.
+      - Airway obstruction.
+
+  - Bronchial breath sounds
+    - High-pitched, loud and predominantly expiratory.
+    - Normally heard over the trachea.
+    - Heard elsewhere → Consider consolidation or interstitial lung disease.
+
+  - Prolonged breath sounds
+    - Suggest airway obstruction.
+
+  - Stridor
+    - Harsh, continuous sound; may be audible without a stethoscope.
+    - Inspiratory stridor → Suggests extrathoracic obstruction.
+      - Causes:
+        - Laryngomalacia.
+        - Infection.
+        - Gastro-oesophageal reflux.
+        - Subglottic stenosis due to web, cyst or haemangioma.
+        - Vocal cord paralysis.
+        - Enlarged thyroid.
+    - Expiratory stridor → Suggests intrathoracic obstruction.
+      - Causes:
+        - Tracheomalacia.
+        - Bronchomalacia.
+        - Vascular ring.
+    - Biphasic stridor → Severe obstruction or obstruction at multiple sites.
+
+  - Grunting
+    - Occurs at the beginning of expiration when air is forced against a closed glottis.
+    - Generates positive airway pressure to prevent small airway collapse.
+    - Indicates possible respiratory distress; not specific to one diagnosis.
+    - Assess alongside tachypnoea, apnoea and cyanosis.
+
+  - Wheeze
+    - High-pitched, musical sound.
+    - Usually expiratory.
+    - Biphasic wheeze → May indicate very severe airway obstruction.
+
+  - Crackles
+    - Brief, interrupted, non-musical sounds occurring during inspiration or expiration.
+    - Fine crackles → High-pitched.
+    - Coarse crackles → Variable pitch.
+    - Inspiratory crackles → Caused by abrupt opening of closed airways.
+      - Early inspiratory crackles → Larger airways.
+      - Late inspiratory crackles → Terminal bronchioles or alveoli.
+      - Causes include bronchiolitis and pneumonia.
+
+  - Percussion
+    - Not routinely required in neonatal examination.
+    - May help differentiate unilateral pneumothorax from pleural effusion.
+
+## Gastrointestinal and urogenital examination
+  - Inspection
+    - Nappy and meconium
+      - Remove nappy and inspect for meconium (first stool).
+      - Normal: passed within 48 hours in healthy term newborns.
+      - Delayed passage: consider Hirschsprung disease, intestinal obstruction or anorectal malformation.
+    - Abdominal contour
+      - Diastasis recti: vertical midline bulging.
+      - Generalised distension: suggests intestinal obstruction.
+      - Scaphoid (concave) abdomen: suggests congenital diaphragmatic hernia.
+    - Causes of intestinal obstruction
+      - Functional
+        - Hirschsprung disease.
+        - Hypoganglionosis.
+        - Neuronal intestinal dysplasia type B.
+        - Megacystis–microcolon–intestinal hypoperistalsis syndrome.
+      - Mechanical
+        - Duodenal atresia.
+        - Anal atresia (imperforate anus).
+        - Meconium plug syndrome.
+        - Meconium ileus: associated with cystic fibrosis.
+    - Vomiting
+      - Observe vomiting or inspect retained vomitus.
+      - Bilious vomiting
+        - Suggests gastrointestinal obstruction.
+        - Requires urgent surgical assessment.
+      - Non-bilious vomiting
+        - May occur with obstruction proximal to the ampulla of Vater.
+        - Examples: oesophageal atresia and proximal duodenal atresia.
+      - Early vomiting with respiratory distress
+        - Suggests oesophageal atresia, commonly associated with tracheo-oesophageal fistula (TOF).
+        - Risk of aspiration of gastric contents into the lungs.
+    - Umbilicus
+      - Normal anatomy: 1 umbilical vein and 2 umbilical arteries.
+      - Look for omphalitis (infection) and umbilical hernia.
+    - Inguinal regions
+      - Inspect for swellings suggesting:
+        - Inguinal hernia.
+        - Inguinal ovary.
+        - Inguinal or undescended testis.
+    - Anus
+      - Inspect for presence, position and patency.
+      - Passage of faeces does not exclude anal atresia, particularly if a fistula is present.
+    - Back
+      - Inspect for spinal dysraphism, including spina bifida.
+
+  - Palpation
+    - Abdomen
+      - Palpate gently for masses, organomegaly and tenderness.
+    - Liver
+      - Liver edge may normally be palpable up to 2 cm below the right costal margin.
+    - Spleen
+      - Splenic tip may be palpable below the left costal margin in some healthy newborns.
+    - Abdominal masses
+      - Consider organomegaly or tumours.
+    - Urinary bladder
+      - Palpate for bladder distension.
+      - Use percussion to identify the upper border if necessary.
+      - Upper border of a full bladder should generally remain below the umbilicus.
+      - Bladder extending above the umbilicus suggests significant distension and urinary retention.
+        - Causes:
+          - Posterior urethral valves or other urinary outflow obstruction.
+          - Drug-related urinary retention.
+          - Spinal dysraphism.
+        - Requires urgent assessment and appropriate intervention.
+
+  - Percussion
+    - Dullness: may indicate an abdominal mass or fluid.
+    - Resonance: commonly associated with gas-filled bowel.
+    - A distended, obstructed abdomen may be resonant.
+
+  - Auscultation
+    - Bowel sounds
+      - Normally audible.
+      - May be increased in mechanical intestinal obstruction.
+      - Bowel sounds heard in the chest suggest congenital diaphragmatic hernia.
+    - Renal bruits
+      - Auscultate over the renal arteries for bruits.
+
+
+  - Examination sequence
+    - Remove nappy and inspect meconium.
+    - Inspect abdominal contour and observe vomiting.
+    - Inspect umbilicus and inguinal regions.
+    - Inspect anus and back.
+    - Palpate abdomen, liver, spleen, masses and bladder.
+    - Percuss abdomen.
+    - Auscultate bowel sounds and renal bruits.
+
+##  Inguinal and genital examination
+  - Inguinal hernia
+    - If present, assess reducibility using gentle pressure in the direction of the inguinal canal.
+    - Non-reducible or painful hernia
+      - Suspect incarceration of bowel, ovary or testis.
+      - Surgical emergency.
+    - Parent advice
+      - Monitor for pain, swelling and loss of reducibility.
+      - Seek urgent medical attention if these occur.
+  - Testicular examination
+    - Empty scrotum with palpable inguinal or suprascrotal testis
+      - Typical testicular size: 1.0–1.5 cm.
+      - Gently attempt to manipulate the testis into the scrotum.
+    - Retractile testis
+      - Can be manipulated into the scrotum and remains there temporarily.
+      - Generally a normal finding.
+    - Undescended testis
+      - Immediately returns to its original position after manipulation.
+      - Requires follow-up and appropriate management to reduce risks of infertility and malignancy.
+    - Impalpable testis
+      - Possible causes:
+        - Intra-abdominal undescended testis.
+        - Atrophic testis.
+        - Absent testis.
+      - May occur with ambiguous genitalia.
+  - Scrotum
+    - Discoloration
+      - Consider testicular ischaemia due to torsion.
+      - Surgical emergency.
+    - Large, painless, fluctuant swelling
+      - Perform transillumination with a torch.
+      - Transillumination suggests hydrocele due to fluid accumulation.
+      - Occurs in approximately 2–5% of newborn boys.
+      - Often resolves spontaneously during the first year.
+      - Persistent hydrocele may require surgical correction.
+  - Penis
+    - Measure penile length.
+      - Length <2.5 cm is abnormal according to the source.
+    - Foreskin
+      - Do not forcibly retract the prepuce.
+      - Adherence of the foreskin to the glans is normal in infants.
+    - Hypospadias
+      - Urethral meatus opens on the ventral surface of the penis.
+      - May be associated with abnormal foreskin configuration.
+    - Chordee
+      - Abnormal bending or curvature of the penis.
+      - Inspect the urethral meatus if chordee is present.
+    - Dorsal urethral opening
+      - Consider epispadias.
+      - Marked chordee or associated abnormalities require specialist assessment.
+      - Assess associated renal tract abnormalities, including ultrasound when indicated.
+    - Failure to pass urine
+      - Inspect the urethral meatus and assess for urinary tract obstruction or genital abnormalities.
+
+- Female genitalia
+  - Labia
+    - In term newborns, labia majora normally cover the labia minora.
+    - Labia should not be fused.
+  - Clitoris and urethral opening
+    - Clitoris lies at the upper border of the labia minora.
+    - Urethral opening is below the clitoris.
+    - Hymen lies below the urethral opening.
+  - Additional findings
+    - Inspect for skin tags and mucous cysts.
+    - Mucoid vaginal discharge may occur due to maternal hormones.
+    - Small amounts of blood-stained discharge may occur during the first days of life.
+    - These discharges are generally physiological in an otherwise well newborn.
+
+- Ambiguous genitalia
+  - Significance
+    - Medical emergency requiring urgent specialist assessment.
+    - Requires sensitive communication and psychosocial support for the family.
+  - Congenital adrenal hyperplasia (CAH)
+    - Common cause: 21-hydroxylase deficiency.
+    - Less common causes:
+      - 11-hydroxylase deficiency.
+      - 3β-hydroxysteroid dehydrogenase deficiency.
+    - In 46,XX newborns, excess androgen exposure may cause:
+      - Clitoral enlargement.
+      - Labial fusion.
+      - Urogenital sinus (common channel for urethra and vagina).
+      - Masculinised external genitalia.
+    - 21-hydroxylase deficiency
+      - Risk of life-threatening salt-wasting crisis.
+      - Requires urgent assessment of electrolytes, glucose and adrenal function.
+  - Associated syndromes
+    - Smith–Lemli–Opitz syndrome
+      - Microcephaly.
+      - Syndactyly.
+      - Cleft palate.
+      - Hypospadias.
+      - Growth retardation.
+    - VACTERL association
+      - Vertebral abnormalities.
+      - Anal atresia.
+      - Cardiac abnormalities.
+      - Tracheo-oesophageal fistula.
+      - Oesophageal atresia.
+      - Renal abnormalities.
+      - Limb defects.
+    - Both syndromes may be associated with genital ambiguity.
+
+- High-yield AMC clinical emergencies
+  - Painful or irreducible inguinal hernia
+    - Suspect incarceration.
+    - Urgent surgical review.
+  - Discoloured scrotum
+    - Suspect testicular torsion.
+    - Immediate surgical assessment.
+  - Undescended testis
+    - Arrange appropriate follow-up and management.
+  - Ambiguous genitalia
+    - Urgent paediatric and endocrine assessment.
+    - Exclude CAH and impending salt-wasting crisis.
+  - Abnormal urethral opening or failure to pass urine
+    - Assess for genital malformation and urinary tract obstruction.
+
+
+## - Musculoskeletal system
+  - Limbs: general examination
+    - Inspect upper and lower limbs for:
+      - Symmetry, including leg creases.
+      - Muscle bulk and limb length.
+      - Range of motion and strength.
+      - Spontaneous, symmetrical movements.
+    - Asymmetrical leg creases
+      - May indicate developmental dysplasia of the hip (DDH).
+    - Reduced movement or asymmetry
+      - Consider birth-related nerve injury or long-bone fracture.
+      - Common birth fractures: clavicle and humerus.
+      - Premature infants have a higher risk of birth-associated fractures, particularly multiple fractures.
+
+  - Upper limbs
+    - Inspect hands and forearms for dysmorphic features.
+    - Possible causes of limb anomalies:
+      - Genetic: e.g. Diamond–Blackfan anaemia.
+      - Environmental: amniotic bands or congenital infection.
+      - Unknown aetiology.
+    - Multiple congenital anomalies
+      - Approximately half may be associated with a recognised syndrome.
+      - Use the term malformation when the cause is unknown.
+    - Examine each hand separately, then compare both hands.
+      - Look for size disparity, e.g. hemihyperplasia.
+      - Dorsal surface: inspect skin, joints and nails.
+      - Palmar surface: inspect palmar creases.
+      - Gently assess wrist and finger joints for:
+        - Range of motion and flexibility.
+        - Asymmetry.
+        - Abnormal positioning.
+
+  - Lower limbs and feet
+    - Examine each foot systematically.
+      - Inspect skin, joints and nails.
+      - Examine the plantar surface and soles.
+      - Compare symmetry, positioning and skinfolds.
+      - Gently assess joint range of motion.
+    - Common congenital foot abnormalities
+      - Metatarsus adductus.
+      - Clubfoot (talipes equinovarus).
+      - Calcaneovalgus.
+      - Congenital vertical talus (rocker-bottom foot).
+      - Polydactyly and syndactyly.
+      - Overlapping toes.
+      - Amniotic bands.
+    - Important association
+      - Congenital foot deformities are associated with increased risk of DDH.
+      - Perform careful, repeated hip examinations.
+
+  - Metatarsus adductus (MTA)
+    - Deformity
+      - Medial deviation of the metatarsals at the tarsometatarsal joints.
+    - Risk factors
+      - Breech presentation.
+      - Oligohydramnios.
+    - Examination
+      - Observe the lateral border of the foot from the plantar aspect.
+      - Place the heel between the index and middle fingers.
+      - Medial deviation of the forefoot indicates MTA.
+    - Management
+      - Mild, flexible deformity: forefoot can be passively abducted to the midline.
+      - Usually resolves spontaneously without treatment.
+      - Rigid or persistent deformity requires further assessment.
+
+  - Clubfoot (talipes equinovarus)
+    - Remember CAVE
+      - C: Cavus.
+      - A: Adduction of the forefoot.
+      - V: Varus of the hindfoot.
+      - E: Equinus of the ankle.
+    - Examination findings
+      - Foot appears small.
+      - Heel is soft and internally rotated.
+      - Soles face each other.
+      - Calf muscle atrophy.
+      - Possible internal tibial torsion and shortening of the affected limb.
+    - Severity
+      - Mild positional deformity: passively correctable.
+      - Severe deformity: rigid hindfoot equinus and fixed malposition.
+    - Management
+      - Requires early orthopaedic assessment.
+      - Standard treatment generally involves serial manipulation and casting (Ponseti method).
+
+  - Calcaneovalgus foot
+    - Cause
+      - Usually due to intrauterine positioning.
+      - Seen in approximately 30–50% of newborns in the source.
+    - Examination findings
+      - Foot is dorsiflexed and everted.
+      - Dorsum may contact the anterolateral lower leg.
+    - Management
+      - Full passive range of motion: usually no active treatment required.
+      - Restricted movement: gentle stretching may be needed.
+      - Severe cases: casting may be considered.
+
+  - Congenital vertical talus (rocker-bottom foot)
+    - Deformity
+      - Dorsal dislocation of the midfoot relative to the hindfoot.
+    - Associations
+      - Approximately 60% idiopathic.
+      - Up to 40% associated with neuromuscular conditions or syndromes.
+      - Examples: arthrogryposis and meningomyelocele.
+    - Examination findings
+      - Convex plantar surface (rocker-bottom appearance).
+      - Prominent talar head along the medial midfoot.
+      - Forefoot dorsiflexed and abducted.
+      - Hindfoot in equinus and valgus.
+    - Management
+      - Does not respond to stretching alone.
+      - Requires specialist orthopaedic assessment; usually surgical correction.
+
+  - Hip examination: developmental dysplasia of the hip (DDH)
+    - Importance
+      - DDH may be missed at birth, even by experienced examiners.
+      - Repeated examinations during infancy are important.
+    - Risk factors
+      - Breech presentation.
+      - Female sex.
+      - Positive family history of DDH.
+    - Preparation
+      - Explain the examination to the parents.
+      - Examine when the baby is relaxed, undressed and supine.
+      - Examine each hip individually.
+      - Stabilise the contralateral pelvis.
+      - Use gentle movements; avoid forceful or repeated manoeuvres.
+    - Ortolani test: detects reduction of a dislocated hip
+      - Flex the hip to 90°, with the knee resting in your palm.
+      - Place index and middle fingers over the greater trochanter.
+      - Place the thumb on the inner thigh.
+      - Gently abduct the hip while lifting the femur anteriorly.
+      - Positive test: palpable clunk as the femoral head reduces into the acetabulum.
+    - Barlow test: detects a dislocatable, unstable hip
+      - Position the hands as for the Ortolani test, with the hip flexed to 90°.
+      - Gently adduct the hip.
+      - Apply gentle posteriorly directed pressure through the knee.
+      - Positive test: palpable clunk as the femoral head exits the acetabulum posteriorly.
+    - Interpretation
+      - Ortolani positive: dislocated hip is reducible.
+      - Barlow positive: hip is unstable and can be dislocated.
+      - A high-pitched click alone is often ligamentous or musculoskeletal and usually has no clinical significance.
+    - Further assessment
+      - Equivocal examination or increased DDH risk: hip ultrasonography at approximately 6 weeks, according to the source.
+      - Arrange appropriate follow-up and referral when DDH is suspected.
+
+  - AMC clinical examination sequence
+    - Inspect upper and lower limb symmetry, muscle bulk and spontaneous movements.
+    - Examine hands, fingers, feet, skinfolds and joint range of motion.
+    - Identify congenital foot deformities and associated abnormalities.
+    - Examine both hips using Ortolani and Barlow manoeuvres.
+    - Explain abnormal findings, relevant DDH risk factors and the need for follow-up to parents.
+
+
+## - Central and peripheral nervous systems
+  - Tone and posture
+    - Assess tone and positioning according to gestational age.
+    - Normal term infant
+      - Hips: abducted and slightly flexed.
+      - Knees: flexed.
+      - Upper limbs: adducted, elbows flexed.
+      - Hands: softly clenched.
+      - Typical posture: fetal position.
+    - Hypotonic or preterm infant
+      - Frog-like posture: abducted hips and extended elbows.
+      - Very preterm infant (<30 weeks): minimal flexor tone.
+      - Flexor tone develops first in the lower limbs, then upper limbs.
+      - Upper-limb flexor tone develops by approximately 34–36 weeks' corrected age.
+    - Ventral suspension test
+      - Support the infant prone over your hand and forearm.
+      - Normal: some resistance to gravity.
+      - Hypotonia: infant flops like a rag doll.
+    - Important consideration
+      - A recently fed term infant may appear mildly hypotonic.
+      - Repeat examination if findings are uncertain.
+
+  - Developmental (primitive) reflexes
+    - General principles
+      - Examine towards the end of the neonatal examination.
+      - Explain manoeuvres to parents and involve them where possible.
+      - Assess reflex presence, symmetry and strength.
+      - Interpret findings according to gestational and postnatal age.
+
+    - Moro reflex
+      - Elicitation
+        - Support the head and allow a controlled, slight backward movement from a semi-upright position.
+        - Perform carefully over a safe surface.
+      - Normal response
+        - Initial abduction and extension of the arms with opening of the hands.
+        - Followed by flexion of the arms.
+      - Appears: approximately 32 weeks' gestation.
+      - Disappears: 3–6 months of age.
+      - Abnormal findings
+        - Bilateral absence: consider CNS dysfunction; investigate urgently.
+        - Unilateral absence or asymmetry: consider brachial plexus palsy or clavicular/humeral fracture.
+
+    - Stepping reflex
+      - Elicitation
+        - Hold infant upright with feet touching a flat surface.
+      - Normal response
+        - Alternating flexion and extension of the legs, resembling stepping.
+      - Appears: approximately 32 weeks' gestation.
+      - Disappears: 1–2 months of age.
+      - Clinical significance: limited.
+
+    - Galant reflex (truncal incurvation)
+      - Elicitation
+        - Hold infant in ventral suspension.
+        - Stroke gently down either side of the spine from thorax to sacrum.
+      - Normal response
+        - Trunk and hips curve towards the stimulated side.
+      - Assesses: segmental integrity from approximately T2 to S1.
+      - Appears: approximately 32 weeks' gestation.
+      - Disappears: 2–4 months of age.
+
+    - Sucking reflex
+      - Elicitation
+        - Place a gloved finger in the infant's mouth.
+      - Normal response
+        - Strong, coordinated sucking action.
+        - Firm grip around the finger and a good lip seal.
+      - Appears: approximately 28 weeks' gestation.
+      - Disappears: 3–4 months of age.
+
+    - Rooting reflex
+      - Elicitation
+        - Stroke the cheek towards the corner of the mouth.
+      - Normal response
+        - Head turns towards the stimulus.
+        - Mouth opens.
+      - Appears: approximately 34 weeks' gestation.
+      - Disappears: 3–4 months of age.
+
+    - Palmar grasp reflex
+      - Elicitation
+        - Place your index finger in the infant's palm.
+        - Attempt gentle withdrawal.
+      - Normal response
+        - Fingers flex and tighten around the finger.
+      - Appears: approximately 26 weeks' gestation.
+      - Disappears: approximately 3 months of age.
+      - Abnormal findings
+        - Absent or asymmetric grasp: consider peripheral nerve or spinal cord involvement.
+
+    - Plantar grasp reflex
+      - Elicitation
+        - Press your thumb against the sole just behind the toes.
+      - Normal response
+        - Toes flex and adduct.
+      - Appears: approximately 30 weeks' gestation.
+      - Disappears: 10–15 months of age.
+      - Clinical significance
+        - Reduced or absent response in early infancy may indicate increased risk of later spasticity.
+
+    - Asymmetric tonic neck reflex (ATNR)
+      - Elicitation
+        - Turn the infant's head gently to one side.
+      - Normal response
+        - Ipsilateral upper limb extends.
+        - Contralateral upper limb flexes.
+        - Produces the fencing posture.
+        - Lower limbs may show a similar but less prominent response.
+      - Appears: approximately 35 weeks' gestation.
+      - Disappears: approximately 6 months of age.
+      - Abnormal finding
+        - Persistent fencing posture when the infant is at rest is not normal.
+
+  - High-yield AMC clinical interpretation
+    - Frog-like posture with reduced resistance to gravity
+      - Suggests hypotonia; consider prematurity or neurological dysfunction.
+    - Absent Moro reflex bilaterally
+      - Consider CNS dysfunction.
+    - Unilateral absent Moro reflex
+      - Consider brachial plexus injury or birth-related fracture.
+    - Asymmetric palmar grasp
+      - Consider peripheral nerve or spinal cord pathology.
+    - Persistent ATNR at rest
+      - Abnormal; requires further assessment.
+    - Always interpret primitive reflexes according to gestational age and clinical context.
+
+## - Gestational age assessment
+  - Methods
+    - Antenatal fetal ultrasound.
+    - Maternal menstrual history (last menstrual period).
+    - Postnatal assessment of neuromuscular and physical maturity.
+  - New Ballard Score (NBS)
+    - Used when gestational age is uncertain, e.g. late recognition of pregnancy.
+    - Estimates gestational age using:
+      - Neuromuscular maturity.
+      - Physical maturity.
+    - Applicable to neonates up to 1 week after birth.
+    - Not routinely performed.
+  - AMC clinical point
+    - If antenatal dating is uncertain, consider the New Ballard Score to estimate postnatal gestational age.
+

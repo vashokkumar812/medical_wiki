@@ -1,0 +1,931 @@
+- Definition
+  - Most common acquired glomerulonephritis in children
+  - Immune-mediated nephritic syndrome following Group A Streptococcal (GAS) infection
+  - Usually follows:
+    - Pharyngitis
+    - Impetigo
+  - Onset:
+    - 2–4 weeks after streptococcal infection
+  - Generally self-limiting
+  - Increased risk of chronic kidney disease in Aboriginal and Torres Strait Islander populations
+
+- Pathophysiology
+  - Immune complex deposition in glomeruli
+  - Complement activation
+  - ↓ C3 (returns to normal within ~8 weeks)
+
+- Classic triad
+  - Hypertension
+  - Haematuria
+    - Macroscopic ("cola-colored")
+    - Microscopic
+  - Oedema
+
+- Clinical features
+  - Recent streptococcal infection
+  - Reduced urine output
+  - Dark urine
+  - Facial/periorbital oedema
+  - Peripheral oedema
+  - Weight gain
+  - Headache
+  - Vomiting
+  - Blurred vision
+  - Altered mental state
+  - Dyspnoea (pulmonary oedema)
+  - Chest pain
+  - Palpitations
+
+- History
+  - Recent sore throat or impetigo
+  - Urine colour and volume
+  - Swelling
+  - Neurological symptoms
+  - Cardiorespiratory symptoms
+  - Previous haematuria
+    - Consider IgA nephropathy
+    - Consider Alport syndrome
+  - Rash or arthritis
+    - Consider lupus nephritis
+    - Consider IgA vasculitis (Henoch-Schönlein purpura)
+
+- Examination
+  - ABC assessment
+  - Growth parameters
+  - Compare with baseline weight
+  - Blood pressure
+    - Confirm manually
+  - Fluid status
+  - Oedema assessment
+  - Pulmonary oedema
+  - Hypertensive end-organ damage
+    - Retinopathy
+    - Cardiac failure
+    - Facial nerve palsy
+    - Encephalopathy
+
+- Red flags
+  - Severe hypertension
+    - >95th percentile +30 mmHg
+  - Pulmonary oedema
+  - Hyperkalaemia
+  - Metabolic acidosis
+  - Oliguria
+    - <0.5 mL/kg/hr
+  - Anuria
+  - Rising creatinine
+  - Suspected rapidly progressive glomerulonephritis (RPGN)
+
+- Investigations
+  - Urine
+    - Dipstick
+    - Microscopy, culture & sensitivity
+    - Protein/creatinine ratio
+  - Blood
+    - FBC
+    - U&E
+    - LFT
+    - Albumin
+    - C3
+    - C4
+    - ASOT
+    - Anti-DNase B
+  - Consider
+    - Throat swab
+    - Skin swab
+    - Chest X-ray
+    - Renal ultrasound ± Doppler
+    - Blood cultures
+    - Autoimmune screen
+      - ANA
+      - ANCA
+      - Anti-dsDNA
+      - Others if atypical
+
+- Typical laboratory findings
+  - Haematuria
+  - Mild proteinuria
+  - ↓ C3
+  - Normal C4
+  - ↑ ASOT or anti-DNase B
+  - ↑ Creatinine (variable)
+
+- Management
+  - Supportive
+  - Strict fluid balance
+  - Daily weights
+  - Monitor urine output
+  - Low-salt diet
+  - Fluid restriction
+    - ~750 mL/m²/day (~½ maintenance)
+
+- Oedema / fluid overload
+  - Furosemide
+    - 0.5–1 mg/kg IV/PO every 12 hours
+    - Max 40 mg
+  - Prefer IV if significant gut oedema
+  - Stop once euvolaemic
+
+- Hypertension
+  - Usually secondary to fluid overload
+  - Target SBP
+    - <95th percentile
+  - PRN nifedipine
+    - 0.25 mg/kg PO
+    - Max 20 mg
+    - Every 6 hours
+  - Persistent hypertension (>2 PRN doses/day after Day 2)
+    - Start amlodipine
+      - 0.1 mg/kg/day
+      - Increase up to 0.6 mg/kg/day
+      - Max 10 mg/day
+
+- Streptococcal infection
+  - Treat active infection with antibiotics
+  - Consider contact tracing/public health notification where applicable
+
+- Acute kidney injury
+  - Calculate eGFR
+    - Schwartz formula
+  - Adjust medication doses
+  - Monitor for RPGN
+
+- Consultation
+  - Paediatric team
+    - All suspected PSGN
+  - Paediatric nephrology
+    - Red flags
+    - Multiple antihypertensives
+    - Atypical presentation
+  - ICU/retrieval
+    - Severe hypertension
+    - Pulmonary oedema
+    - Severe AKI
+    - RPGN
+    - Systemic illness
+
+- Discharge criteria
+  - Stable/improving BP
+  - Improving renal function
+  - Near baseline weight
+  - No ongoing need for furosemide
+  - Antihypertensives may still be required
+
+- Follow-up
+  - Weekly
+    - Blood pressure
+    - Urinalysis
+  - 8-week review
+    - Renal function
+    - C3/C4
+    - Paediatric review
+  - Aim to stop antihypertensives within ~6 weeks
+
+- Persistent findings
+  - Microscopic haematuria
+    - Up to 2 years
+  - Mild intermittent proteinuria
+    - May persist
+    - Usually benign
+
+- Refer for renal biopsy / nephrology if
+  - Macroscopic haematuria >5 days
+  - Recurrent gross haematuria
+  - Persistent nephritic syndrome
+  - Nephrotic syndrome develops
+  - Persistent hypertension >8 weeks
+  - Unable to discontinue antihypertensives
+  - Persistently low C3 at 8 weeks
+  - Persistent abnormal renal function
+  - Increasing proteinuria
+  - Persistent proteinuria
+    - PCR >200 mg/mmol for 4 weeks
+    - PCR >100 mg/mmol for 3 months
+    - PCR >50 mg/mmol for 6 months
+
+- Differential diagnosis
+  - IgA nephropathy
+    - Synpharyngitic haematuria (within 1–3 days)
+    - Normal C3
+    - Negative ASOT
+  - Lupus nephritis
+  - IgA vasculitis nephritis
+  - Alport syndrome
+  - RPGN
+
+- **Exam pearls**
+  - Occurs **2–4 weeks** after streptococcal pharyngitis or impetigo
+  - Classic triad:
+    - Hypertension
+    - Haematuria
+    - Oedema
+  - **↓ C3 + ↑ ASOT** strongly supports PSGN
+  - **Normal C4** is typical
+  - Main treatment is **supportive**, not immunosuppression
+  - Treat hypertension primarily with **diuresis**
+  - Gross haematuria usually resolves within days
+  - Microscopic haematuria may persist **up to 2 years**
+  - Persistently low C3 beyond **8 weeks** suggests an alternative diagnosis
+  - PSGN occurs **weeks after infection**
+  - IgA nephropathy occurs **during or within days of URTI**
+
+
+
+
+![[Pasted image 20260520182050.png]]
+![[Pasted image 20260520182102.png]]
+
+![[Pasted image 20260520182115.png]]
+
+![[Pasted image 20260520182134.png]]
+
+
+
+- definition
+	- inflammatory glomerular disease causing acute or chronic kidney injury
+- diagnosis
+	- requires systematic approach
+	- components
+		- clinical assessment
+		- urine analysis
+		- serological testing
+		- imaging
+		- kidney biopsy
+	- symptom/sign clusters useful
+- presentations
+	- asymptomatic microscopic haematuria
+	- proteinuria
+	- nephritic syndrome
+	- nephrotic syndrome
+	- rapidly progressive glomerulonephritis
+- microscopic haematuria
+	- often incidental finding
+		- insurance examination
+		- hypertension work-up
+	- common benign causes
+		- menstruation
+		- urinary tract infection
+	- features suggesting glomerular disease
+		- associated proteinuria
+		- hypertension
+		- reduced GFR
+		- dysmorphic RBCs
+	- RBC morphology
+		- assessed by phase contrast microscopy
+	- important differentials
+		- malignancy
+		- stones
+		- prostatic disease
+	- cancer risk factors
+		- age >50
+		- smoking
+		- compound analgesic exposure
+		- industrial toxin exposure
+	- investigations
+		- repeat urine testing
+		- blood pressure
+		- urine microscopy
+		- proteinuria assessment
+		- U&E
+		- GFR
+	- management pathway
+		- isolated haematuria
+			- no proteinuria
+			- normal GFR
+			- no cancer risk
+				- observe/review
+		- haematuria + proteinuria/reduced GFR
+			- renal ultrasound
+			- nephrology review
+		- haematuria + cancer risk factors
+			- renal ultrasound/IVP
+			- urology review
+- proteinuria
+	- powerful predictor of progressive renal disease
+	- low-grade proteinuria important
+		- 1+ dipstick doubles ESKD risk
+	- severity correlates with progression risk
+	- common causes
+		- diabetic nephropathy
+		- hypertensive nephropathy
+	- significant proteinuria
+		- >1 g/day
+		- requires investigation if unexplained
+	- confirmation
+		- UPCR
+		- 24-hour urine protein
+	- assessment
+		- blood pressure
+		- U&E
+		- GFR
+		- albumin
+		- glucose
+	- additional investigations
+		- ANA
+		- dsDNA
+		- C3
+		- C4
+		- ANCA
+		- hepatitis B serology
+		- hepatitis C serology
+		- ASOT
+		- serum protein electrophoresis
+		- urine Bence-Jones protein
+	- imaging
+		- renal ultrasound
+- nephritic syndrome
+	- medical emergency
+	- urgent diagnosis/treatment essential
+	- features
+		- macroscopic haematuria
+			- tea-coloured urine
+			- cola-coloured urine
+		- severe hypertension
+		- oliguria
+		- progressive renal impairment
+		- abrupt onset
+		- systemic illness
+	- pathophysiology
+		- active immune-mediated glomerular inflammation
+			- cellular immune injury
+			- antigen-antibody injury
+	- disease distribution
+		- isolated renal disease
+		- systemic illness
+	- investigations
+		- serological testing useful
+- rapidly progressive glomerulonephritis
+	- aggressive autoimmune GN
+	- rapidly declining renal function
+	- urgent nephrology referral required
+	- early treatment prevents irreversible kidney loss
+- nephrotic syndrome
+	- triad
+		- heavy proteinuria
+			- >3.5 g/day
+		- hypoalbuminaemia
+		- oedema
+	- pathophysiology
+		- disruption of glomerular filtration barrier
+	- filtration barrier components
+		- glomerular capillary wall
+		- glomerular basement membrane
+		- podocytes
+	- inflammation
+		- minimal
+		- haematuria absent/mild
+	- hypoalbuminaemia
+		- renal albumin loss
+		- impaired hepatic compensation
+		- not corrected by increased protein intake
+	- oedema mechanism
+		- low oncotic pressure
+		- sodium retention
+		- water retention
+		- distal nephron sodium handling defect
+	- complications
+		- hypercoagulability
+			- venous thromboembolism
+			- highest risk if albumin <20 g/L
+		- infection
+			- bacterial infection
+			- cellulitis common
+		- hyperlipidaemia
+			- cholesterol may exceed 10 mmol/L
+		- cardiovascular disease
+			- ~5-fold increased cardiovascular mortality
+- imaging
+	- renal ultrasound
+		- important investigation
+		- non-invasive
+		- avoids nephrotoxic contrast
+		- may detect
+			- renal cell carcinoma
+			- chronic kidney disease changes
+		- findings
+			- small kidneys
+				- longstanding irreversible disease
+			- echogenic cortex
+				- nonspecific
+				- suggests parenchymal disease
+		- cystoscopy may be required
+			- exclude bladder carcinoma
+- renal biopsy
+	- indications
+		- establish diagnosis
+		- guide treatment
+		- provide prognosis
+	- procedure
+		- ultrasound-guided
+		- local anaesthetic
+	- prognostic factor
+		- tubulointerstitial injury predicts prognosis best
+	- not always required
+		- diagnosis may occasionally be clinical
+- nephrology referral indications
+	- rapidly declining renal function
+		- >15% fall in GFR
+	- proteinuria >1 g/day
+	- glomerular haematuria + renal impairment
+	- glomerular haematuria + proteinuria
+	- macroscopic glomerular haematuria
+- common glomerulonephritides
+	- IgA nephropathy
+		- commonest primary GN
+		- adolescents/adults <50 years
+		- presentation
+			- macroscopic haematuria with URTI
+			- hypertension
+			- CKD
+			- indolent microscopic haematuria/proteinuria
+		- pathogenesis
+			- abnormal IgA glycosylation suspected
+		- poor prognostic factors
+			- proteinuria >1 g/day
+			- renal impairment
+			- hypertension
+			- interstitial scarring
+		- treatment
+			- ACE inhibitors
+			- ARBs
+			- BP target
+				- <125/75
+		- severe disease
+			- specialist care required
+		- additional therapies
+			- corticosteroids
+			- high-dose fish oil
+	- poststreptococcal GN
+		- commonest nephritic syndrome cause in children
+		- epidemiology
+			- more common in disadvantaged populations
+		- timing
+			- 10–21 days after streptococcal infection
+		- preceding infection
+			- pharyngitis
+			- skin infection
+		- features
+			- haematuria
+			- renal impairment
+		- investigations
+			- ASOT
+			- anti-DNase B
+			- low C3
+		- treatment
+			- supportive
+		- prognosis
+			- usually good
+	- systemic lupus erythematosus
+		- renal involvement
+			- ~1/3 patients
+		- usually associated with active systemic disease
+		- investigations
+			- ANA
+			- anti-dsDNA
+			- C3
+			- C4
+	- anti-GBM disease
+		- Goodpasture disease
+		- pathogenesis
+			- antibodies against type IV collagen
+		- organs involved
+			- kidney
+			- lung
+		- features
+			- macroscopic haematuria
+			- rapidly progressive oliguria
+			- renal failure
+			- haemoptysis
+				- especially smokers
+		- epidemiology
+			- commonest in young males
+		- investigations
+			- anti-GBM antibodies
+		- treatment
+			- plasma exchange
+			- corticosteroids
+			- cytotoxic therapy
+		- prognosis
+			- potentially curable if treated early
+			- relapses uncommon
+	- ANCA vasculitis
+		- small vessel vasculitis
+			- Wegener granulomatosis
+			- microscopic polyangiitis
+		- pathogenesis
+			- ANCA-mediated neutrophil injury
+		- epidemiology
+			- older patients commonly affected
+		- features
+			- fever
+			- malaise
+			- weight loss
+			- myalgia
+			- arthralgia
+			- purpuric/petechial rash
+				- lower limbs
+			- progressive renal impairment
+		- severe disease
+			- pulmonary haemorrhage
+			- acute renal failure
+		- investigations
+			- ANCA serology
+		- treatment
+			- immunosuppression
+	- membranous nephropathy
+		- commonest nephrotic syndrome cause in adults >60 years
+		- pathogenesis
+			- subepithelial immune complex deposition
+		- causes
+			- idiopathic
+			- malignancy
+			- hepatitis B
+			- autoimmune disease
+		- presentation
+			- gradual oedema
+		- course
+			- often indolent
+		- treatment
+			- corticosteroids
+			- cytotoxic therapy
+				- reserved for severe disease
+					- heavy proteinuria
+					- progressive renal decline
+	- focal segmental glomerulosclerosis
+		- common in children and young adults
+		- presentation
+			- abrupt nephrotic syndrome
+			- severe proteinuria
+		- treatment response
+			- 30–40% respond to high-dose immunosuppression
+		- prognosis
+			- nonresponders progress rapidly to ESKD
+- associations
+	- GN with infection
+		- URTI
+			- IgA nephropathy flare
+		- streptococcus
+			- poststreptococcal GN
+		- hepatitis B
+			- membranous nephropathy
+		- hepatitis C
+			- mesangiocapillary GN
+		- endocarditis
+			- mesangiocapillary GN
+	- GN with drugs
+		- NSAIDs
+			- minimal change disease
+		- gold
+			- membranous nephropathy
+		- penicillamine
+			- membranous nephropathy
+		- OCP/quinine
+			- HUS
+	- GN with purpuric rash
+		- IgA vasculitis/HSP
+		- SLE
+		- ANCA vasculitis
+	- GN with malignancy
+		- membranous nephropathy
+- management
+	- principles
+		- disease-specific immunosuppression
+		- supportive care
+		- slow CKD progression
+		- complication management
+	- GP role
+		- important in ongoing management
+		- coordinate supportive care
+		- responsibilities
+			- blood pressure control
+			- proteinuria reduction
+			- oedema management
+			- osteoporosis management
+			- cardiovascular risk reduction
+			- vaccination
+			- early infection recognition
+	- blood pressure/proteinuria management
+		- critical in slowing progression
+		- greatest benefit with severe proteinuria
+		- BP target
+			- proteinuria >1 g/day
+				- <125/75 mmHg
+		- antihypertensive requirements
+			- often 3–5 agents required
+		- ACE inhibitors/ARBs
+			- antiproteinuric effect
+			- useful even if normotensive
+			- titrate to maximum tolerated dose
+	- oedema management
+		- loop diuretics
+			- mainstay therapy
+		- fluid restriction
+		- sodium restriction
+			- 60–80 mmol/day
+		- home monitoring
+			- daily weights useful
+			- target weight loss
+				- ~0.5 kg/day
+	- vaccination
+		- recommended vaccines
+			- influenza vaccine
+			- Pneumovax 23
+		- indications
+			- nephrotic syndrome
+			- chronic kidney disease
+		- safe vaccines in immunosuppressed patients
+			- hepatitis B
+			- IPV
+			- DTP
+		- contraindicated live vaccines in heavy immunosuppression
+			- MMR
+			- OPV
+			- varicella-zoster
+			- BCg
+		- heavily immunosuppressed
+			- >60 mg prednisolone/day
+			- steroids + other immunosuppressants
+		- important note
+			- vaccine response may be reduced
+
+
+
+# nephrotic syndrome rch
+
+![[Pasted image 20260615135124.png]]
+- **Nephrotic syndrome (NS)**
+	- Clinical disorder characterised by the triad of:
+		- Heavy proteinuria
+		- Hypoalbuminaemia
+		- Oedema
+	- Background
+		- 90% of childhood NS is idiopathic
+		- Most common histological diagnosis
+			- Minimal change disease
+		- Most children
+			- Respond to prednisolone
+			- Have a good prognosis
+			- Do not require renal biopsy
+		- Children with atypical features
+			- Discuss with paediatric nephrology at presentation or early during disease course
+		- Relapse
+			- ≈85% have at least one relapse
+			- ≈50% develop frequent relapses
+	- Assessment
+		- Diagnosis requires
+			- Heavy proteinuria
+				- Dipstick >3+
+				- Spot urine protein/creatinine ratio >200 mg/mmol
+			- Hypoalbuminaemia
+				- Serum albumin <25 g/L
+			- Oedema
+		- Remission
+			- Resolution of proteinuria
+			- Defined by
+				- 3 consecutive days of negative or trace urine protein
+		- Relapse
+			- >3+ proteinuria
+			- Present for 3 consecutive days
+			- Often triggered by
+				- Mild illness
+				- May occur spontaneously
+		- Examination
+			- Growth parameters
+				- May be the only sign of fluid overload
+			- Extra-renal features
+				- Rash
+				- Joint involvement
+		- Significant complications
+			- Intravascular volume depletion
+				- Dizziness
+				- Abdominal cramps
+				- Poor perfusion
+				- Tachycardia
+				- Reduced urine output
+				- Transient hypertension
+				- Hypotension
+				- Shock
+			- Severe oedema
+				- General discomfort
+				- Pulmonary oedema
+				- Pleural effusion
+				- Pericardial effusion
+				- Ascites
+				- Scrotal oedema
+				- Labial oedema
+				- Skin breakdown
+			- Infection / sepsis
+				- Increased susceptibility to encapsulated organisms
+				- Due to complement loss
+			- Spontaneous bacterial peritonitis
+				- Abdominal pain
+				- Rebound tenderness
+				- Fever
+				- Nausea
+				- Vomiting
+				- Signs may be masked by corticosteroids
+			- Thrombosis
+				- Venous
+				- Arterial
+				- Examples
+					- Central venous thrombosis
+					- Renal vein thrombosis
+					- Pulmonary embolism
+			- Severe hypertension
+				- Headache
+				- Vomiting
+				- Blurred vision
+				- Altered mental state
+				- Seizures
+				- Chest pain
+				- Palpitations
+				- Dyspnoea
+				- Cardiac failure
+		- Atypical features
+			- Age
+				- <1 year
+				- >12 years
+			- Features of nephritic syndrome
+				- Renal impairment
+				- Macroscopic haematuria
+				- Hypertension
+			- Persistent hypertension
+			- Persistent renal impairment
+			- Significant complications at first presentation
+			- Features suggesting systemic disease
+				- Rash
+				- Arthritis
+				- Fever
+				- SLE
+				- HSP
+				- Sickle cell disease
+				- HIV
+				- Hepatitis
+			- Dysmorphic features suggesting syndromic disease
+	- Investigations
+
+		- If raised creatinine, atypical history or concern for systemic disease
+			- Discuss with paediatric nephrology
+		- Consider
+			- Chest X-ray
+				- Pleural effusion
+				- Pulmonary oedema
+			- Renal ultrasound ± Doppler
+				- Unclear diagnosis
+				- Significant flank pain
+				- Significant abdominal pain
+				- Poor response to diuretics
+				- Congenital abnormalities
+				- Renal vein thrombosis
+			- Blood cultures
+				- Febrile
+				- Systemically unwell
+	- Management
+		- Admit
+			- All first presentations
+		- Priorities
+			- Early identification of complications
+			- Early management of complications
+			- Fluid and oedema management
+			- Corticosteroid therapy
+			- Patient and family education
+		- General considerations
+			- Electrolyte abnormalities may require treatment
+			- Mild hyponatraemia often improves with fluid restriction
+			- Elevated creatinine usually improves over several days
+		- Fluid and oedema management
+			- Strict fluid balance
+				- Measure urine output
+				- Daily weight
+					- Same time
+					- Same scales
+			- Sodium restriction
+				- 2–3 mmol/kg/day
+				- Approximately
+					- 40 mg/kg/day
+					- 2 g/day
+				- Low/no-added salt diet usually sufficient
+			- Fluid restriction
+				- Especially if Na <130 mmol/L
+				- Restrict to 50–70% maintenance
+				- Albumin infusions not included
+			- Albumin infusion
+				- 20% albumin
+				- Dose
+					- 5 mL/kg
+					- Equivalent to 1 g/kg
+				- Infuse over 4 hours
+				- Indications
+					- Intravascular volume depletion
+					- Severe oedema
+					- Symptomatic oedema
+				- Monitor
+					- Hypertension
+					- Pulmonary oedema
+				- Consider IV furosemide
+					- 0.5–1 mg/kg
+					- Maximum 40 mg
+					- Mid-infusion and/or end of infusion
+				- Use diuretics cautiously
+					- May cause hypovolaemia
+					- Acute kidney injury
+					- Increased thrombosis risk
+		- Disease management
+			- Prednisolone
+				- Round to practical dose
+				- Tablets preferred
+				- If unable to tolerate oral medication
+					- IV methylprednisolone
+				- If relapse during taper
+					- Return to full daily dose
+					- Continue until remission
+					- Repeat taper
+			- Steroid-dependent NS
+				- Defined by
+					- Two consecutive relapses during taper
+					- Relapse within 15 days of stopping steroids
+		- Additional treatments
+			- Antibiotics
+				- Not routinely indicated
+				- Consider only if pneumococcal risk
+					- Gross oedema
+					- Unimmunised
+			- Proton pump inhibitor
+				- Only if upper gastrointestinal symptoms
+			- Immunisation
+				- Additional pneumococcal vaccine
+				- Additional meningococcal vaccine
+				- Annual influenza vaccine
+				- Delay live vaccines until 1 month after steroids
+				- Consider varicella immunoglobulin
+					- Unimmunised
+					- On steroids or relapse
+					- Chickenpox exposure
+			- VTE prophylaxis
+				- Usually mechanical only
+					- Above-knee TED stockings
+				- Children >12 years
+				- Mobile
+				- No additional VTE risk factors
+			- Stress-dose steroids
+				- Risk of adrenal suppression after steroids
+				- Consider adrenal stimulation testing
+					- Cushingoid appearance
+					- Frequent relapses
+				- Discuss with endocrinology if concerned
+			- Vitamin D
+			- Thyroid hormone
+			- Lipid-lowering therapy
+				- Usually unnecessary
+				- Abnormalities are transient
+				- Resolve with remission
+		- Consultation
+			- Local paediatric team
+				- All children with nephrotic syndrome
+			- Paediatric nephrology
+				- Atypical features
+				- Significant complications
+				- Persistent proteinuria after 4 weeks
+				- Refractory oedema
+				- Steroid toxicity
+				- Complex disease phenotype
+				- Some centres
+					- All first presentations
+		- Transfer
+			- If complications cannot be managed locally
+		- Discharge
+			- Oedema controlled without regular IV albumin
+			- Weight stable
+			- Steroid treatment commenced
+			- Education completed
+			- Follow-up arranged
+			- Prednisolone tablets preferred
+				- Liquid only available in 30 mL bottles
+				- Usually 25 mg and 5 mg tablets sufficient
+		- Discharge education
+			- Explain relapse risk
+				- ≈85% relapse at least once
+			- Teach
+				- What constitutes relapse
+				- Who to contact
+			- Home urine dipstick
+				- Daily until remission
+					- First morning urine preferred
+				- Remission
+					- 3 consecutive days negative or trace
+				- After remission
+					- At least twice weekly during first year
+				- Return to daily testing if
+					- ≥1+ protein
+					- Infection
+					- Oedema
+					- Suspected relapse
+			- Explain adrenal suppression risk after steroids
+				- Provide written sick-day advice
+				- Steroids may be needed during
+					- Acute illness
+					- Trauma
+			- Arrange immunisations
+				- Inpatient
+				- Immunisation clinic
+				- General practitioner

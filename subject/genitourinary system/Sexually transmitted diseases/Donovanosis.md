@@ -1,0 +1,140 @@
+
+* Cause
+  - Klebsiella granulomatis
+  - Also known as donovanosis
+* Epidemiology
+  - Rare cause of genital ulceration
+  - Consider in patients returning from endemic areas
+    - Papua New Guinea (PNG)
+    - Southern Africa
+    - India
+    - Parts of South America
+  - Primarily sexually transmissible
+  - May also be transmitted vertically and through casual contact
+  - Previously reported in northern and tropical Australia, particularly among Aboriginal and Torres Strait Islander people
+    - Cases reported as recently as the mid-2000s
+    - Now very rare in these areas
+  - Consider carcinoma in non-healing genital lesions
+* Clinical presentation
+  - Relatively painless anogenital ulceration
+  - Lesion morphology
+    - Ulcerative
+      - Shallow ulcers
+      - Bleed on contact
+    - Proliferative
+      - Raised, beefy-looking lesions
+    - Ulcero-proliferative
+      - Combination of ulcerative and proliferative features
+  - Sites
+    - Genitals
+    - Perineum
+    - Perianal area
+  - Secondary anaerobic bacterial infection
+    - May cause offensive odour
+* Complications
+  - Extra-genital disease
+    - Uncommon
+    - Auto-inoculation
+    - Contiguous spread
+      - Uterus
+      - Fallopian tubes
+    - Haematogenous spread
+      - Long bones
+      - Psoas muscle
+  - Chronic untreated ulcers
+    - Lymphatic destruction
+    - Pseudo-elephantiasis of genitalia
+  - Neoplastic transformation
+  - Increased risk of HIV transmission
+  - Vertical transmission to neonate during vaginal delivery
+* Diagnosis
+  - NAAT
+    - Specimen: dry swab or punch biopsy of lesion
+    - Highly sensitive and specific
+    - Limited availability
+      - PathWest laboratories, Western Australia
+      - Molecular Diagnostics Unit, Royal Brisbane and Women's Hospital
+    - Discuss with laboratory before sending specimen
+  - Histology
+    - Specimen: punch biopsy of lesion
+    - Low-to-moderate sensitivity
+    - Highly specific
+    - Requires experienced histopathologist
+    - Classic Donovan bodies may be sparse
+    - Biopsy if any concern about malignant change
+  - Extra-genital disease
+    - Consider in patients with current genital infection
+    - Consider in patients with previous donovanosis presenting with unusual symptoms
+  - See STI Atlas for clinical images
+* Management
+  - Principal treatment: azithromycin
+    - Option 1: 500 mg PO daily for 7 days
+    - OR
+    - Option 2: 1 g PO once weekly for at least 4 weeks, until complete resolution of lesions
+  - Alternative treatment: doxycycline
+    - 100 mg PO BD for a minimum of 4 weeks
+    - Continue until complete resolution of lesions
+  - Treatment principles
+    - Azithromycin is highly effective and well tolerated
+    - Seek specialist advice before treating this rare condition
+    - Adherence is essential to ensure cure
+    - Consider directly observed therapy
+  - Treatment advice
+    - Many guidelines recommend azithromycin until lesions completely heal
+    - No evidence that longer treatment is beneficial
+    - Non-azithromycin regimens should continue until complete resolution of lesions
+  - Immediate management
+    - No sexual contact
+      - For 7 days after treatment commences
+      - Or until treatment course is completed and symptoms resolve
+      - Whichever is later
+    - No sex with partners from the previous 6 months until they have been reviewed and treated if necessary
+    - Commence contact tracing
+    - Provide patient factsheet
+    - Notify state or territory health department
+* Special treatment situations
+  - Complicated or disseminated infection
+    - May require prolonged treatment
+  - Pregnancy
+    - Azithromycin is the recommended treatment
+  - Allergy to principal treatment
+    - Use alternative treatment option: doxycycline
+  - Neonates
+    - Neonates born to mothers with untreated donovanosis at delivery
+    - Follow closely for development of lesions
+  - Hospital admission
+    - Consider if adherence is poor
+    - Consider if disseminated disease is present
+* Contact tracing
+  - Trace sexual partners from the previous 6 months
+  - Recommended, although diagnostic yield is low
+  - Refer to Australasian Contact Tracing Manual
+* Follow-up
+  - Review after 1 week
+    - Confirm treatment adherence
+    - Assess symptom resolution
+    - Confirm contact tracing has been undertaken
+    - Offer additional contact tracing support if needed
+  - Sexual health education
+    - Condom use
+    - Contraception
+    - HIV PrEP/PEP
+    - Safe injecting practices
+    - Consent
+    - CST
+    - HAV vaccination
+    - HBV vaccination
+    - HPV vaccination
+* Test of cure
+  - Relapse and reinfection can occur
+  - Review
+    - At completion of treatment
+    - At 3 months
+  - Recurrence of lesions
+    - May represent skin cancer developing in previously affected lesions
+    - Requires biopsy
+* Retesting
+  - Routine retesting for donovanosis is not required
+  - Consider testing for other STIs after the relevant window period if not performed initially
+* Auditable outcomes
+  - 100% of diagnoses are notified to state or territory health departments

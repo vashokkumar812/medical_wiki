@@ -1,0 +1,467 @@
+![[Pasted image 20260530132740.png]]
+
+| Therapy Level | Diabetic Polyneuropathy (DPN) | Postherpetic Neuralgia (PHN) | Trigeminal Neuralgia (TGN) | Complex Regional Pain Syndrome (CRPS) |
+|---------------|-------------------------------|------------------------------|----------------------------|----------------------------------------|
+| **First-line** | Duloxetine<br>Gabapentin<br>Pregabalin<br>TCAs<br>Venlafaxine | TCAs<br>Gabapentin<br>Pregabalin<br>5% lignocaine patch | Carbamazepine<br>Oxycarbazepine | Oral prednisone<br>Bisphosphonates<br>Gabapentin<br>Opioids<br>NSAIDs<br>Topical capsaicin<br>IV lignocaine |
+| **Second-/Third-line** | Tramadol<br>Opioids* | Opioids<br>Tramadol | Baclofen<br>Lamotrigine | — |
+| **Other options** | — | — | — | Anti-TNF antibodies (Infliximab)<br>Calcitonin |
+
+\* Opioids are generally considered **third-line** therapy because of risks associated with long-term use:
+- Tolerance
+- Dependence/addiction
+- Misuse
+
+**AMC Pearls**
+- **DPN:** Duloxetine, pregabalin, gabapentin, and TCAs are key drugs to remember.
+- **PHN:** TCAs, gabapentinoids, and lignocaine patch are high-yield.
+- **TGN:** Carbamazepine = classic first-line answer.
+- **CRPS:** Diagnosis is more important than drug choice; think multidisciplinary management, early intervention, and functional restoration.
+- **CRPS is not strictly classified as neuropathic pain** under current IASP criteria because its pathophysiology is multifactorial (neurogenic inflammation + central/peripheral neuroplasticity).
+- 
+- Neuropathic Pain
+	- Definition
+		- Pain caused by lesion or disease of the somatosensory nervous system
+	- Typical descriptors
+		- Burning
+		- Painful cold sensation
+		- Electric shock-like pain
+		- Tingling
+		- Pins and needles
+		- Numbness
+		- Itching
+	- Often develops gradually
+	- High index of suspicion required
+
+- Neuropathic Pain Assessment
+	- Validated screening tools
+		- LANSS
+		- S-LANSS
+		- Neuropathic Pain Questionnaire (NPQ)
+		- DN4
+		- painDETECT
+		- ID-Pain
+	- Assess impact on
+		- Function
+		- Sleep
+		- Mood
+		- Work
+		- Family life
+		- Social life
+	- Assess
+		- Pain beliefs
+		- Self-management strategies
+		- Helpful behaviours
+		- Unhelpful behaviours
+
+- Diagnostic Algorithm for Neuropathic Pain
+	- Possible neuropathic pain
+		- History of lesion/disease affecting somatosensory system
+	- Probable neuropathic pain
+		- History + reproducible signs or investigations
+	- Definite neuropathic pain
+		- History + examination + investigations all supportive
+
+- Examination
+	- Sensory examination
+		- Light touch
+		- Temperature
+		- Painful stimuli
+		- Vibration
+		- Proprioception
+		- Compare both sides
+		- Grade as
+			- Normal
+			- Reduced
+			- Increased
+	- Motor examination
+		- Tone
+		- Power
+		- Reflexes
+		- Coordination
+	- Autonomic assessment
+		- Colour changes
+		- Temperature changes
+		- Sweating abnormalities
+		- Swelling
+
+- Investigations
+	- Imaging
+		- CT
+		- MRI
+	- Purpose
+		- Exclude nerve entrapment
+		- Exclude disc pathology
+	- Neurophysiology
+		- Nerve conduction studies
+		- Electromyography
+		- Useful for large myelinated fibre damage
+	- Blood tests
+		- FBC
+		- ESR
+		- Glucose
+		- Creatinine
+		- ALT
+		- Vitamin B12
+		- Serum protein electrophoresis
+		- Thyroid function tests
+		- HbA1c
+		- Glucose tolerance test
+
+- First-Line Drug Classes for Neuropathic Pain
+	- Tricyclic antidepressants (TCAs)
+	- SNRIs
+			- Duloxetine
+			- Venlafaxine
+	- Gabapentinoids
+			- Gabapentin
+			- Pregabalin
+	- Opioids
+	- Tramadol
+	- Topical therapies
+			- Capsaicin
+			- Lignocaine patches
+
+- Diabetic Polyneuropathy (DPN)
+	- Epidemiology
+		- Present in ~10% of newly diagnosed diabetes
+		- Other studies report 16–49%
+	- Affects
+		- Peripheral nervous system
+		- Autonomic nervous system
+
+- Clinical Features of DPN
+	- Typical symptoms
+		- Tingling
+		- Burning feet
+		- Burning hands
+		- Electric shocks
+		- Hyperalgesia
+		- Allodynia
+		- Sleep disturbance
+		- Functional impairment
+	- Sensory loss pattern
+		- Glove-and-stocking distribution
+		- Progresses proximally
+	- Examination findings
+		- Reduced light touch sensation
+		- Reduced vibration sense
+		- Reduced ankle jerks
+		- Mild weakness
+		- Trophic changes
+		- Ulcers
+		- Infection
+		- Unrecognised injury
+
+- Acute Painful Diabetic Neuropathy
+	- Rare
+	- May occur with
+		- Diabetic ketoacidosis
+		- Tight glycaemic control
+	- Features
+		- Nocturnal burning pain
+		- Pain worsened by bedding/clothing
+		- Hyperalgesia
+		- Minimal sensory loss
+		- Minimal motor loss
+
+- Differential Diagnosis of DPN
+	- Drug toxicity
+	- Heavy metal toxicity
+	- Nutritional deficiency
+	- Alcohol-related neuropathy
+	- Thyroid disease
+	- Electrolyte disorders
+	- Nerve entrapment
+	- Inflammatory neuropathy
+	- Congenital neuropathy
+
+- Management of DPN
+	- Good glycaemic control
+	- Early diagnosis
+	- Lifestyle modification
+	- Appropriate footwear
+	- Podiatry care
+	- Pharmacological options
+		- TCAs
+		- SNRIs
+		- Gabapentin
+		- Pregabalin
+		- Tramadol
+		- Morphine
+		- Oxycodone
+
+- Postherpetic Neuralgia (PHN)
+	- Definition
+		- Pain persisting >3 months after herpes zoster onset
+	- Epidemiology
+		- Uncommon <50 years
+		- Occurs in some but not all herpes zoster patients
+	- Duration
+		- May persist for years
+
+- Clinical Features of PHN
+	- Dermatomal distribution
+	- Burning pain
+	- Sharp pain
+	- Aching pain
+	- Allodynia
+		- Pain from clothing
+		- Pain from bedding
+	- Hyperalgesia
+	- Shooting paroxysmal pain
+	- Evidence of previous shingles rash
+
+- Differential Diagnosis of Facial PHN
+	- Cluster headache
+	- Peripheral nerve lesion
+	- Neurodermatitis
+	- Infection
+
+- Prevention of PHN
+	- Varicella vaccination in childhood
+	- Herpes zoster vaccination in adults
+	- Early antiviral therapy for shingles
+
+- Management of PHN
+	- Gabapentin
+	- Pregabalin
+	- TCAs
+			- Amitriptyline
+			- Nortriptyline
+	- Controlled-release opioids
+	- Capsaicin cream
+	- 5% lignocaine patch
+	- Acute zoster pain may improve with
+			- Corticosteroids
+			- Opioids
+
+- Trigeminal Neuralgia (TGN)
+	- Also called
+		- Tic douloureux
+	- Epidemiology
+		- Rare
+		- Women affected twice as often
+		- More common >50 years
+	- Usually unilateral
+	- Affects
+		- V1
+		- V2
+		- V3
+	- Most commonly
+		- Maxillary division (V2)
+		- Mandibular division (V3)
+	- Ophthalmic division involvement
+		- ~2%
+
+- Clinical Features of Trigeminal Neuralgia
+	- Sudden onset
+	- Severe stabbing pain
+	- Recurrent attacks
+	- Shooting pain
+	- Sharp pain
+	- Electric shock-like pain
+	- Trigger zones (pathognomonic)
+	- Triggered by
+		- Chewing
+		- Swallowing
+		- Talking
+		- Touch
+		- Shaving
+		- Wind
+		- Hot foods
+		- Cold foods
+		- Hot drinks
+		- Cold drinks
+	- Attack duration
+		- Seconds to minutes
+	- Refractory period follows attack
+	- Associated consequences
+		- Weight loss
+		- Insomnia
+		- Functional impairment
+	- Examination
+		- Hyperalgesia
+		- Allodynia
+
+- Causes of Trigeminal Neuralgia
+	- Compression of Gasserian ganglion
+	- Compression by blood vessel
+	- Compression of trigeminal branches
+
+- Differential Diagnosis of Trigeminal Neuralgia
+	- Multiple sclerosis
+	- Tumour
+	- Trauma
+	- Nerve injury
+	- Trigeminal autonomic cephalalgias
+	- Temporal arteritis
+	- Migraine
+	- Atypical facial pain
+
+- Investigation of Trigeminal Neuralgia
+	- Thin-cut MRI
+	- Used to
+		- Exclude structural causes
+		- Assess for surgical intervention
+
+- Management of Trigeminal Neuralgia
+	- First-line
+		- Carbamazepine
+	- Alternative medications
+		- Oxcarbazepine
+		- Gabapentin
+		- Pregabalin
+		- Topiramate
+		- Other anticonvulsants
+	- Baclofen
+		- Some evidence
+		- Insufficient evidence as sole therapy
+
+- Surgical Treatment of Trigeminal Neuralgia
+	- Microvascular decompression
+			- Highest success rate
+	- Radiofrequency rhizotomy
+	- Glycerol rhizotomy
+	- Balloon microcompression
+	- Gamma knife surgery
+
+- Complex Regional Pain Syndrome (CRPS)
+	- Rare in general practice
+	- Involves
+		- Somatosensory dysfunction
+		- Autonomic dysfunction
+	- Early diagnosis important
+		- Reduces disability
+		- Reduces chronicity
+		- Preserves function
+
+- Clinical Features of CRPS
+	- Severe pain on movement
+	- Skin colour changes
+	- Skin temperature changes
+	- Sweating abnormalities
+	- Swelling
+	- Weakness
+	- Tremor
+	- Reduced movement
+	- Allodynia
+	- Hyperalgesia
+	- Reduced ROM
+	- Reduced strength
+
+- Late Features of CRPS
+	- Nail changes
+	- Skin changes
+	- Hair changes
+	- Osteoporosis
+
+- Types of CRPS
+	- CRPS-I
+		- After fractures
+		- After sprains
+		- After surgery
+		- No major nerve injury
+	- CRPS-II
+		- After major peripheral nerve injury
+
+- Investigation of CRPS
+	- No definitive test
+	- Plain X-ray
+			- Cortical thinning
+			- Bone loss
+	- Bone scan
+			- Increased peri-articular uptake
+	- MRI
+	- Quantitative sensory testing
+	- Temperature measurement
+			- Highest sensitivity and specificity
+
+- Budapest Diagnostic Criteria (AMC Favourite)
+	- Essential criterion
+		- Continuing pain disproportionate to inciting event
+	- Symptoms
+		- ≥3 of 4 categories
+	- Signs
+		- ≥1 category on examination
+	- Categories
+		- Sensory
+			- Hyperalgesia
+			- Allodynia
+		- Vasomotor
+			- Temperature asymmetry
+			- Colour asymmetry
+		- Sudomotor
+			- Sweating changes
+			- Swelling
+		- Motor/Trophic
+			- Weakness
+			- Tremor
+			- Reduced ROM
+			- Nail changes
+			- Hair changes
+			- Skin changes
+	- No better alternative diagnosis
+
+- Differential Diagnosis of CRPS
+	- Vascular disease
+	- Post-traumatic neuralgia
+	- Metabolic disorders
+	- Autoimmune disease
+	- Neoplasm
+	- Neuropathy
+	- Somatoform disorder
+
+- Management of CRPS
+	- Multidisciplinary approach
+	- Restore function
+	- Physical therapy
+	- Psychological therapy
+	- Pharmacological therapy
+
+- Treatments With Some Evidence in CRPS
+	- Bisphosphonates
+	- Gabapentin
+	- Corticosteroids
+	- Topical dimethyl sulfoxide
+	- Anti-TNF therapy (infliximab)
+	- IV immunoglobulin
+
+- Treatments Worth Considering in CRPS
+	- NSAIDs
+	- Opioids
+	- TCAs
+	- SNRIs
+	- Sodium channel blockers
+	- Baclofen
+	- Calcitonin
+	- IV lignocaine
+
+- Interventional Treatment of CRPS
+	- Sympathectomy
+			- Not recommended
+			- May worsen pain
+			- No lasting analgesia
+	- Spinal cord stimulation
+			- Short-term benefit
+			- Consider refractory disease
+			- Use with behavioural and physical therapy
+
+- Prognosis of CRPS
+	- Better prognosis
+		- CRPS-I after fracture
+	- Poor prognosis
+		- CRPS-II
+	- ~60% of CRPS-II patients
+		- Prolonged disease course despite treatment
+
+- AMC High-Yield Neuropathic Pain Pearls
+	- Burning pain + tingling + electric shocks → neuropathic pain
+	- Glove-and-stocking sensory loss → diabetic polyneuropathy
+	- Pain >3 months after shingles → postherpetic neuralgia
+	- Trigger zones + electric facial pain → trigeminal neuralgia
+	- Carbamazepine = first-line for trigeminal neuralgia
+	- Pain disproportionate to injury + autonomic changes → CRPS
+	- Budapest criteria diagnose CRPS
+	- Good glycaemic control prevents progression of diabetic neuropathy
+	- Early antivirals reduce severity and duration of herpes zoster
+	- Early recognition of CRPS improves outcome

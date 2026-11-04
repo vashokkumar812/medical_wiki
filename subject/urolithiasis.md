@@ -1,0 +1,267 @@
+- Definition
+	- calculi (stones) within the urinary tract
+
+- Classification
+	- Stone composition
+		- Calcium oxalate
+		- Uric acid
+		- Struvite
+		- Cystine
+		- Calcium phosphate
+
+- Most Common
+	- Stone composition
+		- Calcium oxalate
+	- Symptomatic presentation
+		- Renal colic
+
+- Clinical Features
+	- Symptoms
+		- Classical renal colic
+			- Severe colicky unilateral pain
+			- "Loin-to-groin" radiation
+			- Nausea and vomiting
+			- Macroscopic haematuria
+		- Other presentations
+			- Pain worsened by micturition
+			- Stranguria (slow painful urination)
+		- Post-stent symptoms
+			- Haematuria
+			- Dysuria
+			- Frequency
+			- Urgency
+			- Flank pain during voiding
+	- Signs
+		- Flank tenderness
+		- Renal angle tenderness
+	- Examination
+
+- Investigations
+	- Initial investigations
+		- Urine dipstick
+			- Haematuria
+			- Nitrites may suggest UTI
+		- Urine microscopy and culture
+			- Important to exclude infection
+		- Renal function tests
+			- Assess renal impairment
+			- Guide management decisions
+	- Imaging
+		- First-line
+			- CT KUB + X-ray KUB on same day
+		- CT KUB
+			- Non-contrast CT
+			- Defines:
+				- Stone size
+				- Stone location
+				- Degree of obstruction
+		- X-ray KUB
+			- Useful for follow-up
+		- Ultrasound
+			- Useful when radiation should be avoided
+				- Pregnancy
+				- Young patients
+			- Less accurate for ureteric stones and stone sizing
+	- Imaging comparison
+		- CT KUB
+			- Non-contrast
+			- Investigation of choice for renal colic
+		- CT IVP / CT IVU
+			- Contrast study
+			- Used for:
+				- Haematuria workup
+				- Renal masses
+				- Causes of obstruction
+			- Not first-line for renal colic
+		- CT Abdomen
+			- Portal venous contrast study
+			- Not recommended for suspected renal colic
+			- Contrast may obscure stones
+	- Metabolic workup
+		- Consider in recurrent or high-risk stone formers
+		- Tests
+			- Serum calcium
+			- Uric acid
+			- Parathyroid hormone
+			- 24-hour urinary calcium
+			- 24-hour urinary oxalate
+			- 24-hour urinary citrate
+![[Pasted image 20260531114112.png]]
+- Complications
+	- Obstructed infected system
+		- UTI + obstruction
+		- Pyonephrosis
+		- Risk of gram-negative sepsis
+
+- Management
+	- Likelihood of spontaneous passage
+		- Most stones pass within 6 weeks
+		- 5–7 mm stones
+				- mostly pass
+		- >7 mm stones
+			- Minority pass spontaneously
+		- >10 mm stones
+			- Very low chance of spontaneous passage
+		- Passage less likely with
+			- Larger stones
+			- More proximal stones
+
+	- Conservative management
+		- Suitable for uncomplicated stones <7 mm
+		- Patient education
+			- Return immediately if:
+				- Fever develops
+				- UTI symptoms occur
+				- Pain becomes unbearable
+		- Adequate analgesia
+		- Medical expulsive therapy
+		- Follow-up imaging
+		- Clear escalation plan if passage fails
+
+	- Analgesia
+		- First-line
+			- NSAIDs
+		- if vomitting
+			- Rectal NSAIDs useful when nausea/vomiting present
+	- Medical expulsive therapy
+		- Tamsulosin
+			- Facilitates stone passage
+		- Contraindications
+			- End-stage renal failure
+			- End-stage hepatic failure
+			- Severe orthostatic hypotension
+	- Follow-up during conservative management
+		- Strain urine
+			- Attempt stone capture
+		- Send recovered stone for analysis
+		- Follow-up imaging at 4 weeks
+			- X-ray KUB if stone visible initially
+			- CT KUB if not visible on X-ray
+		- No imaging needed if stone recovered and confirmed
+	- Indications for urology referral
+		- Stone >7 mm
+		- Failed conservative management
+			- No passage after 3 weeks
+		- Persistent pain despite adequate analgesia
+		- Ongoing haematuria after stone passage
+		- Recurrent stone disease
+	- Surgical management
+		- Laser lithotripsy
+			- Endoscopic approach via urethra
+				- Suitable for most stones <20 mm
+				- Advantages
+					- Treats stones throughout urinary tract
+				- Risks
+					- Stent symptoms
+					- Rare ureteric injury
+				- Usually requires temporary ureteric stent
+
+		- ESWL
+			- Best for
+				- Renal pelvis stones
+				- Calyceal stones
+				- 5–10 mm stones
+			- Advantages
+				- Non-invasive
+				- Usually no stent required
+			- Limitations
+				- Less effective with obesity
+				- Poor for large stones
+				- Poor for lower pole stones
+				- Contraindicated in pregnancy
+	
+		- PCNL
+			- Preferred for large renal stones
+			- Direct access through kidney
+			- Advantages
+				- High stone clearance rate
+				- Excellent for large stone burden
+			- Risks
+				- Bleeding
+				- Renal injury
+				- Pneumothorax
+			- Usually requires hospital admission
+		- Laser lithotripsy
+			- Most common procedure
+
+
+
+	- Post-stent symptoms
+		- Common and expected
+		- Usually not due to UTI
+		- Management
+			- Reassurance
+			- Tamsulosin
+			- Anticholinergics
+
+	- Asymptomatic stones
+		- Often incidental findings
+		- Usually calyceal stones
+		- Stones >5 mm
+			- Recommend referral/treatment
+			- Higher future obstruction risk
+		- Stones <5 mm
+			- Imaging at 6 months
+			- Then annual surveillance
+
+	- Indications for referral of asymptomatic stones
+		- Stone >5 mm
+		- Single kidney
+		- Airline pilot
+		- Military personnel
+		- Chronic obstruction
+		- Recurrent UTIs
+
+	
+	- Emergency
+		- Red flags (Emergency referral)
+			- Obstructed infected system (urological emergency)
+				- UTI + obstruction
+				- Pyonephrosis
+				- Risk of gram-negative sepsis
+			- Fever
+			- Tachycardia
+			- Hypotension
+			- Single functioning kidney with obstruction
+			- Bilateral obstructing stones
+			- Anuria
+			- Severe pre-existing renal failure
+			- Minimal renal reserve
+		- Indications for immediate ED referral
+			- Urolithiasis with concurrent UTI
+			- Suspected pyonephrosis
+			- Sepsis
+			- Single kidney + obstruction
+			- Bilateral obstruction
+			- Anuria
+			- Severe renal impairment
+			- Unbearable pain despite oral analgesia
+		- Red flags after stent insertion
+			- Fever
+			- Persistent severe flank pain
+				- Consider UTI
+				- Consider stent migration/misplacement
+
+- Prevention
+	- Recurrence prevention
+		- High fluid intake
+			- Aim for clear urine
+		- Normal dietary calcium
+			- Do NOT restrict calcium unnecessarily
+		- Low sodium diet
+			- Reduces urinary calcium excretion
+		- Low oxalate diet
+		- Low protein diet
+			- Reduces acidic urine
+		- Encourage long-term hydration
+
+- Prognosis
+	- High risk of recurrence
+		- Age <20 years at first stone
+		- Positive family history
+		- Hyperparathyroidism
+		- Genetic disorders
+		- Anatomical abnormalities
+			- Single kidney
+			- PUJ obstruction
+		- Previous or concurrent renal calculi

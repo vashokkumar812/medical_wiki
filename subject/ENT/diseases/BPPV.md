@@ -1,0 +1,276 @@
+# BPPV
+- epidemiology
+	- Common cause of peripheral vertigo
+- etiology
+	- trigger
+		- change in head and neck posiition
+	- risk factors
+		- Prolonged bed rest
+		- Head trauma
+		- Middle ear surgery"
+		- Labyrinthitis
+		- Vestibular neuritis
+		- Vertebrobasilar ischaemia
+- most common
+	- Most commonly affected part
+		 - Posterior semicircular canal
+- clinical features
+	- vertigo
+		- 1-60 seconds
+		- repeitive
+	- nystagmus
+		- typical features
+			- Latency of few seconds before onset
+			- Fatigues after ~30–40 seconds
+			- Rotatory/torsional nystagmus
+			- Geotropic nystagmus
+				- Fast phase beats toward lower ear
+			- Adaptation with repeated testing
+			- Reduced by optic fixation
+	- association ( may be )
+		- may persist for hours after vertigo episode
+			- Nausea
+			- Vomiting
+- Diagnosis
+	- Posterior canal BPPV confirmed by
+		 - Positive Dix-Hallpike test
+- treatment 
+	- Epley manoeuvre
+		- Also called
+			 - Canalith repositioning manoeuvre
+		- Used to treat
+			 - Posterior canal BPPV
+		- Use caution in patients with
+			- Neck pain
+			- Neck stiffness
+			- Cervical spine injury
+			- Severe cervical spondylosis
+			- Severe positional vertigo
+			- Carotid stenosis
+			- Heart disease
+		- Adverse effects
+			- Usually mild
+			- Vertigo during manoeuvre
+			- Nausea
+			- Vomiting
+			- No serious adverse effects reported
+			- Some patients unable to tolerate manoeuvre due to neck discomfort
+	- Refractory cases
+		- Reconsider diagnosis if Epley ineffective
+		- Consider
+			- Central positional vertigo
+			- Horizontal canal BPPV
+			- Anterior canal BPPV
+	- Vestibular function testing may be required
+- prognosis
+	- Usually resolves spontaneously
+		 - Within 2 weeks
+	- May persist for months
+- Meniere's disease
+	- Definition
+		- Disorder of the inner ear characterized by episodic vertigo with fluctuating cochlear symptoms
+		- Associated with endolymphatic hydrops
+	- Clinical Features
+		- Classical Triad
+			- Episodic vertigo
+			- Fluctuating sensorineural hearing loss 
+				- later permanent
+			- Tinnitus
+		- duration
+			- \> 20 minutes
+			- sometimes hours
+		- Associated Symptoms
+			- Aural fullness
+			- Ear blockage sensation
+			- Nausea and vomiting during attacks
+			- Progressive hearing impairment over time
+	- Investigations
+		- Pure tone audiogram ( IOC )
+			- Fluctuating sensorineural hearing loss
+			- Typically low-frequency loss early
+		- Vestibular testing
+		- MRI if atypical features
+			- Exclude vestibular schwannoma
+	- Medical Management
+		- acute attack
+			- Bed rest
+			- Antiemetics
+			- Vestibular suppressants
+		- indication
+			- early disease
+		- Lifestyle Measures
+			- Strict low salt diet
+			- Avoid caffeine
+			- Avoid alcohol
+			- Stress reduction
+		- Medications
+			- Diuretics
+			- Betahistine hydrochloride
+	- Surgical Treatment
+		- indication
+			- medical therapy fails
+		- Procedures
+			- Labyrinthectomy
+			- Vestibular nerve section
+			- Endolymphatic sac surgery
+	
+	- Intratympanic Gentamicin Therapy
+		- Common Effect
+			- Transient ataxia
+		- Duration of Ataxia
+			- Usually 2 weeks
+			- Sometimes several weeks
+		- Management of Ataxia
+			- Cooksey–Cawthorne vestibular exercises
+	- Results of Intratympanic Gentamicin
+		- Hearing Outcomes
+			- 50% unchanged
+			- 25% improved
+			- 25% hearing loss
+			- 0% severe hearing loss
+		- Vertigo Outcomes
+			- 90% abolition or major reduction of attacks
+		- Tinnitus Outcomes
+			- 75% major reduction or disappearance
+- vestibular neuritis
+	- Definition
+		- Inflammation of the vestibular nerve	
+	- Etiology
+		- after a viral upper respiratory tract infection (URTI)
+		- by HSV-1
+	- Most Common
+		- affected nerve
+			- vestibular division of CN VIII
+	- Clinical Features
+		- Symptoms
+			- Acute severe vertigo
+				- Sudden onset
+				- Worsened by head movement
+			- Prominent imbalance
+			- Nausea and vomiting
+			- Difficulty walking
+		- Signs
+			- No hearing loss
+			- No focal neurological deficits
+		- Examination
+			- Horizontal unidirectional nystagmus
+			- Positive Head Impulse Test
+			- Gait instability
+			- Normal hearing examination
+	
+	- Differential Diagnoses
+		- Labyrinthitis
+			- Hearing loss present
+	
+	- Management
+		- Bed rest during acute phase
+		- Hydration
+		- Antiemetics
+			- Prochlorperazine
+			- Metoclopramide
+		- Vestibular suppressants
+			- Short-term use only
+		- Vestibular rehabilitation exercises during recovery
+	
+	- Prognosis
+		- Severe symptoms usually last 2–3 days
+		- Gradual recovery over 2–6 weeks
+
+
+
+- Labyrinthitis
+	- Definition
+		- Inflammation of inner ear labyrinth
+	- etiology
+		- after Viral infection
+		- after otits media
+	
+	- clincial features
+		- Vertigo
+		- Hearing loss
+		- tinitus
+	
+		- Duration
+			- Days to weeks
+	
+	- Management
+		- Usually supportive
+		- Severe cases
+			- ENT referral
+		- if suppurated 
+			- drainage of otitis media
+
+
+- Cervical Vertigo
+	- etiology
+		- Occurs after whiplash injury
+	- clinical Features
+		- Neck pain
+		- Dizziness
+	- Management
+		- Physiotherapy
+		- Neck immobilisation
+		- Specialist referral
+- Perilymphatic Fistula
+	- etiology
+		- Usually due to barotrauma
+		- High-Risk Occupations
+			- Pilots
+			- Divers
+	- Management
+		- Bed rest
+		- Avoid coughing
+		- Avoid straining
+
+	- prognosis
+		- Usually heals within 2 weeks
+
+	- Monitoring
+		- Baseline audiology
+		- Follow-up audiology
+
+	- treatment
+		- surgery required if progressive hearing loss
+
+- Medication-Induced Vertigo
+
+	- clinical Features
+		- Gradual onset
+		- Bilateral vestibular dysfunction
+		- Bilateral hearing impairment
+
+	- Management
+		- Stop offending medication
+
+	- Prognosis
+		- Damage may be irreversible
+
+- Driving and Vertigo
+
+	- General Rule
+		- Do not drive if:
+			- Persistent vertigo
+			- Sudden unheralded vertigo attacks
+
+	- Romberg Test
+		- Positive within 30 seconds
+		- Patient should not drive until specialist assessment
+
+- Private Licence Restrictions
+	- Recurrent Ménière disease
+	- Acute neurolabyrinthitis
+	- Acute labyrinthitis
+	- Unheralded acute vertigo
+	- BPPV with symptoms in upright position
+
+- Commercial Licence Restrictions
+	- Any recurrent vertigo within previous 12 months
+
+- Symptom-Free Periods Before Commercial Driving
+	- Ménière disease
+		- ≥12 months symptom free
+	- Acute neurolabyrinthitis
+		- ≥6 months symptom free
+	- BPPV
+		- ≥2 months symptom free
+

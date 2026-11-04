@@ -1,0 +1,209 @@
+
+- Definition
+	- GDM
+		- Diabetes first recognised during pregnancy
+	- Early GDM (eGDM)
+		- GDM diagnosed before 20 weeks gestation
+
+
+- Risk Factors
+	- Previous GDM,  hyperglycaemia in pregnancy
+	- Maternal age ≥40 years
+	- Ethnicity
+	- Family history
+		- First-degree relative with diabetes
+	- BMI >30 kg/m²
+	- Previous macrosomic infant
+		- Birth weight >4500 g
+		- \>90th centile
+	- PCOS
+	- Medications
+		- Corticosteroids
+		- Antipsychotics
+
+
+- complications
+	- Maternal Risks
+		- Pregnancy complications
+			- Pre-eclampsia
+			- Hypertension
+			- Early delivery
+		- Long-term complications
+			- T2DM
+	- Fetal and Neonatal Risks
+		- Macrosomia
+		- Fetal death
+		- Shoulder dystocia
+		- Neonatal hypoglycaemia
+		- Respiratory distress
+	- Long-Term Offspring Risks
+		- Metabolic syndrome
+
+- Diagnosis
+	- Early Pregnancy Testing
+		- HbA1c at first antenatal visit
+			- For women at risk of hyperglycaemia
+			- If not performed within previous 12 months
+			- Not recommended for sole diagnosis of GDM
+		- Previous GDM or HbA1c 6.0–6.4%
+			- Perform 75 g OGTT before 20 weeks
+			- Ideally 10–14 weeks
+		- Do not perform OGTT before 10 weeks
+		- FPG <5.3 mmol/L in first trimester
+			- Routine screening at 24–28 weeks
+	- Screening
+		- procedure
+			- 8–12 hour overnight fast
+			- Start before 9:30 am
+			- Consume glucose drink within 5 minutes
+			- Remain seated during test
+			- Preferably chilled glucose drink
+			- Postpone if acute illness present
+			- 75 g OGTT at 24–28 weeks gestation
+		- Prior to test
+			- 3 days unrestricted diet
+				- ≥150 g carbohydrate/day
+			- Normal activity
+			- Stop medications affecting glucose tolerance if possible
+		- Vomiting During OGTT
+			- Fasting glucose diagnostic for GDM
+				- Begin GDM management
+			- Normal fasting glucose
+				- Repeat OGTT
+				- Consider metoclopramide beforehand
+			- Ondansetron
+				- May falsely lower post-load glucose levels
+		- Diagnostic criteria
+			- Diagnosis if ≥1 value abnormal
+			- Fasting glucose
+				- ≥5.1 mmol/L
+			- 1-hour glucose
+				- ≥10.0 mmol/L
+			- 2-hour glucose
+				- ≥8.5 mmol/L
+		- Metabolic Surgery
+			- Do not perform OGTT
+			- Seek specialist advice
+			- Alternative options
+				- Continuous glucose monitoring (CGM)
+				- Capillary fasting/postprandial glucose monitoring
+				- HbA1c
+				- Alternative carbohydrate load
+
+- Diabetes in Pregnancy (Overt Diabetes)
+	- Suggests pre-existing diabetes
+	- Diagnostic criteria
+		- Fasting plasma glucose
+			- ≥7.0 mmol/L
+		- 2-hour OGTT glucose
+			- ≥11.1 mmol/L
+		- HbA1c
+			- ≥6.5%
+			- ≥48 mmol/mol
+	- Management
+		- Urgent treatment
+		- Manage as pre-existing diabetes during pregnancy
+
+- Early Pregnancy Dysglycaemia
+	- Fasting glucose 5.1–5.9 mmol/L
+		- Lifestyle advice
+		- OGTT at 16–18 weeks
+	- Fasting glucose 6.0–6.9 mmol/L
+		- Greater risk of subsequent GDM
+		- Lifestyle advice
+		- Consider SMBG
+		- OGTT at 16–18 weeks
+	- Random glucose 9–11 mmol/L
+		- Further testing required
+			- Fasting glucose
+			- HbA1c
+	- HbA1c 5.9–6.4%
+		- Increased risk of adverse pregnancy outcomes
+		- Lifestyle advice
+		- Consider SMBG
+
+- Management
+	- Lifestyle Management
+		- Diet
+		- Exercise
+	- Continuous Glucose Monitoring (CGM)
+		- Indications
+			- no T1DM + hypoglycaemia risk
+	- Self-Monitoring of Blood Glucose (SMBG)
+		- Initially test 4 times daily
+			- Before breakfast
+			- 2 hours after breakfast
+			- 2 hours after lunch
+			- 2 hours after dinner
+	- Glycaemic Targets
+		- Fasting glucose
+			- ≤5.0 mmol/L
+		- 1-hour postprandial glucose
+			- ≤7.4 mmol/L
+		- 2-hour postprandial glucose
+			- ≤6.7 mmol/L
+		- Escalate treatment if
+			- Target exceeded on ≥2 occasions within 1 week
+	- Pharmacological Management
+		- Insulin
+			- First-line pharmacotherapy
+			- Fasting hyperglycaemia
+				- Intermediate-acting insulin
+				- Long-acting insulin
+				- Administer at bedtime
+				- Starting dose
+					- 6 units
+			- Postprandial hyperglycaemia
+				- Short-acting insulin before affected meal
+				- Starting dose
+					- 6 units
+			- Dose adjustment
+				- Every 3 days
+		- Metformin
+			- complications
+				- Pre-eclampsia
+				- Fetal growth restriction
+
+		- Sulfonylureas
+			- Not recommended
+			- Associated with
+				- Higher birth weight
+				- Increased neonatal hypoglycaemia
+			- Cross placenta
+	- Fetal Monitoring
+		- Clinical assessment
+		- Ultrasound
+			- Growth scan
+				- 28–32 weeks
+			- Assess for
+				- Macrosomia
+				- Growth restriction
+	- Delivery
+		- Most women
+			- Vaginal delivery at term
+		- If antenatal corticosteroids required
+			- May require insulin initiation or  escalation
+		- Postpartum
+			- Stop pharmacotherapy
+	- Neonatal Care
+		- Increased risk
+			- Neonatal hypoglycaemia 
+				- Blood glucose measurement at 1–2 hours after birth using heel prick
+	- Breastfeeding
+		- Encourage breastfeeding
+		- Antenatal expressing
+			- Can commence from 36 weeks
+			- Allows storage of colostrum
+			- Useful if neonatal hypoglycaemia occurs
+- Postpartum Follow-Up
+	- OGTT
+		- 6 weeks to 3 months postpartum
+- Long-Term Follow-Up
+	- if Hba1c >= 6
+		- Preconception planning
+		- Early screening for hyperglycaemia
+	- Women planning another pregnancy
+		- Annual OGTT
+	- If postpartum OGTT normal
+		- Fasting glucose + HbA1c every 3 years
+		- else annual

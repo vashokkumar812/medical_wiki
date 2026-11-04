@@ -1,0 +1,59 @@
+- autoimmune destruction of lacrimal + salivary glands
+  - primary
+    - isolated disease
+  - secondary
+    - associated with
+      - rheumatoid arthritis (most common)
+      - SLE
+      - systemic sclerosis
+
+- features
+  - dry eyes
+    - gritty sensation
+    - burning
+    - photophobia
+  - dry mouth
+    - dysphagia (dry food)
+    - dental caries
+    - oral candidiasis
+  - bilateral painless parotid enlargement
+  - fatigue
+  - arthralgia
+  - Raynaud phenomenon
+  - dry skin/vagina
+  - chronic dry cough
+
+- investigations
+  - anti-SSA (Ro)
+    - most sensitive
+  - anti-SSB (La)
+    - more specific
+  - ANA+, RF+
+  - Schirmer test
+    - ↓ tear production
+  - labial salivary gland biopsy
+    - focal lymphocytic sialadenitis
+
+- management
+  - artificial tears
+  - lubricating eye ointment
+  - saliva substitutes
+  - sugar-free gum
+  - good dental care
+  - pilocarpine
+  - hydroxychloroquine
+    - systemic symptoms
+
+- complications
+  - corneal ulcer
+  - dental caries
+  - oral candidiasis
+  - distal RTA
+  - interstitial nephritis
+  - B-cell non-Hodgkin lymphoma
+
+- AMC pearls
+  - dry eyes + dry mouth → Sjögren syndrome
+  - anti-SSA = most sensitive
+  - Schirmer = confirms dry eyes
+  - persistent parotid enlargement → lymphoma until proven otherwise

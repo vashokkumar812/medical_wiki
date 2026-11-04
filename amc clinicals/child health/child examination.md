@@ -1,0 +1,379 @@
+- General physical examination
+  - Preparation
+    - Roll sleeves above the elbows.
+    - Perform hand hygiene
+      - Before and after patient contact.
+      - Before and after procedures or exposure to body fluids.
+      - After touching the child's surroundings.
+      - Use alcohol-based hand rub or soap and water.
+    - Infection prevention
+      - Wear gloves and other PPE when indicated.
+      - Clean examination equipment, e.g. stethoscope, before and after use.
+      - Avoid sitting on the patient's bed when examining an inpatient, where possible.
+    - Communication and comfort
+      - Introduce yourself and establish rapport.
+      - Engage the child through age-appropriate play.
+      - Examine the child in the parent's lap if this improves cooperation.
+      - Warm hands before touching the child.
+      - Use a calm, gentle and patient approach.
+    - Undressing and privacy
+      - Ideally, examine the child undressed to underwear when appropriate.
+      - Allow parents to undress young children when necessary.
+      - Adolescents may remain clothed unless undressing is required for a particular examination.
+      - Offer a private space and examination gown when appropriate.
+      - Ensure a parent is present during examination of a child.
+      - Offer an appropriate chaperone when examining an adolescent, particularly if parents are absent or the adolescent does not want them present.
+
+  - Observation
+    - General wellbeing
+      - Appears well or unwell.
+      - Undernourished or overnourished.
+      - Activity level and alertness.
+    - Movement and posture
+      - Asymmetry of movement.
+      - Abnormal posturing.
+    - Skin and breathing
+      - Skin colour.
+      - Respiratory pattern and effort.
+    - Behaviour and interaction
+      - Interaction with parents and other people.
+      - Response to the examiner and environment.
+    - Examination approach
+      - Allow time for the child to become comfortable.
+      - Begin with non-threatening observations and manoeuvres.
+      - Use praise, play and suitable toys to improve cooperation.
+      - In hospitalised children, observe the room and environment for relevant clinical or social information.
+
+  - Measurements and growth assessment
+    - Routine measurements
+      - Weight.
+      - Height or recumbent length.
+      - Head circumference.
+    - Growth charts
+      - Plot measurements on appropriate age- and sex-specific growth charts.
+      - Assess height-for-age, weight-for-age and head circumference.
+      - Use syndrome-specific growth charts when appropriate, e.g. Down syndrome.
+      - Review growth trends over time to assess growth and development.
+    - Weight measurement
+      - Remove shoes and socks.
+      - Infants: weigh without clothing, accounting for nappy weight if worn.
+      - Older children: weigh in underwear or minimal clothing.
+    - Height and length
+      - Non-ambulatory children: measure recumbent length.
+      - Standing height: measure when developmentally appropriate.
+      - Sitting height may be useful in selected situations.
+      - Use a stable, accurate measuring device.
+    - Head circumference
+      - Measure using the standard technique.
+      - If benign familial macrocephaly is suspected, consider measuring both parents' head circumferences.
+      - Assess head shape and consider craniosynostosis when indicated.
+    - BMI and waist circumference
+      - Used less routinely than in adults but may be useful, particularly in adolescents.
+      - Plot BMI and growth velocity on appropriate charts where available.
+      - Waist circumference may be useful for assessing adiposity, including in Indigenous children.
+    - Additional anthropometric measurements
+      - Consider in children at risk of growth failure, e.g. feeding difficulties, chronic illness or social difficulties.
+      - Mid-upper arm circumference (MUAC)
+        - Expose the upper arm.
+        - Identify the midpoint of the upper arm.
+        - Measure circumference with a tape held neither too tightly nor too loosely.
+        - Arm should rest alongside the body.
+        - MUAC <11 cm in a child older than 6 months usually indicates malnutrition, according to the source.
+      - Skinfold thickness
+        - Common sites: triceps and subscapular region.
+        - Use skinfold callipers.
+        - Measure skin and subcutaneous tissue, excluding muscle.
+        - Compare with appropriate population reference values.
+- Tall and short stature
+  - Initial assessment
+    - Accurately measure height or recumbent length and plot on an age- and sex-appropriate growth chart.
+    - Assess three factors:
+      - Current height centile: tall or short for age and sex.
+      - Growth trajectory: changes in height centiles over time.
+      - Biological parental heights: assess genetic growth potential.
+  - Mid-parental height
+    - Estimate expected adult height using parental heights.
+    - Expected adult height is approximately within ±2 standard deviations (about ±9 cm) of the calculated mid-parental height.
+  - Growth trajectory
+    - Downward crossing of height centiles after previously normal growth is more concerning than consistently tracking a lower centile.
+    - Consider familial short stature when parental heights are low.
+  - Disproportionate growth
+    - Assess body proportions if skeletal dysplasia or disproportionate short stature is suspected.
+    - Measure upper and lower body segments.
+      - Lower segment: symphysis pubis to floor in a standing child.
+      - Upper segment: total height − lower segment.
+    - Normal upper-to-lower segment ratio:
+      - At birth: approximately 1.7:1.
+      - By 10 years: approximately 1:1, remaining similar into adulthood.
+    - Achondroplasia
+      - Sitting height may be relatively preserved.
+      - Standing height is markedly reduced due to disproportionate limb shortening.
+  - Causes of short stature
+    - Hereditary
+      - Familial short stature.
+    - Nutritional
+      - Nutritional deficiencies.
+    - Chromosomal abnormalities
+      - Trisomy 21 (Down syndrome).
+      - Turner syndrome.
+    - Skeletal dysplasias
+      - Achondroplasia.
+    - Metabolic disorders
+      - Hunter syndrome.
+      - Hurler syndrome.
+    - Endocrine disorders
+      - Hypothyroidism.
+      - Cushing syndrome.
+      - Primary pituitary disease.
+    - Iatrogenic
+      - Childhood craniospinal irradiation for malignancy.
+  - Causes of pathological tall stature
+    - Klinefelter syndrome.
+    - Marfan syndrome.
+    - Gigantism.
+    - Thyrotoxicosis.
+    - Beckwith–Wiedemann syndrome.
+
+- Vital signs
+  - General principles
+    - Measure blood pressure, pulse, respiratory rate and temperature at each presentation, particularly if the child is unwell.
+    - Assess oxygen saturation using pulse oximetry when indicated.
+
+  - Blood pressure
+    - Routine measurement
+      - Recommended from 3 years of age by the American Academy of Pediatrics.
+      - Measure in younger children when clinically indicated.
+    - Cuff selection
+      - Cuff bladder width: approximately 40% of mid-upper arm circumference.
+      - Use an appropriately sized cuff to avoid inaccurate readings.
+    - Measurement technique
+      - Ideally, allow the child to sit quietly for 5 minutes.
+      - Automated sphygmomanometer: suitable for screening.
+      - Auscultation: more precise.
+      - Place the stethoscope diaphragm over the brachial artery, proximal and medial to the cubital fossa.
+      - Systolic BP: first Korotkoff sound (K1).
+      - Diastolic BP: disappearance of Korotkoff sounds (K5).
+    - Hypertension
+      - Uncommon in children; consider underlying disease.
+      - Causes:
+        - Renal disease.
+        - Cardiovascular disease.
+        - Primary hypertension, increasingly associated with obesity in children and adolescents.
+      - Interpret BP using age-, sex- and sometimes height-specific reference tables.
+    - Hypotension
+      - Uncommon but requires rapid evaluation.
+      - Exclude:
+        - Hypovolaemia.
+        - Sepsis.
+        - Shock.
+      - Hypotension is a late sign in critically ill children.
+      - Earlier signs may include:
+        - Tachycardia.
+        - Pallor.
+        - Mottled skin.
+
+  - Pulse and heart rate
+    - Measurement
+      - Prefer manual pulse counting over relying solely on automated measurements.
+      - In infants and young children, brachial or femoral pulses may be easier to palpate.
+      - Radial pulse can also be used.
+      - Carotid pulse may be difficult to assess in infants due to the short neck.
+      - Interpret heart rate according to age-specific reference ranges.
+    - Pulse pressure
+      - Wide pulse pressure:
+        - Patent ductus arteriosus (PDA).
+        - Aortic regurgitation.
+        - Hyperthyroidism.
+      - Narrow pulse pressure:
+        - Subaortic stenosis.
+        - Aortic valve stenosis.
+
+  - Respiratory rate
+    - Measure while the child is awake and at rest, where possible.
+    - Interpret according to age-specific reference ranges.
+    - Tachypnoea: consider
+      - Respiratory disease (most common).
+      - Severe infection.
+      - Cardiac disease.
+      - Metabolic disorders.
+    - Reduced respiratory rate: consider
+      - Toxin exposure.
+      - Raised intracranial pressure.
+
+  - Oxygen saturation
+    - Assess using pulse oximetry.
+    - Normal SaO2 in healthy children at sea level: approximately 97–100%, according to the source.
+    - Interpretation depends on altitude and clinical context.
+
+  - Temperature
+    - Measurement methods
+      - Axillary: reasonable alternative.
+      - Tympanic: quick and commonly used; correlates with core temperature.
+      - Oral: consider only in children able to cooperate, generally from around 6 years.
+      - Rectal: may cause distress; consider the clinical context and local guidance.
+    - Avoid mercury thermometers.
+    - Different measurement methods may produce different readings.
+    - Interpret temperature according to the measurement site, age and clinical context.
+
+- Specific physical examination
+  - Upper and lower limbs
+    - General approach
+      - Ask about pain before examination.
+      - Examine each limb individually, then compare both sides.
+      - Assess asymmetry, size disparity and hemihyperplasia.
+    - Look
+      - Hands
+        - Dorsal surface: inspect skin, joints and nails.
+        - Palmar surface: inspect palmar creases.
+        - Nails: pitting (psoriasis), fungal infection.
+        - Interdigital webs: lesions, e.g. scabies.
+      - Proximal upper and lower limbs
+        - Asymmetry.
+        - Deformity.
+        - Abnormal masses or dysmorphic features.
+      - Feet
+        - Inspect skin, joints, nails and plantar surfaces.
+        - Look for deformities and abnormal positioning.
+    - Feel
+      - Increased temperature, especially over joints.
+      - Tenderness, e.g. dermatomyositis.
+      - Joint or soft-tissue swelling.
+      - Muscle bulk: atrophy or hypertrophy.
+      - Hot, swollen joint with painful or restricted movement
+        - Consider septic arthritis, juvenile arthritis or rheumatic fever.
+    - Move and measure
+      - Assess wrist, finger, foot and other joint range of motion.
+      - Note restricted movement, asymmetry, flexibility and abnormal positioning.
+      - Assess muscle tone and strength.
+      - If movement is restricted, consider pain, weakness, contractures or spasticity.
+      - Joint hypermobility
+        - Consider Beighton score in children older than 6 years.
+        - Assess for benign joint hypermobility syndrome using appropriate criteria.
+        - Consider associated disorders, e.g. Marfan syndrome and Ehlers–Danlos syndrome.
+
+  - Knee deformities
+    - Genu varum (bow legs)
+      - Common physiological finding in children younger than 2 years.
+      - Examination
+        - Ask the child to stand with feet together.
+        - Measure intercondylar distance.
+      - Pathological causes
+        - Rickets.
+        - Skeletal dysplasia.
+        - Blount disease: abnormal growth of the proximal medial tibial physis.
+    - Genu valgum (knock-knees)
+      - Common physiological finding between 3 and 7 years.
+      - Examination
+        - Ask the child to stand.
+        - Compare limb lengths.
+        - Measure intermalleolar distance.
+      - Investigate if
+        - Persistent beyond 7 years.
+        - Progressive or increasing deformity occurs earlier.
+      - Causes of pathological deformity
+        - Rickets.
+        - Skeletal dysplasia.
+      - Adolescent genu valgum
+        - May occur as an idiopathic disorder after 8 years.
+    - Foot alignment
+      - In-toeing
+        - May be physiological in young children, particularly between 2 and 5 years.
+      - Out-toeing (metatarsus valgus, as described in the source)
+        - Persistent deformity may require specialist assessment.
+      - Unilateral or markedly asymmetric deformity
+        - Less likely to be physiological; investigate further.
+
+  - Limb length discrepancy
+    - True leg length
+      - Measure from anterior superior iliac spine (ASIS) to medial malleolus.
+    - Apparent leg length
+      - Measure from pubic symphysis to medial malleolus.
+    - Clinical assessment
+      - Child stands with hips and knees extended.
+      - Assess pelvic crest level.
+      - Place blocks under the shorter side until the pelvis is level.
+      - Measure the height of the blocks.
+    - Significance
+      - Discrepancy greater than 2 cm is significant.
+      - Consider hemihyperplasia syndromes, e.g. Beckwith–Wiedemann syndrome.
+
+  - Back and spine
+    - Preparation
+      - Expose the entire spine.
+      - Examine the child standing, feet together and arms by the sides.
+    - Look
+      - Neural tube defects: meningocele and meningomyelocele.
+      - Spinal asymmetry.
+      - Skin lesions and masses.
+      - Shoulder, scapular and pelvic rim symmetry.
+      - Ask the child to bend forward and touch the toes; assess pelvic level.
+    - Feel
+      - Palpate the vertebral column from the base of the neck to the gluteal cleft.
+      - Assess tenderness and bony defects, including spina bifida occulta.
+    - Lumbar hyperlordosis
+      - May be physiological between 8 and 10 years.
+      - Usually resolves spontaneously.
+    - Hyperkyphosis
+      - Scheuermann disease is a common cause of structural kyphosis in adolescence.
+      - Kyphosis remains fixed during forward flexion and hyperextension.
+    - Scoliosis
+      - Lateral curvature of the spine.
+      - Consider functional scoliosis due to leg length discrepancy.
+        - Curvature may correct during forward bending.
+      - Early-onset scoliosis: before 5 years.
+        - More likely to progress.
+        - Greater likelihood of underlying pathology.
+        - Assess for associated intraspinal, cardiovascular and urogenital anomalies.
+      - Late-onset scoliosis: after 5 years.
+        - More common.
+        - More likely to be idiopathic.
+    - Buttocks and sacrum
+      - Inspect buttock shape and gluteal cleft.
+      - Flattened buttocks and shortened gluteal cleft may occur in sacral agenesis.
+      - Look for sacral dimples, hair tufts and skin lesions suggesting spinal dysraphism.
+    - Paediatric musculoskeletal screening
+      - pGALS: paediatric Gait, Arms, Legs and Spine examination.
+
+  - Skin examination
+    - Colour
+      - Pallor.
+      - Plethora.
+      - Jaundice.
+      - Carotenaemia.
+    - Lesions
+      - Document location, colour, elevation and distribution.
+      - Describe as localised or diffuse.
+    - Haemorrhagic lesions
+      - Ecchymoses.
+      - Petechiae.
+      - Purpura.
+    - Peripheral stigmata of systemic disease
+      - Spider naevi: may indicate liver disease.
+      - Telangiectasia: may occur in ataxia-telangiectasia.
+    - Classification of skin lesions
+      - Primary lesions: initial skin changes caused by disease.
+      - Secondary lesions: changes resulting from external factors or evolution of primary lesions.
+
+| Maternal factor                      | Effects on baby                                                                                                                                                         |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| HIV infection                        | Increased risk of infection if HIV is transmitted to the infant.                                                                                                        |
+| Toxoplasmosis                        | Hepatosplenomegaly, lymphadenopathy, chorioretinitis, seizures, hydrocephalus, SGA.                                                                                     |
+| Syphilis                             | Stillbirth, hepatomegaly, lymphadenopathy, maculopapular or vesicular rash, rhinitis.                                                                                   |
+| Rubella                              | Sensorineural hearing loss, glaucoma, retinopathy, cataracts, congenital heart disease, CNS abnormalities, SGA.                                                         |
+| Cytomegalovirus (CMV)                | Hepatosplenomegaly, petechiae, microcephaly, chorioretinitis, sensorineural hearing loss, SGA.                                                                          |
+| Parvovirus B19 (fifth disease)       | Non-immune fetal hydrops, myocarditis, hepatitis.                                                                                                                       |
+| Varicella-zoster                     | Skin scarring, eye defects, limb hypoplasia, premature birth, SGA.                                                                                                      |
+| Listeriosis                          | Pneumonia, sepsis, meningitis.                                                                                                                                          |
+| Herpes simplex virus (HSV)           | Vesicular skin, eye and mouth lesions; CNS infection.                                                                                                                   |
+| Maternal obesity (BMI >30 kg/m²)     | Macrosomia/LGA, premature birth, neural tube defects, congenital heart disease, omphalocele.                                                                            |
+| Nicotine                             | SIDS, SGA, asthma, ADHD.                                                                                                                                                |
+| Marijuana                            | Reduced self-quieting ability, fine tremors, increased hand-to-mouth activity, altered sleep patterns.                                                                  |
+| Methadone                            | Strabismus, neonatal abstinence syndrome (NAS): respiratory distress, increased tone, tremors, seizures, poor feeding, vomiting, regurgitation, diarrhoea and sweating. |
+| Heroin                               | NAS, increased perinatal mortality, SGA, ADHD.                                                                                                                          |
+| Cocaine                              | Genitourinary malformations, CNS symptoms, SGA.                                                                                                                         |
+| Amphetamines                         | Congenital CNS, cardiovascular and limb defects; oral clefts; neurobehavioural effects.                                                                                 |
+| Hallucinogens                        | Congenital cardiovascular and renal defects.                                                                                                                            |
+| Alcohol                              | Fetal alcohol spectrum disorder (FASD): developmental delay, ADHD, SGA and characteristic facial features.                                                              |
+| FASD: characteristic facial features | Small eyes, shortened palpebral fissures, smooth philtrum, flattened nasal bridge, maxillary hypoplasia, short upturned nose, thin/small upper lip.                     |
+
+Abbreviations: SGA = small for gestational age; LGA = large for gestational age; SIDS = sudden infant death syndrome; NAS = neonatal abstinence syndrome; CNS = central nervous system; ADHD = attention-deficit/hyperactivity disorder.
