@@ -1,12 +1,12 @@
 {
-  "cssTheme": "",
+  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "baseFontSize": 16,
   "textFontFamily": "Times New Roman",
   "accentColor": "#0000ff",
   "enabledCssSnippets": [],
   "showViewHeader": true,
-  "showRibbon": false,
+  "showRibbon": true,
   "floatingNavigation": false,
   "interfaceFontFamily": "",
   "nativeMenus": true

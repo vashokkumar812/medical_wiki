@@ -1,61 +1,65 @@
-# Pertussis
+---
+aliases:
+  - pertussis
+---
 
-- Etiology
-	- Organism
-		- Bordetella pertussis
-			- Most common cause
-			- Notifiable disease in Australia
-		- Bordetella parapertussis
-			- Uncommon
-			- Usually milder disease
-			- Not notifiable
-	- Transmission
-		- Respiratory droplets
-		- Commonly household spread
 
-- Epidemiology / Prevention
-	- Immunised children can still develop pertussis
+## Etiology
+- Organism
+	- Bordetella pertussis
+		- Most common cause
+		- Notifiable disease in Australia
+	- Bordetella parapertussis
+		- Uncommon
 		- Usually milder disease
-	- Immunity wanes
-		- 4–12 years after last vaccine dose
-	- No lifelong immunity
-	- Recurrence may occur
-		- Especially with superimposed viral infection
+		- Not notifiable
+- Transmission
+	- Respiratory droplets
+	- Commonly household spread
 
-- Risk Factors for Severe Disease
-	- Infants ≤6 months
-		- Highest risk group
+## Epidemiology / Prevention
+- Immunised children can still develop pertussis
+	- Usually milder disease
+- Immunity wanes
+	- 4–12 years after last vaccine dose
+- No lifelong immunity
+- Recurrence may occur
+	- Especially with superimposed viral infection
+
+## Risk Factors for Severe Disease
+- Infants ≤6 months
+	- Highest risk group
+	- Apnoea
+	- Bradycardia
+	- Pneumonia
+	- Seizures
+	- Encephalopathy
+
+## Clinical Course
+- Incubation period
+	- 4–21 days
+	- Usually 7–10 days
+- Catarrhal phase
+	- Duration
+		- 1–2 weeks
+	- Coryza
+	- Non-productive cough
+- Paroxysmal phase
+	- Duration
+		- 1–2 weeks
+	- Paroxysmal cough
+	- Inspiratory whoop
+	- Post-tussive vomiting
+		- More common in unvaccinated patients
+	- Infants
 		- Apnoea
 		- Bradycardia
-		- Pneumonia
-		- Seizures
-		- Encephalopathy
-
-- Clinical Course
-	- Incubation period
-		- 4–21 days
-		- Usually 7–10 days
-	- Catarrhal phase
-		- Duration
-			- 1–2 weeks
-		- Coryza
-		- Non-productive cough
-	- Paroxysmal phase
-		- Duration
-			- 1–2 weeks
-		- Paroxysmal cough
-		- Inspiratory whoop
-		- Post-tussive vomiting
-			- More common in unvaccinated patients
-		- Infants
-			- Apnoea
-			- Bradycardia
-			- Cyanosis
-	- Convalescent phase
-		- Duration
-			- 2–6 weeks
-			- May persist up to 3 months
-		- Gradual improvement in cough
+		- Cyanosis
+- Convalescent phase
+	- Duration
+		- 2–6 weeks
+		- May persist up to 3 months
+	- Gradual improvement in cough
 
 - Clinical Features
 	- Persistent cough
@@ -75,35 +79,35 @@
 - Diagnosis
 	- Primarily clinical
 
-- Investigations
-	- PCR
-		- Investigation of choice
-		- Nasopharyngeal flocked swab
-		- May become negative:
-			- After 21 days
-			- 5–7 days after effective antibiotic therapy
-	- Culture
-		- Recommended in:
-			- Catarrhal phase
-			- Early paroxysmal phase
-			- Severe cases
-			- Hospitalised patients
-			- Suspected treatment failure
-			- Public Health Unit request
-	- Serology
-		- Not clinically useful
-	- Blood tests
-		- Not routinely required
-		- Lymphocytosis
-			- Correlates with disease severity
-		- Thrombocytosis
-			- Common
-			- Associated with poorer infant prognosis
-	- Chest X-ray
-		- Unwell infants <6 months
-		- Assess for:
-			- Pertussis pneumonia
-			- Pulmonary hypertension
+## Investigations
+- PCR
+	- Investigation of choice
+	- Nasopharyngeal flocked swab
+	- May become negative:
+		- After 21 days
+		- 5–7 days after effective antibiotic therapy
+- Culture
+	- Recommended in:
+		- Catarrhal phase
+		- Early paroxysmal phase
+		- Severe cases
+		- Hospitalised patients
+		- Suspected treatment failure
+		- Public Health Unit request
+- Serology
+	- Not clinically useful
+- Blood tests
+	- Not routinely required
+	- Lymphocytosis
+		- Correlates with disease severity
+	- Thrombocytosis
+		- Common
+		- Associated with poorer infant prognosis
+- Chest X-ray
+	- Unwell infants <6 months
+	- Assess for:
+		- Pertussis pneumonia
+		- Pulmonary hypertension
 
 - Complications
 	- Neurological
