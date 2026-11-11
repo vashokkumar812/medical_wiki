@@ -1,6 +1,4 @@
-Q67. Elderly male. Had history of URTI recently. Now had painful swelling infront of left ear. What appropriate management? 
-1. Incision drainage 
-2. Antibiotics
+
 
 - Parotitis
 	- Inflammation of the parotid gland

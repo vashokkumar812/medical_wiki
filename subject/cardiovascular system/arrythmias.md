@@ -990,7 +990,7 @@ AF
 ### Clinical Features
 
 - **Atrial fibrillation (AF) / supraventricular tachycardia ([arrythmias](arrythmias.md))** — ==most common==
-- [[subject/chest pain]]
+- [[chest pain 1]]
 - [Ventricular fibrillation](ventricular%20fibrillation.md) (VF) arrest — *least common*
 
 ### Investigations

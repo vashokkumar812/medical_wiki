@@ -1,87 +1,89 @@
-- screening
-	- every child
-	- Cystic fibrosis (CF) referral indications
-		- Genetic counselling
-			- Both partners are CF carriers
-			- Planning pregnancy
-			- 1st trimester pregnancy
-		- Respiratory paediatrician
-			- Suspected CF child
-				- Sweat test
-			- Features
-				- Recurrent cough
-				- Failure to thrive
-				- Recurrent LRTIs
-				- Bronchiectasis
-				- Rectal prolapse
-		- Fertility specialist
-			- Male infertility
-				- Congenital bilateral absence of vas deferens (CBAVD)
-				- Suspected atypical CF
-
-- Definition
-	- Autosomal recessive multisystem disorder
-	- Thick viscid secretions
-		- Airways
-		- Pancreas
-		- Biliary tree
-		- Intestine
-		- Sweat glands
-		- Reproductive tract
-
-- Clinical features
-
-	- Respiratory
-		- Chronic productive cough
-		- Recurrent lower respiratory tract infections
-		- Bronchiectasis
-		- Wheeze
-		- Chronic sinusitis
-		- Nasal polyps
-		- Clubbing
-		- Haemoptysis (late)
-
-	- Gastrointestinal
-		- Meconium ileus (neonates)
-		- Failure to thrive
-		- Steatorrhoea
-		- Pancreatic insufficiency
-		- Distal intestinal obstruction syndrome (DIOS)
-		- Rectal prolapse
-		- Fat-soluble vitamin deficiency (A, D, E, K)
-
-	- Hepatobiliary
-		- Cholestasis
-		- Biliary cirrhosis
-		- Portal hypertension
-		- Gallstones
-
-	- Endocrine
-		- CF-related diabetes mellitus
-
-	- Reproductive
+## Definition
+- Autosomal recessive multisystem disorder
+- defective chloride and bicarbonate transport across epithelial cells -> s thick, dehydrated secretions==>
+	- Airways
+	- Pancreas
+	- Biliary tree
+	- Intestine
+	- Sweat glands
+	- Reproductive tract
+## screening
+- every child
+- Cystic fibrosis (CF) referral indications
+	- Genetic counselling
+		- Both partners are CF carriers
+		- Planning pregnancy
+		- 1st trimester pregnancy
+	- Respiratory paediatrician
+		- Suspected CF child
+			- Sweat test
+		- Features
+			- Recurrent cough
+			- Failure to thrive
+			- Recurrent LRTIs
+			- Bronchiectasis
+			- Rectal prolapse
+	- Fertility specialist
 		- Male infertility
 			- Congenital bilateral absence of vas deferens (CBAVD)
-		- Reduced female fertility
+			- Suspected atypical CF
 
-	- Sweat glands
-		- Salty sweat
-		- Recurrent dehydration
-		- Hypochloraemic metabolic alkalosis
 
-- Complications
+
+## Clinical features
+
+- Respiratory
+	- Chronic productive cough
+	- Recurrent lower respiratory tract infections
 	- Bronchiectasis
-	- Chronic respiratory failure
-	- Pneumothorax
-	- Massive haemoptysis
-	- Allergic bronchopulmonary aspergillosis (ABPA)
-	- Pancreatic insufficiency
-	- Malnutrition
-	- CF-related diabetes
-	- Osteoporosis
-	- Liver disease
-	- Infertility
+	- Wheeze
+	- Chronic sinusitis
+	- Nasal polyps
+	- Clubbing
+	- Haemoptysis (late)
 
+- Gastrointestinal
+	- Meconium ileus (neonates)
+	- Failure to thrive
+	- Steatorrhoea
+	- Pancreatic insufficiency
+	- Distal intestinal obstruction syndrome (DIOS)
+	- Rectal prolapse
+	- Fat-soluble vitamin deficiency (A, D, E, K)
+
+- Hepatobiliary
+	- Cholestasis
+	- Biliary cirrhosis
+	- Portal hypertension
+	- Gallstones
+
+- Endocrine
+	- CF-related diabetes mellitus
+
+- Reproductive
+	- Male infertility
+		- Congenital bilateral absence of vas deferens (CBAVD)
+	- Reduced female fertility
+
+- Sweat glands
+	- Salty sweat
+	- Recurrent dehydration
+	- Hypochloraemic metabolic alkalosis
+
+## Complications
+- Bronchiectasis
+- Chronic respiratory failure
+- Pneumothorax
+- Massive haemoptysis
+- Allergic bronchopulmonary aspergillosis (ABPA)
+- Pancreatic insufficiency
+- Malnutrition
+- CF-related diabetes
+- Osteoporosis
+- Liver disease
+- Infertility
+
+## investigations
 - Initial investigations
 
 	- Newborn screening
@@ -110,46 +112,46 @@
 		- Fat-soluble vitamin levels
 		- Liver function tests
 
-- Diagnosis
-	- Compatible clinical features
-	- Plus one of
-		- Positive sweat chloride test
-		- Two disease-causing CFTR mutations
-		- Positive newborn screening with confirmatory testing
+## Diagnosis
+- Compatible clinical features
+- Plus one of
+	- Positive sweat chloride test
+	- Two disease-causing CFTR mutations
+	- Positive newborn screening with confirmatory testing
 
-- Management
+## Management
 
-	- Respiratory
-		- Airway clearance physiotherapy
-		- Regular exercise
-		- Nebulised hypertonic saline
-		- Dornase alfa (DNase)
-		- Bronchodilators if indicated
-		- Prompt antibiotics for exacerbations
-		- Long-term azithromycin (selected patients)
-		- Inhaled antibiotics for chronic *Pseudomonas*
-			- Tobramycin
-			- Colistin
+- Respiratory
+	- Airway clearance physiotherapy
+	- Regular exercise
+	- Nebulised hypertonic saline
+	- Dornase alfa (DNase)
+	- Bronchodilators if indicated
+	- Prompt antibiotics for exacerbations
+	- Long-term azithromycin (selected patients)
+	- Inhaled antibiotics for chronic *Pseudomonas*
+		- Tobramycin
+		- Colistin
 
-	- CFTR modulators
-		- According to genotype
-			- Ivacaftor
-			- Lumacaftor/Ivacaftor
-			- Tezacaftor/Ivacaftor
-			- Elexacaftor/Tezacaftor/Ivacaftor
+- CFTR modulators
+	- According to genotype
+		- Ivacaftor
+		- Lumacaftor/Ivacaftor
+		- Tezacaftor/Ivacaftor
+		- Elexacaftor/Tezacaftor/Ivacaftor
 
-	- Nutrition
-		- High-calorie diet
-		- High-fat diet
-		- Pancreatic enzyme replacement
-		- Fat-soluble vitamin supplementation
-		- Dietitian review
+- Nutrition
+	- High-calorie diet
+	- High-fat diet
+	- Pancreatic enzyme replacement
+	- Fat-soluble vitamin supplementation
+	- Dietitian review
 
-	- Complication management
-		- Treat diabetes
-		- Treat liver disease
-		- Osteoporosis prevention
-		- Lung transplantation for end-stage disease
+- Complication management
+	- Treat diabetes
+	- Treat liver disease
+	- Osteoporosis prevention
+	- Lung transplantation for end-stage disease
 
 - Genetic testing
 
@@ -162,28 +164,28 @@
 		- Couples already pregnant
 		- Regardless of ethnicity or family history
 
-- Referral indications
+## Referral indications
 
-	- Genetic counselling
-		- Both partners are CF carriers
-		- Planning pregnancy
-		- First trimester of pregnancy
+- Genetic counselling
+	- Both partners are CF carriers
+	- Planning pregnancy
+	- First trimester of pregnancy
 
-	- Respiratory paediatrician
-		- Child with suspected CF not detected on newborn screening
-		- Features include
-			- Recurrent cough
-			- Failure to thrive
-			- Recurrent lower respiratory tract infections
-			- Bronchiectasis
-			- Rectal prolapse
-		- For sweat testing
+- Respiratory paediatrician
+	- Child with suspected CF not detected on newborn screening
+	- Features include
+		- Recurrent cough
+		- Failure to thrive
+		- Recurrent lower respiratory tract infections
+		- Bronchiectasis
+		- Rectal prolapse
+	- For sweat testing
 
-	- Fertility specialist
-		- Male infertility due to CBAVD
-		- Evaluate for atypical CF
+- Fertility specialist
+	- Male infertility due to CBAVD
+	- Evaluate for atypical CF
 
-- Prognosis
-	- Progressive chronic disease
-	- Survival continues to improve with multidisciplinary care
-	- Respiratory failure remains the leading cause of death
+## Prognosis
+- Progressive chronic disease
+- Survival continues to improve with multidisciplinary care
+- Respiratory failure remains the leading cause of death

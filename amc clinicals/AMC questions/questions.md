@@ -1,3 +1,0 @@
-## ENT
-- [[EAR Examination]]
-- 

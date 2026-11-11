@@ -1,4 +1,4 @@
-- Epidemiology
+## Epidemiology
   - Most common serious neurological disorder in pregnancy
 
 - increased risk
@@ -10,19 +10,19 @@
     - Polycystic ovarian syndrome (PCOS)
 
 
-- management
-	- Goals before conception
-		- Seizure-free for ≥6 months if possible
-		- Monotherapy preferred
-		- Lowest effective AED dose
-		- Avoid changing AEDs once pregnancy established
-		- Use divided doses to avoid high peak drug levels
-	-  Epilepsy
-		- Not a contraindication to pregnancy
-	- folic acid supplementation
-		-  5 mg daily
-	    - Start ≥1 month before conception
-	    - Continue throughout first trimester
+## management
+- Goals before conception
+	- Seizure-free for ≥6 months if possible
+	- Monotherapy preferred
+	- Lowest effective AED dose
+	- Avoid changing AEDs once pregnancy established
+	- Use divided doses to avoid high peak drug levels
+-  Epilepsy
+	- Not a contraindication to pregnancy
+- folic acid supplementation
+	-  5 mg daily
+	- Start ≥1 month before conception
+	- Continue throughout first trimester
 - Contraception
 
   - Enzyme-inducing AEDs (EIAEDs)
@@ -108,13 +108,13 @@
   - Specific AED associations
 
     - Valproate
-		- Oral clefts
-		- Cardiac defects
-		- Neural tube defects
-		- Hypospadias
-		- Neurodevelopmental effects
-			- Reduced cognitive ability
-			- Autism spectrum disorder
+			- Oral clefts
+			- Cardiac defects
+			- Neural tube defects
+			- Hypospadias
+			- Neurodevelopmental effects
+				- Reduced cognitive ability
+				- Autism spectrum disorder
 
     - Phenobarbitone
       - Cardiac defects

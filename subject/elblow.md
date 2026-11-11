@@ -1,43 +1,44 @@
 # Medial Epicondylitis (Golfer's Elbow)
-- Epidemiology
-	- less common than tennis elbow
-	- Most common age
-		- 30–40 years
-- Pathophysiology
-	- tendinopathy of common flexor tendon (CFT)
-- Risk Factors
-	- Repetitive wrist flexion
-	- Repetitive forearm pronation
+## Epidemiology
+- less common than tennis elbow
+- Most common age
+	- 30–40 years
+## Pathophysiology
+- tendinopathy of common flexor tendon (CFT)
+- Repetitive elbow use
 	- Repetitive gripping
-	- Repetitive valgus stress
-	- Sports
-	- Occupations
-		- Heavy lifting (>20 kg)
-		- Repetitive forceful gripping
-		- Exposure to vibration
-		- Plumbers
-		- Carpenters
-		- Construction workers
-- Associated Conditions
-	- Ulnar neuropathy
-	- Ulnar collateral ligament (UCL) insufficiency
-	- Carpal tunnel syndrome
-	- Lateral epicondylitis
-	- Rotator cuff tendinopathy
-- Clinical Features
-	- History
-		- Insidious onset
-		- Repetitive elbow use
-		- Repetitive gripping
-		- Repetitive valgus loading
-	- Symptoms
-		- Medial elbow pain
-		- Worse with wrist movement
-		- Worse with forearm movement
-		- Worse with gripping
-		- May have
-			- Numbness in ulnar fingers
-			- Tingling in ulnar fingers
+	- Repetitive valgus loading
+
+## Risk Factors
+- Repetitive wrist flexion
+- Repetitive forearm pronation
+- Repetitive gripping
+- Repetitive valgus stress
+- Sports
+- Occupations
+	- Heavy lifting (>20 kg)
+	- Repetitive forceful gripping
+	- Exposure to vibration
+	- Plumbers
+	- Carpenters
+	- Construction workers
+##  Associated Conditions
+- Ulnar neuropathy
+- Ulnar collateral ligament (UCL) insufficiency
+- Carpal tunnel syndrome
+- Lateral epicondylitis
+- Rotator cuff tendinopathy
+
+##  Clinical Features
+- Medial elbow pain
+	- onset
+		- insidious
+	- Worse
+		- wrist and forearm movement
+		- gripping
+	- May have
+		- Numbness in ulnar fingers
+		- Tingling in ulnar fingers
 - Examination
 	- Tenderness
 		- 5–10 mm distal and anterior to medial epicondyle
@@ -54,76 +55,78 @@
 			- Hypothenar wasting
 		- UCL injury
 			- Valgus stress testing
-- Investigations
-	- X-ray
-		- Usually normal
-		- May show calcification of
-			- Common flexor tendon
-			- UCL
-	- Ultrasound
-		- Shows focal tendon degeneration
-	- MRI
-		- Investigation of choice
-		- Indications
-			- Unclear diagnosis
-			- Suspected UCL injury
-			- Persistent medial elbow pain
-		- Findings
-			- Tendinosis of common flexor tendon
-			- Tendon disruption
-			- T2 hyperintensity
-			- Peritendinous oedema
-	- Nerve conduction studies / EMG
-		- If ulnar nerve compression suspected
-- Management
-	- First-line (Conservative)
-		- Rest
-		- Ice
-		- Activity modification
-		- Avoid throwing for 6–12 weeks
-		- Physiotherapy
-			- Stretching exercises
-		- Counterforce brace
-		- Kinesiology taping
-		- NSAIDs
-	- Corticosteroid Injection
-		- May provide short-term symptom relief
-		- Avoid repeated injections
-		- Complications
-			- Skin depigmentation
-			- Subcutaneous atrophy
-			- Tendon weakening/rupture
-			- Ulnar nerve injury
-	- Surgery
-		- Indications
-			- Failure of ≥6 months conservative treatment
-			- Severe symptoms affecting quality of life
-			- Clear diagnosis
-		- Procedure
-			- Debridement of diseased flexor-pronator tissue
-			- Reattachment of flexor-pronator origin
+
+## Investigations
+- X-ray
+	- Usually normal
+	- May show calcification of
+		- Common flexor tendon
+		- UCL
+- Ultrasound
+	- Shows focal tendon degeneration
+- MRI
+	- Investigation of choice
+	- Indications
+		- Unclear diagnosis
+		- Suspected UCL injury
+		- Persistent medial elbow pain
+	- Findings
+		- Tendinosis of common flexor tendon
+		- Tendon disruption
+		- T2 hyperintensity
+		- Peritendinous oedema
+- Nerve conduction studies / EMG
+	- If ulnar nerve compression suspected
+
+## Management
+- First-line (Conservative)
+	- Rest
+	- Ice
+	- Activity modification
+	- Avoid throwing for 6–12 weeks
+	- Physiotherapy
+		- Stretching exercises
+	- Counterforce brace
+	- Kinesiology taping
+	- NSAIDs
+- Corticosteroid Injection
+	- May provide short-term symptom relief
+	- Avoid repeated injections
+	- Complications
+		- Skin depigmentation
+		- Subcutaneous atrophy
+		- Tendon weakening/rupture
+		- Ulnar nerve injury
+- Surgery
+	- Indications
+		- Failure of ≥6 months conservative treatment
+		- Severe symptoms affecting quality of life
+		- Clear diagnosis
+	- Procedure
+		- Debridement of diseased flexor-pronator tissue
+		- Reattachment of flexor-pronator origin
 - Prognosis
 	- Majority improve with conservative treatment
 
 
 # Lateral Epicondylitis (Tennis Elbow)
-- Definition
+## Definition
   - Enthesopathy involving the origin of the:
     - Extensor carpi radialis brevis (ECRB)
   - Degenerative tendinosis rather than an inflammatory condition
 
-- Epidemiology
+## Epidemiology
   - Peak incidence
     - 40–50 years
   - No sex predilection
   - Only ~10% of affected patients play tennis
 
-- Risk Factors
+## Risk Factors
   - Manual labour
   - Use of vibrating tools
   - Dominant arm involvement
 
-- Pathophysiology
+## Pathophysiology
 
   - Overuse injury of extensor muscles
 
@@ -135,21 +138,18 @@
     - Fibroblastic proliferation
     - Calcific debris
 
-- Clinical Features
+## Clinical Features
 
-  - Insidious onset
-
-  - Pain
-    - Lateral elbow pain
+  - Lateral elbow pain
+    - Insidious onset
     - May radiate distally along extensor muscle mass
+	  - Aggravated by
+	    - Wrist extension against resistance
+	    - Finger extension against resistance
+	    - Lifting activities
+	    - Forearm pronation
 
-  - Aggravated by
-    - Wrist extension against resistance
-    - Finger extension against resistance
-    - Lifting activities
-    - Forearm pronation
-
-  - Usually not associated with trauma
+	  - Usually not associated with trauma
 
 - Natural History
 
@@ -186,7 +186,7 @@
         - Lateral elbow pain
 
 
-- Investigations
+## Investigations
 
   - Usually not required
 
@@ -216,7 +216,7 @@
     - Not required for diagnosis
     - Imaging findings do not correlate with prognosis
 
-- Management
+## Management
 
   - General Principles
     - Most cases improve spontaneously
@@ -270,7 +270,3 @@
     - Botulinum toxin injections
     - Extracorporeal shockwave therapy (ESWT)
     - Transcutaneous electrical nerve stimulation (TENS)
-
-
-
-# medial epicondylitis

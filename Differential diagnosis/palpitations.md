@@ -1,6 +1,4 @@
-- **Palpitations**
-
-  - "Can you describe exactly what you notice when you experience these episodes?"
+- "Can you describe exactly what you notice when you experience these episodes?"
     - Awareness of heartbeat
       - Unexpected awareness of one's heartbeat.
       - May be perceived as fast, slow, forceful or irregular.

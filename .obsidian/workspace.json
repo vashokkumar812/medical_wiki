@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subject/women's health/cervix/cervical insufficiency.md",
+                "file": "subject/vasculitides.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "cervical insufficiency"
+              "title": "vasculitides"
+            }
+          },
+          {
+            "id": "fb2ef034d7cb6c54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subject/cardiovascular system/carotid artery stenosis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "carotid artery stenosis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -56,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schiz",
+                "query": "bronchi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subject/women's health/cervix/cervical insufficiency.md",
+                "file": "subject/cardiovascular system/carotid artery stenosis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,48 +202,48 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "efc142bead3b35d5",
+  "active": "fb2ef034d7cb6c54",
   "lastOpenFiles": [
-    "subject/women's health/cervix.md",
-    "subject/women's health/cervix/cervical insufficiency.md",
-    "subject/women's health/cervix",
+    "subject/cardiovascular system/ECG/ecg waves/Q wave.md",
+    "subject/cardiovascular system/ECG/p wave.md",
+    "subject/respiratory system/bronchiectasis.md",
+    "subject/cardiovascular system/carotid artery stenosis.md",
+    "subject/cardiovascular system/congenital heart dieases.md",
+    "subject/cardiovascular system/arrythmias.md",
     "subject/cardiovascular system/aorta.md",
-    "subject/cardiovascular system/cvd assessment.md",
-    "subject/CVA.md",
-    "subject/contraception.md",
-    "subject/childhood psych.md",
-    "subject/chest pain.md",
-    "subject/mental health/schizophrenia.md",
-    "subject/child health/lymphadenitis.md",
-    "subject/child health/Neck mass.md",
-    "subject/women's health/atopic eruption of preganncy.md",
-    "amc clinicals/child health/Neonatal.md",
-    "subject/Gastrointestinal system/liver.md",
-    "subject/respiratory system/pneumoconiosis/sarcoidosis.md",
-    "subject/respiratory system/allergic disorders of respiratory tract.md",
-    "subject/pneumonoconiosis.md",
-    "subject/respiratory system/pneumoconiosis",
-    "subject/cardiovascular system/dyslipidaemia.md",
+    "subject/cardiovascular system/ECG/ECG.md",
+    "Differential diagnosis/chest pain.md",
+    "subject/visual pathway lesions.md",
+    "subject/haematuria.md",
+    "subject/headache.md",
+    "subject/head injury.md",
+    "subject/GBS.md",
+    "subject/gastroenterities.md",
+    "subject/functional dyspepsia.md",
+    "subject/gastric carcinoma.md",
+    "subject/frostbite.md",
+    "subject/follicular disorders.md",
+    "subject/Flucloxacillin.md",
+    "subject/Fibromyalgia.md",
+    "subject/facial pain.md",
+    "subject/fall from height.md",
+    "subject/facial nerve palsy.md",
+    "subject/neurology/Parksinson disease.md",
+    "subject/neurology/CNS history.md",
+    "subject/cardiovascular system/ECG/ecg waves",
+    "subject/dermatology/blistering disorders",
+    "amc clinicals.zip",
+    "subject/cardiovascular system/ECG",
+    "subject/mental health/children mental health",
+    "frontend/app/theme-registry.jsx",
+    "frontend/app/page.jsx",
+    "frontend/app/layout.jsx",
+    "frontend/package.json",
+    "frontend/next.config.js",
     "images/Pasted image 20261104130546.png",
-    "amc clinicals/questions/medicine.md",
-    "amc clinicals/questions/Psychiatry.md",
-    "subject/mental health/depression.md",
-    "amc clinicals/questions",
-    "subject/dermoid cyst.md",
-    "subject/developmental milestones of children.md",
-    "subject/dermatitis.md",
-    "subject/dementia.md",
-    "subject/delirum tremens.md",
     "images/cervical-screening-quick-reference-guide_page-0001.jpg",
     "images/cervical-screening-quick-reference-guide_page-0002.jpg",
-    "subject/opthal",
-    "Differential diagnosis",
     "images/Pasted image 20261022184004.png",
-    "subject/rheumatology",
-    "subject/neurology",
-    "subject/others",
-    "subject/cardiovascular system",
-    "subject/orthopaedics",
     "images/Pasted image 20260615095438.png",
     "images/Pasted image 20260617021309.png",
     "images/Pasted image 20260617015356.png",

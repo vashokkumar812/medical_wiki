@@ -1,0 +1,45 @@
+- Massive splenomegaly ( 7+ cm from LCM )
+	- Common
+		- Chronic myeloid leukaemia (CML)
+		- Idiopathic myelofibrosis
+		- Chronic lymphocytic leukaemia (CLL)
+	- Rare
+		- Malaria
+		- Kala-azar
+		- Primary lymphoma of the spleen
+
+- Moderate splenomegaly ( 3-7 cm LCM )
+	- All causes of massive splenomegaly
+	- Portal hypertension
+	- Non-Hodgkin lymphoma (NHL)
+	- Acute or chronic leukaemia
+	- Thalassaemia
+	- Storage diseases
+		- Gaucher disease
+
+- Small splenomegaly ( < 3 cm from LCM )
+	- All causes of moderate splenomegaly
+	- Other myeloproliferative disorders
+		- Polycythaemia rubra vera (PRV)
+		- Essential thrombocythaemia
+	- Haematological disorders
+		- Haemolytic anaemia
+		- Megaloblastic anaemia (rare)
+	- Infections
+		- Viral
+			- Infectious mononucleosis
+			- Hepatitis
+		- Bacterial
+			- Infective endocarditis
+		- Protozoal
+			- Malaria
+	- Connective tissue diseases
+		- Rheumatoid arthritis
+		- Systemic lupus erythematosus (SLE)
+		- Polyarteritis nodosa (PAN)
+	- Infiltrative disorders
+		- Amyloidosis
+		- Sarcoidosis
+
+- Clinical note
+	- Splenomegaly may be found in approximately 3–12% of the normal population.

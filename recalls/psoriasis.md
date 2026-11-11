@@ -1,4 +1,4 @@
-# Psoriasis (AMC MCQ High-Yield)
+
 
 - **Definition**
 	- Chronic immune-mediated inflammatory skin disease

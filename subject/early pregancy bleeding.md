@@ -1,15 +1,16 @@
 # First Trimester Bleeding
 
-- etiology
+## etiology
+- common
 	- miscarriage
 	- ectopic pregnancy
-	- Other Causes
-		- Implantation bleeding
-		- Cervical ectropion, polyp, carcinoma
-		- infection - vagina, cervix, uterus
-		- Gestational trophoblastic disease (GTD)
-			- Consider if markedly elevated β-hCG
-			- Consider if suggestive ultrasound findings
+- Others
+	- Implantation bleeding
+	- Cervical ectropion, polyp, carcinoma
+	- infection - vagina, cervix, uterus
+	- Gestational trophoblastic disease (GTD)
+		- Consider if markedly elevated β-hCG
+		- Consider if suggestive ultrasound findings
 
 - Assessment
 	- Haemodynamically Unstable Patient

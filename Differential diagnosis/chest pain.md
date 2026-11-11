@@ -1,13 +1,10 @@
-- **Chest pain**
-
-  - **Opening questions**
+ - **Opening questions**
     - "Can you tell me more about the chest pain or discomfort?"
     - "Are you experiencing the pain right now?"
     - "Have you experienced similar pain before?"
 
   - **Site**
     - "Where exactly do you feel the pain?"
-    - "Can you point to the site with one finger?"
     - Central or retrosternal pain
       - Cardiac
         - Myocardial ischaemia

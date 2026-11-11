@@ -1,7 +1,7 @@
 ## definition
 - Cervical length (CL)
 	- Best predictor
-		- Short cervix → spontaneous PTB
+		- Short cervix → spontaneous Preterm birth
 
 
 ## Screening

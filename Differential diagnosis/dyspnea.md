@@ -1,4 +1,4 @@
-- **Dyspnoea (Shortness of breath)**
+
 
   - **Opening questions**
     - "Have you been experiencing any difficulty breathing or shortness of breath?"
@@ -51,8 +51,8 @@
           - May impair left ventricular function.
         - Previous myocardial infarction
           - Myocardial damage may reduce left ventricular contractility.
-        - Left ventricular hypertrophy
-          - May be associated with hypertension.
+        - [[Left ventricular hypertrophy]]
+          - associated with hypertension.
 
     - Breathlessness occurring with progressively less exertion
       - Cardiac
@@ -95,7 +95,7 @@
       - Left ventricular failure
         - Makes left ventricular failure less likely as the cause of dyspnoea.
 
-  - **Paroxysmal nocturnal dyspnoea (PND)**
+  - Paroxysmal nocturnal dyspnoea (PND)
     - "Do you wake up suddenly at night feeling breathless?"
     - "Do you have to sit up or get out of bed gasping for breath?"
     - "Does your breathing improve after sitting or standing up?"
@@ -113,7 +113,7 @@
         - Acute pulmonary oedema
           - May cause acute severe cardiac dyspnoea.
 
-  - **Sudden episodes of acute cardiac dyspnoea**
+  - Sudden episodes of acute cardiac dyspnoea
     - "Have you experienced sudden episodes of severe breathlessness?"
     - "Did the breathlessness develop suddenly while you were resting or sleeping?"
 

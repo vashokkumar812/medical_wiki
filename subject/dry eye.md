@@ -5,39 +5,41 @@ aliases:
   - DED
   - blepharitis
 ---
+## Definition
+- Inflammation of the eyelid
 
-- blepharitis
-	- Definition
-		- Inflammation of the eyelid
-	- Pathogenesis
-		- Staphylococcal enzymes and toxins
-		- Immune-mediated damage
-	- Associated conditions
-		- Seborrhoeic dermatitis
-		- Acne
-		- Rosacea
-	- Types
-		- Anterior blepharitis
-			- Involves
-				- Eyelid skin
-				- Eyelashes
-			- Symptoms
-				- Burning
-				- Grittiness
-		- Posterior blepharitis
-			- Often synonymous with MGD
-			- Commonly associated with rosacea
-			- Signs
-				- Red eyelid margins
-				- Blocked meibomian glands
-				- Frothy discharge along eyelid margins
-	- treatment
-		- anterior blepharitis
-			- If hygiene inadequate
-				- Chloramphenicol 1% ointment
-		- posterior blepharitis
-			- If hygiene inadequate
-				- Doxycycline
+## Pathogenesis
+- Staphylococcal enzymes and toxins
+- Immune-mediated damage
+
+## Associated conditions
+- Seborrhoeic dermatitis
+- Acne
+- Rosacea
+
+## Types
+- Anterior blepharitis
+	- Involves
+		- Eyelid skin
+		- Eyelashes
+	- Symptoms
+		- Burning
+		- Grittiness
+- Posterior blepharitis
+	- Often synonymous with MGD
+	- Commonly associated with rosacea
+	- Signs
+		- Red eyelid margins
+		- Blocked meibomian glands
+		- Frothy discharge along eyelid margins
+
+## treatment
+- anterior blepharitis
+	- If inadequate hygiene
+		- Chloramphenicol 1% ointment
+- posterior blepharitis
+	- If inadequate hygiene
+		- Doxycycline
 
 
 

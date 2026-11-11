@@ -75,7 +75,7 @@
 ## differential diagnosis
 - pleuritic infarction
 	- less dramatic
-	- pleuritic [[subject/chest pain]] and haemoptysis
+	- pleuritic [[chest pain 1]] and haemoptysis
 
 ## treatment
 - if massive 

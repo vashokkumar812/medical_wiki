@@ -1,5 +1,3 @@
-![[Pasted image 20260615105152.png]]
-
 ## most common causes
 - torsion of the testicular appendage (appendix testis)
 - epididymitis

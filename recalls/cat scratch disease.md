@@ -1,19 +1,3 @@
-**
-
-Q.154 female lives with cats, cat scratch, lumps in axilla with o.5cm pustule. mx?
-
-1. i and d
-    
-2. fluclox
-    
-3. perc aspiration
-    
-
-*supportive management if uncompromised or systemic illness go for antibiotics.
-
-  
-**
-
 
 - Cat scratch disease (CSD)
 	- Zoonotic infection caused primarily by *Bartonella henselae*
