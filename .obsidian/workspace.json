@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recalls/multiple myeloma.md",
-                "mode": "preview",
+                "file": "subject/mental health/depression.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "multiple myeloma"
+              "title": "depression"
             }
           }
         ],
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bronchi",
+                "query": "depression",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recalls/multiple myeloma.md",
+                "file": "subject/mental health/depression.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.8203125
+    "width": 292.98046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,32 +206,32 @@
   },
   "active": "fb2ef034d7cb6c54",
   "lastOpenFiles": [
-    "recalls/osteoporosis.md",
-    "recalls/parkinson's  disease.md",
-    "recalls/whooping cough.md",
-    "subject/cardiovascular system/Left ventricular hypertrophy.md",
-    "subject/cardiovascular system/ischemic heart disease.md",
-    "subject/cardiovascular system/carotid artery stenosis.md",
-    "subject/cardiovascular system/congenital heart dieases.md",
-    "subject/cardiovascular system/ECG/ecg waves/Q wave.md",
-    "subject/cardiovascular system/ECG/p wave.md",
-    "subject/respiratory system/bronchiectasis.md",
-    "subject/cardiovascular system/arrythmias.md",
-    "subject/cardiovascular system/aorta.md",
-    "subject/cardiovascular system/ECG/ECG.md",
+    "subject/neurology/CNS history.md",
+    "subject/cat scratch disease.md",
     "Differential diagnosis/chest pain.md",
-    "subject/visual pathway lesions.md",
-    "subject/haematuria.md",
-    "subject/headache.md",
-    "subject/head injury.md",
-    "subject/GBS.md",
-    "subject/gastroenterities.md",
-    "subject/functional dyspepsia.md",
-    "subject/gastric carcinoma.md",
-    "subject/frostbite.md",
-    "subject/follicular disorders.md",
-    "subject/Flucloxacillin.md",
-    "subject/Fibromyalgia.md",
+    "Differential diagnosis/chest pain 1.md",
+    "subject/facial nerve palsy.md",
+    "subject/eye injury.md",
+    "subject/exercise in pregnancy.md",
+    "subject/Erythema Multiforme.md",
+    "subject/epistaxis.md",
+    "subject/endometriosis.md",
+    "subject/epilesy in pregnancy.md",
+    "subject/emergency drug dose.md",
+    "subject/electric shock.md",
+    "subject/elblow.md",
+    "subject/eating disorders.md",
+    "subject/early pregancy bleeding.md",
+    "subject/drug rashes.md",
+    "subject/drowning.md",
+    "subject/Diagnosis hack.md",
+    "subject/dermoid cyst.md",
+    "subject/cytomegalovirus.md",
+    "subject/dermatitis.md",
+    "subject/cystic fibrosis.md",
+    "subject/Gastrointestinal system/liver.md",
+    "subject/Gastrointestinal system/appendicitis.md",
+    "subject/Gastrointestinal system/Biliary diseases.md",
     "subject/cardiovascular system/ECG/ecg waves",
     "subject/dermatology/blistering disorders",
     "amc clinicals.zip",
