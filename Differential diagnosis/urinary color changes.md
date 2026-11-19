@@ -7,8 +7,8 @@
 			- Upper urinary tract urothelial carcinoma
 		- Painful haematuria
 			- UTI
+				- especially Pyelonephritis
 			- Urolithiasis
-			- Pyelonephritis
 		- Haematuria with clots
 			- Bladder or urothelial malignancy
 			- Significant urinary tract bleeding

@@ -1,3 +1,0 @@
-- guidelines of 210 topics
-- handbook mcq
-- all previous year questions

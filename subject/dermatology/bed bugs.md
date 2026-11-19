@@ -61,4 +61,3 @@
 - **Important facts**
 	- Bed bugs do not transmit human infectious diseases
 	- Diagnosis based on bites alone is unreliable
-```
