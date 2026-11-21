@@ -1,35 +1,28 @@
-- Labour definitions
-
-	- Latent phase
-		- Painful contractions
-		- Cervical dilation ≤4 cm
-		- Slow cervical change
-
-		- Management
-			- Discharge home OR observe in hospital
-			- Advise when to return
-
-		- Evidence
-			- ↓ epidural use
-			- ↓ oxytocin augmentation
-			- Similar caesarean rates
-
-	- Active phase
-		- Cervical dilation ≥5 cm
-		- Regular painful contractions
-		- Progressive cervical dilation
-
-		- Ends at
-			- Full dilation
-				- 10 cm
-
-	- Slow labour
-		- <2 cm cervical dilation in 4 hours after 5 cm dilation
-
-		- Clinical indicators
-			- Fetal descent
-			- Fetal rotation
-			- Contraction strength
+## Labor phases
+- Latent phase
+	- Painful contractions
+	- Cervical dilation ≤4 cm
+	- Slow cervical change
+	- Management
+		- Discharge home OR observe in hospital
+		- Advise when to return
+	- Evidence
+		- ↓ epidural use
+		- ↓ oxytocin augmentation
+		- Similar caesarean rates
+- Active phase
+	- Cervical dilation ≥5 cm
+	- Regular painful contractions
+	- Progressive cervical dilation
+	- Ends at
+		- Full dilation
+			- 10 cm
+- Slow labour
+	- <2 cm cervical dilation in 4 hours after 5 cm dilation
+	- Clinical indicators
+		- Fetal descent
+		- Fetal rotation
+		- Contraction strength
 
 - First stage management
 

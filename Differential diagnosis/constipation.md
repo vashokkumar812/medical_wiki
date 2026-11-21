@@ -1,3 +1,109 @@
+- age
+	- infant
+		- [[hirschsprung disease]]
+- associated factors
+	- [[Rectal Bleeding]]
+		- cancer
+		- [[haemorroids]]
+		- [[diverticulitis]]
+		- [[inflammatory bowel disease]]
+- examination
+	- must do abdomen and rectal examination
+- investigations
+	- chronic constipation
+		- Plain abdomen erect AP is not useful
+## Definition  
+- rome 4 criteria : 2 or more for atleast 12 weeks
+	- infrequent passage of stools < 3 / week
+	- passage of lumpy or hard stools at least 25% of time
+	- straining at least 25% of time
+	- sensation of inomplete evacuation atleast 25% of time
+	- use of manual maoeuvres atleast 25% of time
+	- sensation of anorectal block atleast 25% of time
+
+## epidemiology
+
+
+## Causes  
+* Lifestyle: 
+	* habitual suppression of defecation,
+	* low food intake
+	* dietary changes
+	* immobility
+	* postoperative state.  
+* Drugs
+	- Analgesics
+		- Inhibitors of prostaglandin synthesis
+		- Opioid analgesics
+			- Codeine
+	- Antacids
+		- Calcium carbonate
+		- Aluminium hydroxide
+	- Anticholinergic agents
+		- Antispasmodics
+	- Antidiarrhoeal agents
+	- Antiepileptic drugs
+		- Gabapentin
+	- Antihistamines
+		- H₁-receptor blockers
+	- Antiparkinsonian drugs
+		- Dopamine agonists
+			- Levodopa
+	- Antipsychotic drugs
+		- Clozapine
+		- Risperidone
+	- Antidepressants
+		- Selective serotonin reuptake inhibitors (SSRIs)
+		- Tricyclic antidepressants
+		- Monoamine oxidase inhibitors (MAOIs)
+	- Barbiturates
+	- Barium sulphate
+	- Benzodiazepines
+	- Calcium-channel blockers
+		- Verapamil
+	- Calcium supplements
+	- Cholestyramine
+	- Clonidine
+	- Cough mixtures
+	- Cytotoxic drugs
+	- Diuretics
+		- Diuretics causing hypokalaemia
+	- Ganglionic blocking agents
+	- Heavy metals
+		- Lead
+	- 5-HT₃-receptor antagonists
+		- Ondansetron
+	- Iron supplements
+	- Laxatives
+		- Chronic use
+	- Muscle relaxants
+* Metabolic/endocrine
+	* hypothyroidism
+	* hypercalcaemia
+	* diabetes mellitus
+	* hypokalaemia.  
+* Neurological
+	* Hirschsprung disease
+	* autonomic neuropathy
+	* spinal cord injury
+	* multiple sclerosis.  
+* Structural
+	* partial colonic obstruction
+	* colorectal cancer.  
+* Pregnancy: 
+	* common, especially in later stages.  
+* Slow-transit constipation
+	* delayed colonic transit; more common in young women.  
+  * Evacuation difficulty  
+    * Excessive straining, sensation of anal blockage or incomplete evacuation.  
+    * Need for manual evacuation (digitation)  
+      * Pelvic floor dysfunction, anorectal disease (e.g. fissure, stricture).  
+
+## Red flag  
+* Recent change in bowel habits, especially with weight loss or rectal bleeding  
+  * Consider colorectal malignancy.  
+
+
 # paediatric constipation
 - Constipation (Paediatric)
 

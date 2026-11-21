@@ -6,71 +6,71 @@
 
 ---
 
-- Somatic symptom disorder
+# Somatic symptom disorder
 
-	- Definition
-		- ≥1 distressing somatic symptom
-		- Excessive thoughts, feelings or behaviours related to symptoms
-		- Causes significant functional impairment
+## Definition
+- ≥1 distressing somatic symptom
+- Excessive thoughts, feelings or behaviours related to symptoms
+- Causes significant functional impairment
 
-	- Epidemiology / Risk factors
-		- Women > men
-		- Usually begins before age 30
-		- More common in low socioeconomic status
-		- Possible genetic predisposition
-		- Family associations
-			- Male relatives
-				- Antisocial personality disorder
-			- Female relatives
-				- Histrionic personality disorder
+## Epidemiology / Risk factors
+- Women > men
+- Usually begins before age 30
+- More common in low socioeconomic status
+- Possible genetic predisposition
+- Family associations
+	- Male relatives
+		- Antisocial personality disorder
+	- Female relatives
+		- Histrionic personality disorder
 
-	- Clinical features
-		- Multiple physical symptoms
-			- Multiple organ systems
-		- Long, complicated medical history
-		- Frequent doctor shopping
-		- Excessive health concerns
-		- Functional impairment
-		- Interpersonal and psychological problems
-		- Common psychiatric comorbidities
-			- Major depression
-			- Generalised anxiety disorder
-			- Phobias
-			- Personality disorders
-			- Substance use disorders
+## Clinical features
+- Multiple physical symptoms
+	- Multiple organ systems
+- Long, complicated medical history
+- Frequent doctor shopping
+- Excessive health concerns
+- Functional impairment
+- Interpersonal and psychological problems
+- Common psychiatric comorbidities
+	- Major depression
+	- Generalised anxiety disorder
+	- Phobias
+	- Personality disorders
+	- Substance use disorders
 
-	- Initial assessment
-		- Exclude organic disease
-		- Screen for anxiety and depression
-		- Identify psychosocial stressors
+## Initial assessment
+- Exclude organic disease
+- Screen for anxiety and depression
+- Identify psychosocial stressors
 
-	- Initial investigations
-		- Directed by symptoms only
-		- Avoid repeated unnecessary investigations
+- Initial investigations
+	- Directed by symptoms only
+	- Avoid repeated unnecessary investigations
 
-	- Management
-		- Single primary physician
-		- Regular scheduled appointments
-			- Brief monthly reviews
-		- Avoid unnecessary investigations
-		- Psychoeducation
-		- Individual psychotherapy
-			- Improve coping skills
-			- Increase awareness of psychological contribution
+- Management
+	- Single primary physician
+	- Regular scheduled appointments
+		- Brief monthly reviews
+	- Avoid unnecessary investigations
+	- Psychoeducation
+	- Individual psychotherapy
+		- Improve coping skills
+		- Increase awareness of psychological contribution
 
-	- Differential diagnosis
-		- Multiple sclerosis
-		- Myasthenia gravis
-		- SLE
-		- HIV/AIDS
-		- Thyroid disease
-		- Chronic infection
-		- Major depression
-		- Generalised anxiety disorder
-		- Schizophrenia
+- Differential diagnosis
+	- Multiple sclerosis
+	- Myasthenia gravis
+	- SLE
+	- HIV/AIDS
+	- Thyroid disease
+	- Chronic infection
+	- Major depression
+	- Generalised anxiety disorder
+	- Schizophrenia
 
-	- AMC pearl
-		- Multiple unexplained symptoms + repeated healthcare visits + excessive health anxiety
+- AMC pearl
+	- Multiple unexplained symptoms + repeated healthcare visits + excessive health anxiety
 
 ---
 

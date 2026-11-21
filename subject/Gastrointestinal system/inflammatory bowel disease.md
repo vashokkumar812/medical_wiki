@@ -1,0 +1,301 @@
+## Epidemiology
+- Inflammatory bowel disease (IBD)
+	- Increasing frequency in Australia
+	- Estimated up to 10,000 affected people in Australia
+	- Two main types
+		- Ulcerative colitis (UC)
+		- Crohn disease (CD)
+	- Approximately equal distribution of UC and CD
+	- Indeterminate colitis
+		- 15% of patients with colitis
+## Aetiology
+- Unknown aetiology
+- Chronic inflammation of the gastrointestinal tract
+- Distribution
+	- Ulcerative colitis
+		- Large bowel only
+	- Crohn disease
+		- Most commonly ileum and colon
+## Clinical Presentation
+- Almost all patients have bowel symptoms
+	- Abdominal discomfort or pain
+	- Change in bowel habits
+		- Usually diarrhoea
+- Alarm symptoms and signs
+	- Rectal bleeding
+	- Weight loss
+	- Abdominal mass
+	- Fever
+	- Nocturnal symptoms
+	- Pallor
+	- Tachycardia
+- Simple screening blood test abnormalities
+	- Elevated C-reactive protein (CRP)
+	- Elevated white cell count
+	- Elevated platelet count
+	- Elevated erythrocyte sedimentation rate (ESR)
+	- Pus cells on faecal microscopy without detected pathogens
+## Diagnosis
+- Clinical suspicion
+	- Consider IBD when diagnosing irritable bowel syndrome (IBS)
+	- Suspect IBD when gastroenteritis-like symptoms persist or worsen after 4 days
+	- Consider IBD with abdominal symptoms and signs of inflammation
+	- Consider IBD in unexplained intermittent or continuous abdominal pain
+- Investigations
+	- Screening blood tests
+		- CRP
+		- White cell count
+		- Platelet count
+		- ESR
+	- Faecal microscopy
+		- Pus cells without detected pathogens
+	- Endoscopy
+		- Flexible sigmoidoscopy or colonoscopy
+		- Ileoscopy if possible
+		- Multiple biopsies for histopathology
+	- Small bowel imaging
+		- Barium follow-through when required
+- Important diagnostic points
+	- Normal screening blood tests do not exclude IBD when clinical suspicion is high
+	- Chronic diarrhoea and rectal bleeding warrant endoscopic examination of the large bowel
+	- Colonoscopy for diarrhoea or abdominal pain should include ileal inspection and colonic biopsies
+	- Rectal bleeding always requires inspection
+		- Sigmoidoscopy may be sufficient depending on age and characteristics
+## Treatment Principles
+- Treatment decisions depend on
+	- Disease distribution
+	- Disease severity
+	- Presence or absence of complications
+- Main objectives
+	- Reduce inflammation
+	- Achieve remission
+	- Maintain remission
+	- Improve wellbeing and quality of life
+## Ulcerative Colitis
+- Treatment goals
+	- Achieve clinical remission
+	- Achieve histological remission
+	- Maintain remission
+	- Goals achievable in at least 80% of patients
+- Severe colitis
+	- Frequent bloody bowel actions
+	- Systemic symptoms
+	- Requires hospitalisation
+	- Intravenous corticosteroids and possibly other therapy
+- Mild to moderate colitis
+	- Most frequent presentation
+	- Usually involves distal colon and rectum
+### Mesalazine (5-ASA)
+- Mainstay of treatment
+- Delivered topically in large amounts to large bowel mucosa
+- Preparations
+	- Carrier-bound preparations
+		- Sulfasalazine
+			- Bound to sulfapyridine
+			- Released in colon by bacterial action
+		- Olsalazine
+			- Bound to another 5-ASA molecule
+			- Released in colon by bacterial action
+	- pH-dependent coated preparations
+		- Mesasal
+		- Salofalk
+		- Released in terminal ileum and proximal colon
+	- Rectal preparations
+		- Suppository
+			- Pentasa
+		- Foam
+			- Salofalk
+			- Reaches proximal sigmoid colon
+		- Enema
+			- Salofalk
+			- Pentasa
+			- Reaches descending colon
+- Oral and rectal mesalazine
+	- Used together in distal disease
+	- Additive efficacy
+- Maintenance therapy
+	- Mainstay of maintenance treatment
+	- Reduces relapse risk by two-thirds
+	- Recommended long term in all patients except those with mild proctitis
+	- Protects against colorectal cancer development
+	- Maintenance doses
+		- Sulfasalazine: 2 g/day
+		- Coated 5-ASA: 1.5 g/day
+		- Olsalazine: 1 g/day
+### Corticosteroids
+- Effective remission-inducing agents
+- Rectal corticosteroids
+	- Predsol
+	- Colifoam
+	- Less efficacious than rectal mesalazine
+- Oral corticosteroids
+	- Prednisolone
+	- Prednisone
+	- Rapid onset of action
+	- Relatively inexpensive
+	- Adverse effects
+		- Body shape changes
+		- Bone effects
+		- Psychological effects
+	- Indications
+		- Inadequate response to 5-ASA
+		- More severe colitis
+		- Need for rapid efficacy
+- No role in maintenance of remission
+### Immunosuppressive Therapy
+- Drugs
+	- Azathioprine
+	- 6-mercaptopurine
+	- Methotrexate
+- Indications
+	- Chronically active disease
+		- Remission and mucosal healing cannot be achieved
+	- Frequent relapses despite adequate mesalazine therapy
+### Surgery
+- Procedure
+	- Removal of rectum and entire colon
+	- Possible ileal pouch formation
+- Indications
+	- Severe unresponsive disease
+	- Chronically active disease with symptoms incompatible with quality of life
+	- Neoplastic or preneoplastic changes
+		- Dysplasia
+- Outcomes
+	- Mortality less than 1%
+	- Average 6–8 watery bowel actions per day without urgency
+	- Pouchitis in approximately 1 in 4 patients
+		- May require intermittent or chronic antibiotics or probiotics
+## Crohn Disease
+### Assessment of Disease Activity
+- Clinical signs
+- Blood markers
+	- Haemoglobin
+	- White cell count
+	- Platelet count
+	- Serum albumin
+	- CRP
+- Endoscopic appearances, if available
+- Disease activity is more difficult to assess than in UC
+- Symptoms may not accurately predict disease activity
+- Complications are more common
+	- Perianal disease
+	- Bowel obstruction
+	- Abscess formation
+- Majority of patients have chronically active disease
+- Healing of lesions is unusual
+- Clinical remission may be unreliable
+	- Patients may under-report tiredness and easy fatigue
+### Treatment
+- Mesalazine
+	- Use is diminishing due to lack of efficacy
+	- May be useful in mild disease
+- Corticosteroids
+	- Reserved for crisis situations
+	- May be used while awaiting the effect of other therapies
+- Immunosuppressants
+	- Azathioprine
+		- May take 3–6 months for optimal efficacy
+	- Methotrexate
+- Antibiotics
+	- Metronidazole
+	- Ciprofloxacin
+	- Used more frequently to control inflammation
+	- High-level evidence for this approach is limited
+- Smoking cessation
+	- Pivotal goal of medical intervention
+	- Smoking associated with more severe and less responsive disease
+	- Detrimental effects are reversible
+- Early aggressive therapy
+	- Early introduction of immunosuppressive therapy
+	- Azathioprine
+	- Aims to minimise irreversible structural damage
+	- Limited by drug adverse effects
+- Biological therapy
+	- Anti-tumour necrosis factor (anti-TNF) therapy
+		- Infliximab
+	- Powerful anti-inflammatory effect
+	- May promote mucosal healing
+	- Generally well tolerated
+	- Mortality up to 1% in some series
+		- Mainly due to unpredictable opportunistic infections
+	- Early use limited by infection risk, cost and lack of PBS subsidy in Australia
+- New therapeutic agents
+	- Under evaluation in clinical trials
+### Surgery
+- Indications
+	- Abscess formation
+	- Luminal stenosis
+	- Poorly controlled disease
+- Principle of minimal surgery
+	- Resect the least amount necessary to resolve the current problem
+## General Management
+- Multidisciplinary management
+	- General practitioner
+	- Gastroenterologist
+	- Surgeon
+- Patient education and counselling
+	- Disease knowledge
+	- Drug knowledge
+	- Drug adverse effects
+	- Evaluation of information from other sources
+	- Support organisations
+		- Australian Crohn's and Colitis Association (ACCA)
+- Reproductive issues
+	- Fertility
+	- Pregnancy outcomes
+	- Effect of pregnancy on disease course
+	- Drug safety during pregnancy
+	- Drug safety during breastfeeding
+	- Risk of IBD in children
+- Nutrition
+	- Ensure nutritional adequacy
+	- Minimise symptoms through dietary modification
+	- Avoid seeds, skins and indigestible fibre when obstructing lesions are present
+	- Avoid wheat and onions when bloating and diarrhoea are prominent
+- Micronutrients
+	- Iron deficiency is common
+		- Related predominantly to impaired iron absorption during chronic inflammation
+	- Oral iron
+		- May be poorly tolerated
+		- May be ineffective in replenishing iron stores
+	- Intravenous iron
+		- Safe and well tolerated
+		- Successful iron repletion improves energy levels and quality of life
+## Colorectal Cancer Surveillance
+- Increased colorectal cancer risk in IBD involving the colon
+- Ulcerative colitis involving at least the left colon
+	- Colonoscopy every 2 years
+	- Multiple biopsies for histopathological assessment of dysplasia
+	- Begin after 7–10 years of disease
+- Crohn disease
+	- Surveillance programmes not yet introduced in the article
+	- Risk of both large and small bowel cancer is probably increased
+## Multidisciplinary Responsibilities
+- Patient
+	- Take responsibility for disease management
+	- Develop good knowledge of disease and medications
+	- Work collaboratively with clinicians
+- Gastroenterologist
+	- Direct management
+	- Experienced and knowledgeable in IBD
+- General practitioner
+	- Early diagnosis
+	- Patient support
+	- Smoking cessation
+	- Management of intercurrent issues
+- Surgeon
+	- Management of specific complications
+- All team members
+	- Ensure adequate communication
+## Important Points
+- Early diagnosis depends on considering IBD in patients with suggestive symptoms
+- UC
+	- Mesalazine and/or steroids induce remission
+	- Long-term maintenance therapy prevents relapse
+	- Maintenance options include mesalazine and immunosuppressants such as azathioprine
+- CD
+	- Healing is more difficult to achieve
+	- Many patients have chronically active disease
+	- Treatment emphasis is shifting towards early immunosuppressants, biological agents and antibiotics
+- Patient education, nutrition and chronic illness support are essential components of management
+- Clinical trial participation may be considered for patients dissatisfied with current disease control
