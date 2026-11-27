@@ -1,0 +1,19 @@
+- commonest nephritic syndrome cause in children
+- epidemiology
+	- more common in disadvantaged populations
+- timing
+	- 10–21 days after streptococcal infection
+- preceding infection
+	- pharyngitis
+	- skin infection
+- features
+	- haematuria
+	- renal impairment
+- investigations
+	- ASOT
+	- anti-DNase B
+	- low C3
+- treatment
+	- supportive
+- prognosis
+	- usually good

@@ -2,12 +2,12 @@
 - "Have you noticed any change in the colour or appearance of your urine?"
 	- Red or pink urine (haematuria)
 		- Painless visible haematuria
-			- Bladder cancer
+			- [[Bladder cancer]]
 			- Renal cell carcinoma
 			- Upper urinary tract urothelial carcinoma
 		- Painful haematuria
-			- UTI
-				- especially Pyelonephritis
+			- [[UTI]]
+				- especially [[Pyelonephritis]]
 			- Urolithiasis
 		- Haematuria with clots
 			- Bladder or urothelial malignancy
@@ -16,12 +16,12 @@
 			- Ureteric calculus
 			- Renal calculus
 		- Haematuria with oedema and hypertension
-			- Glomerulonephritis
-			- IgA nephropathy
+			- [[Glomerulonephritis]]
+			- [[IgA nephropathy]]
 		- Haematuria following recent throat or skin infection
-			- Post-streptococcal glomerulonephritis
+			- [[Post-streptococcal glomerulonephritis]]
 	- Dark or cola-coloured urine
-		- Glomerulonephritis
+		- [[Glomerulonephritis]]
 		- Myoglobinuria
 		- Haemoglobinuria
 		- Bilirubinuria
@@ -34,8 +34,8 @@
 		- Concentrated urine
 		- Dietary or medication-related changes
 	- Frothy urine
-		- Proteinuria
-		- Nephrotic syndrome
+		- [[Proteinuria]]
+		- [[Nephrotic syndrome]]
 		- CKD
 	- Orange or brown urine
 		- Bilirubinuria

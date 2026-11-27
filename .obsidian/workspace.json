@@ -28,13 +28,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential diagnosis/murmur.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Differential diagnosis/cough.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "murmur"
+              "title": "cough"
+            }
+          },
+          {
+            "id": "613c051ca8ae609b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "subject/ENT/diseases/vertigo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vertigo"
+            }
+          },
+          {
+            "id": "2078c7014ef0d2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential diagnosis/Ear pain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ear pain"
             }
           }
         ],
@@ -72,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inflammatory bowel ",
+                "query": "pancreatic dis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential diagnosis/abdominal pain.md",
+                "file": "Differential diagnosis/cough.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential diagnosis/abdominal pain.md",
+                "file": "Differential diagnosis/cough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -175,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential diagnosis/murmur.md",
+                "file": "Differential diagnosis/cough.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,12 +212,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,35 +230,35 @@
       "consolidate-to-pdf:Consolidate vault to PDF": false
     }
   },
-  "active": "dfe162dc17adac3e",
+  "active": "fb2ef034d7cb6c54",
   "lastOpenFiles": [
-    "Differential diagnosis/dyspnea.md",
-    "Differential diagnosis/constipation.md",
+    "subject/dermatology/dermoid cyst.md",
+    "Differential diagnosis/cough.md",
+    "subject/dermatology/blistering disorders.md",
+    "subject/dermatology/impetigo 1.md",
+    "subject/dermatology/impetigo.md",
+    "subject/dermatology/Ingrowing toenail (onychocryptosis).md",
+    "subject/dermatology/inverse psoriasis.md",
+    "subject/dermatology/keratitis.md",
+    "subject/dermatology/urticaria.md",
+    "subject/dermatology/blistering disorders/Porphyria Cutanea Tarda.md",
+    "subject/dermatology/blistering disorders/Bullous pemphigoid.md",
+    "subject/dermatology/Acne.md",
+    "subject/dermatology/blistering disorders/Pemphigus vulgaris.md",
+    "subject/dermatology/blistering disorders/dermatitis herpetiformis.md",
     "Differential diagnosis/chest pain.md",
+    "Differential diagnosis/constipation.md",
     "Differential diagnosis/abdominal pain.md",
-    "subject/Gastrointestinal system/Rectal Bleeding.md",
-    "subject/Gastrointestinal system/haemorroids.md",
-    "subject/Gastrointestinal system/hirschsprung disease.md",
-    "subject/Gastrointestinal system/inflammatory bowel disease.md",
-    "subject/Gastrointestinal system/basics/Gastrointestinal system history and examination.md",
-    "subject/Gastrointestinal system/diverticulitis.md",
+    "subject/cardiovascular system/ischemic heart disease.md",
+    "subject/genitourinary system/Proteinuria.md",
+    "subject/genitourinary system/IgA nephropathy.md",
+    "subject/genitourinary system/Glomerulonephritis.md",
     "subject/Gastrointestinal system/congenital anomalies of GIT.md",
-    "subject/Gastrointestinal system/Untitled.md",
-    "Differential diagnosis/Untitled.md",
-    "AMC questions/questions.md",
-    "subject/mental health/basics/Psychiatric examination.md",
-    "subject/ENT/Basics/EAR Examination.md",
+    "Differential diagnosis/murmur.md",
+    "subject/Gastrointestinal system/pancreatitis.md",
+    "subject/Gastrointestinal system/pancreatic disorders.md",
+    "subject/Gastrointestinal system/bowel obstruction.md",
     "subject/mental health/basics",
-    "subject/general/General examination.md",
-    "subject/mental health/somatic symptom disorders.md",
-    "subject/mental health/sucide.md",
-    "subject/women's health/infertility.md",
-    "subject/women's health/IVF.md",
-    "subject/women's health/Miscarriage.md",
-    "subject/women's health/menopause.md",
-    "subject/women's health/membrane rupture.md",
-    "subject/women's health/meconium stained labor.md",
-    "subject/women's health/malpresentation.md",
     "AMC questions",
     "subject/Untitled",
     "subject/infections",

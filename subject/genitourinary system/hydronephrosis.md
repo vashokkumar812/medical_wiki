@@ -90,5 +90,5 @@
 	- infected obstruction requires urgent drainage and intravenous antibiotics
 	- prolonged obstruction can cause irreversible renal damage
 
-[[UTI 1]]
+[[UTI]]
 [[urinary tract infection]]

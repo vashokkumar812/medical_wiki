@@ -1,4 +1,3 @@
-# bladder cancer
 - Epidemiology
 	- Most common in
 		- 5th–7th decade

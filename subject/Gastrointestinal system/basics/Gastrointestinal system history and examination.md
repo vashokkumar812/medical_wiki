@@ -1,174 +1,28 @@
 ## History
-
-* Abdominal pain  
-  * Onset  
-    * questions  
-      * When did the pain start?  
-    * Sudden onset  
-      * Perforated peptic ulcer  
-      * bowel ischaemia  
-      * ruptured abdominal aortic aneurysm  
-      * other acute abdominal emergencies.  
-    * Gradual onset  
-      * Appendicitis  
-      * Cholecystitis  
-      * Diverticulitis  
-      * Other inflammatory conditions.  
-  * duration  
-    * questions  
-      * How long have you had the pain?  
-      * Is it constant or intermittent?  
-      * Is it getting worse, improving or remaining the same?  
-    * Site and migration  
-      * questions  
-        * Where exactly is the pain?  
-        * Can you point to the site with one finger?  
-        * Did the pain start somewhere else and then move?  
-    * Periumbilical pain migrating to the right iliac fossa  
-      * Acute appendicitis.  
-    * Epigastric pain localising to the right upper quadrant  
-      * Acute cholecystitis or biliary disease.  
-    * Flank or renal angle pain radiating towards the groin  
-      * Renal or ureteric colic.  
-    * Generalised abdominal pain  
-      * Gastroenteritis, bowel obstruction, peritonitis or bowel ischaemia, depending on associated features.  
-    * Character  
-      * questions  
-        * How would you describe the pain?  
-    * Dull or burning epigastric pain  
-      * Peptic ulcer disease  
-      * functional dyspepsia.  
-    * Severe, steady epigastric pain  
-      * Acute pancreatitis  
-      * biliary pain.  
-    * Cramping or colicky pain occurring in waves  
-      * Bowel obstruction  
-      * ureteric colic.  
-    * Sudden, severe pain that becomes generalised  
-      * Perforated viscus or another acute abdominal emergency.  
-    * Pain out of proportion to the abdominal examination  
-      * Acute mesenteric ischaemia, particularly with vascular risk factors.  
-    * Severity and progression  
-    * questions  
-      * How severe is the pain on a scale of 0–10?  
-      * Is it worsening in severity?  
-      * Does the pain prevent you from walking or performing daily activities?  
-      * Is it severe enough to wake you from sleep?  
-    * Severe or rapidly progressive pain  
-      * Acute surgical or vascular abdominal emergency.  
-    * Radiation  
-      * questions  
-        * Does the pain spread anywhere else?  
-    * Epigastric pain radiating to the back  
-      * Acute pancreatitis or peptic ulcer disease with complications.  
-    * Right upper quadrant pain radiating to the right shoulder or scapula \- Biliary colic or acute cholecystitis. \- Flank pain radiating to the groin \- Renal or ureteric colic. \- Epigastric pain radiating to the chest, arm or jaw \- Acute coronary syndrome as a potentially non-abdominal cause.  
-    * Relationship to meals  
-      * questions  
-        * Does eating trigger or worsen the pain?  
-        * Does the pain improve when you eat?  
-    * Epigastric burning or dull pain partially relieved by food or antacids  
-      * Peptic ulcer disease.  
-    * Epigastric pain after meals without other specific features  
-      * Functional dyspepsia  
-      * peptic ulcer disease.  
-    * Right upper quadrant or epigastric pain after fatty meals  
-      * Biliary colic, although episodes may occur unpredictably.  
-    * Pain after meals with weight loss or food avoidance  
-      * Chronic mesenteric ischaemia in an appropriate clinical context.  
-        * improved after meals  
-          * Peptic ulcer disease, although the response to food cannot reliably distinguish gastric from duodenal ulcers.  
-    * Relieving and aggravating factors  
-      * questions  
-        * Does taking antacids relieve the pain?  
-    * Partial relief  
-      * Peptic ulcer disease or gastro-oesophageal reflux.  
-        * Does vomiting relieve the pain?  
-          * Peptic ulcer disease or gastric outlet obstruction, depending on the clinical context.  
-        * Does passing stool or flatus relieve the pain?  
-          * Colonic disease or functional bowel disorders.  
-        * Does sitting up and leaning forwards relieve the pain?  
-          * Acute pancreatitis.  
-        * Does movement, coughing or walking worsen the pain?  
-          * Peritoneal irritation, particularly with localised tenderness.  
-        * Do you feel compelled to move or roll around because of the pain?  
-          * Colicky pain, such as renal colic or bowel obstruction.  
-        * Do you prefer to lie perfectly still?  
-          * Peritonitis, particularly with severe pain on movement.  
-* Nausea and vomiting
-
-  * Have you felt nauseated or vomited?
-
-  * How many times have you vomited?
-
-  * What was the vomit like?
-
-    * Food-containing vomit
-
-      * Gastritis, peptic ulcer disease or gastric outlet obstruction.  
-    * Green or bilious vomit
-
-      * Intestinal obstruction, particularly with distension and failure to pass flatus.  
-    * Faeculent-smelling vomit
-
-      * Advanced intestinal obstruction.  
-    * Blood or coffee-ground material
-
-      * Upper gastrointestinal bleeding.  
-  * Did vomiting begin before or after the pain?
-
-    * Pain followed by vomiting
-
-      * Appendicitis, pancreatitis or bowel obstruction.  
-  * Does vomiting relieve the pain?
-
-    * Gastric outlet obstruction or other upper gastrointestinal disorders.  
-  * Is vomiting persistent?
-
-    * Dehydration, electrolyte disturbances or bowel obstruction, depending on other findings.  
+- [[Nausea and vomitting]]
 * Bowel habits
 
   * Have you experienced constipation or diarrhoea?
-
-    * Acute diarrhoea with vomiting and cramping
-
-      * Gastroenteritis.  
-    * Bloody diarrhoea
-
-      * Inflammatory bowel disease, infective colitis or intestinal ischaemia.  
-    * Constipation with colicky pain and distension
-
-      * Bowel obstruction.  
+    * [[diarrhea]]
+    * [[constipation]]
   * When did you last pass stool?
-
   * Are you able to pass flatus?
-
     * Inability to pass both stool and flatus with distension and vomiting
-
       * Intestinal obstruction.  
   * Does defecation relieve the pain?
-
     * Colonic disease or irritable bowel syndrome, depending on the overall symptom pattern.  
   * Have you noticed blood or mucus in your stool?
-
     * Fresh rectal bleeding
-
       * Lower gastrointestinal pathology.  
     * Black, tarry stools
-
       * Upper gastrointestinal bleeding.  
 * Abdominal distension
-
   * Has your abdomen become swollen or distended?
-
   * Is the distension increasing?
-
   * Is it associated with vomiting or constipation?
-
     * Distension with colicky pain, vomiting and inability to pass flatus
-
       * Bowel obstruction.  
     * Progressive distension with ascites or weight loss
-
       * Liver disease, malignancy or other causes of ascites.  
 * Fever and systemic symptoms  
   * Have you had fever or chills?  
@@ -186,7 +40,7 @@
     * Malignancy, chronic inflammatory disease or other chronic pathology.  
   * Have you experienced dizziness, fainting or collapse?  
     * Dehydration, internal bleeding, ruptured abdominal aortic aneurysm or other causes of circulatory compromise.  
-* Gastrointestinal bleeding  
+* [[Upper GI Bleed]] 
   * Have you vomited blood or coffee-ground material?  
     * Upper gastrointestinal bleeding, including peptic ulcer disease.  
   * Have you passed black, tarry stools?  

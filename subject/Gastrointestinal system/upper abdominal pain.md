@@ -40,7 +40,7 @@
 	- [[aortic aneurysm]] / [[aortic dissection]]
 	- [[perforated peptic ulcer]]
 	- Mesenteric ischaemia
-	- [[Intestinal obstruction]]
+	- [[bowel obstruction]]
 
 
 - Investigations in UAP

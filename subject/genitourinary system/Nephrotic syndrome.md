@@ -1,0 +1,96 @@
+- nephritic syndrome
+	- medical emergency
+	- urgent diagnosis/treatment essential
+	- features
+		- macroscopic haematuria
+			- tea-coloured urine
+			- cola-coloured urine
+		- severe hypertension
+		- oliguria
+		- progressive renal impairment
+		- abrupt onset
+		- systemic illness
+	- pathophysiology
+		- active immune-mediated glomerular inflammation
+			- cellular immune injury
+			- antigen-antibody injury
+	- disease distribution
+		- isolated renal disease
+		- systemic illness
+	- investigations
+		- serological testing useful
+- rapidly progressive glomerulonephritis
+	- aggressive autoimmune GN
+	- rapidly declining renal function
+	- urgent nephrology referral required
+	- early treatment prevents irreversible kidney loss
+- nephrotic syndrome
+	- triad
+		- heavy proteinuria
+			- >3.5 g/day
+		- hypoalbuminaemia
+		- oedema
+	- pathophysiology
+		- disruption of glomerular filtration barrier
+	- filtration barrier components
+		- glomerular capillary wall
+		- glomerular basement membrane
+		- podocytes
+	- inflammation
+		- minimal
+		- haematuria absent/mild
+	- hypoalbuminaemia
+		- renal albumin loss
+		- impaired hepatic compensation
+		- not corrected by increased protein intake
+	- oedema mechanism
+		- low oncotic pressure
+		- sodium retention
+		- water retention
+		- distal nephron sodium handling defect
+	- complications
+		- hypercoagulability
+			- venous thromboembolism
+			- highest risk if albumin <20 g/L
+		- infection
+			- bacterial infection
+			- cellulitis common
+		- hyperlipidaemia
+			- cholesterol may exceed 10 mmol/L
+		- cardiovascular disease
+			- ~5-fold increased cardiovascular mortality
+- imaging
+	- renal ultrasound
+		- important investigation
+		- non-invasive
+		- avoids nephrotoxic contrast
+		- may detect
+			- renal cell carcinoma
+			- chronic kidney disease changes
+		- findings
+			- small kidneys
+				- longstanding irreversible disease
+			- echogenic cortex
+				- nonspecific
+				- suggests parenchymal disease
+		- cystoscopy may be required
+			- exclude bladder carcinoma
+- renal biopsy
+	- indications
+		- establish diagnosis
+		- guide treatment
+		- provide prognosis
+	- procedure
+		- ultrasound-guided
+		- local anaesthetic
+	- prognostic factor
+		- tubulointerstitial injury predicts prognosis best
+	- not always required
+		- diagnosis may occasionally be clinical
+- nephrology referral indications
+	- rapidly declining renal function
+		- >15% fall in GFR
+	- proteinuria >1 g/day
+	- glomerular haematuria + renal impairment
+	- glomerular haematuria + proteinuria
+	- macroscopic glomerular haematuria

@@ -1,0 +1,32 @@
+- powerful predictor of progressive renal disease
+- low-grade proteinuria important
+	- 1+ dipstick doubles ESKD risk
+- severity correlates with progression risk
+- common causes
+	- diabetic nephropathy
+	- hypertensive nephropathy
+- significant proteinuria
+	- >1 g/day
+	- requires investigation if unexplained
+- confirmation
+	- UPCR
+	- 24-hour urine protein
+- assessment
+	- blood pressure
+	- U&E
+	- GFR
+	- albumin
+	- glucose
+- additional investigations
+	- ANA
+	- dsDNA
+	- C3
+	- C4
+	- ANCA
+	- hepatitis B serology
+	- hepatitis C serology
+	- ASOT
+	- serum protein electrophoresis
+	- urine Bence-Jones protein
+- imaging
+	- renal ultrasound

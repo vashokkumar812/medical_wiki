@@ -31,7 +31,7 @@
 ### 3. Bladder
 - Stones  
 - Clots  
-- [[urology and nephrology cancer]] obstructing both ureteral orifices  
+- [[Bladder cancer]] obstructing both ureteral orifices  
 
 ### 4. Prostate
 - Benign prostatic hyperplasia (BPH)  
@@ -51,7 +51,7 @@
   - Later decreases to 10:1  
 - **Urinalysis**:  
   - Variable — normal (neurogenic bladder)  
-  - Hematuria (stones, [[urology and nephrology cancer]], clots)  
+  - Hematuria (stones, [[Bladder cancer]], clots)  
 - **Imaging**:  
   - Bilateral hydronephrosis on renal ultrasound or non-contrast CT  
   - Should be done early in all AKI  

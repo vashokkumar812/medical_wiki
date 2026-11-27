@@ -1,4 +1,35 @@
- ![[Pasted image 20260306132215.png]]
+
+
+  * Character  
+    * Spinning sensation  
+    * Light-headedness or presyncope  
+    * Unsteadiness while walking  
+  * Onset and duration  
+    * Sudden or gradual  
+    * Seconds, minutes, hours or days  
+    * Continuous or episodic  
+  * Triggers  
+    * Turning the head or rolling over in bed  
+    * Standing up  
+    * Coughing, straining or loud sounds  
+  * Associated symptoms  
+    * Nausea or vomiting  
+    * Hearing loss  
+    * Tinnitus  
+    * Ear fullness  
+    * Headache  
+    * Diplopia, dysarthria or limb weakness  
+    * Difficulty walking  
+  * Diagnostic clues  
+    * Brief positional episodes  
+      * Benign paroxysmal positional vertigo (BPPV)  
+    * Episodic vertigo with fluctuating hearing loss and tinnitus  
+      * Ménière disease  
+    * Acute vertigo with focal neurological deficits  
+      * Consider posterior circulation stroke; emergency assessment.  
+    
+  * 
+  * ![[Pasted image 20260306132215.png]]
 
 ## risk factors
 

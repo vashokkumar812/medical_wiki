@@ -1,0 +1,511 @@
+
+# paediatrics
+
+## Definitions
+- Cough: Protective reflex that clears secretions, foreign material and irritants from the respiratory tract
+- Acute cough: Lasting up to 2 weeks
+- Protracted acute cough: Daily cough lasting 2–4 weeks
+- Chronic cough: Daily cough lasting >4 weeks
+- Specific cough: Cough associated with an identifiable underlying condition
+- Non-specific cough: Chronic cough without an identifiable cause after initial assessment
+## Types and causes
+- Acute cough
+	- Dry
+		- Viral URTI
+		- Asthma
+		- Foreign body inhalation
+		- Smoke, vaping and other irritants
+		- Medication-induced cough
+	- Wet
+		- Viral respiratory infection
+		- Pneumonia
+- Chronic cough
+	- Dry
+		- Asthma
+		- Post-infectious cough
+		- Pertussis
+		- Somatic cough / tic disorder
+		- Congenital airway abnormalities
+			- Tracheomalacia
+			- Bronchomalacia
+			- Vascular ring
+			- Tracheo-oesophageal fistula
+		- Interstitial lung disease
+	- Wet
+		- Protracted bacterial bronchitis (PBB)
+		- Bronchiectasis / chronic suppurative lung disease
+		- Recurrent aspiration
+		- Chronic infection
+			- Tuberculosis
+			- Lung abscess
+		- Foreign body inhalation
+		- Chronic atelectasis
+## Red flags
+- Respiratory
+	- Dyspnoea at rest or on exertion
+	- Hypoxia or cyanosis
+	- Increased work of breathing
+	- Stridor
+	- Haemoptysis
+	- Recurrent pneumonia
+	- Persistent chest pain
+	- Abnormal respiratory examination
+- Systemic
+	- Persistent fever
+	- Weight loss
+	- Faltering growth / failure to thrive
+	- Digital clubbing
+	- Chest wall deformity
+	- Signs of cardiac failure
+- Historical
+	- Sudden onset after choking
+	- Cough during feeding
+	- Recurrent chronic wet cough
+	- Neurodevelopmental abnormality
+	- Immunodeficiency
+	- Significant chronic disease
+- Investigation-related
+	- Abnormal CXR
+	- Abnormal spirometry
+	- Persistent cough despite appropriate treatment
+## History
+- Duration and course
+	- Acute cough ≤2 weeks
+		- Viral URTI
+		- Pneumonia
+		- Asthma exacerbation
+		- Foreign body
+		- Pertussis
+	- Protracted acute cough 2–4 weeks
+		- Post-infectious cough
+		- Pertussis
+		- Resolving viral infection
+	- Chronic cough >4 weeks
+		- Asthma
+		- PBB
+		- Bronchiectasis
+		- Aspiration
+		- Foreign body
+		- TB
+		- Congenital airway abnormality
+	- Distinguish persistent cough from recurrent viral infections
+		- Symptom-free intervals
+		- Recurrent fever
+		- Coryza
+		- Daycare attendance
+- Onset and triggers
+	- Sudden onset without viral prodrome or following choking
+		- Foreign body inhalation
+	- Onset during early infancy
+		- Congenital airway abnormality
+		- Aspiration
+		- Cystic fibrosis
+	- Cough during feeding
+		- Aspiration / swallowing dysfunction
+	- Exercise, cold air, smoke, dust or pets
+		- Asthma / allergic rhinitis
+- Character of cough
+	- Dry
+		- Asthma
+		- Post-infectious cough
+		- Interstitial lung disease
+	- Wet, daily and persistent
+		- PBB
+		- Bronchiectasis
+	- Paroxysmal
+		- Pertussis
+		- Foreign body
+	- Staccato
+		- Chlamydia infection in infants
+	- Barking / seal-like
+		- Croup
+	- Honking / distractible
+		- Tic or somatic cough
+- Timing and frequency
+	- Nocturnal or exercise-related
+		- Asthma
+	- Worse when lying flat
+		- Rhinosinusitis / postnasal drip
+		- GORD if other suggestive symptoms
+	- Worse on waking
+		- PBB
+		- Bronchiectasis
+	- Absent during sleep
+		- Tic / somatic cough disorder
+	- >3 episodes of PBB in 12 months
+		- Consider chronic suppurative lung disease / bronchiectasis
+- Associated symptoms
+	- Fever
+		- Viral infection
+		- Pneumonia
+		- TB
+	- Wheeze
+		- Asthma
+		- Foreign body
+	- Stridor
+		- Croup
+		- Upper airway obstruction
+	- Post-tussive vomiting
+		- Pertussis
+	- Apnoea in infant
+		- Pertussis
+		- Severe respiratory illness
+	- Haemoptysis
+		- TB
+		- Bronchiectasis
+		- Foreign body
+	- Feeding difficulty
+		- Aspiration
+	- Weight loss / growth failure
+		- Chronic infection
+		- Cystic fibrosis
+		- Bronchiectasis
+	- Nasal discharge
+		- URTI
+		- Rhinosinusitis
+- Past medical history
+	- Prematurity
+	- Recurrent pneumonia
+	- Asthma / atopy
+	- Congenital heart disease
+	- Neurodevelopmental disorder
+	- Neuromuscular disease
+	- Dysphagia
+	- Immunodeficiency
+	- Cystic fibrosis
+	- Previous foreign body inhalation
+- Family and social history
+	- Family history of asthma, atopy, CF or chronic lung disease
+	- TB contact
+	- Smoking / vaping exposure
+	- Passive smoke exposure
+	- Daycare attendance
+	- Travel history
+	- Immunisation status
+## Examination
+- General examination
+	- General appearance and activity
+	- Temperature
+	- Respiratory rate
+	- Heart rate
+	- SpO2
+	- Work of breathing
+	- Hydration
+	- Weight and growth chart
+	- Fever and coryza
+		- Viral infection
+	- Toxic appearance
+		- Pneumonia / sepsis
+	- Growth failure
+		- Chronic lung disease
+		- CF
+		- Aspiration
+		- TB
+- Respiratory examination
+	- Wheeze
+		- Asthma
+		- Foreign body
+	- Crackles
+		- Pneumonia
+		- Bronchiectasis
+		- ILD
+	- Focal reduced air entry
+		- Foreign body
+		- Collapse
+		- Consolidation
+	- Stridor
+		- Croup
+		- Upper airway obstruction
+	- Tachypnoea
+		- Pneumonia
+		- Asthma
+		- ILD
+	- Clubbing
+		- Bronchiectasis
+		- CF
+		- Chronic suppurative lung disease
+	- Chest wall deformity
+		- Chronic lung disease
+- ENT examination
+	- Nasal discharge
+	- Nasal obstruction
+	- Postnasal drip
+	- Tonsillar enlargement
+	- Signs of rhinosinusitis
+- Cardiovascular examination
+	- Heart murmur
+	- Hepatomegaly
+	- Peripheral oedema
+	- Signs of cardiac failure
+	- Consider congenital heart disease, cardiac failure and pulmonary hypertension
+- Neurological and feeding assessment
+	- Developmental status
+	- Muscle tone
+	- Swallowing ability
+	- Cough during feeding
+	- Consider aspiration, neuromuscular weakness and bulbar dysfunction
+## Diagnostic approach
+- Step 1: Assess severity
+	- ABC assessment
+	- SpO2
+	- Work of breathing
+	- Hydration and feeding
+	- Identify red flags
+	- If acutely unwell, manage emergency diagnosis
+- Step 2: Determine duration
+	- ≤2 weeks
+		- Usually acute infection
+	- Assess for pneumonia, asthma or foreign body
+	- If well and no red flags, supportive care
+	- 2–4 weeks
+		- Often post-infectious
+		- Reassess if persistent or worsening
+	- >4 weeks
+		- Chronic cough requiring assessment
+		- CXR and spirometry if able
+- Step 3: Determine wet or dry cough
+	- Wet
+		- PBB
+		- Bronchiectasis
+		- Aspiration
+		- Chronic infection
+	- Dry
+		- Asthma
+		- Post-infectious cough
+		- Pertussis
+		- Tic cough
+		- ILD
+- Step 4: Identify specific diagnostic clues
+	- Sudden onset / choking
+		- Foreign body
+	- Exercise / nocturnal symptoms
+		- Asthma
+	- Chronic wet cough, otherwise well
+		- PBB
+	- Recurrent wet cough, clubbing
+		- Bronchiectasis
+	- Feeding-associated cough
+		- Aspiration
+	- Paroxysmal cough, post-tussive vomiting
+		- Pertussis
+	- Honking, distractible, absent during sleep
+		- Tic cough
+- Step 5: Investigate chronic cough
+	- CXR
+	- Spirometry if able
+	- Further investigations according to suspected diagnosis
+- Step 6: Treat specific cause and reassess
+	- Avoid indiscriminate empirical treatment
+	- Assess response to appropriate therapy
+	- Persistent symptoms require diagnostic reassessment
+## Investigations
+- Acute cough
+	- Well child with cough <4 weeks and no red flags
+		- Usually no investigations
+		- No routine CXR
+		- No routine blood tests
+		- No routine antibiotics
+	- Investigate if pneumonia, foreign body, severe illness or specific diagnosis suspected
+- Chronic cough >4 weeks
+	- Initial
+		- CXR
+		- Spirometry if able
+	- Further investigations
+		- FBE
+		- CRP / inflammatory markers
+		- Sputum culture
+		- TB investigations
+		- Serum immunoglobulins
+		- Sweat test
+		- CT chest
+		- Bronchoscopy / BAL
+		- Swallow assessment
+- CXR interpretation
+	- Perihilar thickening
+		- Viral airway disease
+		- PBB
+	- Focal consolidation
+		- Pneumonia
+	- Persistent lobar collapse
+		- Foreign body
+		- Mucus plugging
+	- Hyperinflation
+		- Asthma
+		- Foreign body
+	- Unilateral hyperinflation
+		- Foreign body with ball-valve obstruction
+	- Tram-track / ring shadows
+		- Bronchiectasis
+	- Diffuse interstitial changes
+		- ILD
+	- Hilar lymphadenopathy
+		- TB
+- Normal CXR does not exclude asthma, early bronchiectasis or foreign body inhalation
+## Management
+- Non-specific acute cough
+	- Reassurance
+	- Adequate hydration
+	- Avoid cigarette smoke, vaping and airway irritants
+	- Explain expected duration
+	- Safety-net advice
+	- Reassess if persistent
+- Avoid routine
+	- OTC cough medicines and decongestants
+	- Empirical antibiotics
+	- Empirical corticosteroids
+	- Proton pump inhibitors without indication
+	- Antihistamines without allergic indication
+- Honey
+	- Evidence of benefit is limited
+	- Contraindicated in infants <12 months due to botulism risk
+	- Consider dental caries and aspiration risk
+- Protracted bacterial bronchitis (PBB)
+	- Commonest cause of chronic wet cough in children
+	- Diagnostic features
+		- Chronic wet cough >4 weeks
+		- Child otherwise well
+		- No alternative specific cause evident
+		- CXR generally normal, apart from possible perihilar changes
+		- Resolution with appropriate antibiotics
+	- Treatment
+		- Amoxicillin/clavulanate for 2 weeks
+			- 22.5 mg/kg/dose of amoxicillin component orally twice daily
+			- Maximum 875 mg amoxicillin per dose
+		- Penicillin hypersensitivity
+			- Trimethoprim/sulfamethoxazole 4 mg/kg/dose of trimethoprim component orally twice daily
+			- Maximum 160 mg trimethoprim per dose
+	- If wet cough persists
+		- Continue same antibiotic for another 2 weeks
+		- If persistent after 4 weeks, investigate for bronchiectasis / chronic suppurative lung disease
+		- Refer to paediatric respiratory physician
+- Chronic suppurative lung disease / bronchiectasis
+	- Clinical features
+		- Chronic wet cough
+		- Recurrent pneumonia
+		- Frequent recurrence after antibiotics
+		- Clubbing
+		- Growth failure
+		- Chest wall deformity
+	- Investigations
+		- FBE
+		- Serum IgG, IgA, IgM
+		- CXR
+		- Spirometry
+		- Sweat test
+		- Sputum culture
+		- Consider CT chest, bronchoscopy and BAL
+	- Management
+		- Treat underlying cause
+		- Antibiotics guided by clinical assessment and culture
+		- Airway clearance / physiotherapy
+		- Paediatric respiratory referral
+- Asthma
+	- Clinical features
+		- Recurrent dry cough
+		- Wheeze
+		- Exercise-related symptoms
+		- Nocturnal cough
+		- Triggers: smoke, dust, pets, cold air
+		- Personal or family history of atopy
+	- Investigations
+		- Spirometry with bronchodilator reversibility if able
+	- Management
+		- Follow paediatric asthma guideline
+		- Inhaled corticosteroid-based treatment when indicated
+		- Bronchodilator for acute symptoms
+		- Review inhaler technique, adherence and triggers
+- Retained foreign body
+	- Clinical features
+		- Sudden onset cough
+		- Choking episode
+		- No viral prodrome
+		- Persistent focal wheeze
+		- Unilateral reduced air entry
+		- Recurrent pneumonia in same region
+	- Investigations
+		- CXR
+		- Consider inspiratory / expiratory views
+		- Normal CXR does not exclude foreign body
+	- Management
+		- Urgent assessment if suspected
+		- Bronchoscopy for diagnosis and removal
+		- Do not delay referral because of normal CXR
+- Pertussis
+	- Clinical features
+		- Paroxysmal cough
+		- Whoop
+		- Post-tussive vomiting
+		- Apnoea in infants
+		- Prolonged cough with minimal fever
+	- Investigations
+		- Nasopharyngeal PCR according to illness duration and local guidance
+	- Management
+		- Appropriate macrolide antibiotic
+		- Infection control
+		- Public health notification as required
+		- Assess contacts and immunisation status
+- Interstitial lung disease
+	- Clinical features
+		- Chronic dry cough
+		- Tachypnoea
+		- Hypoxia
+		- Diffuse inspiratory crackles
+		- Growth failure
+	- Management
+		- CXR and targeted investigations
+		- Paediatric respiratory referral
+		- Treatment depends on underlying cause
+- Somatic cough / tic disorder
+	- Clinical features
+		- Honking or repetitive cough
+		- Distractible or suggestible
+		- Absent during sleep
+		- Repetitive throat clearing
+		- No significant abnormality on examination
+	- Management
+		- Education and reassurance
+		- Avoid unnecessary medication
+		- Consider distraction / behavioural therapies
+		- Psychological support if indicated
+- Rhinosinusitis
+	- Clinical features
+		- Persistent nasal discharge
+		- Nasal obstruction
+		- Postnasal drip
+		- Cough worse when lying flat
+	- Management
+		- Treat underlying rhinosinusitis
+		- Refer to relevant guideline if persistent or complicated
+## Referral criteria
+- Paediatric team consultation
+	- Chronic cough requiring further assessment
+	- Suspected specific underlying disease
+	- Red flags
+	- Abnormal examination or investigations
+- Paediatric respiratory physician
+	- Chronic wet cough not responding to 4 weeks of appropriate antibiotics
+	- >3 episodes of PBB per year
+	- Chronic dry cough >6 months despite appropriate treatment
+	- Suspected bronchiectasis / chronic suppurative lung disease
+	- Specific cough or red flags
+## Disposition
+- Discharge when
+	- Child is clinically stable
+	- No significant red flags
+	- Investigations completed or arranged
+	- Follow-up plan established
+	- Parents understand when to return
+- Transfer when
+	- Respiratory support exceeds local capability
+	- Severe respiratory distress or hypoxia
+	- Suspected serious airway obstruction
+	- Paediatric ICU / specialist care required
+## Other important points
+- Young children commonly experience 6–12 respiratory infections per year
+- Most viral coughs resolve within 1–3 weeks
+- Chronic wet cough should not automatically be labelled asthma
+- A normal CXR does not exclude foreign body inhalation
+- Recurrent pneumonia in the same lobe suggests local obstruction or anatomical abnormality
+- Recurrent pneumonia in different lobes may suggest aspiration or immunodeficiency
+- Persistent wet cough with growth failure, clubbing or recurrent pneumonia requires further investigation
+- Always assess duration, character, red flags and associated symptoms before deciding on investigations or treatment

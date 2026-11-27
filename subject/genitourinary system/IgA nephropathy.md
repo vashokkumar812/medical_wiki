@@ -1,0 +1,24 @@
+- commonest primary GN
+- adolescents/adults <50 years
+- presentation
+	- macroscopic haematuria with URTI
+	- hypertension
+	- CKD
+	- indolent microscopic haematuria/proteinuria
+- pathogenesis
+	- abnormal IgA glycosylation suspected
+- poor prognostic factors
+	- proteinuria >1 g/day
+	- renal impairment
+	- hypertension
+	- interstitial scarring
+- treatment
+	- ACE inhibitors
+	- ARBs
+	- BP target
+		- <125/75
+- severe disease
+	- specialist care required
+- additional therapies
+	- corticosteroids
+	- high-dose fish oil

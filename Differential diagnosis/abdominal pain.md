@@ -2,14 +2,14 @@
 	- questions
 		- When did the pain start?
 	- Sudden onset
-		- Perforated peptic ulcer
+		- [[perforated peptic ulcer]]
 		- bowel ischaemia
-		- ruptured abdominal aortic aneurysm
+		- ruptured [[aortic aneurysm]]
 		- other acute abdominal emergencies.
 	- Gradual onset
-		- Appendicitis
-		- cholecystitis
-		- diverticulitis
+		- [[appendicitis]]
+		- [[Cholecystitis]] 
+		- [[diverticulitis]]
 		- other inflammatory conditions.
 - duration
 	- questions
@@ -26,21 +26,21 @@
 	- Epigastric pain localising to the right upper quadrant
 		- Acute cholecystitis or biliary disease
 	- Flank or renal angle pain radiating towards the groin
-		- Renal or ureteric colic
+		- [[renal calculus]]
 	- Generalised abdominal pain
 		- Gastroenteritis
-		- bowel obstruction
+		- [[bowel obstruction]]
 		- peritonitis or bowel ischaemia
 		- depending on associated features
 - Character
 	- questions
 		- How would you describe the pain?
 	- Dull or burning epigastric pain
-		- Peptic ulcer disease
+		- [[peptic ulcer]]
 		- functional dyspepsia.
 	- Severe, steady epigastric pain
-		- Acute pancreatitis
-		- biliary pain.
+		- Acute [[pancreatitis]]
+		- biliary pain
 	- Cramping or colicky pain occurring in waves
 		- Bowel obstruction
 		- ureteric colic.
